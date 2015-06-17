@@ -1,0 +1,23 @@
+{
+    "chapter": 3,
+    "data": [
+        {
+            "id": 1,
+            "kanji": "一",
+            "correctHiragana": "いち",
+            "alternatives": [
+                "いちじ",
+                "いちねんせい"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "一時",
+            "correctHiragana": "いちじ",
+            "alternatives": [
+                "いちねんせい",
+                "いっぷん"
+            ]
+        }
+    ]
+}
