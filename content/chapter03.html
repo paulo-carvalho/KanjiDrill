@@ -87,7 +87,6 @@
         </div>
     </div>
 
-
     <div class="row">
         <div class="large-12 columns">
             <div class="panel">
@@ -113,7 +112,10 @@
     <script src="../js/vendor/jquery.js"></script>
     <script src="../js/foundation.min.js"></script>
     <script>
+        //Enable Foundation
         $(document).foundation();
+
+        //Fetch data from JSON file
         $.getJSON( "../js/json/chapter03.json", function( json ) {
             //Add chapter number at the h1 title
             $("#chapterNumber").append(json.chapter);
@@ -138,13 +140,17 @@
             $("#alternatives03").append(json.data[0].alternatives[1]).addClass("incorrect");
 
             //Action for correct answer
+            var newWidth = $(".meter").width();
+            newWidth += "5%";
+            alert(newWidth);
             $(".correct").click(function() {
-                $(this).addClass("success").removeClass("secondary");
+                $(this).removeClass("secondary").addClass("success");
+                $(".meter").delay(800).width("10%");
             });
 
             //Action for wrong answer
             $(".incorrect").click(function() {
-                $(this).addClass("alert").removeClass("secondary");
+                $(this).removeClass("secondary").addClass("alert");
             });
         });
     </script>
