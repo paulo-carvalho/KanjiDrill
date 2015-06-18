@@ -22,7 +22,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h1>Quiz: Genki 1, Chapter 3</h1>
+            <h1>Quiz: Genki 1, Chapter <span id="chapterNumber"></span></h1>
         </div>
     </div>
 
@@ -31,15 +31,17 @@
             <div class="panel">
                 <h3>Kanji <span id="kanjiNumber">1</span>/20</h3>
 
-                <h1 id="kanjiContent" class="text-center">一</h1>
+                <!-- Where the kanji goes to -->
+                <h1 id="kanjiContent" class="text-center"></h1>
 
                 <p>Which of the following hiragana is correct?</p>
             </div>
         </div>
+        <!-- Hiragana options -->
         <div class="large-3 columns">
-            <a class="button large secondary expand" role="button" href="#">Chapter 03</a>
-            <a class="button large secondary expand" role="button" href="#">Chapter 04</a>
-            <a class="button large secondary expand" role="button" href="#">Chapter 05</a>
+            <a id="alternatives01" class="button large secondary expand" role="button" href="#"></a>
+            <a id="alternatives02" class="button large secondary expand" role="button" href="#"></a>
+            <a id="alternatives03" class="button large secondary expand" role="button" href="#"></a>
         </div>
     </div>
 
@@ -59,35 +61,26 @@
 
     <div class="row">
         <div class="large-12 medium-12 columns">
-            <h3>Choose a chapter to get started:</h3>
+            <h3>Recommended Chapters:</h3>
 
             <div class="row">
-                <div class="large-6 medium-6 small-6 columns">
-                    <h5>Genki 1</h5>
-                    <a class="button large secondary" role="button" href="#">Chapter 03</a>
-                    <a class="button large secondary" role="button" href="#">Chapter 04</a>
-                    <a class="button large secondary" role="button" href="#">Chapter 05</a>
-                    <a class="button large secondary" role="button" href="#">Chapter 06</a>
-                    <a class="button large secondary" role="button" href="#">Chapter 07</a>
-                    <a class="button large secondary" role="button" href="#">Chapter 08</a>
-                    <a class="button large secondary" role="button" href="#">Chapter 09</a>
-                    <a class="button large secondary" role="button" href="#">Chapter 10</a>
-                    <a class="button large secondary" role="button" href="#">Chapter 11</a>
-                    <a class="button large secondary" role="button" href="#">Chapter 12</a>
+                <div class="large-4 medium-4 small-4 columns">
+                    <a id="recommendedChapters01" class="button large expand" role="button" href="#">
+                        <!-- Recommended Chapter, option 1 -->
+                        Chapter
+                    </a>
                 </div>
-                <div class="large-6 medium-6 small-6 columns">
-                    <h5>Genki 2</h5>
-                    <a class="button large success" role="button" href="#">Chapter 13</a>
-                    <a class="button large success" role="button" href="#">Chapter 14</a>
-                    <a class="button large success" role="button" href="#">Chapter 15</a>
-                    <a class="button large success" role="button" href="#">Chapter 16</a>
-                    <a class="button large success" role="button" href="#">Chapter 17</a>
-                    <a class="button large success" role="button" href="#">Chapter 18</a>
-                    <a class="button large success" role="button" href="#">Chapter 19</a>
-                    <a class="button large success" role="button" href="#">Chapter 20</a>
-                    <a class="button large success" role="button" href="#">Chapter 21</a>
-                    <a class="button large success" role="button" href="#">Chapter 22</a>
-                    <a class="button large success" role="button" href="#">Chapter 23</a>
+                <div class="large-4 medium-4 small-4 columns">
+                    <a id="recommendedChapters02" class="button large expand" role="button" href="#">
+                        <!-- Recommended Chapter, option 2 -->
+                        Chapter
+                    </a>
+                </div>
+                <div class="large-4 medium-4 small-4 columns">
+                    <a id="recommendedChapters03" class="button large expand" role="button" href="#">
+                        <!-- Recommended Chapter, option 3 -->
+                        Chapter
+                    </a>
                 </div>
             </div>
 
@@ -111,7 +104,7 @@
                     </div>
                     <div class="large-4 medium-4 columns">
                         <p><a href="http://twitter.com/foundationzurb">About the Developers</a><br />Check previous projects and their experiences.</p>
-                    </div>        
+                    </div>
                 </div>
             </div>
         </div>
@@ -120,7 +113,26 @@
     <script src="../js/vendor/jquery.js"></script>
     <script src="../js/foundation.min.js"></script>
     <script>
-      $(document).foundation();
+        $(document).foundation();
+        $.getJSON( "../js/json/chapter03.json", function( json ) {
+            //Add chapter number at the h1 title
+            $("#chapterNumber").append(json.chapter);
+
+            //Add kanji to question
+            $("#kanjiContent").append(json.data[0].kanji);
+
+            //Add recommended chapters below to question
+            $.each(json.recommendedChapters, function( index, value ) {
+                //remember that indexes start with 0 as value!
+                $("#recommendedChapters0" + (++index)).append(value);
+            });
+
+            //Appending hiragana to each option. If randomize them doesn't work
+            // try to append to div the entire <a> tag button
+            $("#alternatives01").append(json.data[0].correctHiragana);
+            $("#alternatives02").append(json.data[0].alternatives[0]);
+            $("#alternatives03").append(json.data[0].alternatives[1]);            
+        });
     </script>
 </body>
 </html>
