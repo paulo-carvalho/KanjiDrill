@@ -29,7 +29,7 @@
     <div class="row">
         <div class="large-9 columns">
             <div class="panel">
-                <h3>Kanji <span id="kanjiNumber">1</span>/20</h3>
+                <h3>Kanji <span id="kanjiNumber"></span>/20</h3>
 
                 <!-- Where the kanji goes to -->
                 <h1 id="kanjiContent" class="text-center"></h1>
@@ -118,6 +118,10 @@
             //Add chapter number at the h1 title
             $("#chapterNumber").append(json.chapter);
 
+            //Add kanji index number
+            var index = 0;
+            $("#kanjiNumber").append(++index);
+
             //Add kanji to question
             $("#kanjiContent").append(json.data[0].kanji);
 
@@ -127,11 +131,21 @@
                 $("#recommendedChapters0" + (++index)).append(value);
             });
 
-            //Appending hiragana to each option. If randomize them doesn't work
-            // try to append to div the entire <a> tag button
-            $("#alternatives01").append(json.data[0].correctHiragana);
-            $("#alternatives02").append(json.data[0].alternatives[0]);
-            $("#alternatives03").append(json.data[0].alternatives[1]);            
+            //Adding hiragana to each option. If randomize them doesn't work
+            // try to append to <div> the entire <a> tag button
+            $("#alternatives01").append(json.data[0].correctHiragana).addClass("correct");
+            $("#alternatives02").append(json.data[0].alternatives[0]).addClass("incorrect");
+            $("#alternatives03").append(json.data[0].alternatives[1]).addClass("incorrect");
+
+            //Action for correct answer
+            $(".correct").click(function() {
+                $(this).addClass("success").removeClass("secondary");
+            });
+
+            //Action for wrong answer
+            $(".incorrect").click(function() {
+                $(this).addClass("alert").removeClass("secondary");
+            });
         });
     </script>
 </body>
