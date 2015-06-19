@@ -48,7 +48,7 @@
     <div class="row">
         <div class="large-12 columns">
             <div class="progress">
-                <span class="meter" style="width:5%;"></span>
+                <span class="meter" style="width:0%;"></span>
             </div>
         </div>
     </div>
@@ -90,21 +90,7 @@
     <div class="row">
         <div class="large-12 columns">
             <div class="panel">
-                <h3>For Developers</h3>
 
-                <p>The Kanji Drill Project was developed using <a href="http://foundation.zurb.com/" title="Zurb Foundation 5">Foundation 5</a>. For more information, check the Kanji Drill Documentation.</p>
-
-                <div class="row">
-                    <div class="large-4 medium-4 columns">
-                        <p><a href="http://foundation.zurb.com/docs">Kanji Drill Documentation</a><br />Everything you need to know about improving the project.</p>
-                    </div>
-                    <div class="large-4 medium-4 columns">
-                        <p><a href="http://github.com/zurb/foundation">Kanji Drill on Github</a><br />Latest code, issue reports, feature requests and more.</p>
-                    </div>
-                    <div class="large-4 medium-4 columns">
-                        <p><a href="http://twitter.com/foundationzurb">About the Developers</a><br />Check previous projects and their experiences.</p>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
@@ -112,19 +98,22 @@
     <script src="../js/vendor/jquery.js"></script>
     <script src="../js/foundation.min.js"></script>
     <script>
-        var NUMBER_QUESTIONS = 20; 
+        var NUMBER_QUESTIONS = 20,
+            index = 0;
 
         //Enable Foundation
         $(document).foundation();
 
+        var number = 1 + Math.floor(Math.random() * 2);
+
         //Fetch data from JSON file
-        $.getJSON( "../js/json/chapter03.json", function( json ) {
+        $.getJSON( "../js/json/chapter03.json", function( json ) {               
             //Add chapter number at the h1 title
             $("#chapterNumber").append(json.chapter);
 
             //Add kanji index number
-            var index = 0;
             $("#kanjiNumber").append(++index);
+            setProgress(index);
 
             //Add kanji to question
             $("#kanjiContent").append(json.data[0].kanji);
@@ -144,14 +133,35 @@
             //Action for correct answer
             $(".correct").click(function() {
                 $(this).removeClass("secondary").addClass("success");
-                $(".meter").width(((index+1)/NUMBER_QUESTIONS)*100 + "%");
+                setProgress(++index);
             });
 
             //Action for wrong answer
             $(".incorrect").click(function() {
                 $(this).removeClass("secondary").addClass("alert");
+                $(".correct").removeClass("secondary").addClass("success");
+                setProgress(++index);
             });
         });
+
+        function shuffle(indexes) {
+            var j, x;
+
+            for(var i = indexes.length; i; ) {
+                j = parseInt(Math.random() * i);
+                x = indexes[--i];
+                indexes[i] = indexes[j];
+                indexes[j] = x;
+            }
+
+            return indexes;
+        }
+
+        function setProgress(index) {
+            $(".meter").animate({
+                width: (index/NUMBER_QUESTIONS)*100 + "%"
+            }, 1000);
+        }
     </script>
 </body>
 </html>
