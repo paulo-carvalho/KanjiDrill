@@ -113,11 +113,11 @@
             // sort/shuffle/randomize here <---->
             json = jsonResult;
 
-            // initialize questions and alternatives - first time
-            updateQuestion(index);
-
             // initialize page basic structure - once
             initialize(index);
+
+            // initialize questions and alternatives - first time
+            updateQuestion(index);
         });
 
         /*
@@ -204,11 +204,9 @@
                 $("#alternatives01").text(json.data[index-1].correctHiragana);
                 $("#alternatives02").text(json.data[index-1].alternatives[0]);
                 $("#alternatives03").text(json.data[index-1].alternatives[1]);
-
-                // increment as final action
-                index++;
             } else {
-                // Redirect to results.html
+                // redirects to results page
+                window.location.href="gameover.html";
             }
         }
     </script>
