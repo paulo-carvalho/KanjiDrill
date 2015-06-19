@@ -94,26 +94,35 @@
 
     <script src="../js/vendor/jquery.js"></script>
     <script src="../js/foundation.min.js"></script>
-    <script>             
+    <script>
+        // Enable Foundation
+        $(document).foundation();
+
 
         var NUMBER_QUESTIONS = 20,
             index = 1;
 
-        // Enable Foundation
-        $(document).foundation();
-
         // var number = 1 + Math.floor(Math.random() * 2);
 
         // Fetch data from JSON file
-        var jsonFile = "chapter03.json",
-            json = "";
+        var jsonFile = "chapter03.json",// file to fetch data
+            json = "";                  // returned value
         $.getJSON( "../js/json/" + jsonFile, function( jsonResult ) {
-            // sort/shuffle/randomize here
+            // $.ajaxSetup({ cache: false });
+
+            // sort/shuffle/randomize here <---->
             json = jsonResult;
-            // initialize - see main.js
+
+            // initialize questions and alternatives - first time
+            updateQuestion(index);
+
+            // initialize page basic structure - once
             initialize(index);
         });
 
+        /*
+         * Sort questions randomly.
+         */
         function shuffle(indexes) {
             var j, x;
 
@@ -126,24 +135,24 @@
             return indexes;
         }
 
+        /*
+         * updates ("grows") the progress bar regarding the
+         * number of questions.
+         */
         function setProgress(index) {
             $(".meter").animate({
                 width: (index/NUMBER_QUESTIONS)*100 + "%"
             }, 1500);
         }
-        
-        function initialize(index) {
-            // First, set progress bar
-            setProgress(index);
 
+        /*
+         * Updates what depends from json file, but it's
+         * executed only once. Any recall from this function
+         * is unnecessary.
+         */
+        function initialize(index) {
             // Add chapter number at the h1 title
             $("#chapterNumber").text(json.chapter);
-
-            // Add kanji index number
-            $("#kanjiNumber").text(index);
-
-            // Add kanji to question
-            $("#kanjiContent").text(json.data[index-1].kanji);
 
             // Add recommended chapters below to question
             $.each(json.recommendedChapters, function( i, value ) {
@@ -151,35 +160,56 @@
                 $("#recommendedChapters0" + (++i)).text("Chapter " + value);
             });
 
-            // Adding hiragana to each option. If randomize them doesn't work
-            // try to append to <div> the entire <a> tag button
-            $("#alternatives01").text(json.data[index-1].correctHiragana).addClass("correct");
-            $("#alternatives02").text(json.data[index-1].alternatives[0]).addClass("incorrect");
-            $("#alternatives03").text(json.data[index-1].alternatives[1]).addClass("incorrect");
+            $("#alternatives01").addClass("correct");
+            $("#alternatives02").addClass("incorrect");
+            $("#alternatives03").addClass("incorrect");
 
             // Action for correct answer
             $(".correct").click(function() {
+                // Shows that is a correct answer
                 $(this).removeClass("secondary").addClass("success");
-                if(++index <= NUMBER_QUESTIONS) {
-                    $("#kanjiNumber").text(index);
 
-                    // Add kanji to question
-                    $("#kanjiContent").text(json.data[index-1].kanji);
-
-                    // Adding hiragana to each option. If randomize them doesn't work
-                    // try to append to <div> the entire <a> tag button
-                    $("#alternatives01").text(json.data[index-1].correctHiragana).addClass("correct");
-                    $("#alternatives02").text(json.data[index-1].alternatives[0]).addClass("incorrect");
-                    $("#alternatives03").text(json.data[index-1].alternatives[1]).addClass("incorrect");
-                }
+                // "Refresh" page
+                updateQuestion(++index);
             });
 
             // Action for wrong answer
             $(".incorrect").click(function() {
+                // Shows that is an incorrect answer
                 $(this).removeClass("secondary").addClass("alert");
+                // Shows the correct answer
                 $(".correct").removeClass("secondary").addClass("success");
-                //AJAX HERE
+
+                // "Refresh" page
+                updateQuestion(++index);
             });
+        }
+
+        /*
+         * Changes the question/alternatives everytime the user
+         * answers.
+         */
+        function updateQuestion(index) {
+            if(index <= NUMBER_QUESTIONS) {
+                // Set progress bar ("meter" class)
+                setProgress(index);
+
+                $("#kanjiNumber").text(index);
+
+                // Add kanji to question
+                $("#kanjiContent").text(json.data[index-1].kanji);
+
+                // Adding hiragana to each option. If randomize them doesn't work
+                // try to append to <div> the entire <a> tag button
+                $("#alternatives01").text(json.data[index-1].correctHiragana);
+                $("#alternatives02").text(json.data[index-1].alternatives[0]);
+                $("#alternatives03").text(json.data[index-1].alternatives[1]);
+
+                // increment as final action
+                index++;
+            } else {
+                // Redirect to results.html
+            }
         }
     </script>
 </body>
