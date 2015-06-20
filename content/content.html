@@ -92,23 +92,38 @@
         </div>
     </div>
 
+    <!-- Modal to show error message -->
+    <div id="errorMessage" class="reveal-modal" data-reveal aria-labelledby="errorMessageTitle" aria-hidden="true" role="dialog">
+        <h2 id="errorMessageTitle">Oops!</h2>
+        <p>Something went wrong. No chapter was found from your request!</p>
+        <p><a href="../index.html" class="button">Back</a></p>
+        <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+    </div>
+    <!-- End of modal to show error message -->
+
     <script src="../js/vendor/jquery.js"></script>
     <script src="../js/foundation.min.js"></script>
     <script>
         // Enable Foundation
         $(document).foundation();
 
-
+        // Final variables
         var NUMBER_QUESTIONS = 20,
-            index = 1;
+            PARAM_CHAPTER = "chapter";
 
+        // Global variables
+        var index = 1;
         // var number = 1 + Math.floor(Math.random() * 2);
 
+        // Fetch chapter number from URL (necessary)
+        var jsonFile = "../js/json/"; // file to fetch data
+        (function(){
+            jsonFile += "chapter"+ getUrlParameter(PARAM_CHAPTER) +"."+ "json";
+        })(jQuery)
+
         // Fetch data from JSON file
-        var jsonFile = "chapter03.json",// file to fetch data
-            json = "";                  // returned value
-        $.getJSON( "../js/json/" + jsonFile, function( jsonResult ) {
-            // $.ajaxSetup({ cache: false });
+        var json = ""; // returned value from JSON file
+        $.getJSON( jsonFile, function( jsonResult ) {
 
             // sort/shuffle/randomize here <---->
             json = jsonResult;
@@ -118,6 +133,15 @@
 
             // initialize questions and alternatives - first time
             updateQuestion(index);
+        })
+        // if there isn't any file, reveal the error message dialog
+        .fail(function() {
+            $('#errorMessage').foundation('reveal', 'open');
+        });
+
+        // When the dialog is closed, redirect user to main page.
+        $('a.close-reveal-modal').click(function() {
+            window.location.replace("../index.html");
         });
 
         /*
@@ -207,6 +231,19 @@
             } else {
                 // redirects to results page
                 window.location.href="gameover.html";
+            }
+        }
+
+        function getUrlParameter(sParam) {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
             }
         }
     </script>
