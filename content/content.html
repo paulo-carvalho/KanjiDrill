@@ -112,7 +112,8 @@
             PARAM_CHAPTER = "chapter";
 
         // Global variables
-        var index = 1;
+        var index = 1,
+            classButton = "";
         // var number = 1 + Math.floor(Math.random() * 2);
 
         // Fetch chapter number from URL (necessary)
@@ -194,7 +195,7 @@
                 $(this).removeClass("secondary").addClass("success");
 
                 // "Refresh" page
-                updateQuestion(++index);
+                window.setTimeout(updateQuestion, 2000, (++index));
             });
 
             // Action for wrong answer
@@ -204,8 +205,10 @@
                 // Shows the correct answer
                 $(".correct").removeClass("secondary").addClass("success");
 
-                // "Refresh" page
-                updateQuestion(++index);
+                // "Refresh" page. The delay is to show the correct answer to
+                // user.
+                // TODO: add score parameter
+                window.setTimeout(updateQuestion, 2000, (++index));
             });
         }
 
@@ -225,15 +228,18 @@
 
                 // Adding hiragana to each option. If randomize them doesn't work
                 // try to append to <div> the entire <a> tag button
-                $("#alternatives01").text(json.data[index-1].correctHiragana);
-                $("#alternatives02").text(json.data[index-1].alternatives[0]);
-                $("#alternatives03").text(json.data[index-1].alternatives[1]);
+                $("#alternatives01").text(json.data[index-1].correctHiragana).removeClass("alert success").addClass("secondary");
+                $("#alternatives02").text(json.data[index-1].alternatives[0]).removeClass("alert success").addClass("secondary");
+                $("#alternatives03").text(json.data[index-1].alternatives[1]).removeClass("alert success").addClass("secondary");
             } else {
                 // redirects to results page
                 window.location.href="gameover.html";
             }
         }
 
+        /*
+         * Fetch, from URL params, the chapter number.
+         */
         function getUrlParameter(sParam) {
             var sPageURL = window.location.search.substring(1);
             var sURLVariables = sPageURL.split('&');
