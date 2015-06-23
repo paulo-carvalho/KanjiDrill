@@ -22,20 +22,29 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h1>Welcome to Kanji Drill</h1>
+            <h1>Game over!</h1>
         </div>
     </div>
 
     <div class="row">
         <div class="large-12 columns">
             <div class="callout panel">
-                <h3>We hope that Kanji Drill helps you out! </h3>
+                <h3>Check your following results: </h3>
 
-                <p>Kanji Drill was made by Japanese students for Japanese students who are interested in improve their knowledge in kanji reading.</p>
+                <p>You got <span id="finalScore">0</span> out of 20 questions.</p>
 
-                <p>Any feedback related to Kanji Drill must be addressed to: <strong>email@domain.com</strong></p>
+                <p id="failMessage">It's recommended that you should study more and try again later.</p>
 
-                <p><a href="http://www.lehman.edu/academics/arts-humanities/japanese/index.html">Japanese Program Website</a></p>
+                <p id="successMessage">Way to go! Keep challenging yourself trying the next chapter. </p>
+
+                <div class="row">
+                    <div class="large-6 columns">
+                        <a class="button large" role="button" href="../index.html">Go to main page</a>
+                    </div>
+                    <div class="large-6 columns">
+                        <a class="button large right" role="button" href="content/content.html">Try again</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -46,70 +55,15 @@
         </div>
     </div>
 
-    <div class="row">
-        <div class="large-12 medium-12 columns">
-            <h3>Choose a chapter to get started:</h3>
-
-            <div class="row">
-                <div class="large-6 medium-6 small-6 columns">
-                    <h5>Genki 1</h5>
-                    <a class="button large secondary" role="button" href="content/content.html">Chapter 03</a>
-                    <a class="button large secondary" role="button" href="content/chapter04.html">Chapter 04</a>
-                    <a class="button large secondary" role="button" href="content/chapter05.html">Chapter 05</a>
-                    <a class="button large secondary" role="button" href="content/chapter06.html">Chapter 06</a>
-                    <a class="button large secondary" role="button" href="content/chapter07.html">Chapter 07</a>
-                    <a class="button large secondary" role="button" href="content/chapter08.html">Chapter 08</a>
-                    <a class="button large secondary" role="button" href="content/chapter09.html">Chapter 09</a>
-                    <a class="button large secondary" role="button" href="content/chapter10.html">Chapter 10</a>
-                    <a class="button large secondary" role="button" href="content/chapter11.html">Chapter 11</a>
-                    <a class="button large secondary" role="button" href="content/chapter12.html">Chapter 12</a>
-                </div>
-                <div class="large-6 medium-6 small-6 columns">
-                    <h5>Genki 2</h5>
-                    <a class="button large success" role="button" href="#">Chapter 13</a>
-                    <a class="button large success" role="button" href="#">Chapter 14</a>
-                    <a class="button large success" role="button" href="#">Chapter 15</a>
-                    <a class="button large success" role="button" href="#">Chapter 16</a>
-                    <a class="button large success" role="button" href="#">Chapter 17</a>
-                    <a class="button large success" role="button" href="#">Chapter 18</a>
-                    <a class="button large success" role="button" href="#">Chapter 19</a>
-                    <a class="button large success" role="button" href="#">Chapter 20</a>
-                    <a class="button large success" role="button" href="#">Chapter 21</a>
-                    <a class="button large success" role="button" href="#">Chapter 22</a>
-                    <a class="button large success" role="button" href="#">Chapter 23</a>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-    <div class="row">
-        <div class="large-12 columns">
-            <div class="panel">
-                <h3>For Developers</h3>
-
-                <p>The Kanji Drill Project was developed using <a href="http://foundation.zurb.com/" title="Zurb Foundation 5">Foundation 5</a>. For more information, check the Kanji Drill Documentation.</p>
-
-                <div class="row">
-                    <div class="large-4 medium-4 columns">
-                        <p><a href="http://foundation.zurb.com/docs">Kanji Drill Documentation</a><br />Everything you need to know about improving the project.</p>
-                    </div>
-                    <div class="large-4 medium-4 columns">
-                        <p><a href="http://github.com/zurb/foundation">Kanji Drill on Github</a><br />Latest code, issue reports, feature requests and more.</p>
-                    </div>
-                    <div class="large-4 medium-4 columns">
-                        <p><a href="http://twitter.com/foundationzurb">About the Developers</a><br />Check previous projects and their experiences.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <script src="../js/vendor/jquery.js"></script>
     <script src="../js/foundation.min.js"></script>
     <script>
-      $(document).foundation();
+    $(document).foundation().ready(function() {
+        fetchData = true;
+        chapter = 3;
+        paramChapter = 3;
+        $.getScript( "js/content.js");
+    });
     </script>
 </body>
 </html>

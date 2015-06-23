@@ -35,8 +35,11 @@
                 <h1 id="kanjiContent" class="text-center"></h1>
 
                 <p>Which of the following hiragana is correct?</p>
+
+                <p class="text-center" id="feedbackAnswer"></p>
             </div>
         </div>
+
         <!-- Hiragana options -->
         <div class="large-3 columns">
             <a id="alternatives01" class="button large secondary expand" role="button" href="#"></a>
@@ -103,6 +106,7 @@
 
     <script src="../js/vendor/jquery.js"></script>
     <script src="../js/foundation.min.js"></script>
+    <script src="../js/content.js"></script>
     <script>
         // Enable Foundation
         $(document).foundation();
@@ -119,6 +123,9 @@
         // Fetch chapter number from URL (necessary)
         var jsonFile = "../js/json/"; // file to fetch data
         (function(){
+
+        $.getScript("../js/content.js");
+        alert(getChapter());
             jsonFile += "chapter"+ getUrlParameter(PARAM_CHAPTER) +"."+ "json";
         })(jQuery)
 
@@ -167,7 +174,7 @@
         function setProgress(index) {
             $(".meter").animate({
                 width: (index/NUMBER_QUESTIONS)*100 + "%"
-            }, 1500);
+            }, 500);
         }
 
         /*
@@ -194,6 +201,8 @@
                 // Shows that is a correct answer
                 $(this).removeClass("secondary").addClass("success");
 
+                $("#feedbackAnswer").text("Correct!").fadeOut(50).fadeIn(1000).fadeOut(1000);
+
                 // "Refresh" page
                 window.setTimeout(updateQuestion, 2000, (++index));
             });
@@ -204,6 +213,8 @@
                 $(this).removeClass("secondary").addClass("alert");
                 // Shows the correct answer
                 $(".correct").removeClass("secondary").addClass("success");
+
+                $("#feedbackAnswer").text("Inorrect!").fadeOut(50).fadeIn(1000).fadeOut(1000);
 
                 // "Refresh" page. The delay is to show the correct answer to
                 // user.
