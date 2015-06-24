@@ -1,0 +1,572 @@
+{
+    "chapter": 6,
+    "data": [
+        {
+            "id": 1,
+            "kanji": "東",
+            "correctHiragana": "ひがし",
+            "alternatives": [
+                "みなみ",
+                "にし"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "東口",
+            "correctHiragana": "ひがしぐち",
+            "alternatives": [
+                "みなみくち",
+                "ひかしくち"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "東京",
+            "correctHiragana": "とうきょう",
+            "alternatives": [
+                "とおきょ",
+                "とっきょう"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "関東",
+            "correctHiragana": "かんとう",
+            "alternatives": [
+                "きんどう",
+                "まんどう"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "東洋",
+            "correctHiragana": "とうよう",
+            "alternatives": [
+                "どうかい",
+                "ひがゆう"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "西",
+            "correctHiragana": "にし",
+            "alternatives": [
+                "みなみ",
+                "ひがし"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "西口",
+            "correctHiragana": "にしぐち",
+            "alternatives": [
+                "ひがしくち",
+                "にっしくち"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "北西",
+            "correctHiragana": "ほくせい",
+            "alternatives": [
+                "せいにし",
+                "はんにし"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "関西",
+            "correctHiragana": "かんさい",
+            "alternatives": [
+                "だんせい",
+                "こくざい"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "西洋",
+            "correctHiragana": "せいよう",
+            "alternatives": [
+                "にしなと",
+                "にしはん"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "南",
+            "correctHiragana": "みなみ",
+            "alternatives": [
+                "ひがし",
+                "にし"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "南口",
+            "correctHiragana": "みなみぐち",
+            "alternatives": [
+                "ひがしぐち",
+                "みなみくち"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "南東",
+            "correctHiragana": "なんとう",
+            "alternatives": [
+                "みなみどう",
+                "かんとう"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "南極",
+            "correctHiragana": "なんきょく",
+            "alternatives": [
+                "みなみどう",
+                "なんびょく"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "東南アジア",
+            "correctHiragana": "とうなんアジア",
+            "alternatives": [
+                "どうなみアジア",
+                "ひがしみなみアジア"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "北",
+            "correctHiragana": "きた",
+            "alternatives": [
+                "みなみ",
+                "にし"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "北口",
+            "correctHiragana": "きたぐち",
+            "alternatives": [
+                "にしぐち",
+                "みなみくち"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "東北",
+            "correctHiragana": "とうほく",
+            "alternatives": [
+                "ひがしきた",
+                "とうぼく"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "北極",
+            "correctHiragana": "ほっきょく",
+            "alternatives": [
+                "きたどう",
+                "ほっしゅう"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "北海道",
+            "correctHiragana": "ほっかいどう",
+            "alternatives": [
+                "きとうみかい",
+                "せいかいど"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "北極",
+            "correctHiragana": "ほっきょく",
+            "alternatives": [
+                "きたどう",
+                "ほっしゅう"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "口",
+            "correctHiragana": "くち",
+            "alternatives": [
+                "こじ",
+                "かり"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "人口",
+            "correctHiragana": "じんこう",
+            "alternatives": [
+                "ひとぐち",
+                "じんくち"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "入り口／入口",
+            "correctHiragana": "いりぐち",
+            "alternatives": [
+                "ひりこう",
+                "いっりくち"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "出る",
+            "correctHiragana": "でる",
+            "alternatives": [
+                "だる",
+                "はいる"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "出口",
+            "correctHiragana": "でぐち",
+            "alternatives": [
+                "はいりぐち",
+                "てこう"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "出す",
+            "correctHiragana": "だす",
+            "alternatives": [
+                "です",
+                "ゆす"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "出席",
+            "correctHiragana": "しゅっせき",
+            "alternatives": [
+                "でっせき",
+                "だせぎ"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "輸出",
+            "correctHiragana": "ゆしゅつ",
+            "alternatives": [
+                "ちです",
+                "よしゅうつ"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "右",
+            "correctHiragana": "みぎ",
+            "alternatives": [
+                "ひだり",
+                "あし"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "右折",
+            "correctHiragana": "うせつ",
+            "alternatives": [
+                "みぎさる",
+                "させつ"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "左右",
+            "correctHiragana": "さゆう",
+            "alternatives": [
+                "みぎひだり",
+                "させつ"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "右手",
+            "correctHiragana": "みぎて",
+            "alternatives": [
+                "ひだりて",
+                "さゆて"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "右側",
+            "correctHiragana": "みぎがわ",
+            "alternatives": [
+                "ひだりかわ",
+                "みぎとう"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "左",
+            "correctHiragana": "ひだり",
+            "alternatives": [
+                "みぎ",
+                "さゆて"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "左折",
+            "correctHiragana": "させつ",
+            "alternatives": [
+                "ちです",
+                "よしゅうつ"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "左手",
+            "correctHiragana": "ひだりて",
+            "alternatives": [
+                "みぎて",
+                "させで"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "左利き",
+            "correctHiragana": "ひだりきき",
+            "alternatives": [
+                "みぎかき",
+                "させぎき"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "先生",
+            "correctHiragana": "せんせい",
+            "alternatives": [
+                "せいせん",
+                "せいせい"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "先週",
+            "correctHiragana": "せんしゅう",
+            "alternatives": [
+                "せいしゅ",
+                "せんしゅ"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "先に",
+            "correctHiragana": "さきに",
+            "alternatives": [
+                "せんに",
+                "せいに"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "先月",
+            "correctHiragana": "せんげつ",
+            "alternatives": [
+                "せいげつ",
+                "せんがつ"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "先輩",
+            "correctHiragana": "せんぱい",
+            "alternatives": [
+                "せいかい",
+                "ぜんばい"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "学生",
+            "correctHiragana": "がくせい",
+            "alternatives": [
+                "がっくせい",
+                "がくせん"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "生まれる",
+            "correctHiragana": "うまれる",
+            "alternatives": [
+                "いまれる",
+                "せいまれる"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "一生に一度",
+            "correctHiragana": "いっしょうにいちど",
+            "alternatives": [
+                "いちせいにいちど",
+                "いっせんにいっど"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "大学生",
+            "correctHiragana": "だいがくせい",
+            "alternatives": [
+                "おおがっくせい",
+                "たいかくせい"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "大きい",
+            "correctHiragana": "おおきい",
+            "alternatives": [
+                "だいきい",
+                "おっきい"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "大変な",
+            "correctHiragana": "たいへんな",
+            "alternatives": [
+                "おおぜんな",
+                "だいかいな"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "大人",
+            "correctHiragana": "おとな",
+            "alternatives": [
+                "たいじん",
+                "おおひと"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "大使館",
+            "correctHiragana": "たいしかん",
+            "alternatives": [
+                "おおはくかん",
+                "だいじっかん"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "大学",
+            "correctHiragana": "だいがく",
+            "alternatives": [
+                "おおがく",
+                "たいがっく"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "学校",
+            "correctHiragana": "がっこう",
+            "alternatives": [
+                "がこう",
+                "がっこ"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "学ぶ",
+            "correctHiragana": "まなぶ",
+            "alternatives": [
+                "がっぶ",
+                "がくぶ"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "学部",
+            "correctHiragana": "がくぶ",
+            "alternatives": [
+                "かくや",
+                "がっくす"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "外国",
+            "correctHiragana": "がいこく",
+            "alternatives": [
+                "たいくに",
+                "そとくに"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "外国人",
+            "correctHiragana": "がいこくじん",
+            "alternatives": [
+                "おおはくかん",
+                "だいじっかん"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "外",
+            "correctHiragana": "そと",
+            "alternatives": [
+                "たと",
+                "がい"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "海外",
+            "correctHiragana": "かいがい",
+            "alternatives": [
+                "うみそと",
+                "うみがい"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "中国",
+            "correctHiragana": "ちゅうごく",
+            "alternatives": [
+                "なかくに",
+                "ちゅごく"
+            ]
+        },
+        {
+            "id": 61,
+            "kanji": "国",
+            "correctHiragana": "くに",
+            "alternatives": [
+                "ごく",
+                "がい"
+            ]
+        },
+        {
+            "id": 62,
+            "kanji": "韓国",
+            "correctHiragana": "かんこく",
+            "alternatives": [
+                "けいこく",
+                "ばんごく"
+            ]
+        },
+        {
+            "id": 63,
+            "kanji": "国会",
+            "correctHiragana": "こっかい",
+            "alternatives": [
+                "うみそと",
+                "うみがい"
+            ]
+        }
+　   ]
+}
