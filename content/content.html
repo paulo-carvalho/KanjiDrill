@@ -22,13 +22,13 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h1>Quiz: Genki 1, Chapter <span id="chapterNumber"></span></h1>
+            <h1 id="h1-title">Quiz: Genki 1, Chapter <span id="chapterNumber"></span></h1>
         </div>
     </div>
 
-    <div class="row">
+    <div class="row game-content">
         <div class="large-9 columns">
-            <div class="panel">
+            <div id="first-container" class="panel">
                 <h3>Kanji <span id="kanjiNumber"></span>/20</h3>
 
                 <!-- Where the kanji goes to -->
@@ -48,7 +48,30 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row hide game-over">
+        <div class="large-12 columns">
+            <div class="callout panel">
+                <h3>Check your following results: </h3>
+
+                <p>You got <span id="game-score">0</span> out of 20 questions.</p>
+
+                <p id="failMessage">It's recommended that you should study more and try again later.</p>
+
+                <p id="successMessage">Way to go! Keep challenging yourself trying the next chapter. </p>
+
+                <div class="row">
+                    <div class="large-6 columns">
+                        <a class="button large" role="button" href="../index.html">Go to main page</a>
+                    </div>
+                    <div class="large-6 columns">
+                        <a class="button large right" role="button" href="content/content.html">Try again</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row game-content">
         <div class="large-12 columns">
             <div class="progress">
                 <span class="meter" style="width:0%;"></span>
@@ -117,16 +140,13 @@
 
         // Global variables
         var index = 1,
-            classButton = "";
+            score = 0;
         // var number = 1 + Math.floor(Math.random() * 2);
 
         // Fetch chapter number from URL (necessary)
         var jsonFile = "../js/json/"; // file to fetch data
         (function(){
-
-        $.getScript("../js/content.js");
-        alert(getChapter());
-            jsonFile += "chapter"+ getUrlParameter(PARAM_CHAPTER) +"."+ "json";
+            jsonFile += "chapter"+ getUrlParameter(PARAM_CHAPTER) +".json";
         })(jQuery)
 
         // Fetch data from JSON file
@@ -198,6 +218,9 @@
 
             // Action for correct answer
             $(".correct").click(function() {
+                // User scores
+                score++;
+
                 // Shows that is a correct answer
                 $(this).removeClass("secondary").addClass("success");
 
@@ -243,8 +266,7 @@
                 $("#alternatives02").text(json.data[index-1].alternatives[0]).removeClass("alert success").addClass("secondary");
                 $("#alternatives03").text(json.data[index-1].alternatives[1]).removeClass("alert success").addClass("secondary");
             } else {
-                // redirects to results page
-                window.location.href="gameover.html";
+                gameOver();
             }
         }
 
@@ -262,6 +284,18 @@
                     return sParameterName[1];
                 }
             }
+        }
+
+        function gameOver() {
+            // Declare game over
+            $("#h1-title").text("Game over!");
+
+            // Show final score
+            $("#game-score").text(score);
+
+            // Update page
+            $(".game-content").addClass("hide");
+            $(".game-over").fadeIn(1000);
         }
     </script>
 </body>
