@@ -46,6 +46,7 @@
             <a id="alternatives02" class="button large secondary expand" role="button" href="#"></a>
             <a id="alternatives03" class="button large secondary expand" role="button" href="#"></a>
 
+            <!-- Container to avoid "double click" bugs -->
             <div class="overlay hide"></div>
         </div>
 
@@ -145,8 +146,9 @@
         var index = 1,
             score = 0;
 
-        // array of indexes of kanji
-        var numbers;
+        // arrays of indexes of kanji and alternatives
+        var numbers,
+            alternatives;
 
         // Fetch chapter number from URL (necessary)
         var jsonFile = "../js/json/"; // file to fetch data
@@ -222,43 +224,6 @@
                 //remember that indexes start with 0 as value!
                 $("#recommendedChapters0" + (++i)).text("Chapter " + value);
             });
-
-            $("#alternatives01").addClass("correct");
-            $("#alternatives02").addClass("incorrect");
-            $("#alternatives03").addClass("incorrect");
-
-            // Action for correct answer
-            $(".correct").click(function() {
-                // User scores
-                score++;
-
-                // Overlays a transparent container to not allow "answer twice" bug
-                $(".overlay").removeClass("hide");
-
-                // Shows that is a correct answer
-                $(this).removeClass("secondary").addClass("success");
-
-                $("#feedbackAnswer").text("Correct!").fadeOut(50).fadeIn(1000).fadeOut(1000);
-
-                // "Refresh" page
-                window.setTimeout(updateQuestion, 2000, (++index));
-            });
-
-            // Action for wrong answer
-            $(".incorrect").click(function() {
-                // Overlays a transparent container to not allow "answer twice" bug
-                $(".overlay").removeClass("hide");
-
-                // Shows that is an incorrect answer
-                $(this).removeClass("secondary").addClass("alert");
-                // Shows the correct answer
-                $(".correct").removeClass("secondary").addClass("success");
-
-                $("#feedbackAnswer").text("Inorrect!").fadeOut(50).fadeIn(1000).fadeOut(1000);
-
-                // "Refresh" page. The delay is to show the correct answer to user.
-                window.setTimeout(updateQuestion, 2000, (++index));
-            });
         }
 
         /*
@@ -271,6 +236,19 @@
                 // Set progress bar ("meter" class)
                 setProgress(index);
 
+                // Random alternatives
+                alternatives = shuffle(new Array(1, 2, 3), 3, 0);
+
+                $("#alternatives0" + alternatives[0])
+                    .removeClass("correct incorrect")
+                    .addClass("correct");
+                $("#alternatives0" + alternatives[1])
+                    .removeClass("correct incorrect")
+                    .addClass("incorrect");
+                $("#alternatives0" + alternatives[2])
+                    .removeClass("correct incorrect")
+                    .addClass("incorrect");
+
                 // Overlays a transparent container to not allow "answer twice" bug
                 $(".overlay").addClass("hide");
 
@@ -282,9 +260,51 @@
 
                 // Adding hiragana to each option. If randomize them doesn't work
                 // try to append to <div> the entire <a> tag button
-                $("#alternatives01").text(json.data[numbers[index-1]].correctHiragana).removeClass("alert success").addClass("secondary");
-                $("#alternatives02").text(json.data[numbers[index-1]].alternatives[0]).removeClass("alert success").addClass("secondary");
-                $("#alternatives03").text(json.data[numbers[index-1]].alternatives[1]).removeClass("alert success").addClass("secondary");
+                $("#alternatives0" + alternatives[0])
+                    .text(json.data[numbers[index-1]].correctHiragana)
+                    .removeClass("alert success")
+                    .addClass("secondary");
+                $("#alternatives0" + alternatives[1])
+                    .text(json.data[numbers[index-1]].alternatives[0])
+                    .removeClass("alert success")
+                    .addClass("secondary");
+                $("#alternatives0" + alternatives[2])
+                    .text(json.data[numbers[index-1]].alternatives[1])
+                    .removeClass("alert success")
+                    .addClass("secondary");
+
+                // Action for correct answer
+                $(".correct").click(function() {
+                    // User scores
+                    score++;
+
+                    // Overlays a transparent container to not allow "answer twice" bug
+                    $(".overlay").removeClass("hide");
+
+                    // Shows that is a correct answer
+                    $(this).removeClass("secondary").addClass("success");
+
+                    $("#feedbackAnswer").text("Correct!").fadeOut(50).fadeIn(1000).fadeOut(1000);
+
+                    // "Refresh" page
+                    window.setTimeout(updateQuestion, 2000, (++index));
+                });
+
+                // Action for wrong answer
+                $(".incorrect").click(function() {
+                    // Overlays a transparent container to not allow "answer twice" bug
+                    $(".overlay").removeClass("hide");
+
+                    // Shows that is an incorrect answer
+                    $(this).removeClass("secondary").addClass("alert");
+                    // Shows the correct answer
+                    $(".correct").removeClass("secondary").addClass("success");
+
+                    $("#feedbackAnswer").text("Inorrect!").fadeOut(50).fadeIn(1000).fadeOut(1000);
+
+                    // "Refresh" page. The delay is to show the correct answer to user.
+                    window.setTimeout(updateQuestion, 2000, (++index));
+                });
             } else {
                 gameOver();
             }
