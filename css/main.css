@@ -1,3 +1,14 @@
+/* CSS3 pseudo-element */
 ::selection {
 	background: #ffbad2;
+}
+
+/* CSS score (0, 0, 2, 0) */
+.large-3 .overlay {
+	position: absolute;
+	opacity: 0;
+	top: 0px;
+	height: 100%;
+	width: 100%;
+	z-index: 2;
 }

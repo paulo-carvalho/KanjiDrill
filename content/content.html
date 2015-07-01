@@ -45,7 +45,10 @@
             <a id="alternatives01" class="button large secondary expand" role="button" href="#"></a>
             <a id="alternatives02" class="button large secondary expand" role="button" href="#"></a>
             <a id="alternatives03" class="button large secondary expand" role="button" href="#"></a>
+
+            <div class="overlay hide"></div>
         </div>
+
     </div>
 
     <div class="row hide game-over">
@@ -141,7 +144,9 @@
         // Global variables
         var index = 1,
             score = 0;
-        // var number = 1 + Math.floor(Math.random() * 2);
+
+        // array of indexes of kanji
+        var numbers;
 
         // Fetch chapter number from URL (necessary)
         var jsonFile = "../js/json/"; // file to fetch data
@@ -153,8 +158,11 @@
         var json = ""; // returned value from JSON file
         $.getJSON( jsonFile, function( jsonResult ) {
 
-            // sort/shuffle/randomize here <---->
             json = jsonResult;
+
+            // Populate array with chapter index and randomize them
+            numbers = populateArray(json.data.length);
+            numbers = shuffle(numbers);
 
             // initialize page basic structure - once
             initialize(index);
@@ -178,13 +186,16 @@
         function shuffle(indexes) {
             var j, x;
 
-            for(var i = indexes.length; i; ) {
+            // Fisher-Yates method of sort randomly
+            for(var i = indexes.length; i > indexes.length - NUMBER_QUESTIONS; ) {
                 j = parseInt(Math.random() * i);
                 x = indexes[--i];
                 indexes[i] = indexes[j];
                 indexes[j] = x;
             }
-            return indexes;
+
+            // returns the subarray with NUMBER_QUESTIONS size
+            return indexes.slice(indexes.length - NUMBER_QUESTIONS);
         }
 
         /*
@@ -221,6 +232,9 @@
                 // User scores
                 score++;
 
+                // Overlays a transparent container to not allow "answer twice" bug
+                $(".overlay").removeClass("hide");
+
                 // Shows that is a correct answer
                 $(this).removeClass("secondary").addClass("success");
 
@@ -232,6 +246,9 @@
 
             // Action for wrong answer
             $(".incorrect").click(function() {
+                // Overlays a transparent container to not allow "answer twice" bug
+                $(".overlay").removeClass("hide");
+
                 // Shows that is an incorrect answer
                 $(this).removeClass("secondary").addClass("alert");
                 // Shows the correct answer
@@ -239,9 +256,7 @@
 
                 $("#feedbackAnswer").text("Inorrect!").fadeOut(50).fadeIn(1000).fadeOut(1000);
 
-                // "Refresh" page. The delay is to show the correct answer to
-                // user.
-                // TODO: add score parameter
+                // "Refresh" page. The delay is to show the correct answer to user.
                 window.setTimeout(updateQuestion, 2000, (++index));
             });
         }
@@ -255,6 +270,10 @@
                 // Set progress bar ("meter" class)
                 setProgress(index);
 
+                // Overlays a transparent container to not allow "answer twice" bug
+                $(".overlay").addClass("hide");
+
+                // index/20
                 $("#kanjiNumber").text(index);
 
                 // Add kanji to question
@@ -276,11 +295,9 @@
         function getUrlParameter(sParam) {
             var sPageURL = window.location.search.substring(1);
             var sURLVariables = sPageURL.split('&');
-            for (var i = 0; i < sURLVariables.length; i++)
-            {
+            for (var i = 0; i < sURLVariables.length; i++) {
                 var sParameterName = sURLVariables[i].split('=');
-                if (sParameterName[0] == sParam)
-                {
+                if (sParameterName[0] == sParam) {
                     return sParameterName[1];
                 }
             }
@@ -296,6 +313,15 @@
             // Update page
             $(".game-content").addClass("hide");
             $(".game-over").fadeIn(1000);
+        }
+
+        function populateArray(length) {
+            var aux = new Array();
+            for(var i=0; i<length; i++) {
+                aux[i] = i;
+            }
+
+            return aux;
         }
     </script>
 </body>

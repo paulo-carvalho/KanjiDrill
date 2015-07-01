@@ -1,5 +1,8 @@
 {
     "chapter": 6,
+    "recommendedChapters": [
+        "07", "08", "09"
+    ],
     "data": [
         {
             "id": 1,
