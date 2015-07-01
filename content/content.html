@@ -58,16 +58,16 @@
 
                 <p>You got <span id="game-score">0</span> out of 20 questions.</p>
 
-                <p id="failMessage">It's recommended that you should study more and try again later.</p>
+                <p id="failMessage" class="hide">It's recommended that you should study more and try again later.</p>
 
-                <p id="successMessage">Way to go! Keep challenging yourself trying the next chapter. </p>
+                <p id="successMessage" class="hide">Way to go! Keep challenging yourself trying the next chapter. </p>
 
                 <div class="row">
                     <div class="large-6 columns">
-                        <a class="button large" role="button" href="../index.html">Go to main page</a>
+                        <a class="button expand" role="button" href="../index.html">Go to main page</a>
                     </div>
                     <div class="large-6 columns">
-                        <a class="button large right" role="button" href="content/content.html">Try again</a>
+                        <a class="button expand" role="button" href="content/content.html">Try again</a>
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@
 
             // Populate array with chapter index and randomize them
             numbers = populateArray(json.data.length);
-            numbers = shuffle(numbers);
+            numbers = shuffle(numbers, numbers.length, numbers.length - NUMBER_QUESTIONS);
 
             // initialize page basic structure - once
             initialize(index);
@@ -183,11 +183,11 @@
         /*
          * Sort questions randomly.
          */
-        function shuffle(indexes) {
+        function shuffle(indexes, iStart, iEnd) {
             var j, x;
 
             // Fisher-Yates method of sort randomly
-            for(var i = indexes.length; i > indexes.length - NUMBER_QUESTIONS; ) {
+            for(var i = iStart; i > iEnd; ) {
                 j = parseInt(Math.random() * i);
                 x = indexes[--i];
                 indexes[i] = indexes[j];
@@ -266,6 +266,7 @@
          * answers.
          */
         function updateQuestion(index) {
+            // The increment is in setTimeout function of buttons click event.
             if(index <= NUMBER_QUESTIONS) {
                 // Set progress bar ("meter" class)
                 setProgress(index);
@@ -277,13 +278,13 @@
                 $("#kanjiNumber").text(index);
 
                 // Add kanji to question
-                $("#kanjiContent").text(json.data[index-1].kanji);
+                $("#kanjiContent").text(json.data[numbers[index-1]].kanji);
 
                 // Adding hiragana to each option. If randomize them doesn't work
                 // try to append to <div> the entire <a> tag button
-                $("#alternatives01").text(json.data[index-1].correctHiragana).removeClass("alert success").addClass("secondary");
-                $("#alternatives02").text(json.data[index-1].alternatives[0]).removeClass("alert success").addClass("secondary");
-                $("#alternatives03").text(json.data[index-1].alternatives[1]).removeClass("alert success").addClass("secondary");
+                $("#alternatives01").text(json.data[numbers[index-1]].correctHiragana).removeClass("alert success").addClass("secondary");
+                $("#alternatives02").text(json.data[numbers[index-1]].alternatives[0]).removeClass("alert success").addClass("secondary");
+                $("#alternatives03").text(json.data[numbers[index-1]].alternatives[1]).removeClass("alert success").addClass("secondary");
             } else {
                 gameOver();
             }
@@ -309,6 +310,12 @@
 
             // Show final score
             $("#game-score").text(score);
+
+            if(score < (0.7 * NUMBER_QUESTIONS)) {
+                $("#failMessage").removeClass("hide");
+            } else {
+                $("#successMessage").removeClass("hide");
+            }
 
             // Update page
             $(".game-content").addClass("hide");
