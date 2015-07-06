@@ -205,7 +205,7 @@
          * number of questions.
          */
         function setProgress(index) {
-            $(".meter").animate({
+            $(".meter").stop(false, false).animate({
                 width: (index/NUMBER_QUESTIONS)*100 + "%"
             }, 500);
         }
@@ -284,9 +284,9 @@
                     // Shows that is a correct answer
                     $(this).removeClass("secondary").addClass("success");
 
-                    $("#feedbackAnswer").text("Correct!").fadeOut(50).fadeIn(1000).fadeOut(1000);
+                    $("#feedbackAnswer").text("Correct!").stop(true, true).fadeOut(50).fadeIn(1000).fadeOut(1000);
 
-                    // "Refresh" page
+                    // "Refresh" page. The delay is to show the correct answer to user.
                     window.setTimeout(updateQuestion, 2000, (++index));
                 });
 
@@ -300,7 +300,7 @@
                     // Shows the correct answer
                     $(".correct").removeClass("secondary").addClass("success");
 
-                    $("#feedbackAnswer").text("Inorrect!").fadeOut(50).fadeIn(1000).fadeOut(1000);
+                    $("#feedbackAnswer").text("Inorrect!").stop(true, true).fadeOut(50).fadeIn(1000).fadeOut(1000);
 
                     // "Refresh" page. The delay is to show the correct answer to user.
                     window.setTimeout(updateQuestion, 2000, (++index));
