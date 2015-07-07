@@ -22,7 +22,7 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h1 id="h1-title">Quiz: Genki 1, Chapter <span id="chapterNumber"></span></h1>
+            <h1 id="h1-title">Quiz: Genki <span id="genkiNumber"></span>, Chapter <span id="chapterNumber"></span></h1>
         </div>
     </div>
 
@@ -180,6 +180,7 @@
         // When the dialog is closed, redirect user to main page.
         $('a.close-reveal-modal').click(function() {
             window.location.replace("../index.html");
+            return false;
         });
 
         /*
@@ -216,6 +217,9 @@
          * is unnecessary.
          */
         function initialize(index) {
+            // Add Genki book number at the title
+            $("#genkiNumber").text(json.genkiBook);
+
             // Add chapter number at the h1 title
             $("#chapterNumber").text(json.chapter);
 
@@ -260,15 +264,27 @@
 
                 // Adding hiragana to each option. If randomize them doesn't work
                 // try to append to <div> the entire <a> tag button
+
+                // First option
                 $("#alternatives0" + alternatives[0])
+                    .off()
+                    .stop(true, true)
                     .text(json.data[numbers[index-1]].correctHiragana)
                     .removeClass("alert success")
                     .addClass("secondary");
+
+                // Second option
                 $("#alternatives0" + alternatives[1])
+                    .off()
+                    .stop(true, true)
                     .text(json.data[numbers[index-1]].alternatives[0])
                     .removeClass("alert success")
                     .addClass("secondary");
+
+                // Third option
                 $("#alternatives0" + alternatives[2])
+                    .off()
+                    .stop(true, true)
                     .text(json.data[numbers[index-1]].alternatives[1])
                     .removeClass("alert success")
                     .addClass("secondary");
@@ -282,12 +298,14 @@
                     $(".overlay").removeClass("hide");
 
                     // Shows that is a correct answer
-                    $(this).removeClass("secondary").addClass("success");
+                    $(this).removeClass("secondary alert").addClass("success");
 
                     $("#feedbackAnswer").text("Correct!").stop(true, true).fadeOut(50).fadeIn(1000).fadeOut(1000);
 
                     // "Refresh" page. The delay is to show the correct answer to user.
                     window.setTimeout(updateQuestion, 2000, (++index));
+
+                    return false;
                 });
 
                 // Action for wrong answer
@@ -304,6 +322,8 @@
 
                     // "Refresh" page. The delay is to show the correct answer to user.
                     window.setTimeout(updateQuestion, 2000, (++index));
+
+                    return false;
                 });
             } else {
                 gameOver();

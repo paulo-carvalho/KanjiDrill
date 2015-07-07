@@ -12,3 +12,10 @@
 	width: 100%;
 	z-index: 2;
 }
+
+/* CSS score (0, 0, 1, 1) */
+form.chapter-form {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
