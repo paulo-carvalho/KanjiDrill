@@ -457,8 +457,8 @@
             "kanji": "中古",
             "correctHiragana": "ちゅうこ",
             "alternatives": [
-                "わるい",
-                "まるい"
+                "ちゅうふる",
+                "なかふる"
             ]
         },
         {
@@ -466,8 +466,8 @@
             "kanji": "古代",
             "correctHiragana": "こだい",
             "alternatives": [
-                "わるい",
-                "まるい"
+                "ふるた",
+                "ごだい"
             ]
         },
         {
@@ -475,12 +475,12 @@
             "kanji": "知る",
             "correctHiragana": "しる",
             "alternatives": [
-                "わるい",
-                "まるい"
+                "する",
+                "たる"
             ]
         }
         {
-            "id": 52,
+            "id": 55,
             "kanji": "知人",
             "correctHiragana": "ちじん",
             "alternatives": [
@@ -489,59 +489,60 @@
             ]
         },
         {
-            "id": 53,
+            "id": 56,
             "kanji": "知り合い",
             "correctHiragana": "しりあい",
             "alternatives": [
-                "すこない",
-                "しょうない"
-            ]
-        },
-        {
-            "id": 54,
-            "kanji": "来る",
-            "correctHiragana": "くる",
-            "alternatives": [
-                "すこない",
-                "しょうない"
-            ]
-        },
-        {
-            "id": 55,
-            "kanji": "来ます",
-            "correctHiragana": "きます",
-            "alternatives": [
-                "すこない",
-                "しょうない"
-            ]
-        },
-        {
-            "id": 56,
-            "kanji": "来ない",
-            "correctHiragana": "こない",
-            "alternatives": [
-                "すこない",
-                "しょうない"
+                "しすりまい",
+                "ちりかい"
             ]
         },
         {
             "id": 57,
-            "kanji": "来週",
-            "correctHiragana": "らいしゅう",
+            "kanji": "来る",
+            "correctHiragana": "くる",
             "alternatives": [
-                "すこない",
-                "しょうない"
+                "する",
+                "きる"
             ]
         },
         {
             "id": 58,
+            "kanji": "来ます",
+            "correctHiragana": "きます",
+            "alternatives": [
+                "みます",
+                "かります"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "来ない",
+            "correctHiragana": "こない",
+            "alternatives": [
+                "くない",
+                "きない"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "来週",
+            "correctHiragana": "らいしゅう",
+            "alternatives": [
+                "こんしゅう",
+                "きんしゅう"
+            ]
+        },
+        {
+            "id": 61,
             "kanji": "来日",
             "correctHiragana": "らいにち",
             "alternatives": [
-                "すこない",
-                "しょうない"
+                "くるひ",
+                "きにち"
             ]
         }
     ]
 }
 
+     

@@ -1,0 +1,564 @@
+{
+    "chapter": 13,
+    "data": [
+        {
+            "id": 1,
+            "kanji": "食べ物",
+            "correctHiragana": "たべもの",
+            "alternatives": [
+                "のべもの",
+                "かいべぶつ"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "飲み物",
+            "correctHiragana": "のみもの",
+            "alternatives": [
+                "たべみもの",
+                "かいみぶつ"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "物",
+            "correctHiragana": "もの",
+            "alternatives": [
+                "かい",
+                "のも"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "買い物",
+            "correctHiragana": "かいもの",
+            "alternatives": [
+                "わらいもの",
+                "まいもの"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "動物",
+            "correctHiragana": "どうぶつ",
+            "alternatives": [
+                "どんもの",
+                "どうもの"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "鳥",
+            "correctHiragana": "とり",
+            "alternatives": [
+                "かみ",
+                "さる"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "焼き鳥",
+            "correctHiragana": "やきとり",
+            "alternatives": [
+                "かきとり",
+                "さいきどり"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "白鳥",
+            "correctHiragana": "はくちょう",
+            "alternatives": [
+                "しろどり",
+                "はくしょう"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "料理",
+            "correctHiragana": "りょうり",
+            "alternatives": [
+                "りゅうり",
+                "りょり"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "料金",
+            "correctHiragana": "りょうきん",
+            "alternatives": [
+                "りぎん",
+                "りょぎん"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "授業料",
+            "correctHiragana": "じゅぎょうりょう",
+            "alternatives": [
+                "じょきゅりょ",
+                "じきょり"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "給料",
+            "correctHiragana": "きゅうりょう",
+            "alternatives": [
+                "きょうりゅ",
+                "きゅうり"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "理由",
+            "correctHiragana": "りゆう",
+            "alternatives": [
+                "りゅう",
+                "りゆ"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "地理",
+            "correctHiragana": "ちり",
+            "alternatives": [
+                "ちりょう",
+                "ちりゅ"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "無理な",
+            "correctHiragana": "むりな",
+            "alternatives": [
+                "どんりゅな",
+                "のりな"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "特に",
+            "correctHiragana": "とくに",
+            "alternatives": [
+                "どきに",
+                "たかくに"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "特別な",
+            "correctHiragana": "とくべつな",
+            "alternatives": [
+                "じはくな",
+                "どくぺつな"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "特徴",
+            "correctHiragana": "とくちょう",
+            "alternatives": [
+                "ときしょう",
+                "じしょう"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "安い",
+            "correctHiragana": "やすい",
+            "alternatives": [
+                "あさい",
+                "さむい"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "安全な",
+            "correctHiragana": "あんぜんな",
+            "alternatives": [
+                "やすげんな",
+                "やしんな"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "安心",
+            "correctHiragana": "あんしん",
+            "alternatives": [
+                "あんぜん",
+                "やすむ"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "不安な",
+            "correctHiragana": "ふあんな",
+            "alternatives": [
+                "へたな",
+                "あんぜんな"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "ご飯",
+            "correctHiragana": "ごはん",
+            "alternatives": [
+                "ごべん",
+                "ごかい"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "朝ご飯",
+            "correctHiragana": "あさごはん",
+            "alternatives": [
+                "ばんごはん",
+                "ひるごはん"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "晩ご飯",
+            "correctHiragana": "ばんごはん",
+            "alternatives": [
+                "ひるごはん",
+                "あさごはん"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "肉",
+            "correctHiragana": "にく",
+            "alternatives": [
+                "くに",
+                "にんぐ"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "牛肉",
+            "correctHiragana": "ぎゅうにく",
+            "alternatives": [
+                "ぎょうにく",
+                "ぎゅっにく"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "豚肉",
+            "correctHiragana": "ぶたにく",
+            "alternatives": [
+                "さかなにく",
+                "きんにく"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "肉や",
+            "correctHiragana": "にくや",
+            "alternatives": [
+                "にぐや",
+                "くにや"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "筋肉",
+            "correctHiragana": "きんにく",
+            "alternatives": [
+                "ぶたにく",
+                "とりにく"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "悪い",
+            "correctHiragana": "わるい",
+            "alternatives": [
+                "まずい",
+                "かるい"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "気分が悪い",
+            "correctHiragana": "きぶんがわるい",
+            "alternatives": [
+                "ぎんふんがかるい",
+                "きふんがねるい"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "最悪",
+            "correctHiragana": "さいあく",
+            "alternatives": [
+                "ながわる",
+                "たいわる"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "悪魔",
+            "correctHiragana": "あくま",
+            "alternatives": [
+                "わるげん",
+                "あぐぞ"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "体",
+            "correctHiragana": "からだ",
+            "alternatives": [
+                "やすむ",
+                "やほん"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "体重",
+            "correctHiragana": "たいじゅう",
+            "alternatives": [
+                "からだちゅう",
+                "だいとう"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "体操",
+            "correctHiragana": "たいそう",
+            "alternatives": [
+                "だいぞう",
+                "からねん"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "空港",
+            "correctHiragana": "くうこう",
+            "alternatives": [
+                "くっこお",
+                "くうこ"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "空気",
+            "correctHiragana": "くうき",
+            "alternatives": [
+                "そらぎん",
+                "そらき"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "空",
+            "correctHiragana": "そら",
+            "alternatives": [
+                "とら",
+                "ぼら"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "空く",
+            "correctHiragana": "あく",
+            "alternatives": [
+                "くうく",
+                "ぞらく"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "空手",
+            "correctHiragana": "からて",
+            "alternatives": [
+                "くうで",
+                "あくて"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "神戸港",
+            "correctHiragana": "こうべこう",
+            "alternatives": [
+                "じんべこく",
+                "じゃべごう"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "港",
+            "correctHiragana": "みなと",
+            "alternatives": [
+                "こうこ",
+                "こんこ"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "香港",
+            "correctHiragana": "ほんこん",
+            "alternatives": [
+                "かんこう",
+                "せいこん"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "着く",
+            "correctHiragana": "つく",
+            "alternatives": [
+                "かく",
+                "ねく"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "着る",
+            "correctHiragana": "きる",
+            "alternatives": [
+                "のる",
+                "つくる"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "着物",
+            "correctHiragana": "きもの",
+            "alternatives": [
+                "つくもの",
+                "つきぶつ"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "大阪着",
+            "correctHiragana": "おおさかちゃく",
+            "alternatives": [
+                "だいぼつき",
+                "おおないしゃく"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "同じ",
+            "correctHiragana": "おなじ",
+            "alternatives": [
+                "かいじ",
+                "まわじ"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "同僚",
+            "correctHiragana": "どうりょう",
+            "alternatives": [
+                "おなねき",
+                "どうじょう"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "同級生",
+            "correctHiragana": "どうきゅうせい",
+            "alternatives": [
+                "おなじょうせい",
+                "どうじょうせん"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "同時",
+            "correctHiragana": "どうじ",
+            "alternatives": [
+                "おなじ",
+                "とうどき"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "海",
+            "correctHiragana": "うみ",
+            "alternatives": [
+                "まい",
+                "たう"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "日本海",
+            "correctHiragana": "にほんかい",
+            "alternatives": [
+                "にほんがん",
+                "にほんかん"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "海外",
+            "correctHiragana": "かいがい",
+            "alternatives": [
+                "がいかい",
+                "かいがん"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "海岸",
+            "correctHiragana": "かいがん",
+            "alternatives": [
+                "うみがい",
+                "がいかい"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "昼",
+            "correctHiragana": "ひる",
+            "alternatives": [
+                "ひろ",
+                "びる"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "昼ご飯",
+            "correctHiragana": "ひるごはん",
+            "alternatives": [
+                "あさごはん",
+                "ばんごはん"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "昼寝",
+            "correctHiragana": "ひるね",
+            "alternatives": [
+                "ひるめ",
+                "ひろね"
+            ]
+        },
+        {
+            "id": 61,
+            "kanji": "昼休み",
+            "correctHiragana": "ひるやすみ",
+            "alternatives": [
+                "ひろすみ",
+                "ちゅすむ"
+            ]
+        },
+        {
+            "id": 62,
+            "kanji": "昼食",
+            "correctHiragana": "ちゅうしょく",
+            "alternatives": [
+                "ひるたべ",
+                "ちゅしょうく"
+            ]
+        }
+    ]
+}
+
