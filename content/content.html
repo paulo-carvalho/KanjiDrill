@@ -68,7 +68,7 @@
                         <a class="button expand" role="button" href="../index.html">Go to main page</a>
                     </div>
                     <div class="large-6 columns">
-                        <a class="button expand" role="button" href="content/content.html">Try again</a>
+                        <a id="try-again" class="button expand" role="button" href="content/content.html">Try again</a>
                     </div>
                 </div>
             </div>
@@ -184,7 +184,7 @@
         });
 
         /*
-         * Sort questions randomly.
+         * Sort questions and/or alternatives randomly.
          */
         function shuffle(indexes, iStart, iEnd) {
             var j, x;
@@ -225,8 +225,27 @@
 
             // Add recommended chapters below to question
             $.each(json.recommendedChapters, function( i, value ) {
-                //remember that indexes start with 0 as value!
-                $("#recommendedChapters0" + (++i)).text("Chapter " + value);
+                // Remember that indexes (i) start with 0 as value!
+                $("#recommendedChapters0" + (++i))
+                    .text("Chapter " + value)
+                    .click(function() {
+                        // Redirect to recommended chapter (same page, content.html)
+                        window.location.replace("?chapter="+value);
+                        return false;
+                    });
+            });
+
+            // By the end of the game, the user will have had the option to
+            // go to same page.
+            $("#try-again").click(function() {
+                var chapterURL = "";
+                if(json.chapter < 10) {
+                    chapterURL += "0";
+                }
+                chapterURL += json.chapter;
+
+                window.location.replace("?chapter="+chapterURL);
+                return false;
             });
         }
 
@@ -344,6 +363,9 @@
             }
         }
 
+        /*
+         * End of game, show final score
+         */
         function gameOver() {
             // Declare game over
             $("#h1-title").text("Game over!");
@@ -362,6 +384,9 @@
             $(".game-over").fadeIn(1000);
         }
 
+        /*
+         * Fill out array to randomize it afterwards
+         */
         function populateArray(length) {
             var aux = new Array();
             for(var i=0; i<length; i++) {
