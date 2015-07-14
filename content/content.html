@@ -319,10 +319,10 @@
                     // Shows that is a correct answer
                     $(this).removeClass("secondary alert").addClass("success");
 
-                    $("#feedbackAnswer").text("Correct!").stop(true, true).fadeOut(50).fadeIn(1000).fadeOut(1000);
+                    $("#feedbackAnswer").text("Correct!").stop(true, true).fadeOut(50).fadeIn(1500).fadeOut(1500);
 
                     // "Refresh" page. The delay is to show the correct answer to user.
-                    window.setTimeout(updateQuestion, 2000, (++index));
+                    window.setTimeout(updateQuestion, 3000, (++index));
 
                     return false;
                 });
@@ -337,10 +337,10 @@
                     // Shows the correct answer
                     $(".correct").removeClass("secondary").addClass("success");
 
-                    $("#feedbackAnswer").text("Inorrect!").stop(true, true).fadeOut(50).fadeIn(1000).fadeOut(1000);
+                    $("#feedbackAnswer").text("Inorrect! The correct answer is "+json.data[numbers[index-1]].correctHiragana).stop(true, true).fadeOut(50).fadeIn(500).delay(4000).fadeOut(500);
 
                     // "Refresh" page. The delay is to show the correct answer to user.
-                    window.setTimeout(updateQuestion, 2000, (++index));
+                    window.setTimeout(updateQuestion, 5000, (++index));
 
                     return false;
                 });
