@@ -3,593 +3,579 @@
     "data": [
         {
             "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "kanji": "顔",
+            "correctHiragana": "かお",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "けお",
+                "がん"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 2,
+            "kanji": "顔色",
+            "correctHiragana": "かおいろ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かおしょく",
+                "がんしょく"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 3,
+            "kanji": "笑顔",
+            "correctHiragana": "えがお",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "えかお",
+                "わらいがお"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 4,
+            "kanji": "洗顔",
+            "correctHiragana": "せんがん",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "せんかん",
+                "せんかお"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 5,
+            "kanji": "表情",
+            "correctHiragana": "ひょうじょう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ひょうしょう",
+                "ぴょうじよう"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 6,
+            "kanji": "友情",
+            "correctHiragana": "ゆうじょう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ゆうしょう",
+                "ともじょう"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 7,
+            "kanji": "情報",
+            "correctHiragana": "じょうほう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "しょうほう",
+                "じょうじょう"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 8,
+            "kanji": "情け",
+            "correctHiragana": "なさけ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "じょうけ",
+                "いろけ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 9,
+            "kanji": "怒る",
+            "correctHiragana": "おこる",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "どる",
+                "おどる"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 10,
+            "kanji": "怒り",
+            "correctHiragana": "いかり",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "おどり",
+                "どり"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 11,
+            "kanji": "喜怒哀楽",
+            "correctHiragana": "きどあいらく",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "きどあいがく",
+                "きどきょうらく"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 12,
+            "kanji": "変な",
+            "correctHiragana": "へんな",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ぺんな",
+                "べんな"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 13,
+            "kanji": "大変な",
+            "correctHiragana": "たいへんな　",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "たいべんな",
+                "おおへんな"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 14,
+            "kanji": "変化",
+            "correctHiragana": "へんか",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "べんか",
+                "へんけ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 15,
+            "kanji": "変人",
+            "correctHiragana": "へんじん",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "べんじん",
+                "へんにん"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 16,
+            "kanji": "変える",
+            "correctHiragana": "かえる",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "きる",
+                "かる"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 17,
+            "kanji": "相手",
+            "correctHiragana": "あいて",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かいて",
+                "ひいて"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 18,
+            "kanji": "首相",
+            "correctHiragana": "しゅしょう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "しゅそう",
+                "しゅあい"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 19,
+            "kanji": "相談",
+            "correctHiragana": "そうだん",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "あいだん",
+                "しょうだん"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 20,
+            "kanji": "相互の",
+            "correctHiragana": "そうごの",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "しょうご",
+                "あいご"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 21,
+            "kanji": "横",
+            "correctHiragana": "よこ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "とこ",
+                "おう"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 22,
+            "kanji": "横書き",
+            "correctHiragana": "よこがき",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "よこかき",
+                "よこしょ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 23,
+            "kanji": "横綱",
+            "correctHiragana": "よこづな",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "よこつな",
+                "おうづな"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 24,
+            "kanji": "横断する",
+            "correctHiragana": "おうだんする",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "おうげんする",
+                "よこだんする"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 25,
+            "kanji": "比べる",
+            "correctHiragana": "くらべる",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ひる",
+                "ひかれる"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 26,
+            "kanji": "比較",
+            "correctHiragana": "ひかく",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "びかく",
+                "くらかく"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 27,
+            "kanji": "比例",
+            "correctHiragana": "ひれい",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "びれい",
+                "ぴれい"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 28,
+            "kanji": "対比",
+            "correctHiragana": "たいひ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "だいひ",
+                "たいび"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 29,
+            "kanji": "比喩",
+            "correctHiragana": "ひゆ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ふる",
+                "びゆ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 30,
+            "kanji": "文化",
+            "correctHiragana": "ぶんか",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ぶんけ",
+                "もんか"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 31,
+            "kanji": "化学",
+            "correctHiragana": "かがく",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "けがく",
+                "ばけがく"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 32,
+            "kanji": "同化",
+            "correctHiragana": "どうか",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "どうけ",
+                "どうか"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 33,
+            "kanji": "お化け",
+            "correctHiragana": "おばけ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "おかけ",
+                "おけけ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 34,
+            "kanji": "化粧",
+            "correctHiragana": "けしょう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かしょう",
+                "げしょう"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 35,
+            "kanji": "違う",
+            "correctHiragana": "ちがう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "あう",
+                "いう"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 36,
+            "kanji": "間違える",
+            "correctHiragana": "まちがえる",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かんちがえる",
+                "あいちがえる"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 37,
+            "kanji": "違法",
+            "correctHiragana": "いほう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "まほう",
+                "いぼう"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 38,
+            "kanji": "違反",
+            "correctHiragana": "いはん",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "いけん",
+                "あいはん"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 39,
+            "kanji": "悲しい",
+            "correctHiragana": "かなしい",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ひしい",
+                "びしい"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 40,
+            "kanji": "悲劇",
+            "correctHiragana": "ひげき",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "けげき",
+                "びげき"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 41,
+            "kanji": "悲惨な",
+            "correctHiragana": "ひさんな",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "びさんな",
+                "かんさんな"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 42,
+            "kanji": "悲しむ",
+            "correctHiragana": "かなしむ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ひしむ",
+                "びしむ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 43,
+            "kanji": "調査",
+            "correctHiragana": "ちょうさ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "じょうさ",
+                "ちょさ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 44,
+            "kanji": "調べる",
+            "correctHiragana": "しらべる",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ちょうべる",
+                "しらべべる"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 45,
+            "kanji": "調子",
+            "correctHiragana": "ちょうし",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "じょうし",
+                "ちょうす"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 46,
+            "kanji": "強調する",
+            "correctHiragana": "きょうちょうする",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ごうちょうする",
+                "きょうちょする"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 47,
+            "kanji": "調査",
+            "correctHiragana": "ちょうさ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "じょうさ",
+                "ちょさ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 48,
+            "kanji": "検査",
+            "correctHiragana": "けんさ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かんさ",
+                "げんさ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 49,
+            "kanji": "審査",
+            "correctHiragana": "しんさ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "じんさ",
+                "しんそ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 50,
+            "kanji": "捜査",
+            "correctHiragana": "そうさ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "せいさ",
+                "さくさ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 51,
+            "kanji": "結果",
+            "correctHiragana": "けっか",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "げっか",
+                "けつか"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 52,
+            "kanji": "果汁",
+            "correctHiragana": "かじゅう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "くだじゅう",
+                "かじる"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 53,
+            "kanji": "効果",
+            "correctHiragana": "こうか",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "ごうか",
+                "こうけ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 54,
+            "kanji": "使い果たす",
+            "correctHiragana": "つかいはたす",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "つかいかたす",
+                "つかいくだす"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 55,
+            "kanji": "果物",
+            "correctHiragana": "くだもの",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かもの",
+                "けもの"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 56,
+            "kanji": "感情",
+            "correctHiragana": "かんじょう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かんしょう",
+                "かんじょう"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 57,
+            "kanji": "感動する",
+            "correctHiragana": "かんどうする",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かんとうする",
+                "かどうする"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 58,
+            "kanji": "感じる",
+            "correctHiragana": "かんじる",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "けじる",
+                "かじる"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 59,
+            "kanji": "感謝",
+            "correctHiragana": "かんしゃ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "がんしゃ",
+                "かしゃ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 60,
+            "kanji": "感想",
+            "correctHiragana": "かんそう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かそう",
+                "けそう"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 61,
+            "kanji": "答える",
+            "correctHiragana": "こたえる",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "あたえる",
+                "とうえる"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 62,
+            "kanji": "答え／答",
+            "correctHiragana": "こたえ",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "とうえ",
+                "たとえ"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 63,
+            "kanji": "回答",
+            "correctHiragana": "かいとう",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "かいどう",
+                "かいと"
             ]
         },
         {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "id": 64,
+            "kanji": "答案",
+            "correctHiragana": "とうあん",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "とあん",
+                "どうあん"
             ]
-        },
-        {
-            "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
-            "alternatives": [
-                "せんじる",
-                "めんじる"
-            ]
-        },
-        
-       
-
-
-
+        }
     ]
 }
