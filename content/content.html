@@ -337,7 +337,9 @@
                     // Shows the correct answer
                     $(".correct").removeClass("secondary").addClass("success");
 
-                    $("#feedbackAnswer").text("Inorrect! The correct answer is "+json.data[numbers[index-1]].correctHiragana).stop(true, true).fadeOut(50).fadeIn(500).delay(4000).fadeOut(500);
+                    $("#feedbackAnswer").text("Inorrect! The correct answer is "+json.data[numbers[index-1]].correctHiragana + " ")
+                        .append("<a class='button small' role='button' href='#'>Next &gt;&gt;</a>")
+                        .stop(true, true).fadeOut(50).fadeIn(500).delay(4000).fadeOut(500);
 
                     // "Refresh" page. The delay is to show the correct answer to user.
                     window.setTimeout(updateQuestion, 5000, (++index));
