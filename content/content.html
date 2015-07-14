@@ -22,19 +22,19 @@
 
     <div class="row">
         <div class="large-12 columns">
-            <h1 id="h1-title">Quiz: Genki 1, Chapter <span id="chapterNumber"></span></h1>
+            <h1 id="h1-title">クイズ: げんき <span id="genkiNumber"></span>, 第 <span id="chapterNumber"></span></h1>
         </div>
     </div>
 
     <div class="row game-content">
         <div class="large-9 columns">
             <div id="first-container" class="panel">
-                <h3>Kanji <span id="kanjiNumber"></span>/20</h3>
+                <h3>漢字 <span id="kanjiNumber"></span>/20</h3>
 
                 <!-- Where the kanji goes to -->
                 <h1 id="kanjiContent" class="text-center"></h1>
 
-                <p>Which of the following hiragana is correct?</p>
+                <p>どれが　正しい　ですか？</p>
 
                 <p class="text-center" id="feedbackAnswer"></p>
             </div>
@@ -45,7 +45,11 @@
             <a id="alternatives01" class="button large secondary expand" role="button" href="#"></a>
             <a id="alternatives02" class="button large secondary expand" role="button" href="#"></a>
             <a id="alternatives03" class="button large secondary expand" role="button" href="#"></a>
+
+            <!-- Container to avoid "double click" bugs -->
+            <div class="overlay hide"></div>
         </div>
+
     </div>
 
     <div class="row hide game-over">
@@ -55,16 +59,16 @@
 
                 <p>You got <span id="game-score">0</span> out of 20 questions.</p>
 
-                <p id="failMessage">It's recommended that you should study more and try again later.</p>
+                <p id="failMessage" class="hide">It's recommended that you should study more and try again later.</p>
 
-                <p id="successMessage">Way to go! Keep challenging yourself trying the next chapter. </p>
+                <p id="successMessage" class="hide">Way to go! Keep challenging yourself trying the next chapter. </p>
 
                 <div class="row">
                     <div class="large-6 columns">
-                        <a class="button large" role="button" href="../index.html">Go to main page</a>
+                        <a class="button expand" role="button" href="../index.html">Go to main page</a>
                     </div>
                     <div class="large-6 columns">
-                        <a class="button large right" role="button" href="content/content.html">Try again</a>
+                        <a id="try-again" class="button expand" role="button" href="content/content.html">Try again</a>
                     </div>
                 </div>
             </div>
@@ -141,7 +145,10 @@
         // Global variables
         var index = 1,
             score = 0;
-        // var number = 1 + Math.floor(Math.random() * 2);
+
+        // arrays of indexes of kanji and alternatives
+        var numbers,
+            alternatives;
 
         // Fetch chapter number from URL (necessary)
         var jsonFile = "../js/json/"; // file to fetch data
@@ -153,8 +160,11 @@
         var json = ""; // returned value from JSON file
         $.getJSON( jsonFile, function( jsonResult ) {
 
-            // sort/shuffle/randomize here <---->
             json = jsonResult;
+
+            // Populate array with chapter index and randomize them
+            numbers = populateArray(json.data.length);
+            numbers = shuffle(numbers, numbers.length, numbers.length - NUMBER_QUESTIONS);
 
             // initialize page basic structure - once
             initialize(index);
@@ -170,21 +180,25 @@
         // When the dialog is closed, redirect user to main page.
         $('a.close-reveal-modal').click(function() {
             window.location.replace("../index.html");
+            return false;
         });
 
         /*
-         * Sort questions randomly.
+         * Sort questions and/or alternatives randomly.
          */
-        function shuffle(indexes) {
+        function shuffle(indexes, iStart, iEnd) {
             var j, x;
 
-            for(var i = indexes.length; i; ) {
+            // Fisher-Yates method of sort randomly
+            for(var i = iStart; i > iEnd; ) {
                 j = parseInt(Math.random() * i);
                 x = indexes[--i];
                 indexes[i] = indexes[j];
                 indexes[j] = x;
             }
-            return indexes;
+
+            // returns the subarray with NUMBER_QUESTIONS size
+            return indexes.slice(indexes.length - NUMBER_QUESTIONS);
         }
 
         /*
@@ -192,7 +206,7 @@
          * number of questions.
          */
         function setProgress(index) {
-            $(".meter").animate({
+            $(".meter").stop(false, false).animate({
                 width: (index/NUMBER_QUESTIONS)*100 + "%"
             }, 500);
         }
@@ -203,46 +217,35 @@
          * is unnecessary.
          */
         function initialize(index) {
+            // Add Genki book number at the title
+            $("#genkiNumber").text(json.genkiBook);
+
             // Add chapter number at the h1 title
             $("#chapterNumber").text(json.chapter);
 
             // Add recommended chapters below to question
             $.each(json.recommendedChapters, function( i, value ) {
-                //remember that indexes start with 0 as value!
-                $("#recommendedChapters0" + (++i)).text("Chapter " + value);
+                // Remember that indexes (i) start with 0 as value!
+                $("#recommendedChapters0" + (++i))
+                    .text("Chapter " + value)
+                    .click(function() {
+                        // Redirect to recommended chapter (same page, content.html)
+                        window.location.replace("?chapter="+value);
+                        return false;
+                    });
             });
 
-            $("#alternatives01").addClass("correct");
-            $("#alternatives02").addClass("incorrect");
-            $("#alternatives03").addClass("incorrect");
+            // By the end of the game, the user will have had the option to
+            // go to same page.
+            $("#try-again").click(function() {
+                var chapterURL = "";
+                if(json.chapter < 10) {
+                    chapterURL += "0";
+                }
+                chapterURL += json.chapter;
 
-            // Action for correct answer
-            $(".correct").click(function() {
-                // User scores
-                score++;
-
-                // Shows that is a correct answer
-                $(this).removeClass("secondary").addClass("success");
-
-                $("#feedbackAnswer").text("Correct!").fadeOut(50).fadeIn(1000).fadeOut(1000);
-
-                // "Refresh" page
-                window.setTimeout(updateQuestion, 2000, (++index));
-            });
-
-            // Action for wrong answer
-            $(".incorrect").click(function() {
-                // Shows that is an incorrect answer
-                $(this).removeClass("secondary").addClass("alert");
-                // Shows the correct answer
-                $(".correct").removeClass("secondary").addClass("success");
-
-                $("#feedbackAnswer").text("Inorrect!").fadeOut(50).fadeIn(1000).fadeOut(1000);
-
-                // "Refresh" page. The delay is to show the correct answer to
-                // user.
-                // TODO: add score parameter
-                window.setTimeout(updateQuestion, 2000, (++index));
+                window.location.replace("?chapter="+chapterURL);
+                return false;
             });
         }
 
@@ -251,20 +254,96 @@
          * answers.
          */
         function updateQuestion(index) {
+            // The increment is in setTimeout function of buttons click event.
             if(index <= NUMBER_QUESTIONS) {
                 // Set progress bar ("meter" class)
                 setProgress(index);
 
+                // Random alternatives
+                alternatives = shuffle(new Array(1, 2, 3), 3, 0);
+
+                $("#alternatives0" + alternatives[0])
+                    .removeClass("correct incorrect")
+                    .addClass("correct");
+                $("#alternatives0" + alternatives[1])
+                    .removeClass("correct incorrect")
+                    .addClass("incorrect");
+                $("#alternatives0" + alternatives[2])
+                    .removeClass("correct incorrect")
+                    .addClass("incorrect");
+
+                // Overlays a transparent container to not allow "answer twice" bug
+                $(".overlay").addClass("hide");
+
+                // index/20
                 $("#kanjiNumber").text(index);
 
                 // Add kanji to question
-                $("#kanjiContent").text(json.data[index-1].kanji);
+                $("#kanjiContent").text(json.data[numbers[index-1]].kanji);
 
                 // Adding hiragana to each option. If randomize them doesn't work
                 // try to append to <div> the entire <a> tag button
-                $("#alternatives01").text(json.data[index-1].correctHiragana).removeClass("alert success").addClass("secondary");
-                $("#alternatives02").text(json.data[index-1].alternatives[0]).removeClass("alert success").addClass("secondary");
-                $("#alternatives03").text(json.data[index-1].alternatives[1]).removeClass("alert success").addClass("secondary");
+
+                // First option
+                $("#alternatives0" + alternatives[0])
+                    .off()
+                    .stop(true, true)
+                    .text(json.data[numbers[index-1]].correctHiragana)
+                    .removeClass("alert success")
+                    .addClass("secondary");
+
+                // Second option
+                $("#alternatives0" + alternatives[1])
+                    .off()
+                    .stop(true, true)
+                    .text(json.data[numbers[index-1]].alternatives[0])
+                    .removeClass("alert success")
+                    .addClass("secondary");
+
+                // Third option
+                $("#alternatives0" + alternatives[2])
+                    .off()
+                    .stop(true, true)
+                    .text(json.data[numbers[index-1]].alternatives[1])
+                    .removeClass("alert success")
+                    .addClass("secondary");
+
+                // Action for correct answer
+                $(".correct").click(function() {
+                    // User scores
+                    score++;
+
+                    // Overlays a transparent container to not allow "answer twice" bug
+                    $(".overlay").removeClass("hide");
+
+                    // Shows that is a correct answer
+                    $(this).removeClass("secondary alert").addClass("success");
+
+                    $("#feedbackAnswer").text("Correct!").stop(true, true).fadeOut(50).fadeIn(1000).fadeOut(1000);
+
+                    // "Refresh" page. The delay is to show the correct answer to user.
+                    window.setTimeout(updateQuestion, 2000, (++index));
+
+                    return false;
+                });
+
+                // Action for wrong answer
+                $(".incorrect").click(function() {
+                    // Overlays a transparent container to not allow "answer twice" bug
+                    $(".overlay").removeClass("hide");
+
+                    // Shows that is an incorrect answer
+                    $(this).removeClass("secondary").addClass("alert");
+                    // Shows the correct answer
+                    $(".correct").removeClass("secondary").addClass("success");
+
+                    $("#feedbackAnswer").text("Inorrect!").stop(true, true).fadeOut(50).fadeIn(1000).fadeOut(1000);
+
+                    // "Refresh" page. The delay is to show the correct answer to user.
+                    window.setTimeout(updateQuestion, 2000, (++index));
+
+                    return false;
+                });
             } else {
                 gameOver();
             }
@@ -276,16 +355,17 @@
         function getUrlParameter(sParam) {
             var sPageURL = window.location.search.substring(1);
             var sURLVariables = sPageURL.split('&');
-            for (var i = 0; i < sURLVariables.length; i++)
-            {
+            for (var i = 0; i < sURLVariables.length; i++) {
                 var sParameterName = sURLVariables[i].split('=');
-                if (sParameterName[0] == sParam)
-                {
+                if (sParameterName[0] == sParam) {
                     return sParameterName[1];
                 }
             }
         }
 
+        /*
+         * End of game, show final score
+         */
         function gameOver() {
             // Declare game over
             $("#h1-title").text("Game over!");
@@ -293,9 +373,27 @@
             // Show final score
             $("#game-score").text(score);
 
+            if(score < (0.7 * NUMBER_QUESTIONS)) {
+                $("#failMessage").removeClass("hide");
+            } else {
+                $("#successMessage").removeClass("hide");
+            }
+
             // Update page
             $(".game-content").addClass("hide");
             $(".game-over").fadeIn(1000);
+        }
+
+        /*
+         * Fill out array to randomize it afterwards
+         */
+        function populateArray(length) {
+            var aux = new Array();
+            for(var i=0; i<length; i++) {
+                aux[i] = i;
+            }
+
+            return aux;
         }
     </script>
 </body>

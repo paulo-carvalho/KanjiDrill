@@ -1,5 +1,9 @@
 {
+    "genkiBook": 1,
     "chapter": 4,
+    "recommendedChapters": [
+        "03", "05", "06"
+    ],
     "data": [
         {
             "id": 1,
@@ -290,7 +294,7 @@
             ]
         },
         {
-            "id": 32,　
+            "id": 32,
             "kanji": "木村さん",
             "correctHiragana": "きむらさん",
             "alternatives": [
@@ -299,7 +303,7 @@
             ]
         },
         {
-            "id": 33,　
+            "id": 33,
             "kanji": "金曜日",
             "correctHiragana": "きんようび",
             "alternatives": [
@@ -308,7 +312,7 @@
             ]
         },
         {
-            "id": 34,　
+            "id": 34,
             "kanji": "お金",
             "correctHiragana": "おかね",
             "alternatives": [
@@ -317,7 +321,7 @@
             ]
         },
         {
-            "id": 35,　
+            "id": 35,
             "kanji": "料金",
             "correctHiragana": "りょうきん",
             "alternatives": [
@@ -326,7 +330,7 @@
             ]
         },
         {
-            "id": 36,　
+            "id": 36,
             "kanji": "お金持ち",
             "correctHiragana": "おかねもち",
             "alternatives": [
@@ -335,7 +339,7 @@
             ]
         },
         {
-            "id": 37,　
+            "id": 37,
             "kanji": "土曜日",
             "correctHiragana": "どようび",
             "alternatives": [
@@ -344,7 +348,7 @@
             ]
         },
         {
-            "id": 38,　
+            "id": 38,
             "kanji": "土",
             "correctHiragana": "つち",
             "alternatives": [
@@ -352,9 +356,8 @@
                 "どち"
             ]
         },
-        
         {
-            "id": 39,　
+            "id": 39,
             "kanji": "土地",
             "correctHiragana": "とち",
             "alternatives": [
@@ -363,7 +366,7 @@
             ]
         },
         {
-            "id": 40,　
+            "id": 40,
             "kanji": "年度",
             "correctHiragana": "ねんど",
             "alternatives": [
@@ -372,7 +375,7 @@
             ]
         },
         {
-            "id": 41,　
+            "id": 41,
             "kanji": "日曜日",
             "correctHiragana": "にちようび",
             "alternatives": [
@@ -381,7 +384,7 @@
             ]
         },
         {
-            "id": 42,　
+            "id": 42,
             "kanji": "曜日",
             "correctHiragana": "ようび",
             "alternatives": [
@@ -390,7 +393,7 @@
             ]
         },
         {
-            "id": 43,　
+            "id": 43,
             "kanji": "上",
             "correctHiragana": "うえ",
             "alternatives": [
@@ -399,7 +402,7 @@
             ]
         },
         {
-            "id": 44,　
+            "id": 44,
             "kanji": "上手な",
             "correctHiragana": "じょうずな",
             "alternatives": [
@@ -408,7 +411,7 @@
             ]
         },
         {
-            "id": 45,　
+            "id": 45,
             "kanji": "屋上",
             "correctHiragana": "おくじょう",
             "alternatives": [
@@ -417,7 +420,7 @@
             ]
         },
         {
-            "id": 46,　
+            "id": 46,
             "kanji": "上る",
             "correctHiragana": "のぼる",
             "alternatives": [
@@ -426,7 +429,7 @@
             ]
         },
         {
-            "id": 47,　
+            "id": 47,
             "kanji": "下",
             "correctHiragana": "した",
             "alternatives": [
@@ -435,7 +438,7 @@
             ]
         },
         {
-            "id": 48,　
+            "id": 48,
             "kanji": "地下鉄",
             "correctHiragana": "ちかてつ",
             "alternatives": [
@@ -444,7 +447,7 @@
             ]
         },
         {
-            "id": 49,　
+            "id": 49,
             "kanji": "下手な",
             "correctHiragana": "へたな",
             "alternatives": [
@@ -453,7 +456,7 @@
             ]
         },
         {
-            "id": 50,　
+            "id": 50,
             "kanji": "下さい",
             "correctHiragana": "ください",
             "alternatives": [
@@ -462,7 +465,7 @@
             ]
         },
         {
-            "id": 51,　
+            "id": 51,
             "kanji": "中",
             "correctHiragana": "なか",
             "alternatives": [
@@ -471,7 +474,7 @@
             ]
         },
         {
-            "id": 52,　
+            "id": 52,
             "kanji": "中国",
             "correctHiragana": "ちゅうごく",
             "alternatives": [
@@ -480,7 +483,7 @@
             ]
         },
         {
-            "id": 53,　
+            "id": 53,
             "kanji": "中学",
             "correctHiragana": "ちゅうがく",
             "alternatives": [
@@ -489,7 +492,7 @@
             ]
         },
         {
-            "id": 54,　
+            "id": 54,
             "kanji": "一年中",
             "correctHiragana": "いちねんじゅう",
             "alternatives": [
@@ -498,7 +501,7 @@
             ]
         },
         {
-            "id": 55,　
+            "id": 55,
             "kanji": "三時半",
             "correctHiragana": "さんじはん",
             "alternatives": [
@@ -507,7 +510,7 @@
             ]
         },
         {
-            "id": 56,　
+            "id": 56,
             "kanji": "半分",
             "correctHiragana": "はんぶん",
             "alternatives": [
@@ -516,7 +519,7 @@
             ]
         },
         {
-            "id": 57,　
+            "id": 57,
             "kanji": "半年",
             "correctHiragana": "はんとし",
             "alternatives": [
@@ -525,7 +528,7 @@
             ]
         },
         {
-            "id": 58,　
+            "id": 58,
             "kanji": "半額",
             "correctHiragana": "はんがく",
             "alternatives": [

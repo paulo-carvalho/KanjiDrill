@@ -1,0 +1,563 @@
+{
+    "chapter": 17,
+    "data": [
+        {
+            "id": 1,
+            "kanji": "二十五歳",
+            "correctHiragana": "にじゅうごさい",
+            "alternatives": [
+                "にじゅうごだい",
+                "にじゅうごさん"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "お歳暮",
+            "correctHiragana": "おせいば",
+            "alternatives": [
+                "おさいげん",
+                "おせいもん"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "二十歳",
+            "correctHiragana": "はたち",
+            "alternatives": [
+                "にじゅうさい",
+                "にじゅう"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "習う",
+            "correctHiragana": "ならう",
+            "alternatives": [
+                "わらう",
+                "かう"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "習字",
+            "correctHiragana": "しゅうじ",
+            "alternatives": [
+                "もじ",
+                "ちゅうじ"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "練習",
+            "correctHiragana": "れんしゅう",
+            "alternatives": [
+                "めいしゅう",
+                "せいしゅう"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "習慣",
+            "correctHiragana": "しゅうかん",
+            "alternatives": [
+                "しゅうまつ",
+                "しゅうちょう"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "主に",
+            "correctHiragana": "おもに",
+            "alternatives": [
+                "なのに",
+                "すもに"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "ご主人",
+            "correctHiragana": "ごしゅじん",
+            "alternatives": [
+                "ごもびと",
+                "ごじひと"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "主婦",
+            "correctHiragana": "しゅふ",
+            "alternatives": [
+                "じぶつ",
+                "しゅうぶ"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "主語",
+            "correctHiragana": "しゅご",
+            "alternatives": [
+                "じゅうご",
+                "しゅわ"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "持ち主",
+            "correctHiragana": "もちぬし",
+            "alternatives": [
+                "ときちせい",
+                "もちせい"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "結婚する",
+            "correctHiragana": "けっこんする",
+            "alternatives": [
+                "けんきゅうする",
+                "べんきょうする"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "結果",
+            "correctHiragana": "けっか",
+            "alternatives": [
+                "さっか",
+                "けか"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "結論",
+            "correctHiragana": "けつろん",
+            "alternatives": [
+                "けっろん",
+                "けつるん"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "結ぶ",
+            "correctHiragana": "むすぶ",
+            "alternatives": [
+                "けっぶ",
+                "けぶ"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "離婚",
+            "correctHiragana": "りこん",
+            "alternatives": [
+                "しごん",
+                "りこい"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "婚約者",
+            "correctHiragana": "こんやくしゃ",
+            "alternatives": [
+                "こんめいじゃ",
+                "こんあくしゃ"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "新婚",
+            "correctHiragana": "しんこん",
+            "alternatives": [
+                "しんごう",
+                "しんごん"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "未婚",
+            "correctHiragana": "みこん",
+            "alternatives": [
+                "みかん",
+                "みこう"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "集める",
+            "correctHiragana": "あつめる",
+            "alternatives": [
+                "あためる",
+                "とめる"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "特集",
+            "correctHiragana": "とくしゅう",
+            "alternatives": [
+                "じしょう",
+                "とくちょう"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "集中する",
+            "correctHiragana": "しゅうちゅうする",
+            "alternatives": [
+                "しょうちゅうする",
+                "しょうちょうする"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "発表する",
+            "correctHiragana": "はっぴょうする",
+            "alternatives": [
+                "はつようする",
+                "はぴょうする"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "発音",
+            "correctHiragana": "はつおん",
+            "alternatives": [
+                "はもん",
+                "はっおん"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "出発",
+            "correctHiragana": "しゅっぱつ",
+            "alternatives": [
+                "ではつ",
+                "しょっぱつ"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "発明",
+            "correctHiragana": "はつめい",
+            "alternatives": [
+                "はつおん",
+                "はつもん"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "表紙",
+            "correctHiragana": "ひょうし",
+            "alternatives": [
+                "ひゅうじ",
+                "びょうし"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "表現",
+            "correctHiragana": "ひょうげん",
+            "alternatives": [
+                "びょうけん",
+                "びょうげん"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "表す",
+            "correctHiragana": "あらわす",
+            "alternatives": [
+                "はなす",
+                "かす"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "表",
+            "correctHiragana": "おもて",
+            "alternatives": [
+                "あらて",
+                "かけて"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "作品",
+            "correctHiragana": "さくひん",
+            "alternatives": [
+                "さびしん",
+                "さくいん"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "上品な",
+            "correctHiragana": "じょうひんな",
+            "alternatives": [
+                "うえびんな",
+                "しゅうびんな"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "手品",
+            "correctHiragana": "てじな",
+            "alternatives": [
+                "でひんな",
+                "てしな"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "品物",
+            "correctHiragana": "しなもの",
+            "alternatives": [
+                "ひんぶつ",
+                "きんもの"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "文字",
+            "correctHiragana": "もじ",
+            "alternatives": [
+                "ぶんじ",
+                "もがく"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "赤字",
+            "correctHiragana": "あかじ",
+            "alternatives": [
+                "あかいかく",
+                "あかいじ"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "名字",
+            "correctHiragana": "みょうじ",
+            "alternatives": [
+                "たろじ",
+                "なまじ"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "大文字",
+            "correctHiragana": "おおもじ",
+            "alternatives": [
+                "だいぶんじ",
+                "だいもんじ"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "漢字",
+            "correctHiragana": "かんじ",
+            "alternatives": [
+                "かし",
+                "かんし"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "活動",
+            "correctHiragana": "かつどう",
+            "alternatives": [
+                "かいどう",
+                "さいとう"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "生活",
+            "correctHiragana": "せいかつ",
+            "alternatives": [
+                "せんがつ",
+                "めんはつ"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "活発な",
+            "correctHiragana": "かっぱつな",
+            "alternatives": [
+                "かつばつな",
+                "かつぱつな"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "活用",
+            "correctHiragana": "かつよう",
+            "alternatives": [
+                "かっよう",
+                "はつめい"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "活気",
+            "correctHiragana": "かっき",
+            "alternatives": [
+                "かつげん",
+                "はつき"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "写真",
+            "correctHiragana": "しゃしん",
+            "alternatives": [
+                "じしん",
+                "じしゃ"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "写す",
+            "correctHiragana": "うつす",
+            "alternatives": [
+                "しんす",
+                "づす"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "写生",
+            "correctHiragana": "しゃせい",
+            "alternatives": [
+                "しゃぜい",
+                "じゃせい"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "描写する",
+            "correctHiragana": "びょうしゃする",
+            "alternatives": [
+                "あぶしゃする",
+                "らいしゃする"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "真ん中",
+            "correctHiragana": "まんなか",
+            "alternatives": [
+                "めんちゅう",
+                "まんちゅう"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "〜の真上",
+            "correctHiragana": "〜のまうえ",
+            "alternatives": [
+                "〜のまんじょう",
+                "〜まいうえ"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "真夜中",
+            "correctHiragana": "まよなか",
+            "alternatives": [
+                "まんよるちゅう",
+                "まようちゅう"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "歩く",
+            "correctHiragana": "あるく",
+            "alternatives": [
+                "あく",
+                "あたく"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "歩道",
+            "correctHiragana": "ほどう",
+            "alternatives": [
+                "あるみち",
+                "ほんとう"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "散歩する",
+            "correctHiragana": "さんぽする",
+            "alternatives": [
+                "さぼんする",
+                "さんほする"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "一歩",
+            "correctHiragana": "いっぱ",
+            "alternatives": [
+                "いちほ",
+                "いっほ"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "進歩",
+            "correctHiragana": "しんぱ",
+            "alternatives": [
+                "てんほ",
+                "めんぱ"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "分野",
+            "correctHiragana": "ぶんや",
+            "alternatives": [
+                "かんぱ",
+                "ぶんまん"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "小野さん",
+            "correctHiragana": "おのさん",
+            "alternatives": [
+                "ちいまさん",
+                "ちなさん"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "長野",
+            "correctHiragana": "ながの",
+            "alternatives": [
+                "ながや",
+                "ながめ"
+            ]
+        },
+        {
+            "id": 61,
+            "kanji": "野球",
+            "correctHiragana": "やきゅう",
+            "alternatives": [
+                "ちきゅう",
+                "わきゅう"
+            ]
+        },
+        {
+            "id": 62,
+            "kanji": "野菜",
+            "correctHiragana": "やさい",
+            "alternatives": [
+                "のみ",
+                "にち"
+            ]
+        }
+	]
+}

@@ -1,0 +1,527 @@
+{
+    "chapter": 19,
+    "data": [
+        {
+            "id": 1,
+            "kanji": "春",
+            "correctHiragana": "はる",
+            "alternatives": [
+                "なつ",
+                "あき"
+            ]
+        },	
+        {
+            "id": 2,
+            "kanji": "春巻き",
+            "correctHiragana": "はるまき",
+            "alternatives": [
+                "なつあき",
+                "はるあき"
+            ]
+        },	
+        {
+            "id": 3,
+            "kanji": "春分",
+            "correctHiragana": "しゅんぶん",
+            "alternatives": [
+                "はるぶん",
+                "しゅうぶん"
+            ]
+        },	
+        {
+            "id": 4,
+            "kanji": "青春",
+            "correctHiragana": "せいしゅん",
+            "alternatives": [
+                "あおはる",
+                "せいしゅう"
+            ]
+        },	
+        {
+            "id": 5,
+            "kanji": "秋",
+            "correctHiragana": "あき",
+            "alternatives": [
+                "はる",
+                "ふゆ"
+            ]
+        },	
+        {
+            "id": 6,
+            "kanji": "秋学期",
+            "correctHiragana": "あきがっき",
+            "alternatives": [
+                "あきがき",
+                "あきがくき"
+            ]
+        },	
+        {
+            "id": 7,
+            "kanji": "秋分",
+            "correctHiragana": "しゅうぶん",
+            "alternatives": [
+                "あきぶん",
+                "しゅんぶん"
+            ]
+        },	
+        {
+            "id": 8,
+            "kanji": "冬",
+            "correctHiragana": "ふゆ",
+            "alternatives": [
+                "なつ",
+                "あき"
+            ]
+        },	
+        {
+            "id": 9,
+            "kanji": "冬休み",
+            "correctHiragana": "ふゆやすみ",
+            "alternatives": [
+                "なつやすみ",
+                "あきやすみ"
+            ]
+        },	
+        {
+            "id": 10,
+            "kanji": "暖冬",
+            "correctHiragana": "だんとう",
+            "alternatives": [
+                "たんどう",
+                "たんどん"
+            ]
+        },	
+        {
+            "id": 11,
+            "kanji": "春夏秋冬",
+            "correctHiragana": "しゅんかしゅうとう",
+            "alternatives": [
+                "しゅうがしゅんどう",
+                "しゅんかしゅんとう"
+            ]
+        },	
+        {
+            "id": 12,
+            "kanji": "花",
+            "correctHiragana": "はな",
+            "alternatives": [
+                "みみ",
+                "まち"
+            ]
+        },	
+        {
+            "id": 13,
+            "kanji": "花見",
+            "correctHiragana": "はなみ",
+            "alternatives": [
+                "みみ",
+                "ばなみ"
+            ]
+        },	
+        {
+            "id": 14,
+            "kanji": "花火",
+            "correctHiragana": "もはなび",
+            "alternatives": [
+                "はなか",
+                "ばなか"
+            ]
+        },	
+        {
+            "id": 15,
+            "kanji": "花粉症",
+            "correctHiragana": "かふんしょう",
+            "alternatives": [
+                "はなめしょう",
+                "かぶじょう"
+            ]
+        },	
+        {
+            "id": 16,
+            "kanji": "生け花",
+            "correctHiragana": "いけばな",
+            "alternatives": [
+                "せいけはな",
+                "いっけはな"
+            ]
+        },	
+        {
+            "id": 17,
+            "kanji": "〜様",
+            "correctHiragana": "〜さま",
+            "alternatives": [
+                "〜さん",
+                "〜くん"
+            ]
+        },	
+        {
+            "id": 18,
+            "kanji": "お客様",
+            "correctHiragana": "おきゃくさま",
+            "alternatives": [
+                "おでんかく",
+                "おきゃさま"
+            ]
+        },	
+        {
+            "id": 19,
+            "kanji": "皆様",
+            "correctHiragana": "みなさま",
+            "alternatives": [
+                "みんなさま",
+                "みなんさま"
+            ]
+        },	
+        {
+            "id": 20,
+            "kanji": "様子",
+            "correctHiragana": "ようす",
+            "alternatives": [
+                "さまこ",
+                "さんこ"
+            ]
+        },	
+        {
+            "id": 21,
+            "kanji": "不安な",
+            "correctHiragana": "ふあんな",
+            "alternatives": [
+                "へたな",
+                "あんぜんな"
+            ]
+        },	
+        {
+            "id": 22,
+            "kanji": "不景気",
+            "correctHiragana": "ふけいき",
+            "alternatives": [
+                "ふあんき",
+                "あんけんき"
+            ]
+        },	
+        {
+            "id": 23,
+            "kanji": "不便",
+            "correctHiragana": "ふべん",
+            "alternatives": [
+                "ふあん",
+                "ふけん"
+            ]
+        },	
+        {
+            "id": 24,
+            "kanji": "水不足",
+            "correctHiragana": "みずぶそく",
+            "alternatives": [
+                "すいふぞく",
+                "みずふぞく"
+            ]
+        },	
+        {
+            "id": 25,
+            "kanji": "姉",
+            "correctHiragana": "あね",
+            "alternatives": [
+                "あめ",
+                "あに"
+            ]
+        },	
+        {
+            "id": 26,
+            "kanji": "お姉さん",
+            "correctHiragana": "おねえさん",
+            "alternatives": [
+                "おにいさん",
+                "おねさん"
+            ]
+        },	
+        {
+            "id": 27,
+            "kanji": "姉妹",
+            "correctHiragana": "しまい",
+            "alternatives": [
+                "しねえ",
+                "しにい"
+            ]
+        },	
+        {
+            "id": 28,
+            "kanji": "姉妹都市",
+            "correctHiragana": "しまいとし",
+            "alternatives": [
+                "しねえはし",
+                "まいしどち"
+            ]
+        },	
+        {
+            "id": 29,
+            "kanji": "兄",
+            "correctHiragana": "あに",
+            "alternatives": [
+                "あね",
+                "あにい"
+            ]
+        },	
+        {
+            "id": 30,
+            "kanji": "お兄さん",
+            "correctHiragana": "おにいさん",
+            "alternatives": [
+                "おねえさん",
+                "おにさん"
+            ]
+        },	
+        {
+            "id": 31,
+            "kanji": "兄弟",
+            "correctHiragana": "きょうだい",
+            "alternatives": [
+                "きょだい",
+                "きゃたい"
+            ]
+        },	
+        {
+            "id": 32,
+            "kanji": "漢字",
+            "correctHiragana": "かんじ",
+            "alternatives": [
+                "かし",
+                "かんし"
+            ]
+        },	
+        {
+            "id": 33,
+            "kanji": "漢方薬",
+            "correctHiragana": "かんぽうやく",
+            "alternatives": [
+                "かんわじてん",
+                "かんかちもん"
+            ]
+        },	
+        {
+            "id": 34,
+            "kanji": "漢和辞典",
+            "correctHiragana": "かんわじてん",
+            "alternatives": [
+                "かんぽうやく",
+                "かんしきょう"
+            ]
+        },	
+        {
+            "id": 35,
+            "kanji": "卒業する",
+            "correctHiragana": "そつぎょうする",
+            "alternatives": [
+                "べんきょうする",
+                "しょくぎょうする"
+            ]
+        },	
+        {
+            "id": 36,
+            "kanji": "卒業式",
+            "correctHiragana": "そつぎょうしき",
+            "alternatives": [
+                "じゅうぎょうき",
+                "さんぎょうき"
+            ]
+        },	
+        {
+            "id": 37,
+            "kanji": "大卒",
+            "correctHiragana": "だいそつ",
+            "alternatives": [
+                "おおぞう",
+                "たいぞつ"
+            ]
+        },	
+        {
+            "id": 38,
+            "kanji": "工学",
+            "correctHiragana": "こうがく",
+            "alternatives": [
+                "えかく",
+                "こっかく"
+            ]
+        },	
+        {
+            "id": 39,
+            "kanji": "工事",
+            "correctHiragana": "こうじ",
+            "alternatives": [
+                "えこと",
+                "こうごと"
+            ]
+        },	
+        {
+            "id": 40,
+            "kanji": "工場",
+            "correctHiragana": "こうじょう",
+            "alternatives": [
+                "こうばい",
+                "こうちゃ"
+            ]
+        },	
+        {
+            "id": 41,
+            "kanji": "大工",
+            "correctHiragana": "だいく",
+            "alternatives": [
+                "おおこう",
+                "たいこう"
+            ]
+        },	
+        {
+            "id": 42,
+            "kanji": "研究",
+            "correctHiragana": "けんきゅう",
+            "alternatives": [
+                "げんきゅう",
+                "けんきゅ"
+            ]
+        },	
+        {
+            "id": 43,
+            "kanji": "研究者",
+            "correctHiragana": "けんきゅうしゃ",
+            "alternatives": [
+                "けんきゅじゃ",
+                "げんきゅちゃ"
+            ]
+        },	
+        {
+            "id": 44,
+            "kanji": "研修",
+            "correctHiragana": "けんしゅう",
+            "alternatives": [
+                "げんしゅ",
+                "けんちゅう"
+            ]
+        },	
+        {
+            "id": 45,
+            "kanji": "研ぐ",
+            "correctHiragana": "とぐ",
+            "alternatives": [
+                "のぐ",
+                "およぐ"
+            ]
+        },	
+        {
+            "id": 46,
+            "kanji": "探究",
+            "correctHiragana": "たんきゅう",
+            "alternatives": [
+                "けんきゅう",
+                "まんきゅ"
+            ]
+        },	
+        {
+            "id": 47,
+            "kanji": "究める",
+            "correctHiragana": "きわめる",
+            "alternatives": [
+                "きまめる",
+                "きゅうめる"
+            ]
+        },	
+        {
+            "id": 48,
+            "kanji": "質問",
+            "correctHiragana": "しつもん",
+            "alternatives": [
+                "もんだい",
+                "きつもん"
+            ]
+        },	
+        {
+            "id": 49,
+            "kanji": "質がいい",
+            "correctHiragana": "しつがいい",
+            "alternatives": [
+                "はながいい",
+                "そんがいいい"
+            ]
+        },	
+        {
+            "id": 50,
+            "kanji": "素質",
+            "correctHiragana": "そしつ",
+            "alternatives": [
+                "そして",
+                "そしみ"
+            ]
+        },	
+        {
+            "id": 51,
+            "kanji": "質屋",
+            "correctHiragana": "しちや",
+            "alternatives": [
+                "しちゃ",
+                "しつちや"
+            ]
+        },	
+        {
+            "id": 52,
+            "kanji": "問題",
+            "correctHiragana": "もんだい",
+            "alternatives": [
+                "しゅくだい",
+                "まんだい"
+            ]
+        },	
+        {
+            "id": 53,
+            "kanji": "訪問",
+            "correctHiragana": "ほうもん",
+            "alternatives": [
+                "しきもん",
+                "たぶもん"
+            ]
+        },	
+        {
+            "id": 54,
+            "kanji": "問う",
+            "correctHiragana": "とう",
+            "alternatives": [
+                "あう",
+                "たう"
+            ]
+        },	
+        {
+            "id": 55,
+            "kanji": "多い",
+            "correctHiragana": "おおい",
+            "alternatives": [
+                "おもい",
+                "とおい"
+            ]
+        },	
+        {
+            "id": 56,
+            "kanji": "多分",
+            "correctHiragana": "たぶん",
+            "alternatives": [
+                "おおふん",
+                "だふん"
+            ]
+        },	
+        {
+            "id": 57,
+            "kanji": "〜の多く",
+            "correctHiragana": "〜のおおく",
+            "alternatives": [
+                "〜のたく",
+                "〜のおもく"
+            ]
+        },	
+        {
+            "id": 58,
+            "kanji": "多数決",
+            "correctHiragana": "たすうけつ",
+            "alternatives": [
+                "おおたいせつ",
+                "だすいげつ"
+            ]
+        }
+	]
+}

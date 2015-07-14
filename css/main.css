@@ -1,3 +1,21 @@
+/* CSS3 pseudo-element */
 ::selection {
 	background: #ffbad2;
+}
+
+/* CSS score (0, 0, 2, 0) */
+.large-3 .overlay {
+	position: absolute;
+	opacity: 0;
+	top: 0px;
+	height: 100%;
+	width: 100%;
+	z-index: 2;
+}
+
+/* CSS score (0, 0, 1, 1) */
+form.chapter-form {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
 }
