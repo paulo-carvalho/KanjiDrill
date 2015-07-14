@@ -27,7 +27,7 @@
     </div>
 
     <div class="row game-content">
-        <div class="large-9 columns">
+        <div class="small-12 medium-8 large-9 columns">
             <div id="first-container" class="panel">
                 <h3>Kanji <span id="kanjiNumber"></span>/20</h3>
 
@@ -36,12 +36,13 @@
 
                 <p>Which of the following hiragana is correct?</p>
 
+                <!-- Where correct/incorrect messages appear -->
                 <p class="text-center" id="feedbackAnswer"></p>
             </div>
         </div>
 
         <!-- Hiragana options -->
-        <div class="large-3 columns">
+        <div class="small-12 medium-4 large-3 columns">
             <a id="alternatives01" class="button large secondary expand" role="button" href="#"></a>
             <a id="alternatives02" class="button large secondary expand" role="button" href="#"></a>
             <a id="alternatives03" class="button large secondary expand" role="button" href="#"></a>
@@ -319,10 +320,10 @@
                     // Shows that is a correct answer
                     $(this).removeClass("secondary alert").addClass("success");
 
-                    $("#feedbackAnswer").text("Correct!").stop(true, true).fadeOut(50).fadeIn(1500).fadeOut(1500);
+                    $("#feedbackAnswer").text("Correct!").stop(true, true).fadeOut(50).fadeIn(1000).fadeOut(1000);
 
                     // "Refresh" page. The delay is to show the correct answer to user.
-                    window.setTimeout(updateQuestion, 3000, (++index));
+                    window.setTimeout(updateQuestion, 2000, (++index));
 
                     return false;
                 });
@@ -337,12 +338,20 @@
                     // Shows the correct answer
                     $(".correct").removeClass("secondary").addClass("success");
 
-                    $("#feedbackAnswer").text("Inorrect! The correct answer is "+json.data[numbers[index-1]].correctHiragana + " ")
-                        .append("<a class='button small' role='button' href='#'>Next &gt;&gt;</a>")
-                        .stop(true, true).fadeOut(50).fadeIn(500).delay(4000).fadeOut(500);
+                    $("#feedbackAnswer").text("Inorrect! The correct answer is ")
+                        .append("<p>"+json.data[numbers[index-1]].correctHiragana+"</p><a id='nextKanji' class='button small' role='button' href='#'>Next &gt;&gt;</a>")
+                        .stop(true, true).fadeOut(50).fadeIn(500);
 
-                    // "Refresh" page. The delay is to show the correct answer to user.
-                    window.setTimeout(updateQuestion, 5000, (++index));
+                    $("#nextKanji").click(function() {
+                        // Make button disappear
+                        $("#feedbackAnswer").fadeOut(500);
+
+                        // "Refresh" page. The delay is to show the correct answer to user.
+                        updateQuestion(++index);
+
+                        // To stay at same position on page
+                        return false;
+                    });
 
                     return false;
                 });
