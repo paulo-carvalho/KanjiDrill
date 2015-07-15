@@ -320,10 +320,21 @@
                     // Shows that is a correct answer
                     $(this).removeClass("secondary alert").addClass("success");
 
-                    $("#feedbackAnswer").text("Correct!").stop(true, true).fadeOut(50).fadeIn(1000).fadeOut(1000);
+                    $("#feedbackAnswer").text("はい, よくできました。")
+                        .append(" <a id='nextKanji' class='button small' role='button' href='#'>Next &gt;&gt;</a>")
+                        .stop(true, true).fadeOut(50).fadeIn(500);
 
-                    // "Refresh" page. The delay is to show the correct answer to user.
-                    window.setTimeout(updateQuestion, 2000, (++index));
+                    // Go to next kanji
+                    $("#nextKanji").click(function() {
+                        // Make button disappear
+                        $("#feedbackAnswer").fadeOut(250);
+
+                        // "Refresh" page. The delay is to show the correct answer to user.
+                        updateQuestion(++index);
+
+                        // To stay at same position on page
+                        return false;
+                    });
 
                     return false;
                 });
@@ -338,13 +349,15 @@
                     // Shows the correct answer
                     $(".correct").removeClass("secondary").addClass("success");
 
-                    $("#feedbackAnswer").text("Inorrect! The correct answer is ")
+                    // .fadeOut(50) is a hack to message appear in IE8+
+                    $("#feedbackAnswer").text("いいえ, ちがいます。正しい 答え: ")
                         .append("<p>"+json.data[numbers[index-1]].correctHiragana+"</p><a id='nextKanji' class='button small' role='button' href='#'>Next &gt;&gt;</a>")
                         .stop(true, true).fadeOut(50).fadeIn(500);
 
+                    // Go to next kanji
                     $("#nextKanji").click(function() {
                         // Make button disappear
-                        $("#feedbackAnswer").fadeOut(500);
+                        $("#feedbackAnswer").fadeOut(250);
 
                         // "Refresh" page. The delay is to show the correct answer to user.
                         updateQuestion(++index);
