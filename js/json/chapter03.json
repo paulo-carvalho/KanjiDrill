@@ -440,10 +440,10 @@
         {
             "id": 49,
             "kanji": "十歳",
-            "correctHiragana": "じゅうさい",
+            "correctHiragana": "じゅっさい／じっさい",
             "alternatives": [
                 "じさい",
-                "じゅっさい"
+                "じゅうさい"
             ]
         },
         {
@@ -613,8 +613,8 @@
             "kanji": "時々",
             "correctHiragana": "ときどき",
             "alternatives": [
-                "じま",
-                "ときま"
+                "じじ",
+                "ときとき"
             ]
         },
         {

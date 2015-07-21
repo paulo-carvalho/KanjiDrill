@@ -47,7 +47,7 @@
             "correctHiragana": "とうよう",
             "alternatives": [
                 "どうかい",
-                "ひがゆう"
+                "ひがしよう"
             ]
         },
         {
@@ -73,8 +73,8 @@
             "kanji": "北西",
             "correctHiragana": "ほくせい",
             "alternatives": [
-                "せいにし",
-                "はんにし"
+                "きたせい",
+                "きたにし"
             ]
         },
         {
@@ -83,7 +83,7 @@
             "correctHiragana": "かんさい",
             "alternatives": [
                 "だんせい",
-                "こくざい"
+                "かんせい"
             ]
         },
         {
@@ -91,8 +91,8 @@
             "kanji": "西洋",
             "correctHiragana": "せいよう",
             "alternatives": [
-                "にしなと",
-                "にしはん"
+                "さいよう",
+                "にしよう"
             ]
         },
         {
@@ -181,7 +181,7 @@
             "kanji": "北海道",
             "correctHiragana": "ほっかいどう",
             "alternatives": [
-                "きとうみかい",
+                "ほかいどう",
                 "せいかいど"
             ]
         },
@@ -199,8 +199,8 @@
             "kanji": "口",
             "correctHiragana": "くち",
             "alternatives": [
-                "こじ",
-                "かり"
+                "ぐち",
+                "こう"
             ]
         },
         {
@@ -217,7 +217,7 @@
             "kanji": "入り口／入口",
             "correctHiragana": "いりぐち",
             "alternatives": [
-                "ひりこう",
+                "はいりこう",
                 "いっりくち"
             ]
         },
@@ -235,7 +235,7 @@
             "kanji": "出口",
             "correctHiragana": "でぐち",
             "alternatives": [
-                "はいりぐち",
+                "だぐち",
                 "てこう"
             ]
         },
@@ -325,8 +325,8 @@
             "kanji": "左折",
             "correctHiragana": "させつ",
             "alternatives": [
-                "ちです",
-                "よしゅうつ"
+                "うせつ",
+                "きせつ"
             ]
         },
         {
@@ -442,7 +442,7 @@
             "kanji": "大変な",
             "correctHiragana": "たいへんな",
             "alternatives": [
-                "おおぜんな",
+                "おおへんな",
                 "だいかいな"
             ]
         },
@@ -497,7 +497,7 @@
             "correctHiragana": "がくぶ",
             "alternatives": [
                 "かくや",
-                "がっくす"
+                "がっぶ"
             ]
         },
         {
@@ -514,8 +514,8 @@
             "kanji": "外国人",
             "correctHiragana": "がいこくじん",
             "alternatives": [
-                "おおはくかん",
-                "だいじっかん"
+                "そとこくじん",
+                "がいこくにん"
             ]
         },
         {
@@ -568,8 +568,8 @@
             "kanji": "国会",
             "correctHiragana": "こっかい",
             "alternatives": [
-                "うみそと",
-                "うみがい"
+                "ごくかい",
+                "くにかい"
             ]
         }
     ]

@@ -55,8 +55,8 @@
             "kanji": "新聞",
             "correctHiragana": "しんぶん",
             "alternatives": [
-                "ざっし",
-                "えほん"
+                "じんぶん",
+                "しんふん"
             ]
         },
         {
@@ -199,7 +199,7 @@
             "kanji": "電車",
             "correctHiragana": "でんしゃ",
             "alternatives": [
-                "でんくらま",
+                "でんくるま",
                 "てんじゃ"
             ]
         },
@@ -227,12 +227,12 @@
             "correctHiragana": "でんち",
             "alternatives": [
                 "でんり",
-                "てんちょ"
+                "てんち"
             ]
         },
         {
             "id": 26,
-            "kanji": "電子獅子",
+            "kanji": "電子辞書",
             "correctHiragana": "でんしじしょ",
             "alternatives": [
                 "でんこじこ",
@@ -262,8 +262,8 @@
             "kanji": "車いす",
             "correctHiragana": "くるまいす",
             "alternatives": [
-                "まくらういす",
-                "はくらいす"
+                "ぐるまいす",
+                "しゃいす"
             ]
         },
         {
@@ -317,7 +317,7 @@
             "correctHiragana": "げんごがく",
             "alternatives": [
                 "けんこがっく",
-                "にし"
+                "ことごがく"
             ]
         },
         {
@@ -326,7 +326,7 @@
             "correctHiragana": "ほうげん",
             "alternatives": [
                 "ぼうけん",
-                "ほけん"
+                "ほうごん"
             ]
         },
         {
@@ -334,8 +334,8 @@
             "kanji": "言葉",
             "correctHiragana": "ことば",
             "alternatives": [
-                "けいご",
-                "はとご"
+                "いうば",
+                "ことは"
             ]
         },
         {
@@ -353,7 +353,7 @@
             "correctHiragana": "どくしょ",
             "alternatives": [
                 "よむじょ",
-                "けいじょ"
+                "よしょ"
             ]
         },
         {
@@ -361,7 +361,7 @@
             "kanji": "読み物",
             "correctHiragana": "よみもの",
             "alternatives": [
-                "けいみこと",
+                "どくみもの",
                 "のみもの"
             ]
         },
@@ -370,7 +370,7 @@
             "kanji": "思う",
             "correctHiragana": "おもう",
             "alternatives": [
-                "あまう",
+                "あもう",
                 "わろう"
             ]
         },
@@ -407,7 +407,7 @@
             "correctHiragana": "じじょ",
             "alternatives": [
                 "しおんな",
-                "たいじゅ"
+                "つぎじょ"
             ]
         },
         {
@@ -424,7 +424,7 @@
             "kanji": "次回",
             "correctHiragana": "じかい",
             "alternatives": [
-                "しあい",
+                "しかい",
                 "じわい"
             ]
         },

@@ -11,7 +11,7 @@
             "correctHiragana": "とうきょう",
             "alternatives": [
                 "とおきょ",
-                "とっきょう"
+                "ときょ"
             ]
         },
         {
@@ -35,7 +35,7 @@
         {
             "id": 4,
             "kanji": "上京する",
-            "correctHiragana": "じゅうきょうする",
+            "correctHiragana": "じょうきょうする",
             "alternatives": [
                 "うえきょうする",
                 "じょうきようする"
@@ -98,9 +98,9 @@
         {
             "id": 11,
             "kanji": "小学校",
-            "correctHiragana": "しゅうがっこう",
+            "correctHiragana": "しょうがっこう",
             "alternatives": [
-                "ちいがこう",
+                "ちいがっこう",
                 "ちゅうがこう"
             ]
         },
@@ -359,10 +359,10 @@
         {
             "id": 40,
             "kanji": "毎年",
-            "correctHiragana": "まいねん",
+            "correctHiragana": "まいねん／まいとし",
             "alternatives": [
                 "せいとし",
-                "まいとし"
+                "まいと"
             ]
         },
         {
@@ -395,7 +395,7 @@
         {
             "id": 44,
             "kanji": "文学",
-            "correctHiragana": "ぶんかく",
+            "correctHiragana": "ぶんがく",
             "alternatives": [
                 "ぷんかっく",
                 "ぶんがっく"
@@ -424,8 +424,8 @@
             "kanji": "文化",
             "correctHiragana": "ぶんか",
             "alternatives": [
-                "ぶがく",
-                "ふじ"
+                "もんか",
+                "ぶんけ"
             ]
         },
         {
@@ -497,7 +497,7 @@
             "correctHiragana": "いれる",
             "alternatives": [
                 "はれる",
-                "はいれる"
+                "はいられる"
             ]
         },
         {

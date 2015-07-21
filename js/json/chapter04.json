@@ -19,7 +19,7 @@
             "kanji": "日曜日",
             "correctHiragana": "にちようび",
             "alternatives": [
-                "にっゆうひ",
+                "にっようび",
                 "ひゆうにち"
             ]
         },
@@ -119,7 +119,7 @@
             "correctHiragana": "ひとりで",
             "alternatives": [
                 "いちにんで",
-                "いっにん"
+                "いっにんで"
             ]
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "id": 30,
-            "kanji": "水稲",
+            "kanji": "水道",
             "correctHiragana": "すいどう",
             "alternatives": [
                 "ずいとう",
@@ -415,8 +415,8 @@
             "kanji": "屋上",
             "correctHiragana": "おくじょう",
             "alternatives": [
-                "せいど",
-                "でうえ"
+                "やじょう",
+                "おくうえ"
             ]
         },
         {
@@ -442,7 +442,7 @@
             "kanji": "地下鉄",
             "correctHiragana": "ちかてつ",
             "alternatives": [
-                "ちしかつ",
+                "ちしたつ",
                 "りしたぎん"
             ]
         },

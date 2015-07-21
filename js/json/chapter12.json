@@ -34,7 +34,7 @@
             "correctHiragana": "むかしむかし",
             "alternatives": [
                 "むかしばなし",
-                "むかま"
+                "むかしぶかし"
             ]
         },
         {
@@ -78,8 +78,8 @@
             "kanji": "神社",
             "correctHiragana": "じんじゃ",
             "alternatives": [
-                "しんとう",
-                "こうじん"
+                "しんじゃ",
+                "じんしゃ"
             ]
         },
         {
@@ -115,7 +115,7 @@
             "correctHiragana": "はやおきする",
             "alternatives": [
                 "はやくおきする",
-                "あさかきする"
+                "そうきする"
             ]
         },
         {

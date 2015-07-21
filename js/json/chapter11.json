@@ -24,7 +24,7 @@
             "kanji": "手",
             "correctHiragana": "て",
             "alternatives": [
-                "き",
+                "で",
                 "も"
             ]
         },
@@ -123,8 +123,8 @@
             "kanji": "近く",
             "correctHiragana": "ちかく",
             "alternatives": [
-                "たかい",
-                "ながい"
+                "たかく",
+                "ながく"
             ]
         },
         {
@@ -141,8 +141,8 @@
             "kanji": "最近",
             "correctHiragana": "さいきん",
             "alternatives": [
-                "らいかく",
-                "まいかん"
+                "さいちか",
+                "さっきん"
             ]
         },
         {
@@ -195,8 +195,8 @@
             "kanji": "文明",
             "correctHiragana": "ぶんめい",
             "alternatives": [
-                "うはれ",
-                "ぶはれ"
+                "もんめい",
+                "ぶんみょう"
             ]
         }
         {
@@ -213,8 +213,8 @@
             "kanji": "病気",
             "correctHiragana": "びょうき",
             "alternatives": [
-                "ごごびょういん",
-                "ぎゅうび"
+                "ひょうき",
+                "びようき"
             ]
         },
         {
@@ -231,8 +231,8 @@
             "kanji": "急病",
             "correctHiragana": "きゅうびょう",
             "alternatives": [
-                "らんびょ",
-                "にゅんぎょう"
+                "じゅうびょう",
+                "きょうびょう"
             ]
         },
         {
@@ -240,8 +240,8 @@
             "kanji": "病院",
             "correctHiragana": "びょういん",
             "alternatives": [
-                "らんびょ",
-                "にゅんぎょう"
+                "びょうき",
+                "びよういん"
             ]
         },
         {
@@ -249,8 +249,8 @@
             "kanji": "大学院",
             "correctHiragana": "だいがくいん",
             "alternatives": [
-                "たいふぁっくえん",
-                "たいがくかん"
+                "だいがっいん",
+                "たいがくいん"
             ]
         },
         {
@@ -312,8 +312,8 @@
             "kanji": "漫画",
             "correctHiragana": "まんが",
             "alternatives": [
-                "とかく",
-                "ぬかく"
+                "まんかく",
+                "がが"
             ]
         },
         {
@@ -357,8 +357,8 @@
             "kanji": "歌詞",
             "correctHiragana": "かし",
             "alternatives": [
-                "うたち",
-                "かっもき"
+                "うたし",
+                "かしゅ"
             ]
         },
         {
@@ -400,10 +400,10 @@
         {
             "id": 45,
             "kanji": "いろいろな所",
-            "correctHiragana": "ところ",
+            "correctHiragana": "いろいろなところ",
             "alternatives": [
-                "ばしょ",
-                "しょうば"
+                "いろいろなばしょ",
+                "いろいろなしょ"
             ]
         },
         {
@@ -438,8 +438,8 @@
             "kanji": "勉強する",
             "correctHiragana": "べんきょうする",
             "alternatives": [
-                "とくつよする",
-                "へんかくする"
+                "べんきょする",
+                "へんきょうする"
             ]
         },
         {
@@ -502,7 +502,7 @@
             "correctHiragana": "ゆうめい",
             "alternatives": [
                 "ようめん",
-                "なまえ"
+                "ゆめい"
             ]
         },
         {
