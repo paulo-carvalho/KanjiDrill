@@ -1,5 +1,9 @@
 {
-    "chapter": 12 ,
+    "genkiBook": 1,
+    "chapter": 12,
+    "recommendedChapters": [
+        "11", "13", "14"
+    ],
     "data": [
         {
             "id": 1,

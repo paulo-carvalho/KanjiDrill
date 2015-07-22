@@ -1,7 +1,13 @@
 {
+    "genkiBook": 2,
     "chapter": 14,
+    "recommendedChapters": [
+        "13",
+        "15",
+        "16"
+    ],
     "data": [
-        { 
+        {
             "id": 1,
             "kanji": "彼",
             "correctHiragana": "かれ",
@@ -99,7 +105,7 @@
                 "りゅうす",
                 "るうだい"
             ]
-        },　
+        },
         {
             "id": 12,
             "kanji": "家族",
