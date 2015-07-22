@@ -321,7 +321,8 @@
                     $(this).removeClass("secondary alert").addClass("success");
 
                     $("#feedbackAnswer").text("はい, よくできました。")
-                        .append(" <a id='nextKanji' class='button small' role='button' href='#'>Next &gt;&gt;</a>")
+                        .append("<p></p>"
+                            + "<a id='nextKanji' class='button small' role='button' href='#'>Next &gt;&gt;</a>")
                         .stop(true, true).fadeOut(50).fadeIn(500);
 
                     // Go to next kanji
@@ -350,8 +351,10 @@
                     $(".correct").removeClass("secondary").addClass("success");
 
                     // .fadeOut(50) is a hack to message appear in IE8+
-                    $("#feedbackAnswer").text("いいえ, ちがいます。正しい 答え: " + json.data[numbers[index-1]].correctHiragana)
-                        .append("</p><a id='nextKanji' class='button small' role='button' href='#'>Next &gt;&gt;</a>")
+                    $("#feedbackAnswer").text("いいえ, ちがいます。正しい 答え: ")
+                        .append("<p>" + json.data[numbers[index-1]].correctHiragana + "</p>"
+                            + "<p></p>"
+                            + "<a id='nextKanji' class='button small' role='button' href='#'>Next &gt;&gt;</a>")
                         .stop(true, true).fadeOut(50).fadeIn(500);
 
                     // Go to next kanji
