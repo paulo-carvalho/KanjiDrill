@@ -20,6 +20,13 @@
 </head>
 <body>
 
+    <audio id="audioCorrect" volume="0.5">
+        <source src="../music/correct.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="audioIncorrect" volume="0.5">
+        <source src="../music/wrong.mp3" type="audio/mpeg">
+    </audio>
+
     <div class="row">
         <div class="large-12 columns">
             <h1 id="h1-title">クイズ: げんき <span id="genkiNumber"></span>, 第 <span id="chapterNumber"></span></h1>
@@ -314,6 +321,8 @@
                     // User scores
                     score++;
 
+                    $("#audioCorrect").get(0).play();
+
                     // Overlays a transparent container to not allow "answer twice" bug
                     $(".overlay").removeClass("hide");
 
@@ -342,6 +351,8 @@
 
                 // Action for wrong answer
                 $(".incorrect").click(function() {
+                    $("#audioIncorrect").get(0).play();
+
                     // Overlays a transparent container to not allow "answer twice" bug
                     $(".overlay").removeClass("hide");
 
