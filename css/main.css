@@ -22,8 +22,8 @@ form.chapter-form {
 
 /* CSS score (0, 0, 1, 1) */
 div.gueisha {
-	background-image: url('../img/gueisha_bg.jpg');
-	background-repeat: no-repeat;
-	background-position: right;
-	background-size: cover;
+	background-image: url('../img/gueisha_bg.png'), url('../img/sakura_bg.png');
+	background-repeat: no-repeat, repeat-x;
+	background-position: right bottom, center bottom;
+	background-size: contain, contain;
 }
