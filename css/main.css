@@ -3,6 +3,12 @@
 	background: #ffbad2;
 }
 
+/* CSS score (0, 0, 1, 1) */
+body.lobby {
+	background-image: url('../img/wallpaper.jpg');
+	background-repeat: repeat;
+}
+
 /* CSS score (0, 0, 2, 0) */
 .large-3 .overlay {
 	position: absolute;
@@ -26,4 +32,17 @@ div.gueisha {
 	background-repeat: no-repeat, repeat-x;
 	background-position: right bottom, center bottom;
 	background-size: contain, contain;
+}
+
+/* CSS Score (0, 0, 1, 0) */
+.progress {
+	height: 36px;
+}
+
+/* CSS Score (0, 0, 2, 0) */
+.progress .meter {
+	background-image: url('../img/doraemon.gif');
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: contain;
 }
