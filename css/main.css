@@ -20,12 +20,11 @@ form.chapter-form {
 	border: 0px;
 }
 
-
- 
-#teste{  
-width: 400 px; 
-height: 400 px; 
-background-image:url(img\wallpaper.jpg); 
-background-repeat:repeat; 
-} 
+/* CSS score (0, 0, 1, 1) */
+div.gueisha {
+	background-image: url('../img/gueisha_bg.png'), url('../img/sakura_bg.png');
+	background-repeat: no-repeat, repeat-x;
+	background-position: right bottom, center bottom;
+	background-size: contain, contain;
+}
 
