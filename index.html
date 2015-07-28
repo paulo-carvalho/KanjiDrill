@@ -24,8 +24,8 @@
 
 <body class="lobby">
     <!-- Playback sound. TODO: add mute/unmute option -->
-    <audio autoplay="autoplay" loop="true" volume="0.5">
-        <source src="music/lobby.wav" type="audio/wav">
+    <audio id="music-lobby" autoplay="autoplay" loop="true" volume="0.5">
+        <source src="sound/lobby.wav" type="audio/wav">
     </audio>
 
     <div class="row">
@@ -33,7 +33,7 @@
             <h1>漢字　ドリル　ようこそ</h1>
         </div>
         <div class="large-1 medium-1 small-2 columns">
-            <h1><i class="fi-volume text-right"></i></h1>
+            <h1><i class="fi-volume text-right music-volume"></i></h1>
         </div>
     </div>
 
@@ -197,6 +197,16 @@
     <script src="js/content.js"></script>
     <script>
         $(document).foundation();
+
+        $(".music-volume").click(function() {
+            if($(this).hasClass("fi-volume")) {
+                $(this).removeClass("fi-volume").addClass("fi-volume-strike");
+                document.getElementById("music-lobby").pause();
+            } else {
+                $(this).removeClass("fi-volume-strike").addClass("fi-volume");
+                document.getElementById("music-lobby").play();
+            }
+        });
     </script>
 </body>
 </html>
