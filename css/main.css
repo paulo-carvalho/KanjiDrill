@@ -52,11 +52,6 @@ i.music-volume {
 	cursor: pointer;
 }
 
-div.panel-opacity-70 {
-    background-image: url('../img/panel_bg.png');
-    background-repeat: repeat;
-    
-    border-color: #D8D8D8;
-    border-style: solid;
+form button {
     border-width: 1px;
 }
