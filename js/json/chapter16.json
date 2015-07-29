@@ -10,7 +10,7 @@
             "kanji": "子供",
             "correctHiragana": "こども",
             "alternatives": [
-                "のもも",
+                "しども",
                 "ことも"
             ]
         },
@@ -28,7 +28,7 @@
             "kanji": "提供",
             "correctHiragana": "ていきょう",
             "alternatives": [
-                "めいども",
+                "でいきょう",
                 "むいきょう"
             ]
         },
@@ -55,8 +55,8 @@
             "kanji": "世代",
             "correctHiragana": "せだい",
             "alternatives": [
-                "ちかい",
-                "せいだん"
+                "よだい",
+                "せいだい"
             ]
         },
         {
@@ -65,7 +65,7 @@
             "correctHiragana": "よのなか",
             "alternatives": [
                 "せいのちゅう",
-                "せのちゅう"
+                "せのなか"
             ]
         },
         {
@@ -82,7 +82,7 @@
             "kanji": "政界",
             "correctHiragana": "せいかい",
             "alternatives": [
-                "めいがい",
+                "せかい",
                 "とんかい"
             ]
         },
@@ -110,7 +110,7 @@
             "correctHiragana": "あんぜん",
             "alternatives": [
                 "あいしん",
-                "やげん"
+                "やすぜん"
             ]
         },
         {
@@ -118,8 +118,8 @@
             "kanji": "全国",
             "correctHiragana": "ぜんこく",
             "alternatives": [
-                "せくに",
-                "こくに"
+                "ぜんくに",
+                "ぜんごく"
             ]
         },
         {
@@ -145,7 +145,7 @@
             "kanji": "部屋",
             "correctHiragana": "へや",
             "alternatives": [
-                "ぶか",
+                "ぶや",
                 "ほんや"
             ]
         },
@@ -155,7 +155,7 @@
             "correctHiragana": "テニスぶ",
             "alternatives": [
                 "テニスや",
-                "てにすか"
+                "テニスべ"
             ]
         },
         {
@@ -199,8 +199,8 @@
             "kanji": "開始",
             "correctHiragana": "かいし",
             "alternatives": [
-                "ため",
-                "のめ"
+                "たいし",
+                "かいはじ"
             ]
         },
         {
@@ -208,7 +208,7 @@
             "kanji": "毎週",
             "correctHiragana": "まいしゅう",
             "alternatives": [
-                "うみちゅう",
+                "うみしゅう",
                 "まいちゅう"
             ]
         },
@@ -226,8 +226,8 @@
             "kanji": "一週間",
             "correctHiragana": "いっしゅうかん",
             "alternatives": [
-                "いちちゅうもん",
-                "いしゅもん"
+                "いちしゅうかん",
+                "いしゅかん"
             ]
         },
         {
@@ -235,8 +235,8 @@
             "kanji": "二週目",
             "correctHiragana": "にしゅうめ",
             "alternatives": [
-                "ふたちゅうだ",
-                "にしゅうぬ"
+                "ふたしゅうめ",
+                "にじゅうめ"
             ]
         },
         {
@@ -244,7 +244,7 @@
             "kanji": "週末",
             "correctHiragana": "しゅうまつ",
             "alternatives": [
-                "ちゅうき",
+                "じゅうまつ",
                 "しゅうかつ"
             ]
         },
@@ -316,8 +316,8 @@
             "kanji": "考古学",
             "correctHiragana": "こうこがく",
             "alternatives": [
-                "かんがとかく",
-                "かんがごかく"
+                "かんがこがく",
+                "こうごがく"
             ]
         },
         {
@@ -335,7 +335,7 @@
             "correctHiragana": "あける",
             "alternatives": [
                 "かける",
-                "ひらける"
+                "ひける"
             ]
         },
         {
@@ -433,7 +433,7 @@
             "kanji": "両方",
             "correctHiragana": "りょうほう",
             "alternatives": [
-                "りかた",
+                "りょうかた",
                 "ちゅほう"
             ]
         },
@@ -478,7 +478,7 @@
             "kanji": "運命",
             "correctHiragana": "うんめい",
             "alternatives": [
-                "てんかい",
+                "てんめい",
                 "うんまい"
             ]
         },
@@ -497,7 +497,7 @@
             "correctHiragana": "うごく",
             "alternatives": [
                 "とごく",
-                "れいこく"
+                "どうぐ"
             ]
         },
         {
@@ -506,7 +506,7 @@
             "correctHiragana": "じどうしゃ",
             "alternatives": [
                 "じてんしゃ",
-                "じむくるま"
+                "しどうしゃ"
             ]
         },
         {
@@ -515,7 +515,7 @@
             "correctHiragana": "どうぶつ",
             "alternatives": [
                 "うんもの",
-                "かいもの"
+                "こうぶつ"
             ]
         },
         {
@@ -524,7 +524,7 @@
             "correctHiragana": "どうし",
             "alternatives": [
                 "とうじ",
-                "もうじ"
+                "とうし"
             ]
         },
         {
@@ -559,8 +559,8 @@
             "kanji": "キリスト教",
             "correctHiragana": "キリストきょう",
             "alternatives": [
-                "クリストじょう",
-                "クリストちゅう"
+                "キリストじょう",
+                "キリストぎょう"
             ]
         },
         {
@@ -575,10 +575,10 @@
         {
             "id": 64,
             "kanji": "研究室",
-            "correctHiragana": "けんきゅしつ",
+            "correctHiragana": "けんきゅうしつ",
             "alternatives": [
-                "げんきゅじつ",
-                "けんきゅうしつ"
+                "げんきゅうしつ",
+                "けんきゅしつ"
             ]
         },
         {
@@ -586,8 +586,8 @@
             "kanji": "地下室",
             "correctHiragana": "ちかしつ",
             "alternatives": [
-                "ちしたきょう",
-                "ちべたじつ"
+                "じかしつ",
+                "ちげしつ"
             ]
         },
         {
@@ -595,8 +595,8 @@
             "kanji": "待合室",
             "correctHiragana": "まちあいしつ",
             "alternatives": [
-                "ときかいじつ",
-                "まてまいじつ"
+                "まつあいしつ",
+                "たいごうしつ"
             ]
         }
     ]

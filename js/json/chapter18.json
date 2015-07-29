@@ -19,7 +19,7 @@
             "kanji": "目",
             "correctHiragana": "め",
             "alternatives": [
-                "みみ",
+                "ひ",
                 "しろ"
             ]
         },
@@ -38,7 +38,7 @@
             "correctHiragana": "にばんめ",
             "alternatives": [
                 "ふたばんもく",
-                "にめいもく"
+                "にばんもく"
             ]
         },
         {
@@ -55,7 +55,7 @@
             "kanji": "現代的",
             "correctHiragana": "げんだいてき",
             "alternatives": [
-                "ねいげんてき",
+                "けんだいてき",
                 "だいげんてき"
             ]
         },
@@ -83,7 +83,7 @@
             "correctHiragana": "ちからしごと",
             "alternatives": [
                 "かしごと",
-                "ちじどう"
+                "りょくしごと"
             ]
         },
         {
@@ -101,7 +101,7 @@
             "correctHiragana": "どりょく",
             "alternatives": [
                 "きょうりょく",
-                "おぎんりょく"
+                "どりき"
             ]
         },
         {
@@ -110,7 +110,7 @@
             "correctHiragana": "りきし",
             "alternatives": [
                 "ちからせい",
-                "かどん"
+                "りょくし"
             ]
         },
         {
@@ -181,7 +181,7 @@
             "kanji": "食堂",
             "correctHiragana": "しょくどう",
             "alternatives": [
-                "たべでん",
+                "たべどう",
                 "じょうどう"
             ]
         },
@@ -190,7 +190,7 @@
             "kanji": "公会堂",
             "correctHiragana": "こうかいどう",
             "alternatives": [
-                "こうわいとう",
+                "こうあいどう",
                 "こがいとう"
             ]
         },
@@ -217,7 +217,7 @@
             "kanji": "教授",
             "correctHiragana": "きょうじゅ",
             "alternatives": [
-                "ぎょうかん",
+                "ぎょうじゅ",
                 "きょうない"
             ]
         },
@@ -250,11 +250,11 @@
         },
         {
             "id": 28,
-            "kanji": "セービス業",
-            "correctHiragana": "セービスぎょう",
+            "kanji": "サービス業",
+            "correctHiragana": "サービスぎょう",
             "alternatives": [
-                "セービスじゅ",
-                "セービスまん"
+                "サービスじゅ",
+                "サービスきょう"
             ]
         },
         {
@@ -262,7 +262,7 @@
             "kanji": "試験",
             "correctHiragana": "しけん",
             "alternatives": [
-                "じゅぎょう",
+                "じけん",
                 "しぎょう"
             ]
         },
@@ -299,7 +299,7 @@
             "correctHiragana": "じっけん",
             "alternatives": [
                 "みげん",
-                "こいけん"
+                "じつけん"
             ]
         },
         {
@@ -308,7 +308,7 @@
             "correctHiragana": "けいけん",
             "alternatives": [
                 "かいげん",
-                "そいけん"
+                "きょうけん"
             ]
         },
         {
@@ -331,11 +331,11 @@
         },
         {
             "id": 37,
-            "kanji": "貸出",
+            "kanji": "貸し出し",
             "correctHiragana": "かしだし",
             "alternatives": [
                 "かしでし",
-                "かだし"
+                "かしたし"
             ]
         },
         {
@@ -343,8 +343,8 @@
             "kanji": "賃貸マンション",
             "correctHiragana": "ちんたいマンション",
             "alternatives": [
-                "だいかしマンション",
-                "かいかしマンション"
+                "ちんかしマンション",
+                "かしたいマンション"
             ]
         },
         {
@@ -352,8 +352,8 @@
             "kanji": "図書館",
             "correctHiragana": "としょかん",
             "alternatives": [
-                "りょかかん",
-                "ちがいかん"
+                "ずしょかん",
+                "どしょかん"
             ]
         },
         {
@@ -361,8 +361,8 @@
             "kanji": "映画館",
             "correctHiragana": "えいがかん",
             "alternatives": [
-                "めいとうかん",
-                "かいこくかん"
+                "えいごかん",
+                "えいかかん"
             ]
         },
         {
@@ -379,8 +379,8 @@
             "kanji": "大使館",
             "correctHiragana": "たいしかん",
             "alternatives": [
-                "おおだいかん",
-                "おかいかん"
+                "おおしかん",
+                "だいしかん"
             ]
         },
         {
@@ -433,7 +433,7 @@
             "kanji": "下宿",
             "correctHiragana": "げしゅく",
             "alternatives": [
-                "したちゅう",
+                "かしゅく",
                 "へたしゅうく"
             ]
         },
@@ -461,7 +461,7 @@
             "correctHiragana": "もんだい",
             "alternatives": [
                 "しゅくだい",
-                "まんだい"
+                "かんだい"
             ]
         },
         {
@@ -470,7 +470,7 @@
             "correctHiragana": "わだい",
             "alternatives": [
                 "はなかい",
-                "なはしだい"
+                "はなだい"
             ]
         },
         {

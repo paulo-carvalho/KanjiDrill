@@ -12,8 +12,8 @@
             "kanji": "彼",
             "correctHiragana": "かれ",
             "alternatives": [
-                "だれ",
-                "どの"
+                "か",
+                "かの"
             ]
         },
         {
@@ -21,7 +21,7 @@
             "kanji": "彼女",
             "correctHiragana": "かのじょ",
             "alternatives": [
-                "だれおんな",
+                "かのおんな",
                 "だれじょ"
             ]
         },
@@ -31,7 +31,7 @@
             "correctHiragana": "かれら",
             "alternatives": [
                 "だれら",
-                "おまえら"
+                "かのら"
             ]
         },
         {
@@ -39,7 +39,7 @@
             "kanji": "時代",
             "correctHiragana": "じだい",
             "alternatives": [
-                "ときげん",
+                "とだい",
                 "じさい"
             ]
         },
@@ -57,7 +57,7 @@
             "kanji": "九十年代",
             "correctHiragana": "きゅうじゅうねんだい",
             "alternatives": [
-                "きゅじゅとしげん",
+                "きゅうじゅうとしだい",
                 "くじゅねんさい"
             ]
         },
@@ -75,7 +75,7 @@
             "kanji": "代わりに",
             "correctHiragana": "かわりに",
             "alternatives": [
-                "さいわりに",
+                "よわりに",
                 "けいわりに"
             ]
         },
@@ -111,8 +111,8 @@
             "kanji": "家族",
             "correctHiragana": "かぞく",
             "alternatives": [
-                "うちかぞ",
-                "かそほ"
+                "いえぞく",
+                "かそく"
             ]
         },
         {
@@ -120,7 +120,7 @@
             "kanji": "民族",
             "correctHiragana": "みんぞく",
             "alternatives": [
-                "こくそく",
+                "みんそく",
                 "なべそく"
             ]
         },
@@ -129,7 +129,7 @@
             "kanji": "水族館",
             "correctHiragana": "すいぞくかん",
             "alternatives": [
-                "みずそくけい",
+                "みずぞくかん",
                 "すいばくかん"
             ]
         },
@@ -229,7 +229,7 @@
             "correctHiragana": "たいせつな",
             "alternatives": [
                 "おおきな",
-                "だいきな"
+                "だいせつな"
             ]
         },
         {
@@ -253,9 +253,9 @@
         {
             "id": 28,
             "kanji": "英会話",
-            "correctHiragana": "えいかわ",
+            "correctHiragana": "えいかいわ",
             "alternatives": [
-                "えいがし",
+                "えいあいわ",
                 "えいがわ"
             ]
         },
@@ -265,7 +265,7 @@
             "correctHiragana": "えいゆう",
             "alternatives": [
                 "えいわ",
-                "えまわ"
+                "えいじゅう"
             ]
         },
         {
@@ -274,7 +274,7 @@
             "correctHiragana": "みせ",
             "alternatives": [
                 "せみ",
-                "とし"
+                "てん"
             ]
         },
         {
@@ -282,8 +282,8 @@
             "kanji": "店員",
             "correctHiragana": "てんいん",
             "alternatives": [
-                "みせかい",
-                "でんかう"
+                "みせいん",
+                "てんにん"
             ]
         },
         {
@@ -291,8 +291,8 @@
             "kanji": "売店",
             "correctHiragana": "ばいてん",
             "alternatives": [
-                "よてん",
-                "よいん"
+                "うりてん",
+                "ばいみせ"
             ]
         },
         {
@@ -300,8 +300,8 @@
             "kanji": "書店",
             "correctHiragana": "しょてん",
             "alternatives": [
-                "がくいん",
-                "かくでん"
+                "がくてん",
+                "しょでん"
             ]
         },
         {
@@ -334,10 +334,10 @@
         {
             "id": 37,
             "kanji": "消去する",
-            "correctHiragana": "しょきょうする",
+            "correctHiragana": "しょうきょする",
             "alternatives": [
-                "あはまする",
-                "かるきょする"
+                "けしきょする",
+                "しょきょする"
             ]
         },
         {
@@ -345,7 +345,7 @@
             "kanji": "急に",
             "correctHiragana": "きゅうに",
             "alternatives": [
-                "きゅうに",
+                "きゆうに",
                 "きゅに"
             ]
         },
@@ -354,7 +354,7 @@
             "kanji": "急ぐ",
             "correctHiragana": "いそぐ",
             "alternatives": [
-                "かいく",
+                "きゅうぐ",
                 "いっぞぐ"
             ]
         },
@@ -390,8 +390,8 @@
             "kanji": "乗り物",
             "correctHiragana": "のりもの",
             "alternatives": [
-                "かりぶつ",
-                "きゅうりもの"
+                "のりぶつ",
+                "じょうりもの"
             ]
         },
         {
@@ -408,8 +408,8 @@
             "kanji": "乗馬",
             "correctHiragana": "じょうば",
             "alternatives": [
-                "じゅうびん",
-                "のかじ"
+                "のりば",
+                "ちょうば"
             ]
         },
         {
@@ -417,8 +417,8 @@
             "kanji": "本当に",
             "correctHiragana": "ほんとうに",
             "alternatives": [
-                "ばんこうに",
-                "そなに"
+                "ぽんとうに",
+                "ほんとに"
             ]
         },
         {
@@ -426,8 +426,8 @@
             "kanji": "お弁当",
             "correctHiragana": "おべんとう",
             "alternatives": [
-                "おばどう",
-                "おぎんめ"
+                "おへんとう",
+                "おべんと"
             ]
         },
         {
@@ -453,8 +453,8 @@
             "kanji": "音楽",
             "correctHiragana": "おんがく",
             "alternatives": [
-                "おとしん",
-                "おたの"
+                "おとがく",
+                "おんらく"
             ]
         },
         {

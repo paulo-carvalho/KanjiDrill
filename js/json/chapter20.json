@@ -29,7 +29,7 @@
             "correctHiragana": "はいざら",
             "alternatives": [
                 "らいさら",
-                "らいざら"
+                "はいさら"
             ]
         },
         {
@@ -47,7 +47,7 @@
             "correctHiragana": "おんせいがく",
             "alternatives": [
                 "おとこえかく",
-                "おんごえかく"
+                "おんごえがく"
             ]
         },
         {
@@ -55,8 +55,8 @@
             "kanji": "擬声語",
             "correctHiragana": "ぎせいご",
             "alternatives": [
-                "さこえわ",
-                "ざごえわ"
+                "ぎせいわ",
+                "ぎこえご"
             ]
         },
         {
@@ -64,8 +64,8 @@
             "kanji": "声優",
             "correctHiragana": "せいゆう",
             "alternatives": [
-                "こえどう",
-                "こえゆ"
+                "せいじゅう",
+                "こえゆう"
             ]
         },
         {
@@ -100,7 +100,7 @@
             "kanji": "茶色",
             "correctHiragana": "ちゃいろ",
             "alternatives": [
-                "しゃろ",
+                "しゃいろ",
                 "きんいろ"
             ]
         },
@@ -110,7 +110,7 @@
             "correctHiragana": "きっさてん",
             "alternatives": [
                 "おちゃみせ",
-                "こうちゃみせ"
+                "こうちゃてん"
             ]
         },
         {
@@ -118,7 +118,7 @@
             "kanji": "止まる",
             "correctHiragana": "とまる",
             "alternatives": [
-                "おまる",
+                "しまる",
                 "せいまる"
             ]
         },
@@ -128,7 +128,7 @@
             "correctHiragana": "ちゅうしする",
             "alternatives": [
                 "なかとする",
-                "ちゅうせいする"
+                "ちゅうとする"
             ]
         },
         {
@@ -136,7 +136,7 @@
             "kanji": "禁止する",
             "correctHiragana": "きんしする",
             "alternatives": [
-                "まんとする",
+                "きんとする",
                 "だんしする"
             ]
         },
@@ -154,16 +154,16 @@
             "kanji": "枚数",
             "correctHiragana": "まいすう",
             "alternatives": [
-                "たいせい",
-                "こうまい"
+                "まいずう",
+                "たいすう"
             ]
         },
         {
             "id": 18,
-            "kanji": "山両",
+            "kanji": "三両",
             "correctHiragana": "さんりょう",
             "alternatives": [
-                "やまりゅう",
+                "みつりょう",
                 "さんりゅう"
             ]
         },
@@ -182,13 +182,13 @@
             "correctHiragana": "りょうて",
             "alternatives": [
                 "りょで",
-                "りゅうで"
+                "りゅうて"
             ]
         },
         {
             "id": 21,
             "kanji": "両替",
-            "correctHiragana": "りょうが",
+            "correctHiragana": "りょうがえ",
             "alternatives": [
                 "りょうざ",
                 "りょうげん"
@@ -197,7 +197,7 @@
         {
             "id": 22,
             "kanji": "両方",
-            "correctHiragana": "りょうほう",
+            "correctHiragana": "りようほう",
             "alternatives": [
                 "りょうせん",
                 "りょうが"
@@ -208,7 +208,7 @@
             "kanji": "無理な",
             "correctHiragana": "むりな",
             "alternatives": [
-                "どんりゅな",
+                "ないりな",
                 "のりな"
             ]
         },
@@ -262,7 +262,7 @@
             "kanji": "支払",
             "correctHiragana": "しはらい",
             "alternatives": [
-                "めんはらい",
+                "しばらい",
                 "そはらい"
             ]
         },
@@ -280,8 +280,8 @@
             "kanji": "心",
             "correctHiragana": "こころ",
             "alternatives": [
-                "しんこ",
-                "むこ"
+                "ところ",
+                "ごころ"
             ]
         },
         {
@@ -290,7 +290,7 @@
             "correctHiragana": "しんぱいする",
             "alternatives": [
                 "かんぱいする",
-                "こんはいする"
+                "しんはいする"
             ]
         },
         {
@@ -316,8 +316,8 @@
             "kanji": "好奇心",
             "correctHiragana": "こうきしん",
             "alternatives": [
-                "だいじしん",
-                "だいねっしん"
+                "ききしん",
+                "だいきしん"
             ]
         },
         {
@@ -352,7 +352,7 @@
             "kanji": "爆笑する",
             "correctHiragana": "ばくしょうする",
             "alternatives": [
-                "やかえする",
+                "ばくしゅうする",
                 "ぼくわらいする"
             ]
         },
@@ -362,7 +362,7 @@
             "correctHiragana": "ぜったいに",
             "alternatives": [
                 "さっかいに",
-                "せたいに"
+                "せったいに"
             ]
         },
         {
@@ -388,14 +388,14 @@
             "kanji": "気絶する",
             "correctHiragana": "きぜつする",
             "alternatives": [
-                "きんこうする",
+                "けぜつする",
                 "ぜつめつする"
             ]
         },
         {
             "id": 44,
-            "kanji": "絶ばう",
-            "correctHiragana": "ぜつばう",
+            "kanji": "絶望",
+            "correctHiragana": "ぜつぼう",
             "alternatives": [
                 "ぜつめつ",
                 "せつほう"
@@ -407,7 +407,7 @@
             "correctHiragana": "はんたいする",
             "alternatives": [
                 "かんぱいする",
-                "こんかいする"
+                "はんついする"
             ]
         },
         {
@@ -415,7 +415,7 @@
             "kanji": "日本対中国",
             "correctHiragana": "にほんたいちゅうごく",
             "alternatives": [
-                "にほんかいがくくに",
+                "にほんかいちゅうごく",
                 "にほんだいちゅうこく"
             ]
         },
@@ -425,7 +425,7 @@
             "correctHiragana": "いっつい",
             "alternatives": [
                 "いっだい",
-                "いちさい"
+                "いちたい"
             ]
         },
         {
@@ -532,8 +532,8 @@
             "kanji": "続ける",
             "correctHiragana": "つづける",
             "alternatives": [
-                "あける",
-                "かける"
+                "あずける",
+                "つつける"
             ]
         },
         {

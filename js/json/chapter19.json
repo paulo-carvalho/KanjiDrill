@@ -19,7 +19,7 @@
             "kanji": "春巻き",
             "correctHiragana": "はるまき",
             "alternatives": [
-                "なつあき",
+                "しゅんまき",
                 "はるあき"
             ]
         },
@@ -109,7 +109,7 @@
             "kanji": "花",
             "correctHiragana": "はな",
             "alternatives": [
-                "みみ",
+                "ちゃ",
                 "まち"
             ]
         },
@@ -118,17 +118,17 @@
             "kanji": "花見",
             "correctHiragana": "はなみ",
             "alternatives": [
-                "みみ",
+                "かみ",
                 "ばなみ"
             ]
         },
         {
             "id": 14,
             "kanji": "花火",
-            "correctHiragana": "もはなび",
+            "correctHiragana": "はなび",
             "alternatives": [
                 "はなか",
-                "ばなか"
+                "かひ"
             ]
         },
         {
@@ -146,7 +146,7 @@
             "correctHiragana": "いけばな",
             "alternatives": [
                 "せいけはな",
-                "いっけはな"
+                "いっけばな"
             ]
         },
         {
@@ -163,7 +163,7 @@
             "kanji": "お客様",
             "correctHiragana": "おきゃくさま",
             "alternatives": [
-                "おでんかく",
+                "おかくさま",
                 "おきゃさま"
             ]
         },
@@ -182,7 +182,7 @@
             "correctHiragana": "ようす",
             "alternatives": [
                 "さまこ",
-                "さんこ"
+                "ようこ"
             ]
         },
         {
@@ -200,7 +200,7 @@
             "correctHiragana": "ふけいき",
             "alternatives": [
                 "ふあんき",
-                "あんけんき"
+                "ぶけいき"
             ]
         },
         {
@@ -208,7 +208,7 @@
             "kanji": "不便",
             "correctHiragana": "ふべん",
             "alternatives": [
-                "ふあん",
+                "ふへん",
                 "ふけん"
             ]
         },
@@ -253,8 +253,8 @@
             "kanji": "姉妹都市",
             "correctHiragana": "しまいとし",
             "alternatives": [
-                "しねえはし",
-                "まいしどち"
+                "まいしとし",
+                "しまいどし"
             ]
         },
         {
@@ -298,8 +298,8 @@
             "kanji": "漢方薬",
             "correctHiragana": "かんぽうやく",
             "alternatives": [
-                "かんわじてん",
-                "かんかちもん"
+                "かんほうやく",
+                "かんぽやく"
             ]
         },
         {
@@ -307,8 +307,8 @@
             "kanji": "漢和辞典",
             "correctHiragana": "かんわじてん",
             "alternatives": [
-                "かんぽうやく",
-                "かんしきょう"
+                "かんわじしょ",
+                "かんわじじょ"
             ]
         },
         {
@@ -325,8 +325,8 @@
             "kanji": "卒業式",
             "correctHiragana": "そつぎょうしき",
             "alternatives": [
-                "じゅうぎょうき",
-                "さんぎょうき"
+                "じゅうぎょうしき",
+                "さんぎょうしき"
             ]
         },
         {
@@ -334,7 +334,7 @@
             "kanji": "大卒",
             "correctHiragana": "だいそつ",
             "alternatives": [
-                "おおぞう",
+                "おおそつ",
                 "たいぞつ"
             ]
         },
@@ -389,7 +389,7 @@
             "correctHiragana": "けんきゅうしゃ",
             "alternatives": [
                 "けんきゅじゃ",
-                "げんきゅちゃ"
+                "げんきゅうしゃ"
             ]
         },
         {
@@ -416,7 +416,7 @@
             "correctHiragana": "たんきゅう",
             "alternatives": [
                 "けんきゅう",
-                "まんきゅ"
+                "しんきゅう"
             ]
         },
         {
@@ -443,7 +443,7 @@
             "correctHiragana": "しつがいい",
             "alternatives": [
                 "はながいい",
-                "そんがいいい"
+                "そつがいい"
             ]
         },
         {
@@ -452,7 +452,7 @@
             "correctHiragana": "そしつ",
             "alternatives": [
                 "そして",
-                "そしみ"
+                "ぞしつ"
             ]
         },
         {
@@ -479,7 +479,7 @@
             "correctHiragana": "ほうもん",
             "alternatives": [
                 "しきもん",
-                "たぶもん"
+                "たずもん"
             ]
         },
         {
