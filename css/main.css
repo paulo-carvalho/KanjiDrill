@@ -6,7 +6,7 @@
 /* CSS score (0, 0, 1, 1) */
 body.lobby {
 	background-image: url('../img/wallpaper.jpg');
-	background-repeat: repeat;
+	background-size: cover;
 }
 
 /* CSS score (0, 0, 2, 0) */
