@@ -195,7 +195,7 @@
     <script src="js/vendor/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
     <script src="js/content.js"></script>
-    
+
     <script src="js/URI.js"></script>
     <script src="../platforms/android/platform_www/cordova.js"></script>
     <script src="js/media.js"></script>
@@ -211,6 +211,20 @@
                 document.getElementById("music-lobby").play();
             }
         });
+
+        document.addEventListener("backbutton", function(e){
+        if($.mobile.activePage.is('#homepage')){
+                /*
+                 Event preventDefault/stopPropagation not required as adding backbutton
+                  listener itself override the default behaviour. Refer below PhoneGap link.
+                */
+                //e.preventDefault();
+                navigator.app.exitApp();
+            }
+            else {
+                navigator.app.backHistory()
+            }
+        }, false);
     </script>
 </body>
 </html>
