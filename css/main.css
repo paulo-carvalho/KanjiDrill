@@ -28,6 +28,7 @@ form.chapter-form {
 
 /* CSS score (0, 0, 1, 1) */
 div.gueisha {
+    background-color: #e18097;
 	background-image: url('../img/gueisha_bg.png'), url('../img/sakura_bg.png');
 	background-repeat: no-repeat, repeat-x;
 	background-position: right bottom, center bottom;
