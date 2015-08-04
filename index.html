@@ -197,6 +197,7 @@
     <script src="js/content.js"></script>
 
     <script src="js/URI.js"></script>
+    <!--  For mobile devices  -->
     <script src="../platforms/android/platform_www/cordova.js"></script>
     <script src="js/media.js"></script>
     <script>
@@ -212,19 +213,30 @@
             }
         });
 
-        document.addEventListener("backbutton", function(e){
-        if($.mobile.activePage.is('#homepage')){
-                /*
-                 Event preventDefault/stopPropagation not required as adding backbutton
-                  listener itself override the default behaviour. Refer below PhoneGap link.
-                */
-                //e.preventDefault();
-                navigator.app.exitApp();
-            }
-            else {
-                navigator.app.backHistory()
-            }
-        }, false);
+        // Wait for device API libraries to load
+        //
+        document.addEventListener("deviceready", onDeviceReady, false);
+
+        // device APIs are available
+        //
+        function onDeviceReady() {
+            navigator.splashscreen.show();
+            playAudio();
+        }
+        
+        var my_media = null;
+        
+        function playAudio() {
+            // Create Media object from src
+            my_media = new Media('../sound/lobby.wav', onSuccess);
+            alert("Hello");
+        }
+        
+        function onSuccess() {
+            // Play audio
+            my_media.play();            
+        }
+
     </script>
 </body>
 </html>

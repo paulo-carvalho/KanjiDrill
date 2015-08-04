@@ -15,6 +15,7 @@ function playAudio() {
     // Create Media object from src
     my_media = new Media(URI('../sound/lobby.wav'), onSuccess, onError);
 
+    alert("Hello");
     // Play audio
     my_media.play();
 }
