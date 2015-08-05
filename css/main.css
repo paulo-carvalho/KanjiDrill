@@ -60,6 +60,7 @@ form button {
 
 /* CSS score (0, 0, 1, 1) */
 .japanese-words {
+    display: inline-block;
 	word-break: keep-all;
-	white-space: pre-wrap;
+    word-wrap: normal;
 }
