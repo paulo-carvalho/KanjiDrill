@@ -53,6 +53,12 @@ i.music-volume {
 	cursor: pointer;
 }
 
+/* CSS score (0, 0, 0, 2) */
 form button {
     border-width: 1px;
+}
+
+/* CSS score (0, 0, 1, 1) */
+h1.japanese-words {
+	word-break: keep-all;
 }

@@ -368,8 +368,9 @@
                     $(".correct").removeClass("secondary").addClass("success");
 
                     // .fadeOut(50) is a hack to message appear in IE8+
-                    $("#feedbackAnswer").text("いいえ, ちがいます。正しい 答え: ")
-                        .append("<p>" + json.data[numbers[index-1]].correctHiragana + "</p>"
+                    $("#feedbackAnswer").text("いいえ, ちがいます。")
+                        .append("<br/>" + "正しい 答え:"
+                            + "<p>" + json.data[numbers[index-1]].correctHiragana + "</p>"
                             + "<p></p>"
                             + "<a id='nextKanji' class='button small' role='button' href='#'>Next &gt;&gt;</a>")
                         .stop(true, true).fadeOut(50).fadeIn(500);

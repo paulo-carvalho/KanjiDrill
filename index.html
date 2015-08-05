@@ -30,7 +30,7 @@
 
     <div class="row">
         <div class="large-11 medium-11 small-10 columns">
-            <h1>漢字　ドリル　ようこそ</h1>
+            <h1 class="japanese-words">漢字 ドリル ようこそ</h1>
         </div>
         <div class="large-1 medium-1 small-2 columns">
             <h1><i class="fi-volume text-right music-volume"></i></h1>
@@ -223,18 +223,17 @@
             navigator.splashscreen.show();
             playAudio();
         }
-        
+
         var my_media = null;
-        
+
         function playAudio() {
             // Create Media object from src
             my_media = new Media('../sound/lobby.wav', onSuccess);
-            alert("Hello");
         }
-        
+
         function onSuccess() {
             // Play audio
-            my_media.play();            
+            my_media.play();
         }
 
     </script>
