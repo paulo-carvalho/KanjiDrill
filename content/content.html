@@ -172,9 +172,7 @@
 
         // Fetch data from JSON file
         var json = ""; // returned value from JSON file
-        $.getJSON( jsonFile, function( jsonResult, status ) {
-
-            alert(status);
+        $.getJSON( jsonFile, function( jsonResult ) {
 
             json = jsonResult;
 
