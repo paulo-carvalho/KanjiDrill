@@ -172,7 +172,9 @@
 
         // Fetch data from JSON file
         var json = ""; // returned value from JSON file
-        $.getJSON( jsonFile, function( jsonResult ) {
+        $.getJSON( jsonFile, function( jsonResult, status ) {
+
+            console.log(status);
 
             json = jsonResult;
 
