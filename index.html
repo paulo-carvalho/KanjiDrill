@@ -30,7 +30,12 @@
 
     <div class="row">
         <div class="large-11 medium-11 small-10 columns">
-            <h1 class="japanese-words">漢字 ドリル ようこそ</h1>
+            <!-- Title wrapped in span tags to avoid word-break on cellphones -->
+            <h1>
+                <span class="japanese-words">漢字</span>
+                <span class="japanese-words">ドリル</span>　
+                <span class="japanese-words">ようこそ</span>
+            </h1>
         </div>
         <div class="large-1 medium-1 small-2 columns">
             <h1><i class="fi-volume text-right music-volume"></i></h1>
@@ -214,11 +219,9 @@
         });
 
         // Wait for device API libraries to load
-        //
         document.addEventListener("deviceready", onDeviceReady, false);
 
         // device APIs are available
-        //
         function onDeviceReady() {
             navigator.splashscreen.show();
             playAudio();
@@ -227,7 +230,7 @@
         var my_media = null;
 
         function playAudio() {
-            // Create Media object from src
+            // Create media to play using audio source
             my_media = new Media('../sound/lobby.wav', onSuccess);
         }
 
