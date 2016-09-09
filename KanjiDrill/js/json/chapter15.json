@@ -1,0 +1,560 @@
+{
+    "genkiBook": 2,
+    "chapter": 15,
+    "recommendedChapters": [
+        "14",
+        "16",
+        "17"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "死ぬ",
+            "correctHiragana": "しぬ",
+            "alternatives": [
+                "いぬ",
+                "じぬ"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "死",
+            "correctHiragana": "し",
+            "alternatives": [
+                "しん",
+                "じ"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "必死",
+            "correctHiragana": "ひっし",
+            "alternatives": [
+                "ひつじ",
+                "びっじ"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "死者",
+            "correctHiragana": "ししゃ",
+            "alternatives": [
+                "じしゃ",
+                "しじゃ"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "意味",
+            "correctHiragana": "いみ",
+            "alternatives": [
+                "かみ",
+                "うみ"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "注意する",
+            "correctHiragana": "ちゅういする",
+            "alternatives": [
+                "ちゅうみする",
+                "しょういする"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "意見",
+            "correctHiragana": "いけん",
+            "alternatives": [
+                "いみ",
+                "いげん"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "用意する",
+            "correctHiragana": "よういする",
+            "alternatives": [
+                "ようじする",
+                "すいいする"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "趣味",
+            "correctHiragana": "しゅみ",
+            "alternatives": [
+                "じょみ",
+                "しょみ"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "興味",
+            "correctHiragana": "きょうみ",
+            "alternatives": [
+                "にゅんみ",
+                "じゅんみ"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "味噌",
+            "correctHiragana": "みそ",
+            "alternatives": [
+                "みす",
+                "みんそ"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "味",
+            "correctHiragana": "あじ",
+            "alternatives": [
+                "あし",
+                "いみ"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "注文する",
+            "correctHiragana": "ちゅうもんする",
+            "alternatives": [
+                "じゅうぶんする",
+                "ちゅうぶんする"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "注ぐ",
+            "correctHiragana": "そそぐ",
+            "alternatives": [
+                "そごぐ",
+                "そぞぐ"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "夏",
+            "correctHiragana": "なつ",
+            "alternatives": [
+                "はる",
+                "あき"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "夏休み",
+            "correctHiragana": "なつやすみ",
+            "alternatives": [
+                "ふゆやすみ",
+                "はるやすみ"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "初夏",
+            "correctHiragana": "しょか",
+            "alternatives": [
+                "はつなつ",
+                "はつか"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "魚",
+            "correctHiragana": "さかな",
+            "alternatives": [
+                "いろ",
+                "くろ"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "魚市場",
+            "correctHiragana": "うおいちば",
+            "alternatives": [
+                "さかなちば",
+                "ぎょいば"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "金魚",
+            "correctHiragana": "きんぎょ",
+            "alternatives": [
+                "きんくろ",
+                "ぎんさかな"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "人魚",
+            "correctHiragana": "にんぎょ",
+            "alternatives": [
+                "にぎょう",
+                "にんき"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "お寺",
+            "correctHiragana": "おてら",
+            "alternatives": [
+                "おどき",
+                "おじら"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "東寺",
+            "correctHiragana": "とうじ",
+            "alternatives": [
+                "とっじ",
+                "とうし"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "寺院",
+            "correctHiragana": "じいん",
+            "alternatives": [
+                "てらいん",
+                "じべん"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "禅寺",
+            "correctHiragana": "ぜんでら",
+            "alternatives": [
+                "さんてら",
+                "せんじら"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "広い",
+            "correctHiragana": "ひろい",
+            "alternatives": [
+                "せまい",
+                "みじかい"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "広場",
+            "correctHiragana": "ひろば",
+            "alternatives": [
+                "ひろせ",
+                "ひろしま"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "広島",
+            "correctHiragana": "ひろしま",
+            "alternatives": [
+                "ひろとり",
+                "ひろば"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "広告",
+            "correctHiragana": "こうこく",
+            "alternatives": [
+                "ひろしま",
+                "ひろこく"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "自転車",
+            "correctHiragana": "じてんしゃ",
+            "alternatives": [
+                "じどうしゃ",
+                "しでんどう"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "運転する",
+            "correctHiragana": "うんてんする",
+            "alternatives": [
+                "どんてんする",
+                "すいてんする"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "回転ずし",
+            "correctHiragana": "かいてんずし",
+            "alternatives": [
+                "わかでんずし",
+                "まわてんずし"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "転ぶ",
+            "correctHiragana": "ころぶ",
+            "alternatives": [
+                "てんぶ",
+                "てっぶ"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "借りる",
+            "correctHiragana": "かりる",
+            "alternatives": [
+                "わりる",
+                "まりる"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "借地",
+            "correctHiragana": "しゃくち",
+            "alternatives": [
+                "かち",
+                "むかしち"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "借金",
+            "correctHiragana": "しゃっきん",
+            "alternatives": [
+                "むかしきん",
+                "しゃぎん"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "借家",
+            "correctHiragana": "しゃくや",
+            "alternatives": [
+                "しゃくいえ",
+                "まんや"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "走る",
+            "correctHiragana": "はしる",
+            "alternatives": [
+                "たいる",
+                "かりる"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "走り書き",
+            "correctHiragana": "はしりがき",
+            "alternatives": [
+                "はりかき",
+                "はしりはき"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "脱走",
+            "correctHiragana": "だっそう",
+            "alternatives": [
+                "だつそう",
+                "だつはし"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "建物",
+            "correctHiragana": "たてもの",
+            "alternatives": [
+                "たでぶつ",
+                "わかもの"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "建てる",
+            "correctHiragana": "たてる",
+            "alternatives": [
+                "むてる",
+                "させてる"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": " 建つ",
+            "correctHiragana": "たつ",
+            "alternatives": [
+                "むつ",
+                "さつ"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "建国",
+            "correctHiragana": "けんこく",
+            "alternatives": [
+                "かいこく",
+                "けんくに"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "地下",
+            "correctHiragana": "ちか",
+            "alternatives": [
+                "じか",
+                "ちした"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "地下鉄",
+            "correctHiragana": "ちかてつ",
+            "alternatives": [
+                "ちしたてつ",
+                "じかてつ"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "地図",
+            "correctHiragana": "ちず",
+            "alternatives": [
+                "ちり",
+                "ちくに"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "地球",
+            "correctHiragana": "ちきゅう",
+            "alternatives": [
+                "じむ",
+                "ちきゅ"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "地震",
+            "correctHiragana": "じしん",
+            "alternatives": [
+                "ちしん",
+                "ちじん"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "広場",
+            "correctHiragana": "ひろば",
+            "alternatives": [
+                "しろば",
+                "こうば"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "場所",
+            "correctHiragana": "ばしょ",
+            "alternatives": [
+                "ばいしょ",
+                "ばしょう"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "場合",
+            "correctHiragana": "ばあい",
+            "alternatives": [
+                "ばいあい",
+                "ばかい"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "駐車場",
+            "correctHiragana": "ちゅうしゃじょう",
+            "alternatives": [
+                "ちゅじゃしょう",
+                "ちゅうしゃしょう"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "足",
+            "correctHiragana": "あし",
+            "alternatives": [
+                "いし",
+                "たし"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "足りる",
+            "correctHiragana": "たりる",
+            "alternatives": [
+                "はりる",
+                "かりる"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "一足",
+            "correctHiragana": "いっそく",
+            "alternatives": [
+                "いそく",
+                "いちあし"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "水不足",
+            "correctHiragana": "みずぶそく",
+            "alternatives": [
+                "すいずいぞく",
+                "みずちょうそく"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "通る",
+            "correctHiragana": "とおる",
+            "alternatives": [
+                "かよる",
+                "つうる"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "通う",
+            "correctHiragana": "かよう",
+            "alternatives": [
+                "つかう",
+                "つう"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "通学",
+            "correctHiragana": "つうがく",
+            "alternatives": [
+                "とおがく",
+                "かよがく"
+            ]
+        },
+        {
+            "id": 61,
+            "kanji": "通勤",
+            "correctHiragana": "つうきん",
+            "alternatives": [
+                "とおきん",
+                "かよきん"
+            ]
+        }
+    ]
+}

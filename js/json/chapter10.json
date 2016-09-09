@@ -7,434 +7,554 @@
     "data": [
         {
             "id": 1,
-            "kanji": "住む",
-            "correctHiragana": "すむ",
+            "kanji": "あき",
+            "kanji": "秋",
+            "correctHiragana": "Fall",
             "alternatives": [
-                "やすむ",
-                "よむ"
+                "Spring",
+                "Summer"
             ]
         },
         {
             "id": 2,
-            "kanji": "住所",
-            "correctHiragana": "じゅうしょ",
+            "kanji": "いしゃ",
+            "kanji": "医者",
+            "correctHiragana": "Doctor",
             "alternatives": [
-                "しょうじょ",
-                "しゅしょう"
+                "Professor",
+                "Office worker"
             ]
         },
         {
             "id": 3,
-            "kanji": "移住する",
-            "correctHiragana": "いじゅうする",
+            "kanji": "えき",
+            "kanji": "駅",
+            "correctHiragana": "Station",
             "alternatives": [
-                "めいすみする",
-                "としゅうする"
+                "Face",
+                "Ship; boat"
             ]
         },
         {
             "id": 4,
-            "kanji": "お正月",
-            "correctHiragana": "おしょうがつ",
+            "kanji": "おかねもち",
+            "kanji": "お金持ち",
+            "correctHiragana": "Rich person",
             "alternatives": [
-                "おしゅうげつ",
-                "おしょげつ"
+                "Money",
+                "Friday"
             ]
         },
         {
             "id": 5,
-            "kanji": "正しい",
-            "correctHiragana": "ただしい",
+            "kanji": "かお",
+            "kanji": "顔",
+            "correctHiragana": "Face",
             "alternatives": [
-                "たかしい",
-                "たはしい"
+                "Station",
+                "World"
             ]
         },
         {
             "id": 6,
-            "kanji": "正午",
-            "correctHiragana": "しょうご",
+            "kanji": "きせつ",
+            "kanji": "季節",
+            "correctHiragana": "Season",
             "alternatives": [
-                "しょご",
-                "せいご"
+                "Beauty parlor",
+                "Flight"
             ]
         },
         {
             "id": 7,
-            "kanji": "三年生",
-            "correctHiragana": "さんねんせい",
+            "kanji": "ぎゅうにゅう",
+            "kanji": "牛乳",
+            "correctHiragana": "Milk",
             "alternatives": [
-                "さんとしせん",
-                "さんねんせ"
+                "Season",
+                "This year"
             ]
         },
         {
             "id": 8,
-            "kanji": "来年",
-            "correctHiragana": "らいねん",
+            "kanji": "クレジットカード",
+            "correctHiragana": "Credit card",
             "alternatives": [
-                "ことし",
-                "せんねん"
+                "Computer",
+                "Business card"
             ]
         },
         {
             "id": 9,
-            "kanji": "今年",
-            "correctHiragana": "ことし",
+            "kanji": "ケーキ",
+            "correctHiragana": "Cake",
             "alternatives": [
-                "いまねん",
-                "あいとし"
+                "Card",
+                "Cookie"
             ]
         },
         {
             "id": 10,
-            "kanji": "年",
-            "correctHiragana": "とし",
+            "kanji": "ことし",
+            "kanji": "今年",
+            "correctHiragana": "This year",
             "alternatives": [
-                "どし",
-                "どち"
+                "Next year",
+                "Last year"
             ]
         },
         {
             "id": 11,
-            "kanji": "売る",
-            "correctHiragana": "うる",
+            "kanji": "サッカー",
+            "correctHiragana": "Soccer",
             "alternatives": [
-                "よる",
-                "ねる"
+                "Shirt",
+                "Cake"
             ]
         },
         {
             "id": 12,
-            "kanji": "売店",
-            "correctHiragana": "ばいてん",
+            "kanji": "シャツ",
+            "correctHiragana": "Shirt",
             "alternatives": [
-                "たいてん",
-                "うるてん"
+                "Soccer",
+                "Pants"
             ]
         },
         {
             "id": 13,
-            "kanji": "自動販売機",
-            "correctHiragana": "じどうはんばいき",
+            "kanji": "しんかんせん",
+            "kanji": "新幹線",
+            "correctHiragana": "Shinkansen; “Bullet Train”",
             "alternatives": [
-                "しゅどうはんばいき",
-                "じどうばいばいき"
+                "Train",
+                "Subway"
             ]
         },
         {
             "id": 14,
-            "kanji": "買う",
-            "correctHiragana": "かう",
+            "kanji": "すし",
+            "correctHiragana": "Sushi",
             "alternatives": [
-                "あう",
-                "いう"
+                "A little",
+                "Doctor"
             ]
         },
         {
             "id": 15,
-            "kanji": "買い物",
-            "correctHiragana": "かいもの",
+            "kanji": "せいかつ",
+            "kanji": "生活",
+            "correctHiragana": "Life; living",
             "alternatives": [
-                "たべいもの",
-                "ばいもの"
+                "World",
+                "Politics"
             ]
         },
         {
             "id": 16,
-            "kanji": "売買",
-            "correctHiragana": "ばいばい",
+            "kanji": "せかい",
+            "kanji": "世界",
+            "correctHiragana": "World",
             "alternatives": [
-                "はいはい",
-                "ぱいぱい"
+                "Personality",
+                "Life; living"
             ]
         },
         {
             "id": 17,
-            "kanji": "町",
-            "correctHiragana": "まち",
+            "kanji": "ちかてつ",
+            "kanji": "地下鉄",
+            "correctHiragana": "Subway",
             "alternatives": [
-                "みち",
-                "たいち"
+                "Train",
+                "“Bullet train"
             ]
         },
         {
             "id": 18,
-            "kanji": "北山町",
-            "correctHiragana": "きたやまちょう",
+            "kanji": "てぶくろ",
+            "kanji": "手袋",
+            "correctHiragana": "Gloves",
             "alternatives": [
-                "きっただみり",
-                "きたさんまち"
+                "Bag; purse",
+                "Tempura"
             ]
         },
         {
             "id": 19,
-            "kanji": "町長",
-            "correctHiragana": "ちょうちょう",
+            "kanji": "てんぷら",
+            "kanji": "天ぷら",
+            "correctHiragana": "Tempura",
             "alternatives": [
-                "まちなが",
-                "ちゅうまん"
+                "Gloves",
+                "Heaven"
             ]
         },
         {
             "id": 20,
-            "kanji": "長い",
-            "correctHiragana": "ながい",
+            "kanji": "とこや",
+            "kanji": "床屋",
+            "correctHiragana": "Barber’s",
             "alternatives": [
-                "みじかい",
-                "たかい"
+                "Beauty Parlor",
+                "Station"
             ]
         },
         {
             "id": 21,
-            "kanji": "長男",
-            "correctHiragana": "ちょうなん",
+            "kanji": "はる",
+            "kanji": "春",
+            "correctHiragana": "Spring",
             "alternatives": [
-                "ちょうおと",
-                "ちゅうなん"
+                "Fall",
+                "Summer"
             ]
         },
         {
             "id": 22,
-            "kanji": "社長",
-            "correctHiragana": "しゃちょう",
+            "kanji": "パンツ",
+            "correctHiragana": "Pants",
             "alternatives": [
-                "しゅうちょ",
-                "ざあなが"
+                "Shirt",
+                "Bread"
             ]
         },
         {
             "id": 23,
-            "kanji": "道",
-            "correctHiragana": "みち",
+            "kanji": "びよういん",
+            "kanji": "美容院",
+            "correctHiragana": "Beauty parlor",
             "alternatives": [
-                "うち",
-                "まち"
+                "Barber’s",
+                "Subway"
             ]
         },
         {
             "id": 24,
-            "kanji": "書道",
-            "correctHiragana": "しょどう",
+            "kanji": "びん",
+            "kanji": "便",
+            "correctHiragana": "Flight",
             "alternatives": [
-                "しゅみち",
-                "かきどう"
+                "Ship; boat",
+                "Minutes"
             ]
         },
         {
             "id": 25,
-            "kanji": "柔道",
-            "correctHiragana": "じゅうどう",
+            "kanji": "ふね",
+            "kanji": "船",
+            "correctHiragana": "Ship; boat",
             "alternatives": [
-                "じゅっど",
-                "じゆうど"
+                "Flight",
+                "Doctor"
             ]
         },
         {
             "id": 26,
-            "kanji": "北海道",
-            "correctHiragana": "ほっかいどう",
+            "kanji": "やきゅう",
+            "kanji": "野球",
+            "correctHiragana": "Baseball",
             "alternatives": [
-                "ほがいみち",
-                "ほうがいどう"
+                "Celebrity",
+                "Reservation"
             ]
         },
         {
             "id": 27,
-            "kanji": "雪",
-            "correctHiragana": "ゆき",
+            "kanji": "ゆうめいじん",
+            "kanji": "有名人",
+            "correctHiragana": "Celebrity",
             "alternatives": [
-                "でん",
-                "あめ"
+                "Post Office",
+                "Foreigner"
             ]
         },
         {
             "id": 28,
-            "kanji": "新雪",
-            "correctHiragana": "しんせつ",
+            "kanji": "よやく",
+            "kanji": "予約",
+            "correctHiragana": "Reservation",
             "alternatives": [
-                "ざあめ",
-                "でゆき"
+                "Next semester",
+                "Illness; sickness"
             ]
         },
         {
             "id": 29,
-            "kanji": "雪だるま",
-            "correctHiragana": "ゆきだるま",
+            "kanji": "らいがっき",
+            "kanji": "来学期",
+            "correctHiragana": "Next semester",
             "alternatives": [
-                "でんだるま",
-                "あめだるま"
+                "Reservation",
+                "History"
             ]
         },
         {
             "id": 30,
-            "kanji": "立つ",
-            "correctHiragana": "たつ",
+            "kanji": "りんご",
+            "correctHiragana": "Apple",
             "alternatives": [
-                "かつ",
-                "むつ"
+                "Flight",
+                "Face"
             ]
         },
         {
             "id": 31,
-            "kanji": "国立大学",
-            "correctHiragana": "こくりつだいがく",
+            "kanji": "あたたかい",
+            "kanji": "暖かい",
+            "correctHiragana": "Warm",
             "alternatives": [
-                "くにたつだいがく",
-                "こくただいがっく"
+                "Cold (things/people)",
+                "Cool (weather – not used for people)"
             ]
         },
         {
             "id": 32,
-            "kanji": "私立高校",
-            "correctHiragana": "しりつこうこう",
+            "kanji": "おそい",
+            "kanji": "遅い",
+            "correctHiragana": "Slow; late",
             "alternatives": [
-                "じりつこうこう",
-                "したつこうこう"
+                "Sleepy",
+                "Fast"
             ]
         },
         {
             "id": 33,
-            "kanji": "自分",
-            "correctHiragana": "じぶん",
+            "kanji": "すずしい",
+            "kanji": "涼しい",
+            "correctHiragana": "Cool (weather – not used for things)",
             "alternatives": [
-                "しろふん",
-                "しぷん"
+                "Warm",
+                "Cool (weather – not used for people)"
             ]
         },
         {
             "id": 34,
-            "kanji": "自動車",
-            "correctHiragana": "じどうしゃ",
+            "kanji": "つめたい・冷たい",
+            "correctHiragana": "Cold (things/people)",
             "alternatives": [
-                "じてんしゃ",
-                "じむくるま"
+                "Cool (weather – not used for people)",
+                "Warm"
             ]
         },
         {
             "id": 35,
-            "kanji": "自転車",
-            "correctHiragana": "じてんしゃ",
+            "kanji": "ねむい",
+            "kanji": "眠い",
+            "correctHiragana": "Sleepy",
             "alternatives": [
-                "じどうしゃ",
-                "じゃまくるま"
+                "Slow; late",
+                "Long"
             ]
         },
         {
             "id": 36,
-            "kanji": "自由",
-            "correctHiragana": "じゆう",
+            "kanji": "かんたん",
+            "kanji": "簡単",
+            "correctHiragana": "Easy; simple",
             "alternatives": [
-                "じゅう",
-                "じゅ"
+                "Tough (situation)",
+                "Kind"
             ]
         },
         {
             "id": 37,
-            "kanji": "夜",
-            "correctHiragana": "よる",
+            "kanji": "かかる",
+            "correctHiragana": "To take (amount of time/money)",
             "alternatives": [
-                "ひる",
-                "ゆろ"
+                "To put on (a hat)",
+                "To lend"
             ]
         },
         {
             "id": 38,
-            "kanji": "夜中",
-            "correctHiragana": "よなか",
+            "kanji": "とまる",
+            "kanji": "泊まる",
+            "correctHiragana": "To stay (at a hotel, etc.)",
             "alternatives": [
-                "よちゅう",
-                "よるなか"
+                "To work for",
+                "To gain weight"
             ]
         },
         {
             "id": 39,
-            "kanji": "今夜",
-            "correctHiragana": "こんや",
+            "kanji": "なる",
+            "correctHiragana": "To become",
             "alternatives": [
-                "いまよ",
-                "こんよる"
+                "To lose",
+                "To cry"
             ]
         },
         {
             "id": 40,
-            "kanji": "夜明け",
-            "correctHiragana": "よあけ",
+            "kanji": "はらう",
+            "kanji": "払う",
+            "correctHiragana": "To pay",
             "alternatives": [
-                "よるあけ",
-                "よあひけ"
+                "To put on (items below your waist)",
+                "To sing"
             ]
         },
         {
             "id": 41,
-            "kanji": "朝",
-            "correctHiragana": "あさ",
+            "kanji": "きめる",
+            "kanji": "決める",
+            "correctHiragana": "To decide",
             "alternatives": [
-                "よう",
-                "ばん"
+                "To borrow",
+                "To lend"
             ]
         },
         {
             "id": 42,
-            "kanji": "今朝",
-            "correctHiragana": "けさ",
+            "kanji": "りょこうする",
+            "kanji": "旅行する",
+            "correctHiragana": "To travel",
             "alternatives": [
-                "こんあさ",
-                "いまあさ"
+                "To study abroad",
+                "To practice"
             ]
         },
         {
             "id": 43,
-            "kanji": "朝食",
-            "correctHiragana": "ちょうしょく",
+            "kanji": "れんしゅうする",
+            "kanji": "練習する",
+            "correctHiragana": "To practice",
             "alternatives": [
-                "ちょぞく",
-                "ちゅうしょく"
+                "To take (amount of time/money)",
+                "To get married"
             ]
         },
         {
             "id": 44,
-            "kanji": "毎朝",
-            "correctHiragana": "まいあさ",
+            "kanji": "あるいて",
+            "kanji": "歩いて",
+            "correctHiragana": "On foot",
             "alternatives": [
-                "うみあさ",
-                "まいざ"
+                "About…; concerning…",
+                "How; by what means"
             ]
         },
         {
             "id": 45,
-            "kanji": "持つ",
-            "correctHiragana": "もつ",
+            "kanji": "いちばん",
+            "kanji": "一番",
+            "correctHiragana": "Best",
             "alternatives": [
-                "まつ",
-                "とくつ"
+                "One person",
+                "Extremely"
             ]
         },
         {
             "id": 46,
-            "kanji": "持ってくる",
-            "correctHiragana": "もってくる",
+            "kanji": "～か～",
+            "correctHiragana": "Or",
             "alternatives": [
-                "みってくる",
-                "まもってくる"
+                "But...",
+                "By (means of transportation); with (a tool)"
             ]
         },
         {
             "id": 47,
-            "kanji": "所持品",
-            "correctHiragana": "しょじひん",
+            "kanji": "～かげつ",
+            "kanji": "か月",
+            "correctHiragana": "For…months",
             "alternatives": [
-                "しゅもびん",
-                "しもじきん"
+                "For two or three days",
+                "For…weeks"
             ]
         },
         {
             "id": 48,
-            "kanji": "気持ち",
-            "correctHiragana": "きもち",
+            "kanji": "～ご",
+            "kanji": "後",
+            "correctHiragana": "In…time; after…",
             "alternatives": [
-                "でんまち",
-                "きまっち"
+                "P.M.",
+                "Later on"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "このごろ",
+            "correctHiragana": "These days",
+            "alternatives": [
+                "Sometimes",
+                "How much; how long"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "～しゅうかん",
+            "kanji": "週間",
+            "correctHiragana": "For…weeks",
+            "alternatives": [
+                "For…months",
+                "For…days"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "～で",
+            "correctHiragana": "By (means of transportation); with (a tool)",
+            "alternatives": [
+                "Because",
+                "But..."
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "どうやって",
+            "correctHiragana": "How; by what means",
+            "alternatives": [
+                "On foot",
+                "Which"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "どちら",
+            "correctHiragana": "Which",
+            "alternatives": [
+                "Who",
+                "Where"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "どっち",
+            "correctHiragana": "Which",
+            "alternatives": [
+                "What kind of",
+                "How; by what means"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "どのぐらい",
+            "correctHiragana": "How much; how long",
+            "alternatives": [
+                "Which",
+                "Not much"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "～ねん",
+            "kanji": "年",
+            "correctHiragana": "...years",
+            "alternatives": [
+                "...months",
+                "...days"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "はやく・早く・速く",
+            "correctHiragana": "(do something) early; fast",
+            "alternatives": [
+                "(do something) late",
+                "Fast"
             ]
         }
     ]

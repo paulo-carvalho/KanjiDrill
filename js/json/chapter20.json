@@ -7,560 +7,487 @@
     "data": [
         {
             "id": 1,
-            "kanji": "皿",
-            "correctHiragana": "さら",
+            "kanji": "あちら",
+            "correctHiragana": "This way (polite)",
             "alternatives": [
-                "さる",
-                "めざら"
+                "Where (polite)",
+                "Me, oneself (polite)"
             ]
         },
         {
             "id": 2,
-            "kanji": "紙皿",
-            "correctHiragana": "かみざら",
+            "kanji": "うちゅうじん",
+            "kanji": "宇宙人",
+            "correctHiragana": "Space alien",
             "alternatives": [
-                "かみさら",
-                "がみざら"
+                "Singer",
+                "Famous people"
             ]
         },
         {
             "id": 3,
-            "kanji": "灰皿",
-            "correctHiragana": "はいざら",
+            "kanji": "おと",
+            "kanji": "音",
+            "correctHiragana": "Sound",
             "alternatives": [
-                "らいさら",
-                "はいさら"
+                "Darkness",
+                "Little brother"
             ]
         },
         {
             "id": 4,
-            "kanji": "声",
-            "correctHiragana": "こえ",
+            "kanji": "かかりのもの",
+            "kanji": "係の物",
+            "correctHiragana": "Our person in charge",
             "alternatives": [
-                "おと",
-                "ごめ"
+                "Lazy person",
+                "Department manager"
             ]
         },
         {
             "id": 5,
-            "kanji": "音声学",
-            "correctHiragana": "おんせいがく",
+            "kanji": "かど",
+            "kanji": "角",
+            "correctHiragana": "Corner",
             "alternatives": [
-                "おとこえかく",
-                "おんごえがく"
+                "Hair",
+                "Fan"
             ]
         },
         {
             "id": 6,
-            "kanji": "擬声語",
-            "correctHiragana": "ぎせいご",
+            "kanji": "かみさま",
+            "kanji": "神様",
+            "correctHiragana": "God",
             "alternatives": [
-                "ぎせいわ",
-                "ぎこえご"
+                "Paper (polite)",
+                "(Your/his) wife"
             ]
         },
         {
             "id": 7,
-            "kanji": "声優",
-            "correctHiragana": "せいゆう",
+            "kanji": "くうこう",
+            "kanji": "空港",
+            "correctHiragana": "Airport",
             "alternatives": [
-                "せいじゅう",
-                "こえゆう"
+                "Airplane",
+                "Empty barrel"
             ]
         },
         {
             "id": 8,
-            "kanji": "お茶",
-            "correctHiragana": "おちゃ",
+            "kanji": "じ",
+            "kanji": "字",
+            "correctHiragana": "Letter, character",
             "alternatives": [
-                "おきゃ",
-                "おしゃ"
+                "Culture",
+                "School"
             ]
         },
         {
             "id": 9,
-            "kanji": "茶店",
-            "correctHiragana": "ちゃみせ",
+            "kanji": "してん",
+            "kanji": "支店",
+            "correctHiragana": "Branch office",
             "alternatives": [
-                "しゃみせ",
-                "ちゃてん"
+                "Retail store",
+                "Manager's office"
             ]
         },
         {
             "id": 10,
-            "kanji": "紅茶",
-            "correctHiragana": "こうちゃ",
+            "kanji": "しゅみ",
+            "kanji": "趣味",
+            "correctHiragana": "Hobby; pasttime",
             "alternatives": [
-                "とうちゃ",
-                "もんちゃ"
+                "A kind",
+                "Novel"
             ]
         },
         {
             "id": 11,
-            "kanji": "茶色",
-            "correctHiragana": "ちゃいろ",
+            "kanji": "しょうせつ",
+            "kanji": "小説",
+            "correctHiragana": "Novel",
             "alternatives": [
-                "しゃいろ",
-                "きんいろ"
+                "Business trip",
+                "Traffic light"
             ]
         },
         {
             "id": 12,
-            "kanji": "喫茶店",
-            "correctHiragana": "きっさてん",
+            "kanji": "しんごう",
+            "kanji": "信号",
+            "correctHiragana": "Traffic light",
             "alternatives": [
-                "おちゃみせ",
-                "こうちゃてん"
+                "Hobby; pasttime",
+                "Novel"
             ]
         },
         {
             "id": 13,
-            "kanji": "止まる",
-            "correctHiragana": "とまる",
+            "kanji": "スニーカー",
+            "correctHiragana": "Sneakers",
             "alternatives": [
-                "しまる",
-                "せいまる"
+                "Sneaking out",
+                "Sports car"
             ]
         },
         {
             "id": 14,
-            "kanji": "中止する",
-            "correctHiragana": "ちゅうしする",
+            "kanji": "せんす",
+            "kanji": "扇子",
+            "correctHiragana": "Fan",
             "alternatives": [
-                "なかとする",
-                "ちゅうとする"
+                "Traffic light",
+                "Airport"
             ]
         },
         {
             "id": 15,
-            "kanji": "禁止する",
-            "correctHiragana": "きんしする",
+            "kanji": "つき",
+            "kanji": "月",
+            "correctHiragana": "Moon",
             "alternatives": [
-                "きんとする",
-                "だんしする"
+                "Sun",
+                "Ladder"
             ]
         },
         {
             "id": 16,
-            "kanji": "一枚",
-            "correctHiragana": "いちまい",
+            "kanji": "ハイヒール",
+            "correctHiragana": "High heels",
             "alternatives": [
-                "いっせい",
-                "いちだい"
+                "Highlighter",
+                "Watchtower"
             ]
         },
         {
             "id": 17,
-            "kanji": "枚数",
-            "correctHiragana": "まいすう",
+            "kanji": "ゆうべ",
+            "correctHiragana": "Last night",
             "alternatives": [
-                "まいずう",
-                "たいすう"
+                "Finger",
+                "Evening"
             ]
         },
         {
             "id": 18,
-            "kanji": "三両",
-            "correctHiragana": "さんりょう",
+            "kanji": "おもい",
+            "kanji": "重い",
+            "correctHiragana": "Heavy; serious (illness)",
             "alternatives": [
-                "みつりょう",
-                "さんりゅう"
+                "The day before yesterday",
+                "A thought"
             ]
         },
         {
             "id": 19,
-            "kanji": "両親",
-            "correctHiragana": "りょうしん",
+            "kanji": "あるく",
+            "kanji": "歩く",
+            "correctHiragana": "To walk",
             "alternatives": [
-                "りゅうしん",
-                "りょしん"
+                "To fun",
+                "To go"
             ]
         },
         {
             "id": 20,
-            "kanji": "両手",
-            "correctHiragana": "りょうて",
+            "kanji": "いたす",
+            "kanji": "致す",
+            "correctHiragana": "Extra-modest expression for する",
             "alternatives": [
-                "りょで",
-                "りゅうて"
+                "Extra-modest expression for たべる、のむ",
+                "Extra-modest expression for もらう"
             ]
         },
         {
             "id": 21,
-            "kanji": "両替",
-            "correctHiragana": "りょうがえ",
+            "kanji": "いただく",
+            "kanji": "頂く",
+            "correctHiragana": "Extra-modest expression for たべる and のむ",
             "alternatives": [
-                "りょうざ",
-                "りょうげん"
+                "Extra-modest expression for きく",
+                "Extra-modest expression for みる"
             ]
         },
         {
             "id": 22,
-            "kanji": "両方",
-            "correctHiragana": "りようほう",
+            "kanji": "いただく",
+            "kanji": "頂く",
+            "correctHiragana": "Humble expression for もらう",
             "alternatives": [
-                "りょうせん",
-                "りょうが"
+                "Humble expression for いる",
+                "Humble expression for する"
             ]
         },
         {
             "id": 23,
-            "kanji": "無理な",
-            "correctHiragana": "むりな",
+            "kanji": "うかがう",
+            "kanji": "伺う",
+            "correctHiragana": "To humbly visit; to humbly ask",
             "alternatives": [
-                "ないりな",
-                "のりな"
+                "To request to sing",
+                "To walk"
             ]
         },
         {
             "id": 24,
-            "kanji": "無駄な",
-            "correctHiragana": "むだな",
+            "kanji": "おる",
+            "correctHiragana": "Extra-modest expression for いる",
             "alternatives": [
-                "むりな",
-                "むりょうな"
+                "Extra-modest expression for いう",
+                "Extra-modest expression for ある"
             ]
         },
         {
             "id": 25,
-            "kanji": "無料",
-            "correctHiragana": "むりょう",
+            "kanji": "ござる",
+            "correctHiragana": "Extra-modest expression for ある",
             "alternatives": [
-                "むり",
-                "むれい"
+                "Extra-modest expression for みる",
+                "Extra-modest expression for たべる"
             ]
         },
         {
             "id": 26,
-            "kanji": "無礼な",
-            "correctHiragana": "ぶれいな",
+            "kanji": "〜ておる",
+            "correctHiragana": "Extra-modest expression for 〜ている",
             "alternatives": [
-                "むりょうな",
-                "むりな"
+                "Extra-modest expression for 〜です",
+                "Extra-modest expression for たべる"
             ]
         },
         {
             "id": 27,
-            "kanji": "無い",
-            "correctHiragana": "ない",
+            "kanji": "〜でござる",
+            "correctHiragana": "Extra-modest expression for です",
             "alternatives": [
-                "むい",
-                "まい"
+                "Extra-modest expression for 〜ている",
+                "Extra-modest expression for 〜する"
             ]
         },
         {
             "id": 28,
-            "kanji": "払う",
-            "correctHiragana": "はらう",
+            "kanji": "まいる",
+            "kanji": "参る",
+            "correctHiragana": "Extra-modest expression for いく and くる",
             "alternatives": [
-                "わらう",
-                "かう"
+                "To walk",
+                "Humble expression for もらう"
             ]
         },
         {
             "id": 29,
-            "kanji": "支払",
-            "correctHiragana": "しはらい",
+            "kanji": "まがる",
+            "kanji": "曲がる",
+            "correctHiragana": "To turn (right/left)",
             "alternatives": [
-                "しばらい",
-                "そはらい"
+                "To walk",
+                "To humbly visit"
             ]
         },
         {
             "id": 30,
-            "kanji": "払い戻し",
-            "correctHiragana": "はらいもどし",
+            "kanji": "もうす",
+            "kanji": "申す",
+            "correctHiragana": "Extra-modest expression for いう",
             "alternatives": [
-                "はらいめし",
-                "はらいどし"
+                "Humble expression for する",
+                "To press"
             ]
         },
         {
             "id": 31,
-            "kanji": "心",
-            "correctHiragana": "こころ",
+            "kanji": "もどる",
+            "kanji": "戻る",
+            "correctHiragana": "To return; to come back",
             "alternatives": [
-                "ところ",
-                "ごころ"
+                "Extra-modest expression for いう",
+                "To make a mistake"
             ]
         },
         {
             "id": 32,
-            "kanji": "心配する",
-            "correctHiragana": "しんぱいする",
+            "kanji": "きこえる",
+            "kanji": "聞こえる",
+            "correctHiragana": "To be audible",
             "alternatives": [
-                "かんぱいする",
-                "しんはいする"
+                "To make someone wait",
+                "To be decided"
             ]
         },
         {
             "id": 33,
-            "kanji": "熱心な",
-            "correctHiragana": "ねっしんな",
+            "kanji": "さしあげる",
+            "kanji": "差し上げる",
+            "correctHiragana": "Humble expression for あげる",
             "alternatives": [
-                "あんしんな",
-                "ふあんな"
+                "Humble expression for たべる、のむ",
+                "Humble expression for くれる"
             ]
         },
         {
             "id": 34,
-            "kanji": "安心な",
-            "correctHiragana": "あんしんな",
+            "kanji": "つたえる",
+            "kanji": "伝える",
+            "correctHiragana": "To convey (message)",
             "alternatives": [
-                "ねっしんな",
-                "ふあんな"
+                "To help someone",
+                "To move (from one place to another)"
             ]
         },
         {
             "id": 35,
-            "kanji": "好奇心",
-            "correctHiragana": "こうきしん",
+            "kanji": "またせる",
+            "kanji": "待たせる",
+            "correctHiragana": "To keep (someone) waiting",
             "alternatives": [
-                "ききしん",
-                "だいきしん"
+                "To be audible",
+                "To make a mistake"
             ]
         },
         {
             "id": 36,
-            "kanji": "笑う",
-            "correctHiragana": "わらう",
+            "kanji": "こうかんする",
+            "kanji": "交換する",
+            "correctHiragana": "To exchange",
             "alternatives": [
-                "はらう",
-                "かう"
+                "To be audible",
+                "To have culture"
             ]
         },
         {
             "id": 37,
-            "kanji": "笑顔",
-            "correctHiragana": "えがお",
+            "kanji": "せいかつする",
+            "kanji": "生活する",
+            "correctHiragana": "To lead a life",
             "alternatives": [
-                "わらかお",
-                "えかお"
+                "To have a personality",
+                "To do well in school"
             ]
         },
         {
             "id": 38,
-            "kanji": "微笑む",
-            "correctHiragana": "ほほえむ",
+            "kanji": "へんぴんする",
+            "kanji": "返品する",
+            "correctHiragana": "To return (merchandise)",
             "alternatives": [
-                "ほわらむ",
-                "ははえむ"
+                "To convey (message)",
+                "To exchange"
             ]
         },
         {
             "id": 39,
-            "kanji": "爆笑する",
-            "correctHiragana": "ばくしょうする",
+            "kanji": "おや",
+            "correctHiragana": "Oh!",
             "alternatives": [
-                "ばくしゅうする",
-                "ぼくわらいする"
+                "Landlord",
+                "(Your/his) wife"
             ]
         },
         {
             "id": 40,
-            "kanji": "絶対に",
-            "correctHiragana": "ぜったいに",
+            "kanji": "〜かい",
+            "kanji": "〜階",
+            "correctHiragana": "…th floor",
             "alternatives": [
-                "さっかいに",
-                "せったいに"
+                "Counter for people ",
+                "Counter for shells"
             ]
         },
         {
             "id": 41,
-            "kanji": "絶える",
-            "correctHiragana": "たえる",
+            "kanji": "かしこまりました",
+            "correctHiragana": "Certainly.",
             "alternatives": [
-                "こたえる",
-                "かんがえる"
+                "Please give my regards to…",
+                "If that is the case"
             ]
         },
         {
             "id": 42,
-            "kanji": "絶滅",
-            "correctHiragana": "ぜつめつ",
+            "kanji": "さあ",
+            "correctHiragana": "I am not sure…",
             "alternatives": [
-                "たいせつ",
-                "ぜつめい"
+                "Oh!",
+                "Why"
             ]
         },
         {
             "id": 43,
-            "kanji": "気絶する",
-            "correctHiragana": "きぜつする",
+            "kanji": "しつれいしました",
+            "kanji": "失礼しました",
+            "correctHiragana": "I'm very sorry",
             "alternatives": [
-                "けぜつする",
-                "ぜつめつする"
+                "Good night (polite)",
+                "Certainly."
             ]
         },
         {
             "id": 44,
-            "kanji": "絶望",
-            "correctHiragana": "ぜつぼう",
+            "kanji": "しょうしょう",
+            "kanji": "少々",
+            "correctHiragana": "A few seconds",
             "alternatives": [
-                "ぜつめつ",
-                "せつほう"
+                "if possible",
+                "Certainly."
             ]
         },
         {
             "id": 45,
-            "kanji": "反対する",
-            "correctHiragana": "はんたいする",
+            "kanji": "それでは",
+            "correctHiragana": "If that is the case…",
             "alternatives": [
-                "かんぱいする",
-                "はんついする"
+                "If possible",
+                "Over there"
             ]
         },
         {
             "id": 46,
-            "kanji": "日本対中国",
-            "correctHiragana": "にほんたいちゅうごく",
+            "kanji": "できれば",
+            "correctHiragana": "If possible",
             "alternatives": [
-                "にほんかいちゅうごく",
-                "にほんだいちゅうこく"
+                "If that is the case…",
+                "If it is okay (polite)"
             ]
         },
         {
             "id": 47,
-            "kanji": "一対",
-            "correctHiragana": "いっつい",
+            "kanji": "まことに",
+            "kanji": "誠に",
+            "correctHiragana": "Really (very polite)",
             "alternatives": [
-                "いっだい",
-                "いちたい"
+                "On the other hand (polite)",
+                "Again (polite)"
             ]
         },
         {
             "id": 48,
-            "kanji": "痛い",
-            "correctHiragana": "いたい",
+            "kanji": "また",
+            "correctHiragana": "Again",
             "alternatives": [
-                "いがい",
-                "いまい"
+                "Not yet",
+                "Still"
             ]
         },
         {
             "id": 49,
-            "kanji": "痛み止め",
-            "correctHiragana": "いたみどめ",
+            "kanji": "もうしわけありません",
+            "kanji": "申し訳ありません",
+            "correctHiragana": "You have my apologies.",
             "alternatives": [
-                "かいみとめ",
-                "いだみとめ"
+                "Certainly",
+                "Call me anytime"
             ]
         },
         {
             "id": 50,
-            "kanji": "頭痛",
-            "correctHiragana": "ずつう",
+            "kanji": "よろしかったら",
+            "correctHiragana": "If it is okay (polite)",
             "alternatives": [
-                "ずとう",
-                "ずいた"
-            ]
-        },
-        {
-            "id": 51,
-            "kanji": "腹痛",
-            "correctHiragana": "ふくつう",
-            "alternatives": [
-                "ようつう",
-                "ふぐいた"
-            ]
-        },
-        {
-            "id": 52,
-            "kanji": "腰痛",
-            "correctHiragana": "ようつう",
-            "alternatives": [
-                "ふくつう",
-                "よいた"
-            ]
-        },
-        {
-            "id": 53,
-            "kanji": "最悪",
-            "correctHiragana": "さいあく",
-            "alternatives": [
-                "さいしん",
-                "さいきん"
-            ]
-        },
-        {
-            "id": 54,
-            "kanji": "最近",
-            "correctHiragana": "さいきん",
-            "alternatives": [
-                "さいこう",
-                "さいしん"
-            ]
-        },
-        {
-            "id": 55,
-            "kanji": "最高",
-            "correctHiragana": "さいこう",
-            "alternatives": [
-                "さいとう",
-                "さいきん"
-            ]
-        },
-        {
-            "id": 56,
-            "kanji": "最新",
-            "correctHiragana": "さいしん",
-            "alternatives": [
-                "さいきん",
-                "さいあく"
-            ]
-        },
-        {
-            "id": 57,
-            "kanji": "最後に",
-            "correctHiragana": "さいごに",
-            "alternatives": [
-                "さいこうに",
-                "さいきんに"
-            ]
-        },
-        {
-            "id": 58,
-            "kanji": "最も",
-            "correctHiragana": "もっとも",
-            "alternatives": [
-                "もとも",
-                "もうとも"
-            ]
-        },
-        {
-            "id": 59,
-            "kanji": "続ける",
-            "correctHiragana": "つづける",
-            "alternatives": [
-                "あずける",
-                "つつける"
-            ]
-        },
-        {
-            "id": 60,
-            "kanji": "手続き",
-            "correctHiragana": "てつづき",
-            "alternatives": [
-                "てづき",
-                "てっづき"
-            ]
-        },
-        {
-            "id": 61,
-            "kanji": "相続する",
-            "correctHiragana": "そうぞくする",
-            "alternatives": [
-                "そうつづけする",
-                "そっそくする"
-            ]
-        },
-        {
-            "id": 62,
-            "kanji": "連続ドラマ",
-            "correctHiragana": "れんぞくドラマ",
-            "alternatives": [
-                "こんそくドラマ",
-                "どんぞくドラマ"
+                "I am not sure",
+                "You're welcome (polite)"
             ]
         }
     ]

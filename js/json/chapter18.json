@@ -7,479 +7,467 @@
     "data": [
         {
             "id": 1,
-            "kanji": "目的",
-            "correctHiragana": "もくてき",
+            "kanji": "あと",
+            "kanji": "後",
+            "correctHiragana": "The rest",
             "alternatives": [
-                "めてき",
-                "もくでき"
+                "Before",
+                "During"
             ]
         },
         {
             "id": 2,
-            "kanji": "目",
-            "correctHiragana": "め",
+            "kanji": "エアコン",
+            "correctHiragana": "Air conditioner",
             "alternatives": [
-                "ひ",
-                "しろ"
+                "Ear cleaner",
+                "Heater"
             ]
         },
         {
             "id": 3,
-            "kanji": "目薬",
-            "correctHiragana": "めぐすり",
+            "kanji": "カーテン",
+            "correctHiragana": "Curtain",
             "alternatives": [
-                "もくてき",
-                "もくすり"
+                "Cutting",
+                "Garden"
             ]
         },
         {
             "id": 4,
-            "kanji": "二番目",
-            "correctHiragana": "にばんめ",
+            "kanji": "ぎゅうにゅう",
+            "kanji": "牛乳",
+            "correctHiragana": "Milk",
             "alternatives": [
-                "ふたばんもく",
-                "にばんもく"
+                "Water",
+                "Juice"
             ]
         },
         {
             "id": 5,
-            "kanji": "目上の人",
-            "correctHiragana": "めうえのひと",
+            "kanji": "シャンプー",
+            "correctHiragana": "Shampoo",
             "alternatives": [
-                "もくじょうのじん",
-                "めじょうのびと"
+                "Jump",
+                "Camp"
             ]
         },
         {
             "id": 6,
-            "kanji": "現代的",
-            "correctHiragana": "げんだいてき",
+            "kanji": "スウィッチ",
+            "correctHiragana": "Switch",
             "alternatives": [
-                "けんだいてき",
-                "だいげんてき"
+                "Swiss",
+                "Electric plug"
             ]
         },
         {
             "id": 7,
-            "kanji": "社会的",
-            "correctHiragana": "しゃかいてき",
+            "kanji": "スカート",
+            "correctHiragana": "Skirt",
             "alternatives": [
-                "じゃがいてき",
-                "じゃかいでき"
+                "Scat",
+                "Cart"
             ]
         },
         {
             "id": 8,
-            "kanji": "的",
-            "correctHiragana": "まと",
+            "kanji": "しょうゆ",
+            "kanji": "醤油",
+            "correctHiragana": "Soy sauce",
             "alternatives": [
-                "まど",
-                "とき"
+                "Vinegar",
+                "Oil"
             ]
         },
         {
             "id": 9,
-            "kanji": "力仕事",
-            "correctHiragana": "ちからしごと",
+            "kanji": "そと",
+            "kanji": "外",
+            "correctHiragana": "Outside",
             "alternatives": [
-                "かしごと",
-                "りょくしごと"
+                "Inside",
+                "Middle"
             ]
         },
         {
             "id": 10,
-            "kanji": "協力",
-            "correctHiragana": "きょうりょく",
+            "kanji": "タオル",
+            "correctHiragana": "Towel",
             "alternatives": [
-                "きょちから",
-                "どりょく"
+                "Towelette",
+                "Toiler paper"
             ]
         },
         {
             "id": 11,
-            "kanji": "努力",
-            "correctHiragana": "どりょく",
+            "kanji": "おゆ",
+            "kanji": "お湯",
+            "correctHiragana": "Hot water",
             "alternatives": [
-                "きょうりょく",
-                "どりき"
+                "Bath",
+                "Soy sauce"
             ]
         },
         {
             "id": 12,
-            "kanji": "力士",
-            "correctHiragana": "りきし",
+            "kanji": "にっき",
+            "kanji": "日記",
+            "correctHiragana": "Diary",
             "alternatives": [
-                "ちからせい",
-                "りょくし"
+                "Newspaper",
+                "Article"
             ]
         },
         {
             "id": 13,
-            "kanji": "洋服",
-            "correctHiragana": "ようふく",
+            "kanji": "ポップコーン",
+            "correctHiragana": "Popcorn",
             "alternatives": [
-                "めいふく",
-                "せいふく"
+                "Pop music",
+                "Cork pop"
             ]
         },
         {
             "id": 14,
-            "kanji": "東洋",
-            "correctHiragana": "とうよう",
+            "kanji": "やちん",
+            "kanji": "家賃",
+            "correctHiragana": "Rent",
             "alternatives": [
-                "とんよう",
-                "どうよう"
+                "Roof",
+                "Family"
             ]
         },
         {
             "id": 15,
-            "kanji": "洋食",
-            "correctHiragana": "ようしょく",
+            "kanji": "ゆうがた",
+            "kanji": "夕方",
+            "correctHiragana": "Evening",
             "alternatives": [
-                "ようたべ",
-                "ようしょうく"
+                "Afternoon",
+                "Morning"
             ]
         },
         {
             "id": 16,
-            "kanji": "大西洋",
-            "correctHiragana": "たいせいよう",
+            "kanji": "ラジカセ",
+            "correctHiragana": "Cassette player with radio",
             "alternatives": [
-                "おおにしよう",
-                "だいにしよう"
+                "Radiator",
+                "Case for a radio"
             ]
         },
         {
             "id": 17,
-            "kanji": "服",
-            "correctHiragana": "ふく",
+            "kanji": "るすばんでんわ",
+            "kanji": "留守番電話",
+            "correctHiragana": "Answering machine",
             "alternatives": [
-                "ぶく",
-                "ぷく"
+                "Cell phone",
+                "Phone call"
             ]
         },
         {
             "id": 18,
-            "kanji": "制服",
-            "correctHiragana": "せいふく",
+            "kanji": "れいぞうこう",
+            "kanji": "冷蔵庫",
+            "correctHiragana": "Refrigerator",
             "alternatives": [
-                "ようふく",
-                "こうふく"
+                "Freezer",
+                "Air conditioner"
             ]
         },
         {
             "id": 19,
-            "kanji": "和服",
-            "correctHiragana": "わふく",
+            "kanji": "ろうそく",
+            "correctHiragana": "Candle",
             "alternatives": [
-                "ようふく",
-                "せいふく"
+                "Clock",
+                "Evening"
             ]
         },
         {
             "id": 20,
-            "kanji": "食堂",
-            "correctHiragana": "しょくどう",
+            "kanji": "きぶんがわるい",
+            "kanji": "気分が悪い",
+            "correctHiragana": "To feel sick",
             "alternatives": [
-                "たべどう",
-                "じょうどう"
+                "To think badly",
+                "To feel evil"
             ]
         },
         {
             "id": 21,
-            "kanji": "公会堂",
-            "correctHiragana": "こうかいどう",
+            "kanji": "はずかしい",
+            "correctHiragana": "Embarrassing, to feel embarrassed",
             "alternatives": [
-                "こうあいどう",
-                "こがいとう"
+                "Nostalgic",
+                "Jealous"
             ]
         },
         {
             "id": 22,
-            "kanji": "堂々とした",
-            "correctHiragana": "どうどうとした",
+            "kanji": "あく",
+            "kanji": "開く",
+            "correctHiragana": "Something opens",
             "alternatives": [
-                "とうどうとした",
-                "てんでんとした"
+                "Something closes",
+                "Something happens"
             ]
         },
         {
             "id": 23,
-            "kanji": "授業",
-            "correctHiragana": "じゅぎょう",
+            "kanji": "あやまる",
+            "kanji": "謝る",
+            "correctHiragana": "To apologize",
             "alternatives": [
-                "しょくぎょう",
-                "さんぎょう"
+                "To get used to ",
+                "To press; to push"
             ]
         },
         {
             "id": 24,
-            "kanji": "教授",
-            "correctHiragana": "きょうじゅ",
+            "kanji": "おす",
+            "kanji": "押す",
+            "correctHiragana": "To press; to push",
             "alternatives": [
-                "ぎょうじゅ",
-                "きょうない"
+                "To divorce",
+                "To open something"
             ]
         },
         {
             "id": 25,
-            "kanji": "授かる",
-            "correctHiragana": "さずかる",
+            "kanji": "おとす",
+            "kanji": "落とす",
+            "correctHiragana": "To drop (something)",
             "alternatives": [
-                "きょうかる",
-                "けんかる"
+                "To fall down",
+                "To decide"
             ]
         },
         {
             "id": 26,
-            "kanji": "職業",
-            "correctHiragana": "しょくぎょう",
+            "kanji": "おゆがわく",
+            "kanji": "お湯が沸く",
+            "correctHiragana": "Water boils",
             "alternatives": [
-                "しょくどう",
-                "とくぎょう"
+                "To make coffee, tea, etc",
+                "To shave beard"
             ]
         },
         {
             "id": 27,
-            "kanji": "産業",
-            "correctHiragana": "さんぎょう",
+            "kanji": "ころぶ",
+            "kanji": "転ぶ",
+            "correctHiragana": "To fall down",
             "alternatives": [
-                "じゅぎょう",
-                "げんぎょう"
+                "To change",
+                "To break something"
             ]
         },
         {
             "id": 28,
-            "kanji": "サービス業",
-            "correctHiragana": "サービスぎょう",
+            "kanji": "こわす",
+            "kanji": "壊す",
+            "correctHiragana": "To break (something)",
             "alternatives": [
-                "サービスじゅ",
-                "サービスきょう"
+                "To get used to",
+                "To open something"
             ]
         },
         {
             "id": 29,
-            "kanji": "試験",
-            "correctHiragana": "しけん",
+            "kanji": "さく",
+            "kanji": "咲く",
+            "correctHiragana": "To bloom",
             "alternatives": [
-                "じけん",
-                "しぎょう"
+                "To change",
+                "To get crowded"
             ]
         },
         {
             "id": 30,
-            "kanji": "試合",
-            "correctHiragana": "しあい",
+            "kanji": "しまる",
+            "kanji": "閉まる",
+            "correctHiragana": "(Something) closes",
             "alternatives": [
-                "じかい",
-                "しわい"
+                "(Something) opens",
+                "(Something) drops"
             ]
         },
         {
             "id": 31,
-            "kanji": "入試",
-            "correctHiragana": "にゅうし",
+            "kanji": "たすかる",
+            "kanji": "助かる",
+            "correctHiragana": "To be saved; to be helped",
             "alternatives": [
-                "ひとし",
-                "いりし"
+                "To comb one's hair",
+                "To be sufficient"
             ]
         },
         {
             "id": 32,
-            "kanji": "試みる",
-            "correctHiragana": "こころみる",
+            "kanji": "たのむ",
+            "kanji": "頼む",
+            "correctHiragana": "To ask (a favor)",
             "alternatives": [
-                "しみる",
-                "しこみる"
+                "To decide",
+                "To bloom"
             ]
         },
         {
             "id": 33,
-            "kanji": "実験",
-            "correctHiragana": "じっけん",
+            "kanji": "つく",
+            "correctHiragana": "(Something) turns on",
             "alternatives": [
-                "みげん",
-                "じつけん"
+                "(Something) turns off",
+                "(Something) closes"
             ]
         },
         {
             "id": 34,
-            "kanji": "経験",
-            "correctHiragana": "けいけん",
+            "kanji": "よごす",
+            "kanji": "汚す",
+            "correctHiragana": "To make dirty",
             "alternatives": [
-                "かいげん",
-                "きょうけん"
+                "To swim",
+                "According to"
             ]
         },
         {
             "id": 35,
-            "kanji": "受験",
-            "correctHiragana": "じゅけん",
+            "kanji": "おちる",
+            "kanji": "落ちる",
+            "correctHiragana": "Something drops",
             "alternatives": [
-                "けいけん",
-                "じっけん"
+                "(Something) turns on",
+                "(Something) closes"
             ]
         },
         {
             "id": 36,
-            "kanji": "貸す",
-            "correctHiragana": "かす",
+            "kanji": "かんがえる",
+            "kanji": "考える",
+            "correctHiragana": "To think about, to consider",
             "alternatives": [
-                "はなす",
-                "さす"
+                "To ask (a favor)",
+                "To be saved"
             ]
         },
         {
             "id": 37,
-            "kanji": "貸し出し",
-            "correctHiragana": "かしだし",
+            "kanji": "きえる",
+            "kanji": "消える",
+            "correctHiragana": "(Something) goes off",
             "alternatives": [
-                "かしでし",
-                "かしたし"
+                "(Something) falls",
+                "(Something) breaks"
             ]
         },
         {
             "id": 38,
-            "kanji": "賃貸マンション",
-            "correctHiragana": "ちんたいマンション",
+            "kanji": "こわれる",
+            "kanji": "壊れる",
+            "correctHiragana": "Something breaks",
             "alternatives": [
-                "ちんかしマンション",
-                "かしたいマンション"
+                "To think about, to consider",
+                "(Something) drops"
             ]
         },
         {
             "id": 39,
-            "kanji": "図書館",
-            "correctHiragana": "としょかん",
+            "kanji": "よごれる",
+            "kanji": "汚れる",
+            "correctHiragana": "To become dirty",
             "alternatives": [
-                "ずしょかん",
-                "どしょかん"
+                "To swim",
+                "(Something) goes off"
             ]
         },
         {
             "id": 40,
-            "kanji": "映画館",
-            "correctHiragana": "えいがかん",
+            "kanji": "ちゅうもんする",
+            "kanji": "注文する",
+            "correctHiragana": "to place an order",
             "alternatives": [
-                "えいごかん",
-                "えいかかん"
+                "to work full time at",
+                "to win a lottery"
             ]
         },
         {
             "id": 41,
-            "kanji": "旅館",
-            "correctHiragana": "りょかん",
+            "kanji": "いますぐ",
+            "kanji": "今すぐ",
+            "correctHiragana": "Right away",
             "alternatives": [
-                "しょうかん",
-                "とうかん"
+                "Later on",
+                "Quickly"
             ]
         },
         {
             "id": 42,
-            "kanji": "大使館",
-            "correctHiragana": "たいしかん",
+            "kanji": "おかげで",
+            "correctHiragana": "Thanks to...",
             "alternatives": [
-                "おおしかん",
-                "だいしかん"
+                "Behind something",
+                "See you"
             ]
         },
         {
             "id": 43,
-            "kanji": "終わる",
-            "correctHiragana": "おわる",
+            "kanji": "おさきにしつれいします",
+            "kanji": "お先に失礼します",
+            "correctHiragana": "See you, I'm leaving ahead of you",
             "alternatives": [
-                "のわる",
-                "まわる"
+                "Congratulations!",
+                "I see."
             ]
         },
         {
             "id": 44,
-            "kanji": "終わり",
-            "correctHiragana": "おわり",
+            "kanji": "おつかれさまでした",
+            "kanji": "お疲れ様でした",
+            "correctHiragana": "You must be tired after working so hard.",
             "alternatives": [
-                "まわり",
-                "ひまわり"
+                "Good night",
+                "Thanks to..."
             ]
         },
         {
             "id": 45,
-            "kanji": "終点",
-            "correctHiragana": "しゅうてん",
+            "kanji": "ほんとうに",
+            "kanji": "本当に",
+            "correctHiragana": "Really",
             "alternatives": [
-                "そうてん",
-                "おてん"
+                "I see.",
+                "Compared to"
             ]
         },
         {
             "id": 46,
-            "kanji": "最終〜",
-            "correctHiragana": "さいしゅう〜",
+            "kanji": "まず",
+            "correctHiragana": "First of all",
             "alternatives": [
-                "まいしゅう〜",
-                "さいちゅう〜"
+                "Thanks to...",
+                "By (time/date)"
             ]
         },
         {
             "id": 47,
-            "kanji": "宿題",
-            "correctHiragana": "しゅくだい",
+            "kanji": "〜までに",
+            "correctHiragana": "By (time/date)",
             "alternatives": [
-                "しゅうくだい",
-                "しゅうぐだい"
+                "Really",
+                "According to"
             ]
         },
         {
             "id": 48,
-            "kanji": "下宿",
-            "correctHiragana": "げしゅく",
+            "kanji": "どうしよう",
+            "correctHiragana": "What should we do?",
             "alternatives": [
-                "かしゅく",
-                "へたしゅうく"
-            ]
-        },
-        {
-            "id": 49,
-            "kanji": "宿泊",
-            "correctHiragana": "しゅくはく",
-            "alternatives": [
-                "じゅくばく",
-                "じゅうくはく"
-            ]
-        },
-        {
-            "id": 50,
-            "kanji": "宿",
-            "correctHiragana": "やど",
-            "alternatives": [
-                "しゅう",
-                "など"
-            ]
-        },
-        {
-            "id": 51,
-            "kanji": "問題",
-            "correctHiragana": "もんだい",
-            "alternatives": [
-                "しゅくだい",
-                "かんだい"
-            ]
-        },
-        {
-            "id": 52,
-            "kanji": "話題",
-            "correctHiragana": "わだい",
-            "alternatives": [
-                "はなかい",
-                "はなだい"
-            ]
-        },
-        {
-            "id": 53,
-            "kanji": "題",
-            "correctHiragana": "だい",
-            "alternatives": [
-                "やど",
-                "かい"
+                "You must be tired after working",
+                "See you."
             ]
         }
 	]

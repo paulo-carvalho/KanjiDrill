@@ -7,623 +7,523 @@
     "data": [
         {
             "id": 1,
-            "kanji": "一",
-            "correctHiragana": "いち",
+            "kanji": "えいが",
+            "kanji": "映画",
+            "correctHiragana": "Movie",
             "alternatives": [
-                "いつ",
-                "ひとつ"
+                "Music",
+                "Magazine"
             ]
         },
         {
             "id": 2,
-            "kanji": "一時",
-            "correctHiragana": "いちじ",
+            "kanji": "おんがく",
+            "kanji": "音楽",
+            "correctHiragana": "Music",
             "alternatives": [
-                "いちとき",
-                "いっぷん"
+                "Movie",
+                "Tennis"
             ]
         },
         {
             "id": 3,
-            "kanji": "一年生",
-            "correctHiragana": "いちねんせい",
+            "kanji": "ざっし",
+            "kanji": "雑誌",
+            "correctHiragana": "Magazine",
             "alternatives": [
-                "いっとしせい",
-                "いっねんせい"
+                "Sports",
+                "Movie"
             ]
         },
         {
             "id": 4,
-            "kanji": "一分",
-            "correctHiragana": "いっぷん",
+            "kanji": "スポーツ",
+            "correctHiragana": "Sports",
             "alternatives": [
-                "いちぶん",
-                "いっふん"
+                "Tennis",
+                "Date (romantic, not calendar)"
             ]
         },
         {
             "id": 5,
-            "kanji": "一つ",
-            "correctHiragana": "ひとつ",
+            "kanji": "デート",
+            "correctHiragana": "Date (romantic, not calendar)",
             "alternatives": [
-                "いつ",
-                "ひとっつ"
+                "Sports",
+                "TV"
             ]
         },
         {
             "id": 6,
-            "kanji": "二",
-            "correctHiragana": "に",
+            "kanji": "テニス",
+            "correctHiragana": "Tennis",
             "alternatives": [
-                "ふつ",
-                "ふたつ"
+                "TV",
+                "Date (romantic, not calendar)"
             ]
         },
         {
             "id": 7,
-            "kanji": "二時",
-            "correctHiragana": "にじ",
+            "kanji": "テレビ",
+            "correctHiragana": "TV",
             "alternatives": [
-                "にとき",
-                "にっじ"
+                "Tennis",
+                "Date (romantic, not calendar)"
             ]
         },
         {
             "id": 8,
-            "kanji": "二年生",
-            "correctHiragana": "にねんせい",
+            "kanji": "アイスクリーム",
+            "correctHiragana": "Ice cream",
             "alternatives": [
-                "ふとしせい",
-                "ふねんせい"
+                "Coffee",
+                "Breakfast"
             ]
         },
         {
             "id": 9,
-            "kanji": "二つ",
-            "correctHiragana": "ふたつ",
+            "kanji": "あさごはん",
+            "kanji": "朝ごはん",
+            "correctHiragana": "Breakfast",
             "alternatives": [
-                "にっつ",
-                "ふたっつ"
+                "Lunch",
+                "Dinner"
             ]
         },
         {
             "id": 10,
-            "kanji": "二日間",
-            "correctHiragana": "ふつかかん",
+            "kanji": "おさけ",
+            "kanji": "お酒",
+            "correctHiragana": "Sake; alcohol",
             "alternatives": [
-                "ににちあいだ",
-                "ふかかん"
+                "Green tea",
+                "Water"
             ]
         },
         {
             "id": 11,
-            "kanji": "三",
-            "correctHiragana": "さん",
+            "kanji": "おちゃ",
+            "kanji": "お茶",
+            "correctHiragana": "Green tea",
             "alternatives": [
-                "さあん",
-                "みつ"
+                "Sake; alcohol",
+                "Water"
             ]
         },
         {
             "id": 12,
-            "kanji": "三時",
-            "correctHiragana": "さんじ",
+            "kanji": "コーヒー",
+            "correctHiragana": "Coffee",
             "alternatives": [
-                "みっじ",
-                "さんとき"
+                "Hamburger",
+                "Ice cream"
             ]
         },
         {
             "id": 13,
-            "kanji": "三年生",
-            "correctHiragana": "さんねんせい",
+            "kanji": "ばんごはん",
+            "kanji": "晩ご飯",
+            "correctHiragana": "Dinner",
             "alternatives": [
-                "みとしせい",
-                "さんとしせい"
+                "Breakfast",
+                "Lunch"
             ]
         },
         {
             "id": 14,
-            "kanji": "三月",
-            "correctHiragana": "さんがつ",
+            "kanji": "ハンバーガー",
+            "correctHiragana": "Hamburger",
             "alternatives": [
-                "さんげつ",
-                "みっげつ"
+                "Green tea",
+                "Ice cream"
             ]
         },
         {
             "id": 15,
-            "kanji": "三つ",
-            "correctHiragana": "みっつ",
+            "kanji": "ひるごはん",
+            "kanji": "昼ご飯",
+            "correctHiragana": "Lunch",
             "alternatives": [
-                "さっつ",
-                "みつ"
+                "Breakfast",
+                "Dinner"
             ]
         },
         {
             "id": 16,
-            "kanji": "四",
-            "correctHiragana": "よん",
+            "kanji": "みず",
+            "kanji": "水",
+            "correctHiragana": "Water",
             "alternatives": [
-                "し",
-                "ご"
+                "Green tea",
+                "Sake; alcohol"
             ]
         },
         {
             "id": 17,
-            "kanji": "四時",
-            "correctHiragana": "よじ",
+            "kanji": "いえ",
+            "kanji": "家",
+            "correctHiragana": "Home; house",
             "alternatives": [
-                "よっじ",
-                "しとき"
+                "When",
+                "Green tea"
             ]
         },
         {
             "id": 18,
-            "kanji": "四年生",
-            "correctHiragana": "よねんせい",
+            "kanji": "うち",
+            "correctHiragana": "Home; house; my place",
             "alternatives": [
-                "よんとしせい",
-                "しとしせい"
+                "School",
+                "At about..."
             ]
         },
         {
             "id": 19,
-            "kanji": "四月",
-            "correctHiragana": "しがつ",
+            "kanji": "がっこう",
+            "kanji": "学校",
+            "correctHiragana": "School",
             "alternatives": [
-                "よんがつ",
-                "しげつ"
+                "Tonight",
+                "But"
             ]
         },
         {
             "id": 20,
-            "kanji": "四つ",
-            "correctHiragana": "よっつ",
+            "kanji": "あさ",
+            "kanji": "朝",
+            "correctHiragana": "Morning",
             "alternatives": [
-                "しつ",
-                "よつ"
+                "Today",
+                "Tonight"
             ]
         },
         {
             "id": 21,
-            "kanji": "五",
-            "correctHiragana": "ご",
+            "kanji": "あした",
+            "kanji": "明日",
+            "correctHiragana": "Tomorrow",
             "alternatives": [
-                "こ",
-                "いつ"
+                "Today",
+                "At about..."
             ]
         },
         {
             "id": 22,
-            "kanji": "五時",
-            "correctHiragana": "ごじ",
+            "kanji": "いつ",
+            "correctHiragana": "When",
             "alternatives": [
-                "ことき",
-                "こじ"
+                "Where",
+                "Who"
             ]
         },
         {
             "id": 23,
-            "kanji": "五月",
-            "correctHiragana": "ごがつ",
+            "kanji": "きょう",
+            "kanji": "今日",
+            "correctHiragana": "Today",
             "alternatives": [
-                "ごげつ",
-                "こげつ"
+                "Tomorrow",
+                "Morning"
             ]
         },
         {
             "id": 24,
-            "kanji": "五歳",
-            "correctHiragana": "ごさい",
+            "kanji": "～ごろ",
+            "correctHiragana": "At about…",
             "alternatives": [
-                "ごだい",
-                "ごけい"
+                "When",
+                "But"
             ]
         },
         {
             "id": 25,
-            "kanji": "五つ",
-            "correctHiragana": "いつつ",
+            "kanji": "こんばん",
+            "kanji": "今晩",
+            "correctHiragana": "Tonight",
             "alternatives": [
-                "ごつつ",
-                "いっつ"
+                "Weekend",
+                "Tomorrow"
             ]
         },
         {
             "id": 26,
-            "kanji": "六",
-            "correctHiragana": "ろく",
+            "kanji": "しゅうまつ",
+            "kanji": "週末",
+            "correctHiragana": "Weekend",
             "alternatives": [
-                "はち",
-                "しち"
+                "Every day",
+                "Saturday"
             ]
         },
         {
             "id": 27,
-            "kanji": "六時",
-            "correctHiragana": "ろくじ",
+            "kanji": "どようび",
+            "kanji": "土曜日",
+            "correctHiragana": "Saturday",
             "alternatives": [
-                "ろくとき",
-                "るくじ"
+                "Sunday",
+                "Every day"
             ]
         },
         {
             "id": 28,
-            "kanji": "六百",
-            "correctHiragana": "ろっぴゃく",
+            "kanji": "にちようび",
+            "kanji": "日曜日",
+            "correctHiragana": "Sunday",
             "alternatives": [
-                "ろっびゃく",
-                "ろくひゃく"
+                "Saturday",
+                "Next week"
             ]
         },
         {
             "id": 29,
-            "kanji": "六分",
-            "correctHiragana": "ろっぷん",
+            "kanji": "まいにち",
+            "kanji": "毎日",
+            "correctHiragana": "Every day",
             "alternatives": [
-                "ろくぶん",
-                "ろくふん"
+                "Every night",
+                "Weekend"
             ]
         },
         {
             "id": 30,
-            "kanji": "六つ",
-            "correctHiragana": "むっつ",
+            "kanji": "まいばん",
+            "kanji": "毎晩",
+            "correctHiragana": "Every night",
             "alternatives": [
-                "むつ",
-                "ろくつ"
+                "Every day",
+                "Morning"
             ]
         },
         {
             "id": 31,
-            "kanji": "七",
-            "correctHiragana": "しち/なな",
+            "kanji": "いく",
+            "kanji": "行く",
+            "correctHiragana": "To go",
             "alternatives": [
-                "はち",
-                "し／く"
+                "To drink",
+                "To read"
             ]
         },
         {
             "id": 32,
-            "kanji": "七時",
-            "correctHiragana": "しちじ",
+            "kanji": "かえる",
+            "kanji": "帰る",
+            "correctHiragana": "To go back; to return",
             "alternatives": [
-                "ななじ",
-                "しちとき"
+                "To get up",
+                "To study"
             ]
         },
         {
             "id": 33,
-            "kanji": "七月",
-            "correctHiragana": "しちがつ",
+            "kanji": "きく",
+            "kanji": "聞く",
+            "correctHiragana": "To listen; to hear",
             "alternatives": [
-                "しちげつ",
-                "ななげつ"
+                "To speak",
+                "To sleep"
             ]
         },
         {
             "id": 34,
-            "kanji": "七つ",
-            "correctHiragana": "ななつ",
+            "kanji": "のむ",
+            "kanji": "飲む",
+            "correctHiragana": "To drink",
             "alternatives": [
-                "はたつ",
-                "しちつ"
+                "To eat",
+                "To sleep"
             ]
         },
         {
             "id": 35,
-            "kanji": "七人",
-            "correctHiragana": "ななにん/しちにん",
+            "kanji": "はなす",
+            "kanji": "話す",
+            "correctHiragana": "To speak; to talk",
             "alternatives": [
-                "ななひと／しちひと",
-                "なっにん／しっにん"
+                "To see; look at; watch",
+                "To study"
             ]
         },
         {
             "id": 36,
-            "kanji": "八",
-            "correctHiragana": "はち",
+            "kanji": "よむ",
+            "kanji": "読む",
+            "correctHiragana": "To read",
             "alternatives": [
-                "ろく",
-                "しち"
+                "To drink",
+                "To do"
             ]
         },
         {
             "id": 37,
-            "kanji": "八時",
-            "correctHiragana": "はちじ",
+            "kanji": "おきる",
+            "kanji": "起きる",
+            "correctHiragana": "To get up",
             "alternatives": [
-                "ろくじ",
-                "はじ"
+                "To sleep",
+                "To come"
             ]
         },
         {
             "id": 38,
-            "kanji": "八百",
-            "correctHiragana": "はっぴゃく",
+            "kanji": "たべる",
+            "kanji": "食べる",
+            "correctHiragana": "To eat",
             "alternatives": [
-                "はっびゃく",
-                "はちひゃく"
+                "To speak",
+                "To study"
             ]
         },
         {
             "id": 39,
-            "kanji": "八歳",
-            "correctHiragana": "はっさい",
+            "kanji": "ねる",
+            "kanji": "寝る",
+            "correctHiragana": "To sleep; to go to sleep",
             "alternatives": [
-                "はちさい",
-                "はっざい"
+                "To do",
+                "To get up"
             ]
         },
         {
             "id": 40,
-            "kanji": "八つ",
-            "correctHiragana": "やっつ",
+            "kanji": "みる",
+            "kanji": "見る",
+            "correctHiragana": "To see; to look at; to watch ",
             "alternatives": [
-                "はっつ",
-                "やつ"
+                "To listen; hear",
+                "To read"
             ]
         },
         {
             "id": 41,
-            "kanji": "九",
-            "correctHiragana": "きゅう",
+            "kanji": "くる",
+            "kanji": "来る",
+            "correctHiragana": "To come",
             "alternatives": [
-                "きゆう",
-                "きゅ"
+                "To go",
+                "To eat"
             ]
         },
         {
             "id": 42,
-            "kanji": "九時",
-            "correctHiragana": "くじ",
+            "kanji": "する",
+            "correctHiragana": "To do",
             "alternatives": [
-                "きゆじ",
-                "くっじ"
+                "To come",
+                "To study"
             ]
         },
         {
             "id": 43,
-            "kanji": "九月",
-            "correctHiragana": "くがつ",
+            "kanji": "べんきょうする",
+            "kanji": "勉強する",
+            "correctHiragana": "To study",
             "alternatives": [
-                "くげつ",
-                "きゅうがつ"
+                "To speak; to talk",
+                "To to go back; to return"
             ]
         },
         {
             "id": 44,
-            "kanji": "九歳",
-            "correctHiragana": "きゅうさい",
+            "kanji": "いい",
+            "correctHiragana": "Good",
             "alternatives": [
-                "くさい",
-                "きゅさい"
+                "Early",
+                "But"
             ]
         },
         {
             "id": 45,
-            "kanji": "九つ",
-            "correctHiragana": "ここのつ",
+            "kanji": "はやい",
+            "kanji": "早い",
+            "correctHiragana": "Early",
             "alternatives": [
-                "くっつ",
-                "きゆつ"
+                "Good",
+                "A little"
             ]
         },
         {
             "id": 46,
-            "kanji": "十",
-            "correctHiragana": "じゅう",
+            "kanji": "あまり",
+            "correctHiragana": "Not much",
             "alternatives": [
-                "じゆう",
-                "じゅ"
+                "Not at all",
+                "Sometimes"
             ]
         },
         {
             "id": 47,
-            "kanji": "十時",
-            "correctHiragana": "じゅうじ",
+            "kanji": "ぜんぜん",
+            "kanji": "全然",
+            "correctHiragana": "Not at all",
             "alternatives": [
-                "じゆじ",
-                "とおじ"
+                "A little",
+                "Often; much"
             ]
         },
         {
             "id": 48,
-            "kanji": "十月",
-            "correctHiragana": "じゅうがつ",
+            "kanji": "たいてい",
+            "correctHiragana": "Usually",
             "alternatives": [
-                "じゅがつ",
-                "じゆげつ"
+                "Sometimes",
+                "A little"
             ]
         },
         {
             "id": 49,
-            "kanji": "十歳",
-            "correctHiragana": "じゅっさい／じっさい",
+            "kanji": "ちょっと",
+            "correctHiragana": "A little",
             "alternatives": [
-                "じさい",
-                "じゅうさい"
+                "Not much",
+                "Not at all"
             ]
         },
         {
             "id": 50,
-            "kanji": "十",
-            "correctHiragana": "とお",
+            "kanji": "ときどき",
+            "kanji": "時々",
+            "correctHiragana": "Sometimes",
             "alternatives": [
-                "とう",
-                "とおう"
+                "Often; much",
+                "Not at all"
             ]
         },
         {
             "id": 51,
-            "kanji": "百",
-            "correctHiragana": "ひゃく",
+            "kanji": "よく",
+            "correctHiragana": "Often; much",
             "alternatives": [
-                "びゃく",
-                "ひやく"
+                "A little",
+                "Sometimes"
             ]
         },
         {
             "id": 52,
-            "kanji": "三百",
-            "correctHiragana": "さんびゃく",
+            "kanji": "そうですね",
+            "correctHiragana": "That’s right; Let me see.",
             "alternatives": [
-                "ざんびゃく",
-                "さんぴゃく"
+                "How about...? How is...?",
+                "Often; much"
             ]
         },
         {
             "id": 53,
-            "kanji": "六百",
-            "correctHiragana": "ろっぴゃく",
+            "kanji": "でも",
+            "correctHiragana": "But",
             "alternatives": [
-                "ろくひゃく",
-                "ろっびゃく"
+                "Good",
+                "Early"
             ]
         },
         {
             "id": 54,
-            "kanji": "八百",
-            "correctHiragana": "はっぴゃく",
+            "kanji": "どうですか",
+            "correctHiragana": "How about…?; How is…?",
             "alternatives": [
-                "はちひゃく",
-                "はっびゃく"
-            ]
-        },
-        {
-            "id": 55,
-            "kanji": "千",
-            "correctHiragana": "せん",
-            "alternatives": [
-                "うし",
-                "まん"
-            ]
-        },
-        {
-            "id": 56,
-            "kanji": "三千",
-            "correctHiragana": "さんぜん",
-            "alternatives": [
-                "さんせん",
-                "さんまん"
-            ]
-        },
-        {
-            "id": 57,
-            "kanji": "八千",
-            "correctHiragana": "はっせん",
-            "alternatives": [
-                "はっぜん",
-                "はちせん"
-            ]
-        },
-        {
-            "id": 58,
-            "kanji": "千円",
-            "correctHiragana": "せんえん",
-            "alternatives": [
-                "ぜんえん",
-                "せんまん"
-            ]
-        },
-        {
-            "id": 59,
-            "kanji": "一万",
-            "correctHiragana": "いちまん",
-            "alternatives": [
-                "いっせん",
-                "いっまん"
-            ]
-        },
-        {
-            "id": 60,
-            "kanji": "十万",
-            "correctHiragana": "じゅうまん",
-            "alternatives": [
-                "じゅうせん",
-                "じゅまん"
-            ]
-        },
-        {
-            "id": 61,
-            "kanji": "百万",
-            "correctHiragana": "ひゃくまん",
-            "alternatives": [
-                "ぴゃくまん",
-                "びゃくまん"
-            ]
-        },
-        {
-            "id": 62,
-            "kanji": "百円",
-            "correctHiragana": "ひゃくえん",
-            "alternatives": [
-                "びゃくえん",
-                "ひゃくっえん"
-            ]
-        },
-        {
-            "id": 63,
-            "kanji": "円",
-            "correctHiragana": "えん",
-            "alternatives": [
-                "よん",
-                "まるい"
-            ]
-        },
-        {
-            "id": 64,
-            "kanji": "円高",
-            "correctHiragana": "えんだか",
-            "alternatives": [
-                "えんたかい",
-                "まるたか"
-            ]
-        },
-        {
-            "id": 65,
-            "kanji": "円い",
-            "correctHiragana": "まるい",
-            "alternatives": [
-                "えんい",
-                "まろい"
-            ]
-        },
-        {
-            "id": 66,
-            "kanji": "一時",
-            "correctHiragana": "いちじ",
-            "alternatives": [
-                "いっとき",
-                "ひとつとき"
-            ]
-        },
-        {
-            "id": 67,
-            "kanji": "子どもの時",
-            "correctHiragana": "こどものとき",
-            "alternatives": [
-                "めどものじ",
-                "こどものじ"
-            ]
-        },
-        {
-            "id": 68,
-            "kanji": "時々",
-            "correctHiragana": "ときどき",
-            "alternatives": [
-                "じじ",
-                "ときとき"
-            ]
-        },
-        {
-            "id": 69,
-            "kanji": "時計",
-            "correctHiragana": "とけい",
-            "alternatives": [
-                "じけい",
-                "どけい"
+                "That's right; Let me see.",
+                "Sometimes"
             ]
         }
     ]

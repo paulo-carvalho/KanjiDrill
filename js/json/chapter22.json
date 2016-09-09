@@ -7,578 +7,542 @@
     "data": [
         {
             "id": 1,
-            "kanji": "日記",
-            "correctHiragana": "にっき",
+            "kanji": "あいて",
+            "kanji": "相手",
+            "correctHiragana": "Partner",
             "alternatives": [
-                "にちき",
-                "ひき"
+                "Rival",
+                "Helper"
             ]
         },
         {
             "id": 2,
-            "kanji": "記入する",
-            "correctHiragana": "きにゅうする",
+            "kanji": "うけつけ",
+            "kanji": "受付",
+            "correctHiragana": "Reception desk",
             "alternatives": [
-                "かにゅうする",
-                "きじゅうする"
+                "Main office",
+                "Security station"
             ]
         },
         {
             "id": 3,
-            "kanji": "記事",
-            "correctHiragana": "きじ",
+            "kanji": "えいかいわ",
+            "kanji": "英会話",
+            "correctHiragana": "English conversation",
             "alternatives": [
-                "かじ",
-                "きし"
+                "English composition",
+                "English lecture"
             ]
         },
         {
             "id": 4,
-            "kanji": "暗記する",
-            "correctHiragana": "あんきする",
+            "kanji": "おじょうさん",
+            "kanji": "お嬢さん",
+            "correctHiragana": "Someone’s daughter (polite)",
             "alternatives": [
-                "あんかする",
-                "あんぎする"
+                "Someone’s niece  (polite)",
+                "Someone’s wife (polite)"
             ]
         },
         {
             "id": 5,
-            "kanji": "銀行",
-            "correctHiragana": "ぎんこう",
+            "kanji": "かじ",
+            "kanji": "家事",
+            "correctHiragana": "Household matters",
             "alternatives": [
-                "きんこう",
-                "ぎんぎょう"
+                "Key",
+                "Fire"
             ]
         },
         {
             "id": 6,
-            "kanji": "銀メダル",
-            "correctHiragana": "ぎんメダル",
+            "kanji": "かぜ",
+            "kanji": "風",
+            "correctHiragana": "Wind",
             "alternatives": [
-                "きんメダル",
-                "ぎんメタル"
+                "Blizzard",
+                "Key"
             ]
         },
         {
             "id": 7,
-            "kanji": "銀世界",
-            "correctHiragana": "ぎんせかい",
+            "kanji": "かみさま",
+            "kanji": "神様",
+            "correctHiragana": "God",
             "alternatives": [
-                "きんせかい",
-                "ぎんしかい"
+                "Goddess",
+                "Emperor"
             ]
         },
         {
             "id": 8,
-            "kanji": "一回",
-            "correctHiragana": "いっかい",
+            "kanji": "き",
+            "kanji": "木",
+            "correctHiragana": "Tree",
             "alternatives": [
-                "いちかい",
-                "いっかん"
+                "Book",
+                "Spirit"
             ]
         },
         {
             "id": 9,
-            "kanji": "回送バス",
-            "correctHiragana": "かいそうバス",
+            "kanji": "こうはい",
+            "kanji": "後輩",
+            "correctHiragana": "Junior member",
             "alternatives": [
-                "かいぞうバス",
-                "かくそうバス"
+                "Senior member",
+                "Elder person"
             ]
         },
         {
             "id": 10,
-            "kanji": "最終回",
-            "correctHiragana": "さいしゅうかい",
+            "kanji": "さる",
+            "kanji": "猿",
+            "correctHiragana": "Monkey",
             "alternatives": [
-                "さいじゅうかい",
-                "さいしゅうかん"
+                "Fox",
+                "Deer"
             ]
         },
         {
             "id": 11,
-            "kanji": "回す",
-            "correctHiragana": "まわす",
+            "kanji": "じゆう",
+            "kanji": "自由",
+            "correctHiragana": "Freedom",
             "alternatives": [
-                "かいす",
-                "かくす"
+                "Reason",
+                "Season"
             ]
         },
         {
             "id": 12,
-            "kanji": "夕方",
-            "correctHiragana": "ゆうがた",
+            "kanji": "じゅく",
+            "kanji": "塾",
+            "correctHiragana": "Cram school",
             "alternatives": [
-                "ゆうほう",
-                "ゆうかた"
+                "Freedom",
+                "Document"
             ]
         },
         {
             "id": 13,
-            "kanji": "夕食",
-            "correctHiragana": "ゆうしょく",
+            "kanji": "しょるい",
+            "kanji": "書類",
+            "correctHiragana": "Document",
             "alternatives": [
-                "ゆうじょく",
-                "じゅうしょく"
+                "Essay",
+                "Resume"
             ]
         },
         {
             "id": 14,
-            "kanji": "七夕",
-            "correctHiragana": "たなばた",
+            "kanji": "せんぱい",
+            "kanji": "先輩",
+            "correctHiragana": "Senior member",
             "alternatives": [
-                "しちばた",
-                "ななばた"
+                "Junior member",
+                "Coordinator"
             ]
         },
         {
             "id": 15,
-            "kanji": "夕日",
-            "correctHiragana": "ゆうひ",
+            "kanji": "ひとりぐらし",
+            "kanji": "一人暮らし",
+            "correctHiragana": "Living alone",
             "alternatives": [
-                "ゆうび",
-                "ゆうにち"
+                "Single",
+                "Living in the city"
             ]
         },
         {
             "id": 16,
-            "kanji": "夕刊",
-            "correctHiragana": "ゆうかん",
+            "kanji": "ぶか",
+            "kanji": "部下",
+            "correctHiragana": "Subordinate",
             "alternatives": [
-                "じゅうかん",
-                "ゆうがん"
+                "Colleague",
+                "Senior member"
             ]
         },
         {
             "id": 17,
-            "kanji": "黒木さん",
-            "correctHiragana": "くろきさん",
+            "kanji": "ふくしゅう",
+            "kanji": "復習",
+            "correctHiragana": "Review of a lesson",
             "alternatives": [
-                "ぐろきさん",
-                "くろぎさん"
+                "Preparation of lessons",
+                "Review of resume"
             ]
         },
         {
             "id": 18,
-            "kanji": "黒い",
-            "correctHiragana": "くろい",
+            "kanji": "プロジェクト",
+            "correctHiragana": "Project",
             "alternatives": [
-                "ぐろい",
-                "こくい"
+                "Protection",
+                "Preservation"
             ]
         },
         {
             "id": 19,
-            "kanji": "白黒写真",
-            "correctHiragana": "しろくろしゃしん",
+            "kanji": "ボール",
+            "correctHiragana": "Ball",
             "alternatives": [
-                "しろぐろしゃしん",
-                "はっこくしゃしん"
+                "Goal",
+                "Mall"
             ]
         },
         {
             "id": 20,
-            "kanji": "黒板",
-            "correctHiragana": "こくばん",
+            "kanji": "むだづかい",
+            "kanji": "無駄遣い",
+            "correctHiragana": "Waste (Money)",
             "alternatives": [
-                "ごくばん",
-                "くろばん"
+                "Save (Money)",
+                "Invest (Money)"
             ]
         },
         {
             "id": 21,
-            "kanji": "用事",
-            "correctHiragana": "ようじ",
+            "kanji": "めんきょ",
+            "correctHiragana": "License",
             "alternatives": [
-                "ようし",
-                "ようごと"
+                "Contract",
+                "Agreement"
             ]
         },
         {
             "id": 22,
-            "kanji": "用意する",
-            "correctHiragana": "よういする",
+            "kanji": "ヨーロッパ",
+            "correctHiragana": "Europe",
             "alternatives": [
-                "ようしする",
-                "ゆういする"
+                "Euphoria",
+                "Project"
             ]
         },
         {
             "id": 23,
-            "kanji": "子供用",
-            "correctHiragana": "こどもよう",
+            "kanji": "よしゅう",
+            "kanji": "予習",
+            "correctHiragana": "Preparation of lessons",
             "alternatives": [
-                "こどもゆう",
-                "こどもじょう"
+                "Preparation of documents",
+                "Review of a lesson"
             ]
         },
         {
             "id": 24,
-            "kanji": "費用",
-            "correctHiragana": "ひよう",
+            "kanji": "うるさい",
+            "correctHiragana": "Noisy; annoying",
             "alternatives": [
-                "びよう",
-                "ひじょう"
+                "Lively",
+                "Crowded"
             ]
         },
         {
             "id": 25,
-            "kanji": "留守",
-            "correctHiragana": "るす",
+            "kanji": "しんぱい",
+            "kanji": "心配",
+            "correctHiragana": "Worried about",
             "alternatives": [
-                "りゅうす",
-                "りゅうい"
+                "Interested about",
+                "Poor"
             ]
         },
         {
             "id": 26,
-            "kanji": "留守番電話",
-            "correctHiragana": "るすばんでんわ",
+            "kanji": "びんぼう",
+            "kanji": "貧乏",
+            "correctHiragana": "Poor",
             "alternatives": [
-                "りゅういでんわ",
-                "りゅうすでんわ"
+                "Tall",
+                "Worried about"
             ]
         },
         {
             "id": 27,
-            "kanji": "お守り",
-            "correctHiragana": "おまもり",
+            "kanji": "ぺらぺら",
+            "correctHiragana": "Fluent",
             "alternatives": [
-                "おしぼり",
-                "おすわり"
+                "Worried about",
+                "Flexible"
             ]
         },
         {
             "id": 28,
-            "kanji": "守衛",
-            "correctHiragana": "しゅえい",
+            "kanji": "へん",
+            "kanji": "変",
+            "correctHiragana": "Strange",
             "alternatives": [
-                "じゅえい",
-                "じゅれい"
+                "Usual; common",
+                "Complex"
             ]
         },
         {
             "id": 29,
-            "kanji": "週末",
-            "correctHiragana": "しゅうまつ",
+            "kanji": "らく",
+            "kanji": "楽",
+            "correctHiragana": "Easy; comfortable",
             "alternatives": [
-                "じゅうまつ",
-                "しゅうばつ"
+                "Harsh; uncomfortable",
+                "Noisy"
             ]
         },
         {
             "id": 30,
-            "kanji": "月末",
-            "correctHiragana": "げつまつ",
+            "kanji": "かぜがふく",
+            "kanji": "風が吹く",
+            "correctHiragana": "The wind blows",
             "alternatives": [
-                "つきまつ",
-                "げつすえ"
+                "To make a photocopy",
+                "To make a plan"
             ]
         },
         {
             "id": 31,
-            "kanji": "年末",
-            "correctHiragana": "ねんまつ",
+            "kanji": "かつ",
+            "kanji": "勝つ",
+            "correctHiragana": "To win",
             "alternatives": [
-                "としまつ",
-                "ねんすえ"
+                "To run",
+                "To fail"
             ]
         },
         {
             "id": 32,
-            "kanji": "期末試験",
-            "correctHiragana": "きまつしけん",
+            "kanji": "コピーをとる",
+            "kanji": "コピーを取る",
+            "correctHiragana": "To make a photocopy",
             "alternatives": [
-                "きばつしけん",
-                "きすえしけん"
+                "To pick up (something)",
+                "To oppose; to object"
             ]
         },
         {
             "id": 33,
-            "kanji": "末",
-            "correctHiragana": "すえ",
+            "kanji": "はこぶ",
+            "kanji": "運ぶ",
+            "correctHiragana": "To carry",
             "alternatives": [
-                "ずえ",
-                "もつ"
+                "To run",
+                "To translate"
             ]
         },
         {
             "id": 34,
-            "kanji": "待つ",
-            "correctHiragana": "まつ",
+            "kanji": "はしる",
+            "kanji": "走る",
+            "correctHiragana": "To run",
             "alternatives": [
-                "もつ",
-                "たいつ"
+                "To win",
+                "To agree"
             ]
         },
         {
             "id": 35,
-            "kanji": "待合室",
-            "correctHiragana": "まちあいしつ",
+            "kanji": "ひろう",
+            "kanji": "拾う",
+            "correctHiragana": "To pick up (something)",
             "alternatives": [
-                "まちごうしつ",
-                "たいごうしつ"
+                "To oppose; to object",
+                "To make a photocopy"
             ]
         },
         {
             "id": 36,
-            "kanji": "期待する",
-            "correctHiragana": "きたいする",
+            "kanji": "ほ（う）っておく",
+            "kanji": "放っておく",
+            "correctHiragana": "To leave (someone / something) alone",
             "alternatives": [
-                "ぎたいする",
-                "じたいする"
+                "The wind blows",
+                "To carry"
             ]
         },
         {
             "id": 37,
-            "kanji": "招待",
-            "correctHiragana": "しょうたい",
+            "kanji": "まにあう",
+            "kanji": "間に合う",
+            "correctHiragana": "To be in time",
             "alternatives": [
-                "じょうたい",
-                "しょうだい"
+                "To make a plan",
+                "To stay up all night"
             ]
         },
         {
             "id": 38,
-            "kanji": "残業",
-            "correctHiragana": "ざんぎょう",
+            "kanji": "けいかくをたてる",
+            "kanji": "計画立てる",
+            "correctHiragana": "To make a plan",
             "alternatives": [
-                "さんぎょう",
-                "ざんきょう"
+                "To carry",
+                "To raise; bring up"
             ]
         },
         {
             "id": 39,
-            "kanji": "残す",
-            "correctHiragana": "のこす",
+            "kanji": "そだてる",
+            "kanji": "育てる",
+            "correctHiragana": "To raise; bring up",
             "alternatives": [
-                "のごす",
-                "よごす"
+                "To be in time",
+                "To make a photocopy"
             ]
         },
         {
             "id": 40,
-            "kanji": "残念",
-            "correctHiragana": "ざんねん",
+            "kanji": "たすける",
+            "kanji": "助ける",
+            "correctHiragana": "To help; To rescue",
             "alternatives": [
-                "さんねん",
-                "ぜんえん"
+                "To pray for help",
+                "To oppose; to object"
             ]
         },
         {
             "id": 41,
-            "kanji": "心残り",
-            "correctHiragana": "こころのこり",
+            "kanji": "まける",
+            "kanji": "負ける",
+            "correctHiragana": "To loose (a match)",
             "alternatives": [
-                "しんのこり",
-                "こころのごり"
+                "To oppose; to object",
+                "To run"
             ]
         },
         {
             "id": 42,
-            "kanji": "残高",
-            "correctHiragana": "ざんだか",
+            "kanji": "おねがいする",
+            "kanji": "お願いする",
+            "correctHiragana": "To pray for help",
             "alternatives": [
-                "さんだか",
-                "ざんたか"
+                "To raise; bring up",
+                "To stay up all night"
             ]
         },
         {
             "id": 43,
-            "kanji": "一番",
-            "correctHiragana": "いちばん",
+            "kanji": "さんせいする",
+            "kanji": "賛成する",
+            "correctHiragana": "To agree",
             "alternatives": [
-                "いちはん",
-                "ひとばん"
+                "To carry",
+                "To oppose; to object"
             ]
         },
         {
             "id": 44,
-            "kanji": "番号",
-            "correctHiragana": "ばんごう",
+            "kanji": "しっぱいする",
+            "kanji": "失敗する",
+            "correctHiragana": "To fail",
             "alternatives": [
-                "はんごう",
-                "ばんこう"
+                "To help; To rescue",
+                "To loose (a match)"
             ]
         },
         {
             "id": 45,
-            "kanji": "番組",
-            "correctHiragana": "ばんぐみ",
+            "kanji": "てつやする",
+            "kanji": "てつやする",
+            "correctHiragana": "To stay up all night",
             "alternatives": [
-                "はんくみ",
-                "はんぐみ"
+                "To carry",
+                "To oppose; to object"
             ]
         },
         {
             "id": 46,
-            "kanji": "駅",
-            "correctHiragana": "えき",
+            "kanji": "はんたいする",
+            "kanji": "反対する",
+            "correctHiragana": "To oppose; to object",
             "alternatives": [
-                "てき",
-                "てい"
+                "To win",
+                "To raise; bring up"
             ]
         },
         {
             "id": 47,
-            "kanji": "東京駅",
-            "correctHiragana": "とうきょうえき",
+            "kanji": "ほんやくする",
+            "kanji": "翻訳する",
+            "correctHiragana": "To translate",
             "alternatives": [
-                "とうきょうえい",
-                "とうきょうてき"
+                "To be in time",
+                "To fail"
             ]
         },
         {
             "id": 48,
-            "kanji": "駅前",
-            "correctHiragana": "えきまえ",
+            "kanji": "こんなふう",
+            "correctHiragana": "Like this",
             "alternatives": [
-                "てきまえ",
-                "えきぜん"
+                "Like that",
+                "Unlike this"
             ]
         },
         {
             "id": 49,
-            "kanji": "説明する",
-            "correctHiragana": "せつめいする",
+            "kanji": "じゆうに",
+            "kanji": "自由に",
+            "correctHiragana": "Freely",
             "alternatives": [
-                "しょうめいする",
-                "ぜつめいする"
+                "Conspicuously",
+                "Friendly"
             ]
         },
         {
             "id": 50,
-            "kanji": "小説",
-            "correctHiragana": "しょうせつ",
+            "kanji": "ずっと",
+            "correctHiragana": "For a long time; all the time",
             "alternatives": [
-                "じょうせつ",
-                "しょうぜつ"
+                "For a short period",
+                "For many days"
             ]
         },
         {
             "id": 51,
-            "kanji": "小説家",
-            "correctHiragana": "しょうせつか",
+            "kanji": "ぜったいに",
+            "kanji": "絶対に",
+            "correctHiragana": "Definitely",
             "alternatives": [
-                "じょうせつか",
-                "しょうぜつか"
+                "Freely",
+                "Possibly"
             ]
         },
         {
             "id": 52,
-            "kanji": "説教する",
-            "correctHiragana": "せっきょうする",
+            "kanji": "そんなこと（は）ない",
+            "correctHiragana": "I don’t think so",
             "alternatives": [
-                "ぜっきょうする",
-                "せつきょうする"
+                "I agree with",
+                "I am not sure"
             ]
         },
         {
             "id": 53,
-            "kanji": "案内する",
-            "correctHiragana": "あんないする",
+            "kanji": "〜とか",
+            "correctHiragana": "...for example",
             "alternatives": [
-                "あないする",
-                "あんうちする"
+                "Like this",
+                "...as result"
             ]
         },
         {
             "id": 54,
-            "kanji": "案内所",
-            "correctHiragana": "あんないじょ",
+            "kanji": "なんども",
+            "kanji": "何度も",
+            "correctHiragana": "Many times",
             "alternatives": [
-                "あないじょ",
-                "あんうちじょ"
+                "A few days",
+                "Many events"
             ]
-        },
+        },    
         {
             "id": 55,
-            "kanji": "案",
-            "correctHiragana": "あん",
+            "kanji": "もうすこし",
+            "kanji": "もう少し",
+            "correctHiragana": "A little more",
             "alternatives": [
-                "あい",
-                "あ"
-            ]
-        },
-        {
-            "id": 56,
-            "kanji": "提案",
-            "correctHiragana": "ていあん",
-            "alternatives": [
-                "きょうあん",
-                "ていあ"
-            ]
-        },
-        {
-            "id": 57,
-            "kanji": "案内する",
-            "correctHiragana": "あんないする",
-            "alternatives": [
-                "あないする",
-                "あんうちする"
-            ]
-        },
-        {
-            "id": 58,
-            "kanji": "家内",
-            "correctHiragana": "かない",
-            "alternatives": [
-                "けない",
-                "いえない"
-            ]
-        },
-        {
-            "id": 59,
-            "kanji": "国内",
-            "correctHiragana": "こくない",
-            "alternatives": [
-                "ごくない",
-                "こくうち"
-            ]
-        },
-        {
-            "id": 60,
-            "kanji": "内科",
-            "correctHiragana": "ないか",
-            "alternatives": [
-                "うちか",
-                "ないけ"
-            ]
-        },
-        {
-            "id": 61,
-            "kanji": "内側",
-            "correctHiragana": "うちがわ",
-            "alternatives": [
-                "うちそく",
-                "ないがわ"
-            ]
-        },
-        {
-            "id": 62,
-            "kanji": "忘れる",
-            "correctHiragana": "わすれる",
-            "alternatives": [
-                "われる",
-                "ぼうれる"
-            ]
-        },
-        {
-            "id": 63,
-            "kanji": "忘れ物",
-            "correctHiragana": "わすれもの",
-            "alternatives": [
-                "われもの",
-                "ぼうもの"
-            ]
-        },
-        {
-            "id": 64,
-            "kanji": "忘年会",
-            "correctHiragana": "ぼうねんかい",
-            "alternatives": [
-                "ほうねんかい",
-                "わすねんかい"
+                "For a long time; all the time",
+                "Like this"
             ]
         }
     ]

@@ -7,569 +7,504 @@
     "data": [
         {
             "id": 1,
-            "kanji": "東",
-            "correctHiragana": "ひがし",
+            "kanji": "おかね",
+            "kanji": "お金",
+            "correctHiragana": "Money",
             "alternatives": [
-                "みなみ",
-                "にし"
+                "Bath",
+                "Baggage"
             ]
         },
         {
             "id": 2,
-            "kanji": "東口",
-            "correctHiragana": "ひがしぐち",
+            "kanji": "おふろ",
+            "kanji": "お風呂",
+            "correctHiragana": "Bath",
             "alternatives": [
-                "みなみくち",
-                "ひかしくち"
+                "Night",
+                "This week"
             ]
         },
         {
             "id": 3,
-            "kanji": "東京",
-            "correctHiragana": "とうきょう",
+            "kanji": "かんじ",
+            "kanji": "漢字",
+            "correctHiragana": "Kanji; Chinese character",
             "alternatives": [
-                "とおきょ",
-                "とっきょう"
+                "Money",
+                "Electricity"
             ]
         },
         {
             "id": 4,
-            "kanji": "関東",
-            "correctHiragana": "かんとう",
+            "kanji": "きょうかしょ",
+            "kanji": "教科書",
+            "correctHiragana": "Textbook",
             "alternatives": [
-                "きんどう",
-                "まんどう"
+                "Municipal Hospital",
+                "Next week"
             ]
         },
         {
             "id": 5,
-            "kanji": "東洋",
-            "correctHiragana": "とうよう",
+            "kanji": "こんしゅう",
+            "kanji": "今週",
+            "correctHiragana": "This week",
             "alternatives": [
-                "どうかい",
-                "ひがしよう"
+                "Next week",
+                "Next year"
             ]
         },
         {
             "id": 6,
-            "kanji": "西",
-            "correctHiragana": "にし",
+            "kanji": "シーディー",
+            "correctHiragana": "CD",
             "alternatives": [
-                "みなみ",
-                "ひがし"
+                "Personal computer",
+                "Window"
             ]
         },
         {
             "id": 7,
-            "kanji": "西口",
-            "correctHiragana": "にしぐち",
+            "kanji": "しみんびょういん",
+            "kanji": "市民病院",
+            "correctHiragana": "Municipal Hospital",
             "alternatives": [
-                "ひがしくち",
-                "にっしくち"
+                "Textbook",
+                "Train"
             ]
         },
         {
             "id": 8,
-            "kanji": "北西",
-            "correctHiragana": "ほくせい",
+            "kanji": "シャワー",
+            "correctHiragana": "Shower",
             "alternatives": [
-                "きたせい",
-                "きたにし"
+                "CD",
+                "Page"
             ]
         },
         {
             "id": 9,
-            "kanji": "関西",
-            "correctHiragana": "かんさい",
+            "kanji": "つぎ",
+            "kanji": "次",
+            "correctHiragana": "Next",
             "alternatives": [
-                "だんせい",
-                "かんせい"
+                "Night",
+                "Electricity"
             ]
         },
         {
             "id": 10,
-            "kanji": "西洋",
-            "correctHiragana": "せいよう",
+            "kanji": "でんき",
+            "kanji": "電気",
+            "correctHiragana": "Electricity",
             "alternatives": [
-                "さいよう",
-                "にしよう"
+                "Train",
+                "Kanji"
             ]
         },
         {
             "id": 11,
-            "kanji": "南",
-            "correctHiragana": "みなみ",
+            "kanji": "でんしゃ",
+            "kanji": "電車",
+            "correctHiragana": "Train",
             "alternatives": [
-                "ひがし",
-                "にし"
+                "Electricity",
+                "Municipal Hospital"
             ]
         },
         {
             "id": 12,
-            "kanji": "南口",
-            "correctHiragana": "みなみぐち",
+            "kanji": "にもつ",
+            "kanji": "荷物",
+            "correctHiragana": "Baggage",
             "alternatives": [
-                "ひがしぐち",
-                "みなみくち"
+                "Bath",
+                "Next"
             ]
         },
         {
             "id": 13,
-            "kanji": "南東",
-            "correctHiragana": "なんとう",
+            "kanji": "パソコン",
+            "correctHiragana": "Personal computer",
             "alternatives": [
-                "みなみどう",
-                "かんとう"
+                "Shower",
+                "CD"
             ]
         },
         {
             "id": 14,
-            "kanji": "南極",
-            "correctHiragana": "なんきょく",
+            "kanji": "ページ",
+            "correctHiragana": "Page",
             "alternatives": [
-                "みなみどう",
-                "なんびょく"
+                "Shower",
+                "Personal computer"
             ]
         },
         {
             "id": 15,
-            "kanji": "東南アジア",
-            "correctHiragana": "とうなんアジア",
+            "kanji": "まど",
+            "kanji": "窓",
+            "correctHiragana": "Window",
             "alternatives": [
-                "どうなみアジア",
-                "ひがしみなみアジア"
+                "Night",
+                "Next"
             ]
         },
         {
             "id": 16,
-            "kanji": "北",
-            "correctHiragana": "きた",
+            "kanji": "よる",
+            "kanji": "夜",
+            "correctHiragana": "Night",
             "alternatives": [
-                "みなみ",
-                "にし"
+                "Window",
+                "Bath"
             ]
         },
         {
             "id": 17,
-            "kanji": "北口",
-            "correctHiragana": "きたぐち",
+            "kanji": "らいしゅう",
+            "kanji": "来週",
+            "correctHiragana": "Next week",
             "alternatives": [
-                "にしぐち",
-                "みなみくち"
+                "Next year",
+                "This week"
             ]
         },
         {
             "id": 18,
-            "kanji": "東北",
-            "correctHiragana": "とうほく",
+            "kanji": "らいねん",
+            "kanji": "来年",
+            "correctHiragana": "Next year",
             "alternatives": [
-                "ひがしきた",
-                "とうぼく"
+                "Next week",
+                "This week"
             ]
         },
         {
             "id": 19,
-            "kanji": "北極",
-            "correctHiragana": "ほっきょく",
+            "kanji": "たいへん（な)",
+            "kanji": "大変",
+            "correctHiragana": "Tough (situation)",
             "alternatives": [
-                "きたどう",
-                "ほっしゅう"
+                "Right away",
+                "Later on"
             ]
         },
         {
             "id": 20,
-            "kanji": "北海道",
-            "correctHiragana": "ほっかいどう",
+            "kanji": "あそぶ",
+            "kanji": "遊ぶ",
+            "correctHiragana": "To play; to spend time pleasantly",
             "alternatives": [
-                "ほかいどう",
-                "せいかいど"
+                "To hurry",
+                "To sit down"
             ]
         },
         {
             "id": 21,
-            "kanji": "北極",
-            "correctHiragana": "ほっきょく",
+            "kanji": "いそぐ",
+            "kanji": "急ぐ",
+            "correctHiragana": "To hurry",
             "alternatives": [
-                "きたどう",
-                "ほっしゅう"
+                "To return (things)",
+                "To die"
             ]
         },
         {
             "id": 22,
-            "kanji": "口",
-            "correctHiragana": "くち",
+            "kanji": "おふろにはいる",
+            "kanji": "お風呂に入る",
+            "correctHiragana": "To take a bath",
             "alternatives": [
-                "ぐち",
-                "こう"
+                "To smoke",
+                "To enter"
             ]
         },
         {
             "id": 23,
-            "kanji": "人口",
-            "correctHiragana": "じんこう",
+            "kanji": "かえす",
+            "kanji": "返す",
+            "correctHiragana": "To return (things)",
             "alternatives": [
-                "ひとぐち",
-                "じんくち"
+                "To be absent (from...); to rest",
+                "To turn off; to erase"
             ]
         },
         {
             "id": 24,
-            "kanji": "入り口／入口",
-            "correctHiragana": "いりぐち",
+            "kanji": "けす",
+            "kanji": "消す",
+            "correctHiragana": "To turn off; to erase",
             "alternatives": [
-                "はいりこう",
-                "いっりくち"
+                "To die",
+                "To stand up"
             ]
         },
         {
             "id": 25,
-            "kanji": "出る",
-            "correctHiragana": "でる",
+            "kanji": "しぬ",
+            "kanji": "死ぬ",
+            "correctHiragana": "To die",
             "alternatives": [
-                "だる",
-                "はいる"
+                "To turn off; to erase",
+                "To carry; to hold"
             ]
         },
         {
             "id": 26,
-            "kanji": "出口",
-            "correctHiragana": "でぐち",
+            "kanji": "すわる",
+            "kanji": "座る",
+            "correctHiragana": "To sit down",
             "alternatives": [
-                "だぐち",
-                "てこう"
+                "To enter",
+                "To return (things)"
             ]
         },
         {
             "id": 27,
-            "kanji": "出す",
-            "correctHiragana": "だす",
+            "kanji": "たつ",
+            "kanji": "立つ",
+            "correctHiragana": "To stand up",
             "alternatives": [
-                "です",
-                "ゆす"
+                "To carry; to hold",
+                "To use"
             ]
         },
         {
             "id": 28,
-            "kanji": "出席",
-            "correctHiragana": "しゅっせき",
+            "kanji": "たばこをすう",
+            "kanji": "たばこを吸う",
+            "correctHiragana": "To smoke",
             "alternatives": [
-                "でっせき",
-                "だせぎ"
+                "To take a bath",
+                "To enter"
             ]
         },
         {
             "id": 29,
-            "kanji": "輸出",
-            "correctHiragana": "ゆしゅつ",
+            "kanji": "つかう",
+            "kanji": "使う",
+            "correctHiragana": "To use",
             "alternatives": [
-                "ちです",
-                "よしゅうつ"
+                "To help",
+                "To carry; to hold"
             ]
         },
         {
             "id": 30,
-            "kanji": "右",
-            "correctHiragana": "みぎ",
+            "kanji": "てつだう",
+            "kanji": "手伝う",
+            "correctHiragana": "To help",
             "alternatives": [
-                "ひだり",
-                "あし"
+                "To smoke",
+                "To take a bath"
             ]
         },
         {
             "id": 31,
-            "kanji": "右折",
-            "correctHiragana": "うせつ",
+            "kanji": "はいる",
+            "kanji": "入る",
+            "correctHiragana": "To enter",
             "alternatives": [
-                "みぎさる",
-                "させつ"
+                "To sit down",
+                "To play; to spend time pleasantly"
             ]
         },
         {
             "id": 32,
-            "kanji": "左右",
-            "correctHiragana": "さゆう",
+            "kanji": "もつ",
+            "kanji": "持つ",
+            "correctHiragana": "To carry; to hold",
             "alternatives": [
-                "みぎひだり",
-                "させつ"
+                "To use",
+                "To die"
             ]
         },
         {
             "id": 33,
-            "kanji": "右手",
-            "correctHiragana": "みぎて",
+            "kanji": "やすむ",
+            "kanji": "休む",
+            "correctHiragana": "To be absent (from...); to rest",
             "alternatives": [
-                "ひだりて",
-                "さゆて"
+                "To turn off; to erase",
+                "To sit down"
             ]
         },
         {
             "id": 34,
-            "kanji": "右側",
-            "correctHiragana": "みぎがわ",
+            "kanji": "あける",
+            "kanji": "開ける",
+            "correctHiragana": "To open (something)",
             "alternatives": [
-                "ひだりかわ",
-                "みぎとう"
+                "To close (something)",
+                "To get off"
             ]
         },
         {
             "id": 35,
-            "kanji": "左",
-            "correctHiragana": "ひだり",
+            "kanji": "おしえる",
+            "kanji": "教える",
+            "correctHiragana": "To teach; to instruct",
             "alternatives": [
-                "みぎ",
-                "さゆて"
+                "To get off",
+                "To borrow"
             ]
         },
         {
             "id": 36,
-            "kanji": "左折",
-            "correctHiragana": "させつ",
+            "kanji": "おりる",
+            "kanji": "降りる",
+            "correctHiragana": "To get off",
             "alternatives": [
-                "うせつ",
-                "きせつ"
+                "To teach; to instruct",
+                "To open (something)"
             ]
         },
         {
             "id": 37,
-            "kanji": "左手",
-            "correctHiragana": "ひだりて",
+            "kanji": "かりる",
+            "kanji": "借りる",
+            "correctHiragana": "To borrow",
             "alternatives": [
-                "みぎて",
-                "させで"
+                "To get off",
+                "To turn on"
             ]
         },
         {
             "id": 38,
-            "kanji": "左利き",
-            "correctHiragana": "ひだりきき",
+            "kanji": "しめる",
+            "kanji": "閉める",
+            "correctHiragana": "To close (something)",
             "alternatives": [
-                "みぎかき",
-                "させぎき"
+                "To teach; to instruct",
+                "To get off"
             ]
         },
         {
             "id": 39,
-            "kanji": "先生",
-            "correctHiragana": "せんせい",
+            "kanji": "シャワーをあびる",
+            "kanji": "シャワーを浴びる",
+            "correctHiragana": "To take a shower",
             "alternatives": [
-                "せいせん",
-                "せいせい"
+                "To make a phone call",
+                "To forget; to leave behind"
             ]
         },
         {
             "id": 40,
-            "kanji": "先週",
-            "correctHiragana": "せんしゅう",
+            "kanji": "つける",
+            "correctHiragana": "To turn on",
             "alternatives": [
-                "せいしゅ",
-                "せんしゅ"
+                "To open (something)",
+                "To get off"
             ]
         },
         {
             "id": 41,
-            "kanji": "先に",
-            "correctHiragana": "さきに",
+            "kanji": "でんわをかける",
+            "kanji": "電話をかける",
+            "correctHiragana": "To make a phone call",
             "alternatives": [
-                "せんに",
-                "せいに"
+                "To take a shower",
+                "To forget; to leave behind"
             ]
         },
         {
             "id": 42,
-            "kanji": "先月",
-            "correctHiragana": "せんげつ",
+            "kanji": "わすれる",
+            "kanji": "忘れる",
+            "correctHiragana": "To forget; to leave behind",
             "alternatives": [
-                "せいげつ",
-                "せんがつ"
+                "To make a phone call",
+                "To take a shower"
             ]
         },
         {
             "id": 43,
-            "kanji": "先輩",
-            "correctHiragana": "せんぱい",
+            "kanji": "つれてくる",
+            "kanji": "連れてくる",
+            "correctHiragana": "To bring (a person)",
             "alternatives": [
-                "せいかい",
-                "ぜんばい"
+                "To bring (a thing)",
+                "To forget; to leave behind"
             ]
         },
         {
             "id": 44,
-            "kanji": "学生",
-            "correctHiragana": "がくせい",
+            "kanji": "もってくる",
+            "kanji": "持ってくる",
+            "correctHiragana": "To bring (a thing)",
             "alternatives": [
-                "がっくせい",
-                "がくせん"
+                "To bring (a person)",
+                "To make a phone call"
             ]
         },
         {
             "id": 45,
-            "kanji": "生まれる",
-            "correctHiragana": "うまれる",
+            "kanji": "あとで",
+            "kanji": "後で",
+            "correctHiragana": "Later on",
             "alternatives": [
-                "いまれる",
-                "せいまれる"
+                "(do something) late",
+                "Right away"
             ]
         },
         {
             "id": 46,
-            "kanji": "一生に一度",
-            "correctHiragana": "いっしょうにいちど",
+            "kanji": "おそく",
+            "kanji": "遅く",
+            "correctHiragana": "(do something) late",
             "alternatives": [
-                "いちせいにいちど",
-                "いっせんにいっど"
+                "Slowly; leisurely; unhurriedly",
+                "Right away"
             ]
         },
         {
             "id": 47,
-            "kanji": "大学生",
-            "correctHiragana": "だいがくせい",
+            "kanji": "〜から",
+            "correctHiragana": "Because...",
             "alternatives": [
-                "おおがっくせい",
-                "たいかくせい"
+                "Really?",
+                "(do something) late"
             ]
         },
         {
             "id": 48,
-            "kanji": "大きい",
-            "correctHiragana": "おおきい",
+            "kanji": "けっこうです",
+            "kanji": "結構です",
+            "correctHiragana": "That would be fine.; That wouldn't be necessary.",
             "alternatives": [
-                "だいきい",
-                "おっきい"
+                "Really?",
+                "Later on"
             ]
         },
         {
             "id": 49,
-            "kanji": "大変な",
-            "correctHiragana": "たいへんな",
+            "kanji": "すぐ",
+            "correctHiragana": "Right away",
             "alternatives": [
-                "おおへんな",
-                "だいかいな"
+                "Because...",
+                "Slowly; leisurely; unhurriedly"
             ]
         },
         {
             "id": 50,
-            "kanji": "大人",
-            "correctHiragana": "おとな",
+            "kanji": "ほんとうですか",
+            "kanji": "本当ですか",
+            "correctHiragana": "Really?",
             "alternatives": [
-                "たいじん",
-                "おおひと"
+                "That would be fine.; That wouldn't be necessary.",
+                "Because..."
             ]
         },
         {
             "id": 51,
-            "kanji": "大使館",
-            "correctHiragana": "たいしかん",
+            "kanji": "ゆっくり",
+            "correctHiragana": "Slowly; leisurely; unhurriedly",
             "alternatives": [
-                "おおはくかん",
-                "だいじっかん"
-            ]
-        },
-        {
-            "id": 52,
-            "kanji": "大学",
-            "correctHiragana": "だいがく",
-            "alternatives": [
-                "おおがく",
-                "たいがっく"
-            ]
-        },
-        {
-            "id": 53,
-            "kanji": "学校",
-            "correctHiragana": "がっこう",
-            "alternatives": [
-                "がこう",
-                "がっこ"
-            ]
-        },
-        {
-            "id": 54,
-            "kanji": "学ぶ",
-            "correctHiragana": "まなぶ",
-            "alternatives": [
-                "がっぶ",
-                "がくぶ"
-            ]
-        },
-        {
-            "id": 55,
-            "kanji": "学部",
-            "correctHiragana": "がくぶ",
-            "alternatives": [
-                "かくや",
-                "がっぶ"
-            ]
-        },
-        {
-            "id": 56,
-            "kanji": "外国",
-            "correctHiragana": "がいこく",
-            "alternatives": [
-                "たいくに",
-                "そとくに"
-            ]
-        },
-        {
-            "id": 57,
-            "kanji": "外国人",
-            "correctHiragana": "がいこくじん",
-            "alternatives": [
-                "そとこくじん",
-                "がいこくにん"
-            ]
-        },
-        {
-            "id": 58,
-            "kanji": "外",
-            "correctHiragana": "そと",
-            "alternatives": [
-                "たと",
-                "がい"
-            ]
-        },
-        {
-            "id": 59,
-            "kanji": "海外",
-            "correctHiragana": "かいがい",
-            "alternatives": [
-                "うみそと",
-                "うみがい"
-            ]
-        },
-        {
-            "id": 60,
-            "kanji": "中国",
-            "correctHiragana": "ちゅうごく",
-            "alternatives": [
-                "なかくに",
-                "ちゅごく"
-            ]
-        },
-        {
-            "id": 61,
-            "kanji": "国",
-            "correctHiragana": "くに",
-            "alternatives": [
-                "ごく",
-                "がい"
-            ]
-        },
-        {
-            "id": 62,
-            "kanji": "韓国",
-            "correctHiragana": "かんこく",
-            "alternatives": [
-                "けいこく",
-                "ばんごく"
-            ]
-        },
-        {
-            "id": 63,
-            "kanji": "国会",
-            "correctHiragana": "こっかい",
-            "alternatives": [
-                "ごくかい",
-                "くにかい"
+                "(do something) late",
+                "Right away"
             ]
         }
     ]

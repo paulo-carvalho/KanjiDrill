@@ -1,0 +1,466 @@
+{
+    "genkiBook": 1,
+    "chapter": 2,
+    "recommendedChapters": [
+        "04", "05", "06"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "これ",
+            "correctHiragana": "This one",
+            "alternatives": [
+                "That one",
+                "That one over there"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "それ",
+            "correctHiragana": "That one",
+            "alternatives": [
+                "This one",
+                "That one over there"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "あれ",
+            "correctHiragana": "That one (over there)",
+            "alternatives": [
+                "This one",
+                "That one"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "どれ",
+            "correctHiragana": "Which one",
+            "alternatives": [
+                "Who",
+                "Where"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "この",
+            "correctHiragana": "This…",
+            "alternatives": [
+                "That...",
+                "That...(over there)"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "その",
+            "correctHiragana": "That…",
+            "alternatives": [
+                "This...",
+                "That...(over there)"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "あの",
+            "correctHiragana": "That…(over there)",
+            "alternatives": [
+                "This...",
+                "That..."
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "どの",
+            "correctHiragana": "Which…",
+            "alternatives": [
+                "Who",
+                "Where"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "ここ",
+            "correctHiragana": "Here",
+            "alternatives": [
+                "There",
+                "Over there"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "そこ",
+            "correctHiragana": "There",
+            "alternatives": [
+                "Here",
+                "Over there"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "あそこ",
+            "correctHiragana": "Over there",
+            "alternatives": [
+                "Right here",
+                "There"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "どこ",
+            "correctHiragana": "Where",
+            "alternatives": [
+                "Who",
+                "Which one"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "だれ",
+            "kanji": "誰",
+            "correctHiragana": "Who",
+            "alternatives": [
+                "Where",
+                "Which one"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "おいしい",
+            "kanji": "美味しい",
+            "correctHiragana": "Delicious",
+            "alternatives": [
+                "Vegetable",
+                "Expensive"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "さかな",
+            "kanji": "魚",
+            "correctHiragana": "Fish",
+            "alternatives": [
+                "Wallet",
+                "Meat"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "とんかつ",
+            "kanji": "豚カツ",
+            "correctHiragana": "Pork cutlet",
+            "alternatives": [
+                "Watch; clock",
+                "Library"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "にく",
+            "kanji": "肉",
+            "correctHiragana": "Meat",
+            "alternatives": [
+                "Pork cutlet",
+                "Fish"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "メニュー",
+            "correctHiragana": "Menu",
+            "alternatives": [
+                "Dictionary",
+                "Notebook"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "やさい",
+            "kanji": "野菜",
+            "correctHiragana": "Vegetable",
+            "alternatives": [
+                "Cafe",
+                "Economics"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "えんぴつ",
+            "kanji": "鉛筆",
+            "correctHiragana": "Pencil",
+            "alternatives": [
+                "Pen",
+                "Notebook"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "かさ",
+            "kanji": "傘",
+            "correctHiragana": "Umbrella",
+            "alternatives": [
+                "Shoes",
+                "Wallet"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "かばん",
+            "kanji": "鞄",
+            "correctHiragana": "Bag",
+            "alternatives": [
+                "Wallet",
+                "Shoes"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "くつ",
+            "kanji": "靴",
+            "correctHiragana": "Shoes",
+            "alternatives": [
+                "T-shirt",
+                "Bag"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "さいふ",
+            "kanji": "財布",
+            "correctHiragana": "Wallet",
+            "alternatives": [
+                "Newspaper",
+                "Bag"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "ジーンズ",
+            "correctHiragana": "Jeans",
+            "alternatives": [
+                "Book",
+                "Umbrella"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "じしょ",
+            "kanji": "辞書",
+            "correctHiragana": "Dictionary",
+            "alternatives": [
+                "Book",
+                "Newspaper"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "じてんしゃ",
+            "kanji": "自転車",
+            "correctHiragana": "Bicycle",
+            "alternatives": [
+                "Dictionary",
+                "Hat; cap"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "しんぶん",
+            "kanji": "新聞",
+            "correctHiragana": "Newspaper",
+            "alternatives": [
+                "Fish",
+                "Wallet"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "Ｔ－シャツ",
+            "correctHiragana": "T-shirt",
+            "alternatives": [
+                "Menu",
+                "Jeans"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "とけい",
+            "kanji": "時計",
+            "correctHiragana": "Watch; clock",
+            "alternatives": [
+                "Book",
+                "Pen"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "ノート",
+            "correctHiragana": "Notebook",
+            "alternatives": [
+                "Bag",
+                "Pencil"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "ペン",
+            "correctHiragana": "Pen",
+            "alternatives": [
+                "Pencil",
+                "Book"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "ぼうし",
+            "kanji": "帽子",
+            "correctHiragana": "Hat; cap",
+            "alternatives": [
+                "Watch; clock",
+                "Notebook"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "ほん",
+            "kanji": "本",
+            "correctHiragana": "Book",
+            "alternatives": [
+                "Dictionary",
+                "Pen"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "きっさてん",
+            "kanji": "喫茶店",
+            "correctHiragana": "Cafe",
+            "alternatives": [
+                "Bank",
+                "Post Office"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "ぎんこう",
+            "kanji": "銀行",
+            "correctHiragana": "Bank",
+            "alternatives": [
+                "Cafe",
+                "Britain"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "トイレ",
+            "correctHiragana": "Toilet; restroom",
+            "alternatives": [
+                "Cafe",
+                "Korea"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "としょかん",
+            "kanji": "図書館",
+            "correctHiragana": "Library",
+            "alternatives": [
+                "China",
+                "Post Office"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "ゆうびんきょく",
+            "kanji": "郵便局",
+            "correctHiragana": "Post Office",
+            "alternatives": [
+                "Toiler; restroom",
+                "U.S.A."
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "いくら",
+            "correctHiragana": "How much",
+            "alternatives": [
+                "Thank you",
+                "...yen"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "えん",
+            "kanji": "円",
+            "correctHiragana": "…yen",
+            "alternatives": [
+                "…, please",
+                "Welcome (to our store)."
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "たかい",
+            "kanji": "高い",
+            "correctHiragana": "Expensive; high",
+            "alternatives": [
+                "How much",
+                "Delicious"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "いらっしゃいませ",
+            "correctHiragana": "Welcome (to our store).",
+            "alternatives": [
+                "Please give me...",
+                "Thank you."
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "(～を)おねがいします",
+            "kanji": "お願いします",
+            "correctHiragana": "…,please",
+            "alternatives": [
+                "Then...; if that is the case,...",
+                "...yen"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "（～を）ください",
+            "correctHiragana": "Please give me…",
+            "alternatives": [
+                "Please.; Here it is.",
+                "Thank you."
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "じゃあ",
+            "correctHiragana": "Then…; if that is the case, …",
+            "alternatives": [
+                "Welcome (to our store).",
+                "...yen"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "どうぞ",
+            "correctHiragana": "Please.; Here it is.",
+            "alternatives": [
+                "Thank you",
+                "Welcome (to our store)."
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "どうも",
+            "correctHiragana": "Thank you.",
+            "alternatives": [
+                "…, please.",
+                "Then...; if that is the case,..."
+        
+            ]
+        }
+    ]
+}

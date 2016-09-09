@@ -1,0 +1,459 @@
+{
+    "genkiBook": 1,
+    "chapter": 9,
+    "recommendedChapters": [
+        "08", "10", "11"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "いいこ\nいい子",
+            "correctHiragana": "Good child",
+            "alternatives": [
+                "Younger sister",
+                "Child"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "いろ\n色",
+            "correctHiragana": "Color",
+            "alternatives": [
+                "Chair",
+                "Dog"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "おべんとう\nお弁当",
+            "correctHiragana": "Boxed lunch",
+            "alternatives": [
+                "The day before yesterday",
+                "Bath"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "かぶき\n歌舞伎",
+            "correctHiragana": "Kabuki; traditional Japanese theatrical art",
+            "alternatives": [
+                "Bag",
+                "Song"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "ギター",
+            "correctHiragana": "Guitar",
+            "alternatives": [
+                "Game",
+                "Cake"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "きょねん\n去年",
+            "correctHiragana": "Last year",
+            "alternatives": [
+                "This year",
+                "Next year"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "くすり\n薬",
+            "correctHiragana": "Medicine",
+            "alternatives": [
+                "Car",
+                "Black"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "くすりをのむ\n薬を飲む",
+            "correctHiragana": "To take medicine",
+            "alternatives": [
+                "Medicine",
+                "Doctor"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "コンサート",
+            "correctHiragana": "Concert",
+            "alternatives": [
+                "Convenience store",
+                "Computer"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "こんど\n今度",
+            "correctHiragana": "Near future",
+            "alternatives": [
+                "This month",
+                "This week"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "さくぶん\n作文",
+            "correctHiragana": "Essay; composition",
+            "alternatives": [
+                "Magazine",
+                "Exam"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "しけん\n試験",
+            "correctHiragana": "Exam",
+            "alternatives": [
+                "Essay; composition",
+                "Job; occupation"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "スキー",
+            "correctHiragana": "Ski",
+            "alternatives": [
+                "Fond of; to like",
+                "Stress"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "せんげつ\n先月",
+            "correctHiragana": "Last month",
+            "alternatives": [
+                "Last year",
+                "Last week"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "たんご\n単語",
+            "correctHiragana": "Word; vocabulary",
+            "alternatives": [
+                "Japanese language",
+                "Essay; composition"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "ピアノ",
+            "correctHiragana": "Piano",
+            "alternatives": [
+                "Pizza",
+                "Pink"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "ピザ",
+            "correctHiragana": "Pizza",
+            "alternatives": [
+                "Piano",
+                "Pink"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "びょうき\n病気",
+            "correctHiragana": "Illness; sickness",
+            "alternatives": [
+                "Hospital",
+                "Healthy; energetic"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "あおい\n青い",
+            "correctHiragana": "Blue",
+            "alternatives": [
+                "Red",
+                "Black"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "あかい\n赤い",
+            "correctHiragana": "Red",
+            "alternatives": [
+                "Black",
+                "Blue"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "くろい\n黒い",
+            "correctHiragana": "Black",
+            "alternatives": [
+                "White",
+                "Red"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "さびしい\n寂しい",
+            "correctHiragana": "Lonely",
+            "alternatives": [
+                "Cold",
+                "Lastly"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "しろい\n白い",
+            "correctHiragana": "White",
+            "alternatives": [
+                "Black",
+                "Blue"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "わかい\n若い",
+            "correctHiragana": "Young",
+            "alternatives": [
+                "New",
+                "Old"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "いじわる\n意地悪",
+            "correctHiragana": "Mean-spirited",
+            "alternatives": [
+                "Lively",
+                "Convenient"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "おどる\n踊る",
+            "correctHiragana": "To dance",
+            "alternatives": [
+                "(Something) ends",
+                "To memorize"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "おわる\n終わる",
+            "correctHiragana": "(Something) ends",
+            "alternatives": [
+                "To dance",
+                "To get off"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "にんきがある\n人気がある",
+            "correctHiragana": "To be popular",
+            "alternatives": [
+                "It rains",
+                "To stare at"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "はじまる\n始まる",
+            "correctHiragana": "(Something) begins",
+            "alternatives": [
+                "To work for",
+                "To borrow"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "ひく\n弾く",
+            "correctHiragana": "To play (a string instrument or piano)",
+            "alternatives": [
+                "To sing",
+                "To die"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "もらう",
+            "correctHiragana": "To get (from somebody)",
+            "alternatives": [
+                "To live",
+                "To wait"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "おぼえる\n覚える",
+            "correctHiragana": "To memorize",
+            "alternatives": [
+                "To teach; to instruct",
+                "To play; to spend time pleasantly"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "でる\n出る",
+            "correctHiragana": "1-To appear; to attend 2-To exit",
+            "alternatives": [
+                "To turn off; to erase",
+                "To stand up"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "うんどうする\n運動する",
+            "correctHiragana": "To do physical exercises",
+            "alternatives": [
+                "To drive",
+                "To work"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "さんぽする\n散歩する",
+            "correctHiragana": "To take a walk",
+            "alternatives": [
+                "To swim",
+                "To do physical exercises"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "～から",
+            "correctHiragana": "From…",
+            "alternatives": [
+                "Until",
+                "Because"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "ぜひ\n是非",
+            "correctHiragana": "By all means",
+            "alternatives": [
+                "Always",
+                "Often"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "ところで",
+            "correctHiragana": "By the way",
+            "alternatives": [
+                "Place",
+                "Slowly; leisurely; unhurriedly"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "みんな",
+            "correctHiragana": "All",
+            "alternatives": [
+                "So; therefore",
+                "Many; a lot"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "もう",
+            "correctHiragana": "Already",
+            "alternatives": [
+                "Of course",
+                "Right away"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "ひとつ\n一つ",
+            "correctHiragana": "One",
+            "alternatives": [
+                "Zero",
+                "Ten"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "ふたつ\n二つ",
+            "correctHiragana": "Two",
+            "alternatives": [
+                "Four",
+                "Eight"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "みっつ\n三つ",
+            "correctHiragana": "Three",
+            "alternatives": [
+                "Six",
+                "Seven"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "よっつ\n四つ",
+            "correctHiragana": "Four",
+            "alternatives": [
+                "Eight",
+                "Two"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "いつつ\n五つ",
+            "correctHiragana": "Five",
+            "alternatives": [
+                "Nine",
+                "Seven"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "むっつ\n六つ",
+            "correctHiragana": "Six",
+            "alternatives": [
+                "Three",
+                "Seven"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "ななつ\n七つ",
+            "correctHiragana": "Seven",
+            "alternatives": [
+                "Five",
+                "Nine"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "やっつ\n八つ",
+            "correctHiragana": "Eight",
+            "alternatives": [
+                "Four",
+                "Two"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "ここのつ\n九つ",
+            "correctHiragana": "Nine",
+            "alternatives": [
+                "Seven",
+                "Five"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "とお\n十",
+            "correctHiragana": "Ten",
+            "alternatives": [
+                "One",
+                "Zero"
+            ]
+        }
+    ]
+}

@@ -1,66 +1,64 @@
-/* CSS3 pseudo-element */
-::selection {
-	background: #ffbad2;
+html,body {
+ height:100%;  /* new */
+ background-color: #ffb3ff;
+ background-image: url('../img/wallpaper.jpg');
+ background-size: cover;
+
 }
 
-/* CSS score (0, 0, 1, 1) */
-body.lobby {
-	background-image: url('../img/wallpaper.jpg');
-	background-size: cover;
-}
-
-/* CSS score (0, 0, 2, 0) */
-.large-3 .overlay {
-	position: absolute;
-	opacity: 0;
-	top: 0px;
-	height: 100%;
-	width: 100%;
-	z-index: 2;
-}
-
-/* CSS score (0, 0, 1, 1) */
-form.chapter-form {
-	margin: 0px;
-	padding: 0px;
-	border: 0px;
-}
-
-/* CSS score (0, 0, 1, 1) */
 div.gueisha {
     background-color: #e18097;
-	background-image: url('../img/gueisha_bg.png'), url('../img/sakura_bg.png');
-	background-repeat: no-repeat, repeat-x;
-	background-position: right bottom, center bottom;
-	background-size: contain, contain;
+    background-image: url('../img/gueisha_bg.png'), url('../img/sakura_bg.png');
+    background-repeat: no-repeat, repeat-x;
+    background-position: right bottom, center bottom;
+    background-size: contain, contain;
 }
-
-/* CSS Score (0, 0, 1, 0) */
-.progress {
-	height: 36px;
+progress {
+    height: 36px;
 }
-
-/* CSS Score (0, 0, 2, 0) */
 .progress .meter {
-	background-image: url('../img/ninja.png');
-	background-repeat: no-repeat;
-	background-position: right center;
-	background-size: contain;
+    background-image: url('../img/ninja.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
 }
 
-/* CSS score (0, 0, 1, 1) */
-i.music-volume {
-	cursor: pointer;
+ul#navigation {
+    height: 70px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #ccc;
+    border-width: 1px 0;    
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Cham-WebFont', Arial, sans-serif;
+    background-color: #ffb3ff;
+    position: fixed;   /* new */
+    bottom: 0;  /* new */
+    width: 100%;  /* new */
 }
 
-/* CSS score (0, 0, 0, 2) */
-form button {
-    border-width: 1px;
+ul#navigation li {
+    display: inline;
+    margin-right: .75em;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
-/* CSS score (0, 0, 1, 1) */
-.japanese-words {
-    display: inline-block;
-	word-break: keep-all;
-    word-wrap: normal;
+ul#navigation li.last {
+    margin-right: 0;
+}
+
+ul input {
+    font-size: 25px;
+    font-family: 'Cham-WebFont', Arial, sans-serif;
+    color: #8080ff; background-color: #b3ffff;
+    border: 0px;
+    width: 95%;
+    margin: 0px;
+    padding: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
 }

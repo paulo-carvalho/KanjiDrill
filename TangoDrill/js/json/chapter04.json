@@ -1,0 +1,558 @@
+{
+    "genkiBook": 1,
+    "chapter": 4,
+    "recommendedChapters": [
+        "03", "05", "06"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "アルバイト",
+            "correctHiragana": "Part-time job",
+            "alternatives": [
+                "Souvenir",
+                "Shopping"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "かいもの\n買い物",
+            "correctHiragana": "Shopping",
+            "alternatives": [
+                "Souvenir",
+                "Picture; photograph"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "クラス",
+            "correctHiragana": "Class",
+            "alternatives": [
+                "Glass",
+                "Child"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "あなた",
+            "correctHiragana": "You",
+            "alternatives": [
+                "Rice; meal",
+                "Letter"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "いす",
+            "correctHiragana": "Chair",
+            "alternatives": [
+                "Dog",
+                "Person"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "いぬ\n犬",
+            "correctHiragana": "Dog",
+            "alternatives": [
+                "Cat",
+                "Chair"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "おみやげ\nお土産",
+            "correctHiragana": "Souvenir",
+            "alternatives": [
+                "Part-time job",
+                "Shopping"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "こども\n子供",
+            "correctHiragana": "Child",
+            "alternatives": [
+                "Rice; meal",
+                "Shopping"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "ごはん\nご飯",
+            "correctHiragana": "Rice; meal",
+            "alternatives": [
+                "Child",
+                "Picture; photograph"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "しゃしん\n写真",
+            "correctHiragana": "Picture; photograph",
+            "alternatives": [
+                "Shopping",
+                "Part-time job"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "つくえ\n机",
+            "correctHiragana": "Desk",
+            "alternatives": [
+                "Class",
+                "Letter"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "てがみ\n手紙",
+            "correctHiragana": "Letter",
+            "alternatives": [
+                "Souvenir",
+                "Shopping"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "ねこ\n猫",
+            "correctHiragana": "Cat",
+            "alternatives": [
+                "Dog",
+                "Person"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "パン",
+            "correctHiragana": "Bread",
+            "alternatives": [
+                "Dog",
+                "Person"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "ひと\n人",
+            "correctHiragana": "Person",
+            "alternatives": [
+                "Bread",
+                "Cat"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "メール",
+            "correctHiragana": "E-mail",
+            "alternatives": [
+                "Class",
+                "Bread"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "おてら\nお寺",
+            "correctHiragana": "Temple",
+            "alternatives": [
+                "Bus stop",
+                "Hotel"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "こうえん\n公園",
+            "correctHiragana": "Park",
+            "alternatives": [
+                "Hospital",
+                "Restaurant"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "スーパー",
+            "correctHiragana": "Supermarket",
+            "alternatives": [
+                "Department store",
+                "Town; city"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "デパート",
+            "correctHiragana": "Department store",
+            "alternatives": [
+                "Supermarket",
+                "Hotel"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "バスてい\nバス停",
+            "correctHiragana": "Bus stop",
+            "alternatives": [
+                "Temple",
+                "Park"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "びょういん\n病院",
+            "correctHiragana": "Hospital",
+            "alternatives": [
+                "Hotel",
+                "Bookstore"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "ホテル",
+            "correctHiragana": "Hotel",
+            "alternatives": [
+                "Restaurant",
+                "Bus stop"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "ほんや\n本屋",
+            "correctHiragana": "Bookstore",
+            "alternatives": [
+                "Temple",
+                "Hotel"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "まち\n町",
+            "correctHiragana": "Town; city",
+            "alternatives": [
+                "Bookstore",
+                "Park"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "レストラン",
+            "correctHiragana": "Restaurant",
+            "alternatives": [
+                "Hospital",
+                "Bus stop"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "きのう\n昨日",
+            "correctHiragana": "Yesterday",
+            "alternatives": [
+                "Hour",
+                "Last week"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "〜じかん\n－時間",
+            "correctHiragana": "Hour",
+            "alternatives": [
+                "One hour",
+                "When...; at the time of..."
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "いちじかん\n一時間",
+            "correctHiragana": "One hour",
+            "alternatives": [
+                "Hour",
+                "Last week"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "せんしゅう\n先週",
+            "correctHiragana": "Last week",
+            "alternatives": [
+                "Yesterday",
+                "When...; at the time of..."
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "とき\n時",
+            "correctHiragana": "When...; at the time of...",
+            "alternatives": [
+                "Hour",
+                "Yesterday"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "げつようび\n月曜日",
+            "correctHiragana": "Monday",
+            "alternatives": [
+                "Tuesday",
+                "Thursday"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "かようび\n火曜日",
+            "correctHiragana": "Tuesday",
+            "alternatives": [
+                "Monday",
+                "Thursday"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "すいようび\n水曜日",
+            "correctHiragana": "Wednesday",
+            "alternatives": [
+                "Thursday",
+                "Friday"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "もくようび\n木曜日",
+            "correctHiragana": "Thursday",
+            "alternatives": [
+                "Friday",
+                "Monday"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "きんようび\n金曜日",
+            "correctHiragana": "Friday",
+            "alternatives": [
+                "Wednesday",
+                "Monday"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "あう\n会う",
+            "correctHiragana": "To meet; to see (a person)",
+            "alternatives": [
+                "There is...",
+                "To wait"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "ある",
+            "correctHiragana": "There is...",
+            "alternatives": [
+                "To meet; to see (a person)",
+                "To take (pictures)"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "かう\n買う",
+            "correctHiragana": "To buy",
+            "alternatives": [
+                "To write",
+                "To meet; to see (a person)"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "かく\n書く",
+            "correctHiragana": "To write",
+            "alternatives": [
+                "To buy",
+                "There is..."
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "とる\n撮る",
+            "correctHiragana": "To take (pictures)",
+            "alternatives": [
+                "There is",
+                "To wait"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "まつ\n待つ",
+            "correctHiragana": "To wait",
+            "alternatives": [
+                "To understand",
+                "To buy"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "わかる",
+            "correctHiragana": "To understand",
+            "alternatives": [
+                "To take (pictures)",
+                "There is..."
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "いる",
+            "correctHiragana": "(a person) is in...; stays at...",
+            "alternatives": [
+                "To wait",
+                "To buy"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "〜ぐらい",
+            "correctHiragana": "About (approximate measurement)",
+            "alternatives": [
+                "Together with (a person)",
+                "Alone"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "ごめんなさい",
+            "correctHiragana": "I'm sorry",
+            "alternatives": [
+                "Many; a lot",
+                "So; therefore"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "だから",
+            "correctHiragana": "So; therefore",
+            "alternatives": [
+                "I'm sorry",
+                "Why"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "たくさん",
+            "correctHiragana": "Many; a lot",
+            "alternatives": [
+                "I'm sorry",
+                "Alone"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "〜と",
+            "correctHiragana": "Together with (a person)",
+            "alternatives": [
+                "About (approximate measurement)",
+                "Alone"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "どうして",
+            "correctHiragana": "Why",
+            "alternatives": [
+                "Alone",
+                "So; therefore"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "ひとりで\n一人で",
+            "correctHiragana": "Alone",
+            "alternatives": [
+                "Why",
+                "Together with (a person)"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "みぎ\n右",
+            "correctHiragana": "Right",
+            "alternatives": [
+                "Inside",
+                "Next"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "ひだり\n左",
+            "correctHiragana": "Left",
+            "alternatives": [
+                "Next",
+                "Between"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "まえ\n前",
+            "correctHiragana": "Front",
+            "alternatives": [
+                "On",
+                "Right"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "うしろ\n後ろ",
+            "correctHiragana": "Back",
+            "alternatives": [
+                "Next",
+                "Left"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "なか\n中",
+            "correctHiragana": "Inside",
+            "alternatives": [
+                "Between",
+                "Near"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "うえ\n上",
+            "correctHiragana": "On",
+            "alternatives": [
+                "Front",
+                "Right"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "した\n下",
+            "correctHiragana": "Under",
+            "alternatives": [
+                "On",
+                "Inside"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "そば",
+            "correctHiragana": "Near; near by",
+            "alternatives": [
+                "Right",
+                "Inside"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "となり\n隣",
+            "correctHiragana": "Next",
+            "alternatives": [
+                "Left",
+                "Back"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "あいだ\n間",
+            "correctHiragana": "Between",
+            "alternatives": [
+                "Left",
+                "Under"
+            ]
+        }
+    ]
+}

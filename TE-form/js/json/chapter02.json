@@ -1,0 +1,541 @@
+{
+    "genkiBook": 1,
+    "chapter": 2,
+    "recommendedChapters": [
+        "3 - 7", "13 - 18", "19 - 23"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "あめがふる\n雨が降る\nIt rains",
+            "correctHiragana": "あめがふって",
+            "alternatives": [
+                "あめがふりて",
+                "あめがふんで"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "あらう\n洗う\nTo wash",
+            "correctHiragana": "あらって",
+            "alternatives": [
+                "あらいて",
+                "あらりて"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "いう\n言う\nTo say",
+            "correctHiragana": "いって",
+            "alternatives": [
+                "いて",
+                "いいて"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "いる\nTo need",
+            "correctHiragana": "いって",
+            "alternatives": [
+                "いりて",
+                "いて"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "おそくなる\n遅くなる\nTo be late",
+            "correctHiragana": "おそくなって",
+            "alternatives": [
+                "おそくなりて",
+                "おそくなて"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "おもう\n思う\nTo think",
+            "correctHiragana": "おもって",
+            "alternatives": [
+                "おもうて",
+                "おもいて"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "きる\n切る\nTo cut",
+            "correctHiragana": "きって",
+            "alternatives": [
+                "きて",
+                "きりて"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "つくる\n作る\nTo make",
+            "correctHiragana": "つくって",
+            "alternatives": [
+                "つくて",
+                "つくりて"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "もっていく\n持っていく\nTo take (a thing)",
+            "correctHiragana": "もっていって",
+            "alternatives": [
+                "もっていて",
+                "もっていきて"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "じろじろみる\nじろじろ見る\nTo stare",
+            "correctHiragana": "じろじろみて",
+            "alternatives": [
+                "じろじろみりて",
+                "じろじろみって"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "すてる\n捨てる\nTo throw away",
+            "correctHiragana": "すてて",
+            "alternatives": [
+                "すてって",
+                "すてりて"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "はじめる\n始める\nTo begin",
+            "correctHiragana": "はじめて",
+            "alternatives": [
+                "はじめって",
+                "はじめりて"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "うんてんする\n運転する\nTo drive",
+            "correctHiragana": "うんてんして",
+            "alternatives": [
+                "うんてんしって",
+                "うんてんするて"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "せんたくする\n洗濯する\nTo do laundry",
+            "correctHiragana": "せんたくして",
+            "alternatives": [
+                "せんたくするって",
+                "せんたくしって"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "そうじする\n掃除する\nTo clean",
+            "correctHiragana": "そうじして",
+            "alternatives": [
+                "そうじしって",
+                "すうじすりて"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "でんわする\n電話する\nTo call",
+            "correctHiragana": "でんわして",
+            "alternatives": [
+                "でんわするて",
+                "でんわしって"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "りょうりする\n料理する\nTo cook",
+            "correctHiragana": "りょうりして",
+            "alternatives": [
+                "りょうりしって",
+                "りょうりするって"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "おどる\n踊る\nTo dance",
+            "correctHiragana": "おどって",
+            "alternatives": [
+                "おどりて",
+                "おどて"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "おわる\n終わる\n(something) ends",
+            "correctHiragana": "おわって",
+            "alternatives": [
+                "おわりて",
+                "おわるて"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "にんきがある\n人気がある\nTo be popular",
+            "correctHiragana": "にんきがあって",
+            "alternatives": [
+                "にんきがあるて",
+                "にんきがありて"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "はじまる\n始まる\n(something) begins",
+            "correctHiragana": "はじまって",
+            "alternatives": [
+                "はじまりて",
+                "はじまて"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "ひく\n弾く\nTo play (a string instrument or piano)",
+            "correctHiragana": "ひいて",
+            "alternatives": [
+                "ひきて",
+                "ひって"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "もらう\nTo get (from somebody)",
+            "correctHiragana": "もらって",
+            "alternatives": [
+                "もらいて",
+                "もらりて"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "おぼえる\n覚える\nTo memorize",
+            "correctHiragana": "おぼえて",
+            "alternatives": [
+                "おぼえりて",
+                "おぼえって"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "でる\n出る\nTo appear; to attend to exit",
+            "correctHiragana": "でて",
+            "alternatives": [
+                "でりて",
+                "でって"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "うんどうする\n運動する\nTo do physical exercises",
+            "correctHiragana": "うんどうして",
+            "alternatives": [
+                "うんどうしって",
+                "うんどうすて"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "さんぽする\n散歩する\nTo take a walk",
+            "correctHiragana": "さんぽして",
+            "alternatives": [
+                "さんぽすて",
+                "さんぽしって"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "かかる\nTo take (amount of time/money)",
+            "correctHiragana": "かかって",
+            "alternatives": [
+                "かかりて",
+                "かかて"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "とまる\n泊まる\nTo stay",
+            "correctHiragana": "とまって",
+            "alternatives": [
+                "とまて",
+                "とまりて"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "なる\nTo become",
+            "correctHiragana": "なって",
+            "alternatives": [
+                "なて",
+                "なりて"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "はらう\n払う\nTo pay",
+            "correctHiragana": "はらって",
+            "alternatives": [
+                "はらいて",
+                "はらりて"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "きめる\n決める\nTo decide",
+            "correctHiragana": "きめて",
+            "alternatives": [
+                "きめって",
+                "きめりて"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "りょこうする\n旅行する\nTo travel",
+            "correctHiragana": "りょこうして",
+            "alternatives": [
+                "りょこうすて",
+                "りょこうしって"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "れんしゅうする\n練習する\nTo practice",
+            "correctHiragana": "れんしゅうして",
+            "alternatives": [
+                "れんしゅうしって",
+                "れんしゅうすて"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "うそをつく\nTo tell a lie",
+            "correctHiragana": "うそをついて",
+            "alternatives": [
+                "うそをつきて",
+                "うそをつって"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "おなかがすく\nTo become hungry",
+            "correctHiragana": "おなかがすいて",
+            "alternatives": [
+                "おなかがすきて",
+                "おなかがすって"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "かう\n飼う\nTo own (a pet)",
+            "correctHiragana": "かって",
+            "alternatives": [
+                "かいて",
+                "かうって"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "サボる\nTo cut (classes)",
+            "correctHiragana": "サボって",
+            "alternatives": [
+                "サボて",
+                "サボりて"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "とる\n取る\nTo take (a class); to get (a grade)",
+            "correctHiragana": "とって",
+            "alternatives": [
+                "とりて",
+                "とて"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "ならう\n習う\nTo learn",
+            "correctHiragana": "ならって",
+            "alternatives": [
+                "ならて",
+                "ならいて"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "のぼる\n登る\nTo climb",
+            "correctHiragana": "のぼって",
+            "alternatives": [
+                "のぼりて",
+                "のぼて"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "はたらく\n働く\nTo work",
+            "correctHiragana": "はたらいて",
+            "alternatives": [
+                "はたらきて",
+                "はたらくて"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "つかれる\n疲れる\nTo get tired",
+            "correctHiragana": "つかれて",
+            "alternatives": [
+                "つかれって",
+                "つかれりて"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "やめる\nTo quit",
+            "correctHiragana": "やめて",
+            "alternatives": [
+                "やめって",
+                "やめりて"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "けんかする\nTo have a fight; to quarrel",
+            "correctHiragana": "けんかして",
+            "alternatives": [
+                "けんかすて",
+                "けんかしって"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "しょうかいする\n紹介する\nTo introduce",
+            "correctHiragana": "しょうかいして",
+            "alternatives": [
+                "しょうかいしって",
+                "しょうかいすて"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "ダイエットする\nTo go on a diet",
+            "correctHiragana": "ダイエットして",
+            "alternatives": [
+                "ダイエットすって",
+                "ダイエットしって"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "ちこくする\n遅刻する\nTo be late (for an appointment)",
+            "correctHiragana": "ちこくして",
+            "alternatives": [
+                "ちこくするて",
+                "ちこくしって"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "りゅうがくする\n留学する\nTo study abroad",
+            "correctHiragana": "りゅうがくして",
+            "alternatives": [
+                "りゅうがくしって",
+                "りゅうがくすて"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "あるく\n歩く\nTo walk",
+            "correctHiragana": "あるいて",
+            "alternatives": [
+                "あるきて",
+                "あるいって"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "かぜをひく\n風邪をひく\nTo catch a cold",
+            "correctHiragana": "かぜをひいて",
+            "alternatives": [
+                "かぜをひって",
+                "かぜをひきて"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "きょうみがある\n興味がある\nTo be interested in",
+            "correctHiragana": "きょうみがあって",
+            "alternatives": [
+                "きょうみがあて",
+                "きょうみがありて"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "なくす\nTo lose",
+            "correctHiragana": "なくして",
+            "alternatives": [
+                "なくすて",
+                "なくしって"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "ねつがある\n熱がある\nTo have a fever",
+            "correctHiragana": "ねつがあって",
+            "alternatives": [
+                "ねつがあて",
+                "ねつがありて"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "のどがかわく\nのどが渇く\nTo become thirsty",
+            "correctHiragana": "のどがかわいて",
+            "alternatives": [
+                "のどがかわきて",
+                "のどがかわって"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "せきがでる\nせきが出る\nTo cough",
+            "correctHiragana": "せきがでて",
+            "alternatives": [
+                "せきがでって",
+                "せきがでりて"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "わかれる\n別れる\nTo break up; to separate",
+            "correctHiragana": "わかれて",
+            "alternatives": [
+                "わかれって",
+                "わかれるて"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "きんちょうする\n緊張する\nTo get nervous",
+            "correctHiragana": "きんちょうして",
+            "alternatives": [
+                "きんちょうしって",
+                "きんちょうすて"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "しんぱいする\n心配する\nTo worry",
+            "correctHiragana": "しんぱいして",
+            "alternatives": [
+                "しんぱいしって",
+                "しんぱいしりて"
+        
+            ]
+        }
+    ]
+}

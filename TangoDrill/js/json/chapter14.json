@@ -1,0 +1,480 @@
+{
+    "genkiBook": 2,
+    "chapter": 14,
+    "recommendedChapters": [
+        "13",
+        "15",
+        "16"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "あに\n兄",
+            "correctHiragana": "(My) older brother",
+            "alternatives": [
+                "Ring",
+                "Plate; dish"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "おおやさん\n大家さん",
+            "correctHiragana": "Landlord; landlady",
+            "alternatives": [
+                "Aunt; middle-aged woman",
+                "(Your/his) wife"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "おかえし\nお返し",
+            "correctHiragana": "Return (as a token of gratitude)",
+            "alternatives": [
+                "Ring",
+                "Resume"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "おくさん\n奥さん",
+            "correctHiragana": "(Your/his) wife",
+            "alternatives": [
+                "Landlord; landlady",
+                "(Your/her) husband"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "おじさん",
+            "correctHiragana": "Uncle; middle-aged man",
+            "alternatives": [
+                "Aunt; middle-aged woman",
+                "(Your/her) husband"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "おばさん",
+            "correctHiragana": "Aunt; middle-aged woman",
+            "alternatives": [
+                "(Your/his) wife",
+                "Uncle; middle-aged man"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "グラス",
+            "correctHiragana": "Tumbler; glass",
+            "alternatives": [
+                "Grass",
+                "Class"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "クリスマス",
+            "correctHiragana": "Christmas",
+            "alternatives": [
+                "Christian",
+                "Classmate"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "ごしゅじん\nご主人",
+            "correctHiragana": "(Your/her) husband",
+            "alternatives": [
+                "(Your/his) wife",
+                "(My) older brother"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "さら\n皿",
+            "correctHiragana": "Plate; dish",
+            "alternatives": [
+                "Wisdom tooth",
+                "Salad"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "じかん\n時間",
+            "correctHiragana": "Time",
+            "alternatives": [
+                "Clock",
+                "Watch"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "チケット",
+            "correctHiragana": "Ticket",
+            "alternatives": [
+                "Parking fee",
+                "Chocolate"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "チョコレート",
+            "correctHiragana": "Chocolate",
+            "alternatives": [
+                "Ticket",
+                "Sweat shirt"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "トレーナー",
+            "correctHiragana": "Sweat shirt",
+            "alternatives": [
+                "Sweater",
+                "Chocolate"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "ぬいぐるみ",
+            "correctHiragana": "Stuffed animal (e.g., teddy bear)",
+            "alternatives": [
+                "Dress-up doll",
+                "Parents"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "ネクタイ",
+            "correctHiragana": "Necktie",
+            "alternatives": [
+                "Sweat shirt",
+                "Winter scarf"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "バレンタインデー",
+            "correctHiragana": "St. Valentine’s Day",
+            "alternatives": [
+                "White day",
+                "Chocolate"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "ビデオカメラ",
+            "correctHiragana": "Camcorder",
+            "alternatives": [
+                "Video game",
+                "St. Valentine’s Day"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "ふうふ\n夫婦",
+            "correctHiragana": "Married couple; husband and wife",
+            "alternatives": [
+                "Parents",
+                "Ring"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "ホワイトデー",
+            "correctHiragana": "White day",
+            "alternatives": [
+                "St. Valentine’s Day",
+                "Chocolate"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "マフラー",
+            "correctHiragana": "Winter scarf",
+            "alternatives": [
+                "Necktie",
+                "Hair band"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "まんが\n漫画",
+            "correctHiragana": "Comic book",
+            "alternatives": [
+                "Picture book",
+                "Novel"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "マンション",
+            "correctHiragana": "Multistory apartment building; condominium",
+            "alternatives": [
+                "Radio",
+                "Tumbler; glass"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "みかん",
+            "correctHiragana": "Mandarin orange",
+            "alternatives": [
+                "Stuffed animal (e.g., teddy bear)",
+                "Winter scarf"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "みなさん\n皆さん",
+            "correctHiragana": "Everyone; all of you",
+            "alternatives": [
+                "We",
+                "I (Formal)"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "ゆびわ\n指輪",
+            "correctHiragana": "Ring",
+            "alternatives": [
+                "Future",
+                "Parents"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "ラジオ",
+            "correctHiragana": "Radio",
+            "alternatives": [
+                "Camcorder",
+                "Ticket"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "りょうしん\n両親",
+            "correctHiragana": "Parents",
+            "alternatives": [
+                "Chef",
+                "Family"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "りれきしょ\n履歴書",
+            "correctHiragana": "Resume",
+            "alternatives": [
+                "Parents",
+                "Married couple; husband and wife"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "ほしい\n欲しい",
+            "correctHiragana": "To want",
+            "alternatives": [
+                "Glad",
+                "Close; near"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "けち",
+            "correctHiragana": "Stingy; cheap",
+            "alternatives": [
+                "Various; different kinds of",
+                "Spacious"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "おくる\n送る",
+            "correctHiragana": "To send",
+            "alternatives": [
+                "To give up",
+                "To consult"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "にあう\n似合う",
+            "correctHiragana": "To look good (on somebody)",
+            "alternatives": [
+                "To come into existence; to be made",
+                "To give (me)"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "あきらめる",
+            "correctHiragana": "To give up",
+            "alternatives": [
+                "To send",
+                "To give (to others)"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "あげる",
+            "correctHiragana": "To give (to others)",
+            "alternatives": [
+                "To give up",
+                "To give (me)"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "くれる",
+            "correctHiragana": "To give (me)",
+            "alternatives": [
+                "To give (to others)",
+                "To brush (teeth); to polish"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "できる",
+            "correctHiragana": "To come into existence; to be made",
+            "alternatives": [
+                "To propose marriage",
+                "To be visible"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "そうだんする\n相談する",
+            "correctHiragana": "To consult",
+            "alternatives": [
+                "To be cautious",
+                "To do sightseeing"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "プロポーズする",
+            "correctHiragana": "To propose marriage",
+            "alternatives": [
+                "To decide on (an item)",
+                "To reserve"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "おなじ\n同じ",
+            "correctHiragana": "Same",
+            "alternatives": [
+                "Well",
+                "Exactly"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "～くん\n～君",
+            "correctHiragana": "Mr./Ms.…(casual)",
+            "alternatives": [
+                "…like this; this kind of…",
+                "What is..."
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "こんな～",
+            "correctHiragana": "…like this; this kind of…",
+            "alternatives": [
+                "What should one do to…",
+                "Mr./Ms… (casual)"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "～たち",
+            "correctHiragana": "[Makes a noun plural]",
+            "alternatives": [
+                "Mr./Ms… (formal)",
+                "We should"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "わたしたち\n私たち",
+            "correctHiragana": "We",
+            "alternatives": [
+                "Everyone",
+                "Everybody"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "ちょうど",
+            "correctHiragana": "Exactly",
+            "alternatives": [
+                "Not really",
+                "We'll see"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "どうしたらいい",
+            "correctHiragana": "What should one do",
+            "alternatives": [
+                "What should we do",
+                "Where do we go"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "よく",
+            "correctHiragana": "Well",
+            "alternatives": [
+                "Same",
+                "We"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "～こ\n～個",
+            "correctHiragana": "[Generic counter for smaller items]",
+            "alternatives": [
+                "[Counter for long objects]",
+                "[Counter for smaller animals]"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "～さつ\n～冊",
+            "correctHiragana": "[Counter for bound volumes]",
+            "alternatives": [
+                "[Generic counter for smaller items]",
+                "[Counter for equipment]"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "～だい\n～台",
+            "correctHiragana": "[Counter for equipment]",
+            "alternatives": [
+                "[Counter for bound volumes]",
+                "[Counter for coins]"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "～ひき\n～匹",
+            "correctHiragana": "[Counter for smaller animals]",
+            "alternatives": [
+                "[Counter for plates]",
+                "[Counter for paper money]"
+            ]
+        },
+        
+        {
+            "id": 52,
+            "kanji": "～ほん\n～本",
+            "correctHiragana": "[Counter for long objects]",
+            "alternatives": [
+                "[Counter for keys]",
+                "[Counter for equipment]"
+            ]
+        }
+    ]
+}

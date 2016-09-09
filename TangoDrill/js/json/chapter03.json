@@ -1,0 +1,495 @@
+{
+    "genkiBook": 1,
+    "chapter": 3,
+    "recommendedChapters": [
+        "04", "05", "06"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "えいが\n映画",
+            "correctHiragana": "Movie",
+            "alternatives": [
+                "Music",
+                "Magazine"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "おんがく\n音楽",
+            "correctHiragana": "Music",
+            "alternatives": [
+                "Movie",
+                "Tennis"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "ざっし\n雑誌",
+            "correctHiragana": "Magazine",
+            "alternatives": [
+                "Sports",
+                "Movie"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "スポーツ",
+            "correctHiragana": "Sports",
+            "alternatives": [
+                "Tennis",
+                "Date (romantic, not calendar)"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "デート",
+            "correctHiragana": "Date (romantic, not calendar)",
+            "alternatives": [
+                "Sports",
+                "TV"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "テニス",
+            "correctHiragana": "Tennis",
+            "alternatives": [
+                "TV",
+                "Date (romantic, not calendar)"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "テレビ",
+            "correctHiragana": "TV",
+            "alternatives": [
+                "Tennis",
+                "Date (romantic, not calendar)"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "アイスクリーム",
+            "correctHiragana": "Ice cream",
+            "alternatives": [
+                "Coffee",
+                "Breakfast"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "あさごはん\n朝ごはん",
+            "correctHiragana": "Breakfast",
+            "alternatives": [
+                "Lunch",
+                "Dinner"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "おさけ\nお酒",
+            "correctHiragana": "Sake; alcohol",
+            "alternatives": [
+                "Green tea",
+                "Water"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "おちゃ\nお茶",
+            "correctHiragana": "Green tea",
+            "alternatives": [
+                "Sake; alcohol",
+                "Water"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "コーヒー",
+            "correctHiragana": "Coffee",
+            "alternatives": [
+                "Hamburger",
+                "Ice cream"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "ばんごはん\n晩ご飯",
+            "correctHiragana": "Dinner",
+            "alternatives": [
+                "Breakfast",
+                "Lunch"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "ハンバーガー",
+            "correctHiragana": "Hamburger",
+            "alternatives": [
+                "Green tea",
+                "Ice cream"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "ひるごはん\n昼ご飯",
+            "correctHiragana": "Lunch",
+            "alternatives": [
+                "Breakfast",
+                "Dinner"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "みず\n水",
+            "correctHiragana": "Water",
+            "alternatives": [
+                "Green tea",
+                "Sake; alcohol"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "いえ\n家",
+            "correctHiragana": "Home; house",
+            "alternatives": [
+                "When",
+                "Green tea"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "うち",
+            "correctHiragana": "Home; house; my place",
+            "alternatives": [
+                "School",
+                "At about..."
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "がっこう\n学校",
+            "correctHiragana": "School",
+            "alternatives": [
+                "Tonight",
+                "But"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "あさ\n朝",
+            "correctHiragana": "Morning",
+            "alternatives": [
+                "Today",
+                "Tonight"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "あした\n明日",
+            "correctHiragana": "Tomorrow",
+            "alternatives": [
+                "Today",
+                "At about..."
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "いつ",
+            "correctHiragana": "When",
+            "alternatives": [
+                "Where",
+                "Who"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "きょう\n今日",
+            "correctHiragana": "Today",
+            "alternatives": [
+                "Tomorrow",
+                "Morning"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "～ごろ",
+            "correctHiragana": "At about…",
+            "alternatives": [
+                "When",
+                "But"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "こんばん\n今晩",
+            "correctHiragana": "Tonight",
+            "alternatives": [
+                "Weekend",
+                "Tomorrow"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "しゅうまつ\n週末",
+            "correctHiragana": "Weekend",
+            "alternatives": [
+                "Every day",
+                "Saturday"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "どようび\n土曜日",
+            "correctHiragana": "Saturday",
+            "alternatives": [
+                "Sunday",
+                "Every day"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "にちようび\n日曜日",
+            "correctHiragana": "Sunday",
+            "alternatives": [
+                "Saturday",
+                "Next week"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "まいにち\n毎日",
+            "correctHiragana": "Every day",
+            "alternatives": [
+                "Every night",
+                "Weekend"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "まいばん\n毎晩",
+            "correctHiragana": "Every night",
+            "alternatives": [
+                "Every day",
+                "Morning"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "いく\n行く",
+            "correctHiragana": "To go",
+            "alternatives": [
+                "To drink",
+                "To read"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "かえる\n帰る",
+            "correctHiragana": "To go back; to return",
+            "alternatives": [
+                "To get up",
+                "To study"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "きく\n聞く",
+            "correctHiragana": "To listen; to hear",
+            "alternatives": [
+                "To speak",
+                "To sleep"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "のむ\n飲む",
+            "correctHiragana": "To drink",
+            "alternatives": [
+                "To eat",
+                "To sleep"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "はなす\n話す",
+            "correctHiragana": "To speak; to talk",
+            "alternatives": [
+                "To see; look at; watch",
+                "To study"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "よむ\n読む",
+            "correctHiragana": "To read",
+            "alternatives": [
+                "To drink",
+                "To do"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "おきる\n起きる",
+            "correctHiragana": "To get up",
+            "alternatives": [
+                "To sleep",
+                "To come"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "たべる\n食べる",
+            "correctHiragana": "To eat",
+            "alternatives": [
+                "To speak",
+                "To study"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "ねる\n寝る",
+            "correctHiragana": "To sleep; to go to sleep",
+            "alternatives": [
+                "To do",
+                "To get up"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "みる\n見る",
+            "correctHiragana": "To see; to look at; to watch ",
+            "alternatives": [
+                "To listen; hear",
+                "To read"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "くる\n来る",
+            "correctHiragana": "To come",
+            "alternatives": [
+                "To go",
+                "To eat"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "する",
+            "correctHiragana": "To do",
+            "alternatives": [
+                "To come",
+                "To study"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "べんきょうする\n勉強する",
+            "correctHiragana": "To study",
+            "alternatives": [
+                "To speak; to talk",
+                "To to go back; to return"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "いい",
+            "correctHiragana": "Good",
+            "alternatives": [
+                "Early",
+                "But"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "はやい\n早い",
+            "correctHiragana": "Early",
+            "alternatives": [
+                "Good",
+                "A little"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "あまり",
+            "correctHiragana": "Not much",
+            "alternatives": [
+                "Not at all",
+                "Sometimes"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "ぜんぜん\n全然",
+            "correctHiragana": "Not at all",
+            "alternatives": [
+                "A little",
+                "Often; much"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "たいてい",
+            "correctHiragana": "Usually",
+            "alternatives": [
+                "Sometimes",
+                "A little"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "ちょっと",
+            "correctHiragana": "A little",
+            "alternatives": [
+                "Not much",
+                "Not at all"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "ときどき\n時々",
+            "correctHiragana": "Sometimes",
+            "alternatives": [
+                "Often; much",
+                "Not at all"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "よく",
+            "correctHiragana": "Often; much",
+            "alternatives": [
+                "A little",
+                "Sometimes"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "そうですね",
+            "correctHiragana": "That’s right; Let me see.",
+            "alternatives": [
+                "How about...? How is...?",
+                "Often; much"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "でも",
+            "correctHiragana": "But",
+            "alternatives": [
+                "Good",
+                "Early"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "どうですか",
+            "correctHiragana": "How about…?; How is…?",
+            "alternatives": [
+                "That's right; Let me see.",
+                "Sometimes"
+            ]
+        }
+    ]
+}

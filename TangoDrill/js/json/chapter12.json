@@ -1,0 +1,486 @@
+{
+    "genkiBook": 1,
+    "chapter": 12,
+    "recommendedChapters": [
+        "11", "13", "14"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "あし\n足",
+            "correctHiragana": "Leg; foot",
+            "alternatives": [
+                "Chopsticks",
+                "Arm"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "いみ\n意味",
+            "correctHiragana": "Meaning",
+            "alternatives": [
+                "Opinion",
+                "Ear"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "おてあらい\nお手洗い",
+            "correctHiragana": "Restroom",
+            "alternatives": [
+                "Hangover",
+                "Stomach"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "おなか",
+            "correctHiragana": "Stomach",
+            "alternatives": [
+                "Inside",
+                "Body"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "かぜ\n風邪",
+            "correctHiragana": "Cold",
+            "alternatives": [
+                "Wind",
+                "Storm"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "かのじょ\n彼女",
+            "correctHiragana": "Girlfriend",
+            "alternatives": [
+                "Woman",
+                "Girl"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "かれ\n彼",
+            "correctHiragana": "Boyfriend",
+            "alternatives": [
+                "Man",
+                "Boy"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "きおん\n気温",
+            "correctHiragana": "Temperature (weather – not used for things)",
+            "alternatives": [
+                "Fever",
+                "Warm"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "くもり\n曇り",
+            "correctHiragana": "Cloudy weather",
+            "alternatives": [
+                "Sunny",
+                "Rain"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "しあい\n試合",
+            "correctHiragana": "Match; game",
+            "alternatives": [
+                "Exam",
+                "Grade (on a test, etc.)"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "ジュース",
+            "correctHiragana": "Juice",
+            "alternatives": [
+                "Shoes",
+                "News"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "せいじ\n政治",
+            "correctHiragana": "Politics",
+            "alternatives": [
+                "Personality",
+                "Grade"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "せいせき\n成績",
+            "correctHiragana": "Grade (on a test, etc.)",
+            "alternatives": [
+                "Politics",
+                "Seat"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "せき",
+            "correctHiragana": "Cough",
+            "alternatives": [
+                "Station",
+                "Chair"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "のど",
+            "correctHiragana": "Throat",
+            "alternatives": [
+                "Because",
+                "Neck"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "は\n歯",
+            "correctHiragana": "Tooth",
+            "alternatives": [
+                "Flower",
+                "(my) mother"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "はな\n花",
+            "correctHiragana": "Flower",
+            "alternatives": [
+                "Nose",
+                "Tooth"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "はれ\n晴れ",
+            "correctHiragana": "Sunny weather",
+            "alternatives": [
+                "Cloudy weather",
+                "Rain"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "ふく\n服",
+            "correctHiragana": "Clothes",
+            "alternatives": [
+                "Shoes",
+                "Match; game"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "ふつかよい\n二日酔い",
+            "correctHiragana": "Hangover",
+            "alternatives": [
+                "Sickness",
+                "Restroom"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "プレゼント",
+            "correctHiragana": "Present",
+            "alternatives": [
+                "Homesickness",
+                "Chocolate"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "ホームシック",
+            "correctHiragana": "Homesickness",
+            "alternatives": [
+                "Host family",
+                "Minus"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "マイナス",
+            "correctHiragana": "Minus",
+            "alternatives": [
+                "Homesickness",
+                "Tennis"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "もの\n物",
+            "correctHiragana": "Thing (concrete object)",
+            "alternatives": [
+                "That thing",
+                "Place"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "ゆき\n雪",
+            "correctHiragana": "Snow",
+            "alternatives": [
+                "Rain",
+                "Thunder"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "ようじ\n用事",
+            "correctHiragana": "Business to take care of",
+            "alternatives": [
+                "Use",
+                "Thing"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "あまい\n甘い",
+            "correctHiragana": "Sweet",
+            "alternatives": [
+                "Spicy",
+                "Sour"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "いたい\n痛い",
+            "correctHiragana": "Hurt; painful",
+            "alternatives": [
+                "Loud",
+                "Young"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "おおい\n多い",
+            "correctHiragana": "There are many…",
+            "alternatives": [
+                "A little; few",
+                "Small"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "せまい\n狭い",
+            "correctHiragana": "Narrow; not spacious",
+            "alternatives": [
+                "Small",
+                "Wide"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "つごうがわるい\n都合が悪い",
+            "correctHiragana": "Inconvenient; to have a scheduling",
+            "alternatives": [
+                "Bright; clever; smart",
+                "Sleepy"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "わるい\n悪い",
+            "correctHiragana": "Bad",
+            "alternatives": [
+                "Good",
+                "Scary"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "すてき\n素敵",
+            "correctHiragana": "Nice",
+            "alternatives": [
+                "Convenient",
+                "Beautiful"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "あるく\n歩く",
+            "correctHiragana": "To walk",
+            "alternatives": [
+                "To run",
+                "To wash"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "かぜをひく\n風邪をひく",
+            "correctHiragana": "To catch a cold",
+            "alternatives": [
+                "To recover from a cold",
+                "To take a walk"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "きょうみがある\n興味がある",
+            "correctHiragana": "To be interested",
+            "alternatives": [
+                "To become hungry",
+                "To take a class; to get (a grade)"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "なくす",
+            "correctHiragana": "To lose",
+            "alternatives": [
+                "To cry",
+                "To climb"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "ねつがある\n熱がある",
+            "correctHiragana": "To have a fever",
+            "alternatives": [
+                "To catch a cold",
+                "To become thirsty"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "のどがかわく\nのどが渇く",
+            "correctHiragana": "To become thirsty",
+            "alternatives": [
+                "To break up; to separate",
+                "To cough"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "せきがでる\nせきが出る",
+            "correctHiragana": "To cough",
+            "alternatives": [
+                "To become thirsty",
+                "To catch a cold"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "わかれる\n別れる",
+            "correctHiragana": "To break up; to separate ",
+            "alternatives": [
+                "To understand",
+                "To work"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "きんちょうする\n緊張する",
+            "correctHiragana": "To get nervous",
+            "alternatives": [
+                "To be moved/touched by",
+                "To get married"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "しんぱいする\n心配する",
+            "correctHiragana": "To worry",
+            "alternatives": [
+                "To get nervous",
+                "To go for a walk"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "おだいじに\nお大事に",
+            "correctHiragana": "Get well soon.",
+            "alternatives": [
+                "Don’t look well",
+                "As much as possible"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "げんきがない\n元気がない",
+            "correctHiragana": "Don’t look well",
+            "alternatives": [
+                "Get well soon.",
+                "How are you?"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "たぶん\n多分",
+            "correctHiragana": "Probably; maybe",
+            "alternatives": [
+                "As much as possible",
+                "Very soon; in a few moments/days"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "できるだけ",
+            "correctHiragana": "As much as possible",
+            "alternatives": [
+                "Probably; maybe",
+                "For the first time"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "～でしょう",
+            "correctHiragana": "Probably;…right?",
+            "alternatives": [
+                "As much as possible",
+                "Just…; only…"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "～ど\n度",
+            "correctHiragana": "…degrees (temperature)",
+            "alternatives": [
+                "Next time",
+                "But..."
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "にさんにち\n二三日",
+            "correctHiragana": "For two to three days",
+            "alternatives": [
+                "Hangover",
+                "It has been a long time"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "～ので",
+            "correctHiragana": "Because…",
+            "alternatives": [
+                "Till (a time)",
+                "With (a tool)"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "はじめて\n初めて",
+            "correctHiragana": "For the first time",
+            "alternatives": [
+                "It has been a long time",
+                "As much as possible"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "もうすぐ",
+            "correctHiragana": "Very soon; in a few moments/days",
+            "alternatives": [
+                "Always",
+                "Of course"
+            ]
+        }
+    ]
+}

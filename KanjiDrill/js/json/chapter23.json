@@ -1,0 +1,585 @@
+{
+    "genkiBook": 2,
+    "chapter": 23,
+    "recommendedChapters": [
+        "20", "21", "22"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "顔",
+            "correctHiragana": "かお",
+            "alternatives": [
+                "けお",
+                "がん"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "顔色",
+            "correctHiragana": "かおいろ",
+            "alternatives": [
+                "かおしょく",
+                "がんしょく"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "笑顔",
+            "correctHiragana": "えがお",
+            "alternatives": [
+                "えかお",
+                "わらいがお"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "洗顔",
+            "correctHiragana": "せんがん",
+            "alternatives": [
+                "せんかん",
+                "せんかお"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "表情",
+            "correctHiragana": "ひょうじょう",
+            "alternatives": [
+                "ひょうしょう",
+                "ぴょうじよう"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "友情",
+            "correctHiragana": "ゆうじょう",
+            "alternatives": [
+                "ゆうしょう",
+                "ともじょう"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "情報",
+            "correctHiragana": "じょうほう",
+            "alternatives": [
+                "しょうほう",
+                "じょうじょう"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "情け",
+            "correctHiragana": "なさけ",
+            "alternatives": [
+                "じょうけ",
+                "いろけ"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "怒る",
+            "correctHiragana": "おこる",
+            "alternatives": [
+                "どる",
+                "おどる"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "怒り",
+            "correctHiragana": "いかり",
+            "alternatives": [
+                "おどり",
+                "どり"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "喜怒哀楽",
+            "correctHiragana": "きどあいらく",
+            "alternatives": [
+                "きどあいがく",
+                "きどきょうらく"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "変な",
+            "correctHiragana": "へんな",
+            "alternatives": [
+                "ぺんな",
+                "べんな"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "大変な",
+            "correctHiragana": "たいへんな　",
+            "alternatives": [
+                "たいべんな",
+                "おおへんな"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "変化",
+            "correctHiragana": "へんか",
+            "alternatives": [
+                "べんか",
+                "へんけ"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "変人",
+            "correctHiragana": "へんじん",
+            "alternatives": [
+                "べんじん",
+                "へんにん"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "変える",
+            "correctHiragana": "かえる",
+            "alternatives": [
+                "きる",
+                "かる"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "相手",
+            "correctHiragana": "あいて",
+            "alternatives": [
+                "かいて",
+                "ひいて"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "首相",
+            "correctHiragana": "しゅしょう",
+            "alternatives": [
+                "しゅそう",
+                "しゅあい"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "相談",
+            "correctHiragana": "そうだん",
+            "alternatives": [
+                "あいだん",
+                "しょうだん"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "相互の",
+            "correctHiragana": "そうごの",
+            "alternatives": [
+                "しょうご",
+                "あいご"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "横",
+            "correctHiragana": "よこ",
+            "alternatives": [
+                "とこ",
+                "おう"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "横書き",
+            "correctHiragana": "よこがき",
+            "alternatives": [
+                "よこかき",
+                "よこしょ"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "横綱",
+            "correctHiragana": "よこづな",
+            "alternatives": [
+                "よこつな",
+                "おうづな"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "横断する",
+            "correctHiragana": "おうだんする",
+            "alternatives": [
+                "おうげんする",
+                "よこだんする"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "比べる",
+            "correctHiragana": "くらべる",
+            "alternatives": [
+                "ひる",
+                "ひかれる"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "比較",
+            "correctHiragana": "ひかく",
+            "alternatives": [
+                "びかく",
+                "くらかく"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "比例",
+            "correctHiragana": "ひれい",
+            "alternatives": [
+                "びれい",
+                "ぴれい"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "対比",
+            "correctHiragana": "たいひ",
+            "alternatives": [
+                "だいひ",
+                "たいび"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "比喩",
+            "correctHiragana": "ひゆ",
+            "alternatives": [
+                "ふる",
+                "びゆ"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "文化",
+            "correctHiragana": "ぶんか",
+            "alternatives": [
+                "ぶんけ",
+                "もんか"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "化学",
+            "correctHiragana": "かがく",
+            "alternatives": [
+                "けがく",
+                "ばけがく"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "同化",
+            "correctHiragana": "どうか",
+            "alternatives": [
+                "どうけ",
+                "どうか"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "お化け",
+            "correctHiragana": "おばけ",
+            "alternatives": [
+                "おかけ",
+                "おけけ"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "化粧",
+            "correctHiragana": "けしょう",
+            "alternatives": [
+                "かしょう",
+                "げしょう"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "違う",
+            "correctHiragana": "ちがう",
+            "alternatives": [
+                "あう",
+                "いう"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "間違える",
+            "correctHiragana": "まちがえる",
+            "alternatives": [
+                "かんちがえる",
+                "あいちがえる"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "違法",
+            "correctHiragana": "いほう",
+            "alternatives": [
+                "まほう",
+                "いぼう"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "違反",
+            "correctHiragana": "いはん",
+            "alternatives": [
+                "いけん",
+                "あいはん"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "悲しい",
+            "correctHiragana": "かなしい",
+            "alternatives": [
+                "ひしい",
+                "びしい"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "悲劇",
+            "correctHiragana": "ひげき",
+            "alternatives": [
+                "けげき",
+                "びげき"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "悲惨な",
+            "correctHiragana": "ひさんな",
+            "alternatives": [
+                "びさんな",
+                "かんさんな"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "悲しむ",
+            "correctHiragana": "かなしむ",
+            "alternatives": [
+                "ひしむ",
+                "びしむ"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "調査",
+            "correctHiragana": "ちょうさ",
+            "alternatives": [
+                "じょうさ",
+                "ちょさ"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "調べる",
+            "correctHiragana": "しらべる",
+            "alternatives": [
+                "ちょうべる",
+                "しらべべる"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "調子",
+            "correctHiragana": "ちょうし",
+            "alternatives": [
+                "じょうし",
+                "ちょうす"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "強調する",
+            "correctHiragana": "きょうちょうする",
+            "alternatives": [
+                "ごうちょうする",
+                "きょうちょする"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "調査",
+            "correctHiragana": "ちょうさ",
+            "alternatives": [
+                "じょうさ",
+                "ちょさ"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "検査",
+            "correctHiragana": "けんさ",
+            "alternatives": [
+                "かんさ",
+                "げんさ"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "審査",
+            "correctHiragana": "しんさ",
+            "alternatives": [
+                "じんさ",
+                "しんそ"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "捜査",
+            "correctHiragana": "そうさ",
+            "alternatives": [
+                "せいさ",
+                "さくさ"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "結果",
+            "correctHiragana": "けっか",
+            "alternatives": [
+                "げっか",
+                "けつか"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "果汁",
+            "correctHiragana": "かじゅう",
+            "alternatives": [
+                "くだじゅう",
+                "かじる"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "効果",
+            "correctHiragana": "こうか",
+            "alternatives": [
+                "ごうか",
+                "こうけ"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "使い果たす",
+            "correctHiragana": "つかいはたす",
+            "alternatives": [
+                "つかいかたす",
+                "つかいくだす"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "果物",
+            "correctHiragana": "くだもの",
+            "alternatives": [
+                "かもの",
+                "けもの"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "感情",
+            "correctHiragana": "かんじょう",
+            "alternatives": [
+                "かんしょう",
+                "かんじょう"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "感動する",
+            "correctHiragana": "かんどうする",
+            "alternatives": [
+                "かんとうする",
+                "かどうする"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "感じる",
+            "correctHiragana": "かんじる",
+            "alternatives": [
+                "けじる",
+                "かじる"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "感謝",
+            "correctHiragana": "かんしゃ",
+            "alternatives": [
+                "がんしゃ",
+                "かしゃ"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "感想",
+            "correctHiragana": "かんそう",
+            "alternatives": [
+                "かそう",
+                "けそう"
+            ]
+        },
+        {
+            "id": 61,
+            "kanji": "答える",
+            "correctHiragana": "こたえる",
+            "alternatives": [
+                "あたえる",
+                "とうえる"
+            ]
+        },
+        {
+            "id": 62,
+            "kanji": "答え／答",
+            "correctHiragana": "こたえ",
+            "alternatives": [
+                "とうえ",
+                "たとえ"
+            ]
+        },
+        {
+            "id": 63,
+            "kanji": "回答",
+            "correctHiragana": "かいとう",
+            "alternatives": [
+                "かいどう",
+                "かいと"
+            ]
+        },
+        {
+            "id": 64,
+            "kanji": "答案",
+            "correctHiragana": "とうあん",
+            "alternatives": [
+                "とあん",
+                "どうあん"
+            ]
+        }
+    ]
+}

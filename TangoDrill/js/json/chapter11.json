@@ -1,0 +1,558 @@
+{
+    "genkiBook": 1,
+    "chapter": 11,
+    "recommendedChapters": [
+        "10", "12", "13"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "オーストラリア",
+            "correctHiragana": "Australia",
+            "alternatives": [
+                "Sweden",
+                "America"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "おかし\nお菓子",
+            "correctHiragana": "Snacks; sweets",
+            "alternatives": [
+                "Toy",
+                "Delicious"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "おしょうがつ\nお正月",
+            "correctHiragana": "New Year’s",
+            "alternatives": [
+                "Festival",
+                "Toy"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "おとこのこ\n男の子",
+            "correctHiragana": "Boy",
+            "alternatives": [
+                "Girl",
+                "Man"
+            ]
+       },
+        {
+            "id": 6,
+            "kanji": "おまつり\nお祭り",
+            "correctHiragana": "Festival",
+            "alternatives": [
+                "Toy",
+                "Snacks; sweets"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "おもちゃ",
+            "correctHiragana": "Toy",
+            "alternatives": [
+                "Festival",
+                "Spa; hot spring"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "おんせん\n温泉",
+            "correctHiragana": "Spa; hot spring",
+            "alternatives": [
+                "Boxed lunch",
+                "Bath"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "おんなのこ\n女の子",
+            "correctHiragana": "Girl",
+            "alternatives": [
+                "Boy",
+                "Woman"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "がいこく\n外国",
+            "correctHiragana": "Foreign country",
+            "alternatives": [
+                "China",
+                "Korea"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "かしゅ\n歌手",
+            "correctHiragana": "Singer",
+            "alternatives": [
+                "Actor",
+                "Actress"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "かわ\n川",
+            "correctHiragana": "River",
+            "alternatives": [
+                "Lake",
+                "Mountain"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "キャンプ",
+            "correctHiragana": "Camp",
+            "alternatives": [
+                "Jump",
+                "Park"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "こちら",
+            "correctHiragana": "This person (polite)",
+            "alternatives": [
+                "Which",
+                "That one"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "こんがっき\n今学期",
+            "correctHiragana": "This semester",
+            "alternatives": [
+                "This year",
+                "This week"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "しゃちょう\n社長",
+            "correctHiragana": "President of a company",
+            "alternatives": [
+                "President of a country",
+                "Company worker"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "じゅぎょう\n授業",
+            "correctHiragana": "Class",
+            "alternatives": [
+                "Homework",
+                "Exam"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "しょうらい\n将来",
+            "correctHiragana": "Future",
+            "alternatives": [
+                "New Year’s",
+                "Cafeteria"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "じんじゃ\n神社",
+            "correctHiragana": "Shrine",
+            "alternatives": [
+                "Temple",
+                "Art museum"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "つり",
+            "correctHiragana": "Fishing",
+            "alternatives": [
+                "Next",
+                "Cold"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "ドライブ",
+            "correctHiragana": "Drive",
+            "alternatives": [
+                "Toilet; restroom",
+                "Door"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "ビール",
+            "correctHiragana": "Beer",
+            "alternatives": [
+                "Building",
+                "Bill"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "びじゅつかん\n美術館",
+            "correctHiragana": "Art museum",
+            "alternatives": [
+                "Shrine",
+                "Temple"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "ホストファミリー",
+            "correctHiragana": "Host family",
+            "alternatives": [
+                "Roommate",
+                "Homestay"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "みずうみ\n湖",
+            "correctHiragana": "Lake",
+            "alternatives": [
+                "River",
+                "Mountain"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "やま\n山",
+            "correctHiragana": "Mountain",
+            "alternatives": [
+                "Lake",
+                "River"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "ゆめ\n夢",
+            "correctHiragana": "Dream",
+            "alternatives": [
+                "Ship; boat",
+                "Snow"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "ルームメート",
+            "correctHiragana": "Roommate",
+            "alternatives": [
+                "Host family",
+                "Homestay"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "うそをつく",
+            "correctHiragana": "To tell a lie",
+            "alternatives": [
+                "To become hungry",
+                "To make"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "おなかがすく",
+            "correctHiragana": "To become hungry",
+            "alternatives": [
+                "To turn on",
+                "To tell a lie"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "かう\n飼う",
+            "correctHiragana": "To own (a pet)",
+            "alternatives": [
+                "To buy",
+                "To return (a thing)"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "サボる",
+            "correctHiragana": "To cut (classes)",
+            "alternatives": [
+                "To take a walk",
+                "To get tired"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "とる\n取る",
+            "correctHiragana": "To take (a class); to get (a grade)",
+            "alternatives": [
+                "To take a picture",
+                "To take off"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "ならう\n習う",
+            "correctHiragana": "To learn",
+            "alternatives": [
+                "To become",
+                "To climb"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "のぼる\n登る",
+            "correctHiragana": "To climb",
+            "alternatives": [
+                "To ride; to board",
+                "To be popular"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "はたらく\n働く",
+            "correctHiragana": "To work",
+            "alternatives": [
+                "(Something) begins",
+                "To pay"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "つかれる\n疲れる",
+            "correctHiragana": "To get tired",
+            "alternatives": [
+                "To work for",
+                "To bring (a person)"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "やめる",
+            "correctHiragana": "To quit",
+            "alternatives": [
+                "To lose weight",
+                "To do; to perform"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "けんかする",
+            "correctHiragana": "To have a fight; to quarrel",
+            "alternatives": [
+                "To get married",
+                "To drive"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "しょうかいする\n紹介する",
+            "correctHiragana": "To introduce",
+            "alternatives": [
+                "To take a walk",
+                "To do laundry"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "ダイエットする",
+            "correctHiragana": "To go on a diet",
+            "alternatives": [
+                "To smoke",
+                "To do physical exercises"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "ちこくする\n遅刻する",
+            "correctHiragana": "To be late (for an appointment)",
+            "alternatives": [
+                "To travel",
+                "To clean"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "りゅうがくする\n留学する",
+            "correctHiragana": "To study abroad",
+            "alternatives": [
+                "To practice",
+                "To cook"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "あと\n後",
+            "correctHiragana": "After (an event)",
+            "alternatives": [
+                "(do something) late",
+                "Right away"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "しゅっしん\n出身",
+            "correctHiragana": "Coming from",
+            "alternatives": [
+                "And then",
+                "Together"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "そして",
+            "correctHiragana": "And then",
+            "alternatives": [
+                "Very",
+                "Extremely"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "～だけ",
+            "correctHiragana": "Just…; only…",
+            "alternatives": [
+                "Because…",
+                "Till (a time)"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "～てん\n点",
+            "correctHiragana": "…points",
+            "alternatives": [
+                "[counter for flat objects]",
+                "But"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "ひさしぶり\n久しぶり",
+            "correctHiragana": "It has been a long time",
+            "alternatives": [
+                "That’s too bad.",
+                "Cheers! (a toast)"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "まあまあ",
+            "correctHiragana": "Okay; so-so",
+            "alternatives": [
+                "Already",
+                "More"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "もっと",
+            "correctHiragana": "More",
+            "alternatives": [
+                "All",
+                "Of course"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "さっか\n作家",
+            "correctHiragana": "Writer",
+            "alternatives": [
+                "Cartoonist",
+                "Nurse"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "ジャーナリスト",
+            "correctHiragana": "Journalist",
+            "alternatives": [
+                "Writer",
+                "Cartoonist"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "けいさつかん\n警察官",
+            "correctHiragana": "Police officer",
+            "alternatives": [
+                "Firefighter",
+                "Astronaut"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "はいゆう\n俳優",
+            "correctHiragana": "Actor; actress",
+            "alternatives": [
+                "Baseball player",
+                "Singer"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "うちゅうひこうし\n宇宙飛行士",
+            "correctHiragana": "Astronaut",
+            "alternatives": [
+                "Police officer",
+                "President of a company"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "やきゅうせんしゅ\n野球選手",
+            "correctHiragana": "Baseball Player",
+            "alternatives": [
+                "Singer",
+                "Actor"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "だいとうりょう\n大統領",
+            "correctHiragana": "President of a country",
+            "alternatives": [
+                "President of a company",
+                "Police officer"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "じょゆう\n女優",
+            "correctHiragana": "Actress",
+            "alternatives": [
+                "Singer",
+                "Actor"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "かんごし\n看護師",
+            "correctHiragana": "Nurse",
+            "alternatives": [
+                "Lawyer",
+                "Writer"
+            ]
+        },
+        {
+            "id": 61,
+            "kanji": "しょうぼうし\n消防士",
+            "correctHiragana": "Firefighter",
+            "alternatives": [
+                "Police officer",
+                "Nurse"
+            ]
+        },
+        {
+            "id": 63,
+            "kanji": "まんがか\n漫画家",
+            "correctHiragana": "Cartoonist",
+            "alternatives": [
+                "Writer",
+                "Actor"
+            ]
+        }
+   ]
+}

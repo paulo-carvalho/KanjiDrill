@@ -1,0 +1,486 @@
+{
+    "genkiBook": 2,
+    "chapter": 18,
+    "recommendedChapters": [
+        "17", "19", "20"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "目的",
+            "correctHiragana": "もくてき",
+            "alternatives": [
+                "めてき",
+                "もくでき"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "目",
+            "correctHiragana": "め",
+            "alternatives": [
+                "ひ",
+                "しろ"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "目薬",
+            "correctHiragana": "めぐすり",
+            "alternatives": [
+                "もくてき",
+                "もくすり"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "二番目",
+            "correctHiragana": "にばんめ",
+            "alternatives": [
+                "ふたばんもく",
+                "にばんもく"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "目上の人",
+            "correctHiragana": "めうえのひと",
+            "alternatives": [
+                "もくじょうのじん",
+                "めじょうのびと"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "現代的",
+            "correctHiragana": "げんだいてき",
+            "alternatives": [
+                "けんだいてき",
+                "だいげんてき"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "社会的",
+            "correctHiragana": "しゃかいてき",
+            "alternatives": [
+                "じゃがいてき",
+                "じゃかいでき"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "的",
+            "correctHiragana": "まと",
+            "alternatives": [
+                "まど",
+                "とき"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "力仕事",
+            "correctHiragana": "ちからしごと",
+            "alternatives": [
+                "かしごと",
+                "りょくしごと"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "協力",
+            "correctHiragana": "きょうりょく",
+            "alternatives": [
+                "きょちから",
+                "どりょく"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "努力",
+            "correctHiragana": "どりょく",
+            "alternatives": [
+                "きょうりょく",
+                "どりき"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "力士",
+            "correctHiragana": "りきし",
+            "alternatives": [
+                "ちからせい",
+                "りょくし"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "洋服",
+            "correctHiragana": "ようふく",
+            "alternatives": [
+                "めいふく",
+                "せいふく"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "東洋",
+            "correctHiragana": "とうよう",
+            "alternatives": [
+                "とんよう",
+                "どうよう"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "洋食",
+            "correctHiragana": "ようしょく",
+            "alternatives": [
+                "ようたべ",
+                "ようしょうく"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "大西洋",
+            "correctHiragana": "たいせいよう",
+            "alternatives": [
+                "おおにしよう",
+                "だいにしよう"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "服",
+            "correctHiragana": "ふく",
+            "alternatives": [
+                "ぶく",
+                "ぷく"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "制服",
+            "correctHiragana": "せいふく",
+            "alternatives": [
+                "ようふく",
+                "こうふく"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "和服",
+            "correctHiragana": "わふく",
+            "alternatives": [
+                "ようふく",
+                "せいふく"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "食堂",
+            "correctHiragana": "しょくどう",
+            "alternatives": [
+                "たべどう",
+                "じょうどう"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "公会堂",
+            "correctHiragana": "こうかいどう",
+            "alternatives": [
+                "こうあいどう",
+                "こがいとう"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "堂々とした",
+            "correctHiragana": "どうどうとした",
+            "alternatives": [
+                "とうどうとした",
+                "てんでんとした"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "授業",
+            "correctHiragana": "じゅぎょう",
+            "alternatives": [
+                "しょくぎょう",
+                "さんぎょう"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "教授",
+            "correctHiragana": "きょうじゅ",
+            "alternatives": [
+                "ぎょうじゅ",
+                "きょうない"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "授かる",
+            "correctHiragana": "さずかる",
+            "alternatives": [
+                "きょうかる",
+                "けんかる"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "職業",
+            "correctHiragana": "しょくぎょう",
+            "alternatives": [
+                "しょくどう",
+                "とくぎょう"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "産業",
+            "correctHiragana": "さんぎょう",
+            "alternatives": [
+                "じゅぎょう",
+                "げんぎょう"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "サービス業",
+            "correctHiragana": "サービスぎょう",
+            "alternatives": [
+                "サービスじゅ",
+                "サービスきょう"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "試験",
+            "correctHiragana": "しけん",
+            "alternatives": [
+                "じけん",
+                "しぎょう"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "試合",
+            "correctHiragana": "しあい",
+            "alternatives": [
+                "じかい",
+                "しわい"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "入試",
+            "correctHiragana": "にゅうし",
+            "alternatives": [
+                "ひとし",
+                "いりし"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "試みる",
+            "correctHiragana": "こころみる",
+            "alternatives": [
+                "しみる",
+                "しこみる"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "実験",
+            "correctHiragana": "じっけん",
+            "alternatives": [
+                "みげん",
+                "じつけん"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "経験",
+            "correctHiragana": "けいけん",
+            "alternatives": [
+                "かいげん",
+                "きょうけん"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "受験",
+            "correctHiragana": "じゅけん",
+            "alternatives": [
+                "けいけん",
+                "じっけん"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "貸す",
+            "correctHiragana": "かす",
+            "alternatives": [
+                "はなす",
+                "さす"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "貸し出し",
+            "correctHiragana": "かしだし",
+            "alternatives": [
+                "かしでし",
+                "かしたし"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "賃貸マンション",
+            "correctHiragana": "ちんたいマンション",
+            "alternatives": [
+                "ちんかしマンション",
+                "かしたいマンション"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "図書館",
+            "correctHiragana": "としょかん",
+            "alternatives": [
+                "ずしょかん",
+                "どしょかん"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "映画館",
+            "correctHiragana": "えいがかん",
+            "alternatives": [
+                "えいごかん",
+                "えいかかん"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "旅館",
+            "correctHiragana": "りょかん",
+            "alternatives": [
+                "しょうかん",
+                "とうかん"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "大使館",
+            "correctHiragana": "たいしかん",
+            "alternatives": [
+                "おおしかん",
+                "だいしかん"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "終わる",
+            "correctHiragana": "おわる",
+            "alternatives": [
+                "のわる",
+                "まわる"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "終わり",
+            "correctHiragana": "おわり",
+            "alternatives": [
+                "まわり",
+                "ひまわり"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "終点",
+            "correctHiragana": "しゅうてん",
+            "alternatives": [
+                "そうてん",
+                "おてん"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "最終〜",
+            "correctHiragana": "さいしゅう〜",
+            "alternatives": [
+                "まいしゅう〜",
+                "さいちゅう〜"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "宿題",
+            "correctHiragana": "しゅくだい",
+            "alternatives": [
+                "しゅうくだい",
+                "しゅうぐだい"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "下宿",
+            "correctHiragana": "げしゅく",
+            "alternatives": [
+                "かしゅく",
+                "へたしゅうく"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "宿泊",
+            "correctHiragana": "しゅくはく",
+            "alternatives": [
+                "じゅくばく",
+                "じゅうくはく"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "宿",
+            "correctHiragana": "やど",
+            "alternatives": [
+                "しゅう",
+                "など"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "問題",
+            "correctHiragana": "もんだい",
+            "alternatives": [
+                "しゅくだい",
+                "かんだい"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "話題",
+            "correctHiragana": "わだい",
+            "alternatives": [
+                "はなかい",
+                "はなだい"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "題",
+            "correctHiragana": "だい",
+            "alternatives": [
+                "やど",
+                "かい"
+            ]
+        }
+	]
+}

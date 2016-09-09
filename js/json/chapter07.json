@@ -7,506 +7,538 @@
     "data": [
         {
             "id": 1,
-            "kanji": "東京",
-            "correctHiragana": "とうきょう",
+            "kanji": "あね",
+            "kanji": "姉",
+            "correctHiragana": "(my) older sister",
             "alternatives": [
-                "とおきょ",
-                "ときょ"
+                "(my) younger sister",
+                "(my) older brother"
             ]
         },
         {
             "id": 2,
-            "kanji": "京子",
-            "correctHiragana": "きょうこ",
+            "kanji": "アパート",
+            "correctHiragana": "Apartment",
             "alternatives": [
-                "きょこ",
-                "きょっこ"
+                "Part time job",
+                "Department store"
             ]
         },
         {
             "id": 3,
-            "kanji": "京都",
-            "correctHiragana": "きょうと",
+            "kanji": "いもうと",
+            "kanji": "妹",
+            "correctHiragana": "Younger sister",
             "alternatives": [
-                "きょっと",
-                "きよと"
+                "(my) older sister",
+                "Younger brother"
             ]
         },
         {
             "id": 4,
-            "kanji": "上京する",
-            "correctHiragana": "じょうきょうする",
+            "kanji": "うた",
+            "kanji": "歌",
+            "correctHiragana": "Song",
             "alternatives": [
-                "うえきょうする",
-                "じょうきようする"
+                "Home; house; my place",
+                "Book"
             ]
         },
         {
             "id": 5,
-            "kanji": "子ども",
-            "correctHiragana": "こども",
+            "kanji": "おじいさん",
+            "correctHiragana": "Grandfather; old man",
             "alternatives": [
-                "ことも",
-                "ごども"
+                "Father",
+                "Uncle"
             ]
         },
         {
             "id": 6,
-            "kanji": "京子",
-            "correctHiragana": "きょうこ",
+            "kanji": "おとうと",
+            "kanji": "弟",
+            "correctHiragana": "Younger brother",
             "alternatives": [
-                "きょこ",
-                "きようこ"
+                "Older brother",
+                "Younger sister"
             ]
         },
         {
             "id": 7,
-            "kanji": "女の子",
-            "correctHiragana": "おんなのこ",
+            "kanji": "おとこのひと",
+            "kanji": "男の人",
+            "correctHiragana": "Man",
             "alternatives": [
-                "じょのこ",
-                "おなのご"
+                "Boy",
+                "Woman"
             ]
         },
         {
             "id": 8,
-            "kanji": "男の子",
-            "correctHiragana": "おとこのこ",
+            "kanji": "おにいさん",
+            "kanji": "お兄さん",
+            "correctHiragana": "Older brother",
             "alternatives": [
-                "だいのこ",
-                "どこのこ"
+                "Older sister",
+                "Grandfather; old man"
             ]
         },
         {
             "id": 9,
-            "kanji": "電子辞書",
-            "correctHiragana": "でんしじしょ",
+            "kanji": "おねえさん",
+            "kanji": "お姉さん",
+            "correctHiragana": "Older sister",
             "alternatives": [
-                "てんこじしゅ",
-                "げんしじっしょ"
+                "Older brother",
+                "Grandmother; old woman"
             ]
         },
         {
             "id": 10,
-            "kanji": "小さい",
-            "correctHiragana": "ちいさい",
+            "kanji": "おばあさん",
+            "correctHiragana": "Grandmother; old woman",
             "alternatives": [
-                "おおきい",
-                "じさい"
+                "Mother",
+                "Aunt"
             ]
         },
         {
             "id": 11,
-            "kanji": "小学校",
-            "correctHiragana": "しょうがっこう",
+            "kanji": "おんなのひと",
+            "kanji": "女の人",
+            "correctHiragana": "Woman",
             "alternatives": [
-                "ちいがっこう",
-                "ちゅうがこう"
+                "Man",
+                "Girl"
             ]
         },
         {
             "id": 12,
-            "kanji": "小学生",
-            "correctHiragana": "しょうがくせい",
+            "kanji": "かいしゃ",
+            "kanji": "会社",
+            "correctHiragana": "Company",
             "alternatives": [
-                "ちいがっくせい",
-                "ちゅうかくせい"
+                "Family",
+                "Brothers and sisters"
             ]
         },
         {
             "id": 13,
-            "kanji": "会う",
-            "correctHiragana": "あう",
+            "kanji": "かぞく",
+            "kanji": "家族",
+            "correctHiragana": "Family",
             "alternatives": [
-                "かう",
-                "まう"
+                "Home; house; my place",
+                "Country; place of origin"
             ]
         },
         {
             "id": 14,
-            "kanji": "会社",
-            "correctHiragana": "かいしゃ",
+            "kanji": "かみ",
+            "kanji": "髪",
+            "correctHiragana": "Hair",
             "alternatives": [
-                "あいじゃ",
-                "がいっしゃ"
+                "God",
+                "Ear"
             ]
         },
         {
             "id": 15,
-            "kanji": "会社員",
-            "correctHiragana": "かいしゃいん",
+            "kanji": "きょうだい",
+            "kanji": "兄弟",
+            "correctHiragana": "Brothers and sisters",
             "alternatives": [
-                "あいしゃおん",
-                "かいっしゃみ"
+                "Family",
+                "Younger brother"
             ]
         },
         {
             "id": 16,
-            "kanji": "会議",
-            "correctHiragana": "かいぎ",
+            "kanji": "くち",
+            "kanji": "口",
+            "correctHiragana": "Mouth",
             "alternatives": [
-                "あいき",
-                "がいき"
+                "Ear",
+                "Eye"
             ]
         },
         {
             "id": 17,
-            "kanji": "教会",
-            "correctHiragana": "きょうかい",
+            "kanji": "くに",
+            "kanji": "国",
+            "correctHiragana": "Country; place of origin",
             "alternatives": [
-                "きゅうあい",
-                "きよかい"
+                "Mouth",
+                "Family"
             ]
         },
         {
             "id": 18,
-            "kanji": "神社",
-            "correctHiragana": "じんじゃ",
+            "kanji": "くるま",
+            "kanji": "車",
+            "correctHiragana": "Car",
             "alternatives": [
-                "じんしゃ",
-                "しんじゃ"
+                "Train",
+                "Bus"
             ]
         },
         {
             "id": 19,
-            "kanji": "社会",
-            "correctHiragana": "しゃかい",
+            "kanji": "ゲーム",
+            "correctHiragana": "Game",
             "alternatives": [
-                "じゃがい",
-                "しゃあい"
+                "Time",
+                "Cake"
             ]
         },
         {
             "id": 20,
-            "kanji": "入社",
-            "correctHiragana": "にゅうしゃ",
+            "kanji": "コンビニ",
+            "correctHiragana": "Convenience store",
             "alternatives": [
-                "はいしゃ",
-                "いじゃ"
+                "Convenient",
+                "Department store"
             ]
         },
         {
             "id": 21,
-            "kanji": "父",
-            "correctHiragana": "ちち",
+            "kanji": "サークル",
+            "correctHiragana": "Club activity",
             "alternatives": [
-                "はは",
-                "おとう"
+                "Circle",
+                "Soccer"
             ]
         },
         {
             "id": 22,
-            "kanji": "お父さん",
-            "correctHiragana": "おとうさん",
+            "kanji": "しょくどう",
+            "kanji": "食堂",
+            "correctHiragana": "Cafeteria; dining commons",
             "alternatives": [
-                "おとおさん",
-                "おとさん"
+                "Dinner",
+                "Classroom"
             ]
         },
         {
             "id": 23,
-            "kanji": "父母",
-            "correctHiragana": "ふぼ",
+            "kanji": "ちち",
+            "kanji": "父",
+            "correctHiragana": "(my) father",
             "alternatives": [
-                "ぶほ",
-                "ふっぽ"
+                "(my) mother",
+                "Grandfather"
             ]
         },
         {
             "id": 24,
-            "kanji": "祖父",
-            "correctHiragana": "そふ",
+            "kanji": "はは",
+            "kanji": "母",
+            "correctHiragana": "(my) mother",
             "alternatives": [
-                "ぞっふ",
-                "そぶ"
+                "(my) father",
+                "Grandmother"
             ]
         },
         {
             "id": 25,
-            "kanji": "母",
-            "correctHiragana": "はは",
+            "kanji": "め",
+            "kanji": "目",
+            "correctHiragana": "Eye",
             "alternatives": [
-                "ちち",
-                "おか"
+                "Ear",
+                "Mouth"
             ]
         },
         {
             "id": 26,
-            "kanji": "お母さん",
-            "correctHiragana": "おかあさん",
+            "kanji": "めがね",
+            "kanji": "眼鏡",
+            "correctHiragana": "Glasses",
             "alternatives": [
-                "おかさん",
-                "おがあさん"
+                "Eye",
+                "Hair"
             ]
         },
         {
             "id": 27,
-            "kanji": "母語",
-            "correctHiragana": "ぼご",
+            "kanji": "あたまがいい",
+            "kanji": "頭がいい",
+            "correctHiragana": "Bright; clever; smart",
             "alternatives": [
-                "ははご",
-                "おかあご"
+                "Cute",
+                "Fast"
             ]
         },
         {
             "id": 28,
-            "kanji": "祖母",
-            "correctHiragana": "そぼ",
+            "kanji": "かわいい",
+            "correctHiragana": "Cute",
             "alternatives": [
-                "ぞはは",
-                "そふ"
+                "Cool",
+                "Scary"
             ]
         },
         {
             "id": 29,
-            "kanji": "高い",
-            "correctHiragana": "たかい",
+            "kanji": "せがたかい",
+            "kanji": "背が高い",
+            "correctHiragana": "Tall (stature)",
             "alternatives": [
-                "またい",
-                "かたい"
+                "Short (stature)",
+                "Expensive; high"
             ]
         },
         {
             "id": 30,
-            "kanji": "高校",
-            "correctHiragana": "こうこう",
+            "kanji": "せがひくい",
+            "kanji": "背が低い",
+            "correctHiragana": "Short (stature)",
             "alternatives": [
-                "だいこう",
-                "こごう"
+                "Tall (stature)",
+                "Short (length)"
             ]
         },
         {
             "id": 31,
-            "kanji": "高校生",
-            "correctHiragana": "こうこうせい",
+            "kanji": "ながい",
+            "kanji": "長い",
+            "correctHiragana": "Long",
             "alternatives": [
-                "だいこうせん",
-                "こごうせい"
+                "Short (length)",
+                "Fast"
             ]
         },
         {
             "id": 32,
-            "kanji": "最高",
-            "correctHiragana": "さいこう",
+            "kanji": "はやい",
+            "kanji": "速い",
+            "correctHiragana": "Fast",
             "alternatives": [
-                "せんだい",
-                "さいたか"
+                "Slow",
+                "Long"
             ]
         },
         {
             "id": 33,
-            "kanji": "学校",
-            "correctHiragana": "がっこう",
+            "kanji": "みじかい",
+            "kanji": "短い",
+            "correctHiragana": "Short (length)",
             "alternatives": [
-                "がこう",
-                "があこう"
+                "Short (stature)",
+                "Long"
             ]
         },
         {
             "id": 34,
-            "kanji": "高校",
-            "correctHiragana": "こうこう",
+            "kanji": "しんせつ",
+            "kanji": "新切",
+            "correctHiragana": "Kind",
             "alternatives": [
-                "だいこう",
-                "こごう"
+                "Quiet",
+                "Mean-spirited"
             ]
         },
         {
             "id": 35,
-            "kanji": "高校生",
-            "correctHiragana": "こうこうせい",
+            "kanji": "べんり",
+            "kanji": "便利",
+            "correctHiragana": "Convenient",
             "alternatives": [
-                "だいこうせん",
-                "こごうせい"
+                "Tough (situation)",
+                "Not busy; to have a lot of free time"
             ]
         },
         {
             "id": 36,
-            "kanji": "中学校",
-            "correctHiragana": "ちゅうがっこう",
+            "kanji": "うたう",
+            "kanji": "歌う",
+            "correctHiragana": "To sing",
             "alternatives": [
-                "なかがっこう",
-                "ちゅがこう"
+                "To sell",
+                "To meet"
             ]
         },
         {
             "id": 37,
-            "kanji": "毎日",
-            "correctHiragana": "まいにち",
+            "kanji": "かぶる",
+            "correctHiragana": "To put on (a hat)",
             "alternatives": [
-                "うみひ",
-                "まいひ"
+                "To put on (items below your waist)",
+                "To put on (clothes above your waist)"
             ]
         },
         {
             "id": 38,
-            "kanji": "毎週",
-            "correctHiragana": "まいしゅう",
+            "kanji": "しる",
+            "kanji": "知る",
+            "correctHiragana": "To get to know",
             "alternatives": [
-                "まいしゅ",
-                "まいしょう"
+                "To do",
+                "To live"
             ]
         },
         {
             "id": 39,
-            "kanji": "毎晩",
-            "correctHiragana": "まいばん",
+            "kanji": "すむ",
+            "kanji": "住む",
+            "correctHiragana": "To live",
             "alternatives": [
-                "まいよる",
-                "まいあさ"
+                "To swim",
+                "To drink"
             ]
         },
         {
             "id": 40,
-            "kanji": "毎年",
-            "correctHiragana": "まいねん／まいとし",
+            "kanji": "はく",
+            "correctHiragana": "To put on (items below your waist)",
             "alternatives": [
-                "せいとし",
-                "まいと"
+                "To put on (clothes above your waist)",
+                "To put on (a hat)"
             ]
         },
         {
             "id": 41,
-            "kanji": "日本語",
-            "correctHiragana": "にほんご",
+            "kanji": "ふとる",
+            "kanji": "太る",
+            "correctHiragana": "To gain weight",
             "alternatives": [
-                "にぽんご",
-                "にほんこう"
+                "To be thin",
+                "To work for"
             ]
         },
         {
             "id": 42,
-            "kanji": "英語",
-            "correctHiragana": "えいご",
+            "kanji": "めがねを",
+            "kanji": "かける",
+            "correctHiragana": "To put on (glasses)",
             "alternatives": [
-                "けいご",
-                "まんご"
+                "To put on (a hat)",
+                "To put on (clothes above your waist)"
             ]
         },
         {
             "id": 43,
-            "kanji": "敬語",
-            "correctHiragana": "けいご",
+            "kanji": "きる",
+            "kanji": "着る",
+            "correctHiragana": "To put on (clothes above your waist)",
             "alternatives": [
-                "えいご",
-                "げんこ"
+                "To put on (items below your waist)",
+                "To put on (glasses)"
             ]
         },
         {
             "id": 44,
-            "kanji": "文学",
-            "correctHiragana": "ぶんがく",
+            "kanji": "つとめる",
+            "kanji": "勤める",
+            "correctHiragana": "To work for",
             "alternatives": [
-                "ぷんかっく",
-                "ぶんがっく"
+                "To be thin",
+                "To gain weight"
             ]
         },
         {
             "id": 45,
-            "kanji": "作文",
-            "correctHiragana": "さくぶん",
+            "kanji": "やせる",
+            "correctHiragana": "To lose weight",
             "alternatives": [
-                "さっくふん",
-                "さぐぽん"
+                "To do; to perform",
+                "To gain weight"
             ]
         },
         {
             "id": 46,
-            "kanji": "文字",
-            "correctHiragana": "もじ",
+            "kanji": "けっこんする",
+            "kanji": "結婚する",
+            "correctHiragana": "To get married",
             "alternatives": [
-                "ぶがく",
-                "ふじ"
+                "To study",
+                "To drive"
             ]
         },
         {
             "id": 47,
-            "kanji": "文化",
-            "correctHiragana": "ぶんか",
+            "kanji": "～が",
+            "correctHiragana": "…but",
             "alternatives": [
-                "もんか",
-                "ぶんけ"
+                "[counter for people]",
+                "[counter for flat objects]"
             ]
         },
         {
             "id": 48,
-            "kanji": "文法",
-            "correctHiragana": "ぶんぽう",
+            "kanji": "なにも",
+            "kanji": "何も",
+            "correctHiragana": "Not…anything",
             "alternatives": [
-                "ふんほう",
-                "ぷんぼう"
+                "Something",
+                "Very"
             ]
         },
         {
             "id": 49,
-            "kanji": "帰る",
-            "correctHiragana": "かえる",
+            "kanji": "～にん",
+            "kanji": "人",
+            "correctHiragana": "[counter for people]",
             "alternatives": [
-                "ねる",
-                "くる"
+                "Because…",
+                "Till (a time)"
             ]
         },
         {
             "id": 50,
-            "kanji": "帰国",
-            "correctHiragana": "きこく",
+            "kanji": "ひとり",
+            "kanji": "一人",
+            "correctHiragana": "One person",
             "alternatives": [
-                "かえくに",
-                "きぐに"
+                "Two people",
+                "Man"
             ]
         },
         {
             "id": 51,
-            "kanji": "帰宅",
-            "correctHiragana": "きたく",
+            "kanji": "ふたり",
+            "kanji": "二人",
+            "correctHiragana": "Two people",
             "alternatives": [
-                "かえすい",
-                "きだく"
+                "One person",
+                "People"
             ]
         },
         {
             "id": 52,
-            "kanji": "帰り",
-            "correctHiragana": "かえり",
+            "kanji": "べつに",
+            "kanji": "別に",
+            "correctHiragana": "Nothing in particular",
             "alternatives": [
-                "きり",
-                "かり"
+                "Not…anything",
+                "And then"
             ]
         },
         {
             "id": 53,
-            "kanji": "入る",
-            "correctHiragana": "はいる",
+            "kanji": "もしもし",
+            "correctHiragana": "Hello? (used on the phone)",
             "alternatives": [
-                "いる",
-                "はる"
+                "Of course",
+                "If you like"
             ]
         },
         {
             "id": 54,
-            "kanji": "入り口／入口",
-            "correctHiragana": "いりぐち",
+            "kanji": "もちろん",
+            "correctHiragana": "Of course",
             "alternatives": [
-                "かりくち",
-                "はいりくち"
+                "If you like",
+                "Hello? (used on phone)"
             ]
         },
         {
             "id": 55,
-            "kanji": "入れる",
-            "correctHiragana": "いれる",
+            "kanji": "よかったら",
+            "correctHiragana": "If you like",
             "alternatives": [
-                "はれる",
-                "はいられる"
-            ]
-        },
-        {
-            "id": 56,
-            "kanji": "輸入",
-            "correctHiragana": "ゆにゅう",
-            "alternatives": [
-                "ねゆう",
-                "すよう"
+                "Hello? (used on phone)",
+                "Good"
             ]
         }
     ]

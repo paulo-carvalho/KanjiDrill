@@ -1,0 +1,504 @@
+{
+    "genkiBook": 2,
+    "chapter": 18,
+    "recommendedChapters": [
+        "17", "19", "20"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "あと\n後",
+            "correctHiragana": "The rest",
+            "alternatives": [
+                "Before",
+                "During"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "エアコン",
+            "correctHiragana": "Air conditioner",
+            "alternatives": [
+                "Ear cleaner",
+                "Heater"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "カーテン",
+            "correctHiragana": "Curtain",
+            "alternatives": [
+                "Cutting",
+                "Garden"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "ぎゅうにゅう\n牛乳",
+            "correctHiragana": "Milk",
+            "alternatives": [
+                "Water",
+                "Juice"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "シャンプー",
+            "correctHiragana": "Shampoo",
+            "alternatives": [
+                "Jump",
+                "Camp"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "スウィッチ",
+            "correctHiragana": "Switch",
+            "alternatives": [
+                "Swiss",
+                "Electric plug"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "スカート",
+            "correctHiragana": "Skirt",
+            "alternatives": [
+                "Scat",
+                "Cart"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "しょうゆ\n醤油",
+            "correctHiragana": "Soy sauce",
+            "alternatives": [
+                "Vinegar",
+                "Oil"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "そと\n外",
+            "correctHiragana": "Outside",
+            "alternatives": [
+                "Inside",
+                "Middle"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "タオル",
+            "correctHiragana": "Towel",
+            "alternatives": [
+                "Towelette",
+                "Toiler paper"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "クッション",
+            "correctHiragana": "Cushion",
+            "alternatives": [
+                "Curtain",
+                "Cousin"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "にっき\n日記",
+            "correctHiragana": "Diary",
+            "alternatives": [
+                "Newspaper",
+                "Article"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "ポップコーン",
+            "correctHiragana": "Popcorn",
+            "alternatives": [
+                "Pop music",
+                "Cork pop"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "やちん\n家賃",
+            "correctHiragana": "Rent",
+            "alternatives": [
+                "Roof",
+                "Family"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "ゆうがた\n夕方",
+            "correctHiragana": "Evening",
+            "alternatives": [
+                "Afternoon",
+                "Morning"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "スープ",
+            "correctHiragana": "Soup",
+            "alternatives": [
+                "Snoop",
+                "Spoon"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "るすばんでんわ\n留守番電話",
+            "correctHiragana": "Answering machine",
+            "alternatives": [
+                "Cell phone",
+                "Phone call"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "れいぞうこ\n冷蔵庫",
+            "correctHiragana": "Refrigerator",
+            "alternatives": [
+                "Freezer",
+                "Air conditioner"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "ろうそく",
+            "correctHiragana": "Candle",
+            "alternatives": [
+                "Clock",
+                "Evening"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "きぶんがわるい\n気分が悪い",
+            "correctHiragana": "To feel sick",
+            "alternatives": [
+                "To think badly",
+                "To feel evil"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "はずかしい",
+            "correctHiragana": "Embarrassing, to feel embarrassed",
+            "alternatives": [
+                "Nostalgic",
+                "Jealous"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "あく\n開く",
+            "correctHiragana": "Something opens",
+            "alternatives": [
+                "Something closes",
+                "Something happens"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "あやまる\n謝る",
+            "correctHiragana": "To apologize",
+            "alternatives": [
+                "To get used to ",
+                "To press; to push"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "おす\n押す",
+            "correctHiragana": "To press; to push",
+            "alternatives": [
+                "To divorce",
+                "To open something"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "おとす\n落とす",
+            "correctHiragana": "To drop (something)",
+            "alternatives": [
+                "To fall down",
+                "To decide"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "おゆがわく\nお湯が沸く",
+            "correctHiragana": "Water boils",
+            "alternatives": [
+                "To make coffee, tea, etc",
+                "To shave beard"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "ころぶ\n転ぶ",
+            "correctHiragana": "To fall down",
+            "alternatives": [
+                "To change",
+                "To break something"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "こわす\n壊す",
+            "correctHiragana": "To break (something)",
+            "alternatives": [
+                "To get used to",
+                "To open something"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "さく\n咲く",
+            "correctHiragana": "To bloom",
+            "alternatives": [
+                "To change",
+                "To get crowded"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "しまる\n閉まる",
+            "correctHiragana": "(Something) closes",
+            "alternatives": [
+                "(Something) opens",
+                "(Something) drops"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "たすかる\n助かる",
+            "correctHiragana": "To be saved; to be helped",
+            "alternatives": [
+                "To comb one's hair",
+                "To be sufficient"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "たのむ\n頼む",
+            "correctHiragana": "To ask (a favor)",
+            "alternatives": [
+                "To decide",
+                "To bloom"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "つく",
+            "correctHiragana": "(Something) turns on",
+            "alternatives": [
+                "(Something) turns off",
+                "(Something) closes"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "よごす\n汚す",
+            "correctHiragana": "To make dirty",
+            "alternatives": [
+                "To swim",
+                "According to"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "おちる\n落ちる",
+            "correctHiragana": "Something drops",
+            "alternatives": [
+                "(Something) turns on",
+                "(Something) closes"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "かんがえる\n考える",
+            "correctHiragana": "To think about, to consider",
+            "alternatives": [
+                "To ask (a favor)",
+                "To be saved"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "きえる\n消える",
+            "correctHiragana": "(Something) goes off",
+            "alternatives": [
+                "(Something) falls",
+                "(Something) breaks"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "こわれる\n壊れる",
+            "correctHiragana": "Something breaks",
+            "alternatives": [
+                "To think about, to consider",
+                "(Something) drops"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "よごれる\n汚れる",
+            "correctHiragana": "To become dirty",
+            "alternatives": [
+                "To swim",
+                "(Something) goes off"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "ちゅうもんする\n注文する",
+            "correctHiragana": "to place an order",
+            "alternatives": [
+                "to work full time at",
+                "to win a lottery"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "いますぐ\n今すぐ",
+            "correctHiragana": "Right away",
+            "alternatives": [
+                "Later on",
+                "Quickly"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "おかげで",
+            "correctHiragana": "Thanks to...",
+            "alternatives": [
+                "Behind something",
+                "See you"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "おさきにしつれいします\nお先に失礼します",
+            "correctHiragana": "See you, I'm leaving ahead of you",
+            "alternatives": [
+                "Congratulations!",
+                "I see."
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "おつかれさまでした\nお疲れ様でした",
+            "correctHiragana": "You must be tired after working so hard.",
+            "alternatives": [
+                "Good night",
+                "Thanks to..."
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "ほんとうに\n本当に",
+            "correctHiragana": "Really",
+            "alternatives": [
+                "I see.",
+                "Compared to"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "まず",
+            "correctHiragana": "First of all",
+            "alternatives": [
+                "Thanks to...",
+                "By (time/date)"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "〜までに",
+            "correctHiragana": "By (time/date)",
+            "alternatives": [
+                "Really",
+                "According to"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "ソファ",
+            "correctHiragana": "Sofa",
+            "alternatives": [
+                "Soft",
+                "Soup"
+            ]
+        },
+         {
+            "id": 49,
+            "kanji": "バナナ",
+            "correctHiragana": "Banana",
+            "alternatives": [
+                "Banner",
+                "Bug"
+            ]
+        },
+         {
+            "id": 50,
+            "kanji": "むし\n虫",
+            "correctHiragana": "Bug",
+            "alternatives": [
+                "Banana",
+                "Diary"
+            ]
+        },
+         {
+            "id": 51,
+            "kanji": "あかるい\n明るい",
+            "correctHiragana": "Bright",
+            "alternatives": [
+                "Full",
+                "Dark"
+            ]
+        },
+         {
+            "id": 52,
+            "kanji": "くらい\n暗い",
+            "correctHiragana": "Dark",
+            "alternatives": [
+                "Bright",
+                "Loud"
+            ]
+        },
+         {
+            "id": 53,
+            "kanji": "かたづける\n片付ける",
+            "correctHiragana": "To clean up",
+            "alternatives": [
+                "To help",
+                "To feel embarrassed"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "〜んだろう",
+            "correctHiragana": "What should we do?",
+            "alternatives": [
+                "Thanks to...",
+                "Really?"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "どうしよう",
+            "correctHiragana": "What should we do?",
+            "alternatives": [
+                "You must be tired after working",
+                "See you."
+            ]
+        }
+	]
+}

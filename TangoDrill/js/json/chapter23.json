@@ -1,0 +1,441 @@
+{
+    "genkiBook": 2,
+    "chapter": 23,
+    "recommendedChapters": [
+        "20", "21", "22"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "おもいで\n思い出",
+            "correctHiragana": "Memory",
+            "alternatives": [
+                "Thought",
+                "Idea"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "かいがいりょこう\n海外旅行",
+            "correctHiragana": "Trip to a foreign country",
+            "alternatives": [
+                "Trip to another prefecture",
+                "Trip to a beach"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "からだ\n体",
+            "correctHiragana": "Body",
+            "alternatives": [
+                "Buddy",
+                "Book"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "くつした\n靴下",
+            "correctHiragana": "Socks",
+            "alternatives": [
+                "Shorts",
+                "Shoes"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "こくさいでんわ\n国際電話",
+            "correctHiragana": "International call",
+            "alternatives": [
+                "National call",
+                "Phone call"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "しゃかい\n社会",
+            "correctHiragana": "Society",
+            "alternatives": [
+                "Membership",
+                "Meeting"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "じゅぎょうりょう\n授業料",
+            "correctHiragana": "Tuition",
+            "alternatives": [
+                "Lecture",
+                "Final exam"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "しょうがっこう\n小学校",
+            "correctHiragana": "Elementary school",
+            "alternatives": [
+                "Middle school",
+                "Charm school"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "せんきょ\n選挙",
+            "correctHiragana": "Election",
+            "alternatives": [
+                "Collection",
+                "Politics"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "ソフト",
+            "correctHiragana": "Software",
+            "alternatives": [
+                "Softener",
+                "Softer"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "タイヤ",
+            "correctHiragana": "Tire",
+            "alternatives": [
+                "Diamond",
+                "Wire"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "ただ",
+            "correctHiragana": "Free of charge",
+            "alternatives": [
+                "Nonetheless",
+                "Besides"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "ばしょ\n場所",
+            "correctHiragana": "Place",
+            "alternatives": [
+                "Apartment",
+                "Park"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "べっそう\n別荘",
+            "correctHiragana": "Villa; Vacation home",
+            "alternatives": [
+                "Mansion; big house",
+                "Environment; habitat"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "ボーナス",
+            "correctHiragana": "Bonus",
+            "alternatives": [
+                "Ball",
+                "Bounce"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "ぼんおどり\n盆踊り",
+            "correctHiragana": "Bon dance",
+            "alternatives": [
+                "Ribbon dance",
+                "Tanabata dance"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "めんせつ\n面接",
+            "correctHiragana": "Interview",
+            "alternatives": [
+                "Election",
+                "Competition"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "ゆうしょく\n夕食",
+            "correctHiragana": "Dinner",
+            "alternatives": [
+                "Lunch",
+                "Appetizer"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "りそう\n理想",
+            "correctHiragana": "Ideal",
+            "alternatives": [
+                "Inconvenient",
+                "Idea"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "るすばん\n留守番",
+            "correctHiragana": "Looking after a house during someone’s absence",
+            "alternatives": [
+                "Looking after a child during someone’s absence",
+                "Looking after a pet during someone’s absence"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "まずい",
+            "correctHiragana": "(Food) terrible",
+            "alternatives": [
+                "Scary",
+                "First of all"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "あめがやむ\n雨がやむ",
+            "correctHiragana": "The rain stops",
+            "alternatives": [
+                "To be lost; to disappear",
+                "To find something agreeable"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "いなくなる",
+            "correctHiragana": "(Someone) is gone; to disappear",
+            "alternatives": [
+                "To take care of…",
+                "To be in someone’s care"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "おせわになる\nお世話になる",
+            "correctHiragana": "To be in someone’s care",
+            "alternatives": [
+                "To find something agreeable",
+                "To take care of…"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "おなかをこわす",
+            "correctHiragana": "To have stomachache",
+            "alternatives": [
+                "To take (an examination, interview, etc.)",
+                "To win a championship"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "きにいる\n気に入る",
+            "correctHiragana": "To find something agreeable",
+            "alternatives": [
+                "To talk behind someone’s back",
+                "To look … (facial expression)"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "ちがう\n違う",
+            "correctHiragana": "To be different; wrong",
+            "alternatives": [
+                "The rain stops",
+                "To sympathize"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "なくなる",
+            "correctHiragana": "To be lost; to disappear",
+            "alternatives": [
+                "To win a championship",
+                "To be tolerant/patient"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "わるぐちをいう\n悪口を言う",
+            "correctHiragana": "To talk behind someone’s back",
+            "alternatives": [
+                "To be in someone’s care",
+                "To be tolerant/patient"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "うける\n受ける",
+            "correctHiragana": "To take (an examination, interview, etc.)",
+            "alternatives": [
+                "To answer",
+                "To look … (facial expression)"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "かえる\n換える",
+            "correctHiragana": "To change",
+            "alternatives": [
+                "To be tolerant/patient",
+                "To answer"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "こたえる\n答える",
+            "correctHiragana": "To answer",
+            "alternatives": [
+                "To be in someone’s care",
+                "(Tire) goes flat"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "はなれる\n離れる",
+            "correctHiragana": "(Something/someone) separates; parts from",
+            "alternatives": [
+                "To sympathize",
+                "To be different; wrong"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "～かおをする\n～顔をする",
+            "correctHiragana": "To look … (facial expression)",
+            "alternatives": [
+                "The rain stops",
+                "To have stomachache"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "がっかりする",
+            "correctHiragana": "To be disappointed",
+            "alternatives": [
+                "To answer",
+                "To win a championship"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "がまんする\n我慢する",
+            "correctHiragana": "To be tolerant/patient",
+            "alternatives": [
+                "To be different; wrong",
+                "To win a championship"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "せわをする\n世話をする",
+            "correctHiragana": "To take care of…",
+            "alternatives": [
+                "To be in someone’s care",
+                "To find something agreeable"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "どうじょうする\n同情する",
+            "correctHiragana": "To sympathize",
+            "alternatives": [
+                "To find something agreeable",
+                "To be disappointed"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "パンクする",
+            "correctHiragana": "(Tire) goes flat",
+            "alternatives": [
+                "To be different; wrong",
+                "To be a punk"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "もどってくる\n戻ってくる",
+            "correctHiragana": "(Something/someone) comes back",
+            "alternatives": [
+                "(Someone) is gone; to disappear",
+                "To take (an examination, interview, etc.)"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "ゆうしょうする\n優勝する",
+            "correctHiragana": "To win a championship",
+            "alternatives": [
+                "To be lost; to disappear",
+                "To take care of…"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "いや",
+            "correctHiragana": "No",
+            "alternatives": [
+                "House",
+                "Parent"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "げんきでね\n元気でね",
+            "correctHiragana": "Take care of yourself",
+            "alternatives": [
+                "To be energetic",
+                "To be popular"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "さいごに\n最後に",
+            "correctHiragana": "Finally",
+            "alternatives": [
+                "First of all",
+                "Besides"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "そうそう",
+            "correctHiragana": "You are right",
+            "alternatives": [
+                "It is about time to …",
+                "That is not the case"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "そろそろ",
+            "correctHiragana": "It is about time to …",
+            "alternatives": [
+                "You are right",
+                "In that place"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "そんな～",
+            "correctHiragana": "Such ..; that kind of …",
+            "alternatives": [
+                "Opposite …; that is not the case ….",
+                "Among other things"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "ものすごく",
+            "correctHiragana": "Extremely",
+            "alternatives": [
+                "Finally",
+                "In conclusion"
+            ]
+        }
+    ]
+}

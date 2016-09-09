@@ -1,0 +1,477 @@
+{
+    "genkiBook": 2,
+    "chapter": 19,
+    "recommendedChapters": [
+        "18", "20", "21"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "まだ",
+            "correctHiragana": "Still",
+            "alternatives": [
+                "After",
+                "During"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "こちら",
+            "correctHiragana": "This way (polite)",
+            "alternatives": [
+                "Over there (polite)",
+                "Me; oneself (polite)"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "どちら",
+            "correctHiragana": "Where (polite)",
+            "alternatives": [
+                "This way (polite)",
+                "This one (polite)"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "なぜ",
+            "correctHiragana": "Why",
+            "alternatives": [
+                "Whenever",
+                "Really"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "〜めいさま\n〜名様",
+            "correctHiragana": "Party of ___ people",
+            "alternatives": [
+                "Counter for names",
+                "Counter for people in the family"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "なかがいい\n仲がいい",
+            "correctHiragana": "Be on good/close terms; to get along well",
+            "alternatives": [
+                "To be inside",
+                "To have an empty stomach"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "はなしをする\n話をする",
+            "correctHiragana": "To have a talk",
+            "alternatives": [
+                "To listen to a talk",
+                "To write a story"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "えんりょする\n遠慮する",
+            "correctHiragana": "To hold back for the time being; to refrain from",
+            "alternatives": [
+                "To perform",
+                "To exchange"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "しょうたいする\n招待する",
+            "correctHiragana": "To invite someone (to an event/a place)",
+            "alternatives": [
+                "To exercise",
+                "To introduce someone"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "ごちそうする",
+            "correctHiragana": "To treat/ invite (someone) to a meal",
+            "alternatives": [
+                "To pray before eating",
+                "To have a talk"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "ちゅういする\n注意する",
+            "correctHiragana": "To watch out; to give warning",
+            "alternatives": [
+                "To order",
+                "To chew"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "いらっしゃる",
+            "correctHiragana": "Honorfic expression for いく、くる、いる",
+            "alternatives": [
+                "Honorfic expression for いう",
+                "Honorific expression for くれる"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "おっしゃる",
+            "correctHiragana": "honorific expression for いう",
+            "alternatives": [
+                "Honorific expression for いく、くる、いる",
+                "Honorific expression for する"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "くださる\n下さる",
+            "correctHiragana": "Honorific expression for くれる",
+            "alternatives": [
+                "Honorific expression for たべる　and のむ",
+                "Honorific expression for する"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "なさる",
+            "correctHiragana": "Honorific expression for する",
+            "alternatives": [
+                "Honorific expression for いく、くる、いる",
+                "Honorific expression for くれる"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "めしあがる\n召し上がる",
+            "correctHiragana": "Honorific expression for たべる　and のむ",
+            "alternatives": [
+                "Honorific expression for いう",
+                "Honorific expression for みる"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "〜ていらっしゃる",
+            "correctHiragana": "Honorific expression for 〜ている",
+            "alternatives": [
+                "Honorific expression for 〜です",
+                "Honorific expression for 〜する"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "おやすみになる\nお休みになる",
+            "correctHiragana": "Honorific expression for ねる",
+            "alternatives": [
+                "Honorific expression for たべる　and のむ",
+                "Honorific expression for みる"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "ごらんになる\nご覧になる",
+            "correctHiragana": "Honorific expression for みる",
+            "alternatives": [
+                "Honorific expression for いう",
+                "Honorific expression for たべる、のむ"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "まじめ",
+            "correctHiragana": "Serious; sober; intelligent",
+            "alternatives": [
+                "Mean",
+                "Dull"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "おくさま\n奥様",
+            "correctHiragana": "(Your/his) wife (polite)",
+            "alternatives": [
+                "(Your/their) caretaker",
+                "(Your/her) husband"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "おこさん\nお子さん",
+            "correctHiragana": "(Your/their) child (polite)",
+            "alternatives": [
+                "(Your/his) wife",
+                "(Your/their) department manager"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "しゅるい\n種類",
+            "correctHiragana": "A kind; a sort",
+            "alternatives": [
+                "Business trip",
+                "Chat, talk"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "しゅっちょう\n出張",
+            "correctHiragana": "Business trip",
+            "alternatives": [
+                "To look for a job",
+                "To publish"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "はなし\n話",
+            "correctHiragana": "Chat; talk",
+            "alternatives": [
+                "Book",
+                "Language"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "ぶんか\n文化",
+            "correctHiragana": "Culture",
+            "alternatives": [
+                "Character, letter",
+                "Makeup"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "ぶちょう\n部長",
+            "correctHiragana": "Department manager",
+            "alternatives": [
+                "(Your/his) wife",
+                "Culture"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "まいあさ\n毎朝",
+            "correctHiragana": "Every morning",
+            "alternatives": [
+                "Every evening",
+                "Every year"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "けいご\n敬語",
+            "correctHiragana": "Honorific language",
+            "alternatives": [
+                "Foreign language",
+                "Casual language"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "ちゅうがくせい\n中学生",
+            "correctHiragana": "Junior high school student",
+            "alternatives": [
+                "Elementary school student",
+                "Private school student"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "なまけもの\n怠け者",
+            "correctHiragana": "Lazy person",
+            "alternatives": [
+                "Worry-wart",
+                "Raw fish"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "まちがい\n間違い",
+            "correctHiragana": "Mistake",
+            "alternatives": [
+                "Difference",
+                "Waiting time"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "せいかく\n性格",
+            "correctHiragana": "Personality",
+            "alternatives": [
+                "Life",
+                "Grades"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "はずかしがりや\n恥ずかしがりや",
+            "correctHiragana": "Shy person",
+            "alternatives": [
+                "Nostalgia",
+                "Jealous person"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "おととい",
+            "correctHiragana": "The day before yesterday",
+            "alternatives": [
+                "Little brother",
+                "(Your/his) wife"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "なやみ\n悩み",
+            "correctHiragana": "Worry",
+            "alternatives": [
+                "Laziness",
+                "Mistake"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "おれい\nお礼",
+            "correctHiragana": "Expression of gratitude",
+            "alternatives": [
+                "Condolence",
+                "Fact"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "ほんとうは\n本当は",
+            "correctHiragana": "In fact; originally",
+            "alternatives": [
+                "Unusal",
+                "However"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "よろしくおつたえください\nよろしくお伝えください",
+            "correctHiragana": "Please give my best regards (to…)",
+            "alternatives": [
+                "Good night (polite)",
+                "Please help me"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "ようこそ",
+            "correctHiragana": "Welcome",
+            "alternatives": [
+                "Thank you for taking care of me",
+                "To call one's name, to invite"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "もてる",
+            "correctHiragana": "To be popular (romantic interest)",
+            "alternatives": [
+                "To hold",
+                "To make a mistake"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "おくれる\n遅れる",
+            "correctHiragana": "To become late",
+            "alternatives": [
+                "To give",
+                "to walk/ drive someone"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "はれる\n晴れる",
+            "correctHiragana": "To become sunny",
+            "alternatives": [
+                "To stop by",
+                "To be decided"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "かける",
+            "correctHiragana": "To sit down",
+            "alternatives": [
+                "To wear glasses",
+                "To count"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "きまる\n決まる",
+            "correctHiragana": "To be decided",
+            "alternatives": [
+                "To become sunny",
+                "To surround"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "よぶ\n呼ぶ",
+            "correctHiragana": "To call (one's name), to invite",
+            "alternatives": [
+                "To stop by",
+                "To get acquainted with"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "しりあう\n知り合う",
+            "correctHiragana": "To get acquainted with",
+            "alternatives": [
+                "To be decided",
+                "To understand"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "おこる\n怒る",
+            "correctHiragana": "To get angry",
+            "alternatives": [
+                "To become late",
+                "To send an email"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "ひっこす\n引っ越す",
+            "correctHiragana": "To move (to another place to live)",
+            "alternatives": [
+                "To exchange",
+                "To sit down"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "よる\n寄る",
+            "correctHiragana": "To stop by",
+            "alternatives": [
+                "To call (one's name)",
+                "To welcome"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "それで",
+            "correctHiragana": "Then; therefore",
+            "alternatives": [
+                "Moreover",
+                "Over there"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "おくる\n送る",
+            "correctHiragana": "To walk/drive someone",
+            "alternatives": [
+                "To give",
+                "To get angry"
+            ]
+        }
+	]
+}

@@ -1,0 +1,531 @@
+{
+    "genkiBook": 1,
+    "chapter": 1,
+    "recommendedChapters": [
+        "02", "03", "04"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "あの",
+            "correctHiragana": "Um…",
+            "alternatives": [
+                "Oh...",
+                "Wow..."
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "いま\n今",
+            "correctHiragana": "Now",
+            "alternatives": [
+                "Later",
+                "In awhile"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "えいご\n英語",
+            "correctHiragana": "English (language)",
+            "alternatives": [
+                "Spanish",
+                "French"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "ええ",
+            "correctHiragana": "Yes",
+            "alternatives": [
+                "No",
+                "Sort of"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "がくせい\n学生",
+            "correctHiragana": "Student",
+            "alternatives": [
+                "Friend",
+                "Classmate"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "～ご\n語",
+            "correctHiragana": "...language",
+            "alternatives": [
+                "...years old",
+                "...o'clock"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "こうこう\n高校",
+            "correctHiragana": "High school",
+            "alternatives": [
+                "Middle school",
+                "Grade school"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "ごご\n午後",
+            "correctHiragana": "P.M.",
+            "alternatives": [
+                "A.M.",
+                "When"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "ごぜん\n午前",
+            "correctHiragana": "A.M.",
+            "alternatives": [
+                "P.M.",
+                "At this time..."
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "～さい\n歳",
+            "correctHiragana": "...years old",
+            "alternatives": [
+                "...o'clock",
+                "...language"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "～さん",
+            "correctHiragana": "Mr./Ms.…",
+            "alternatives": [
+                "Teacher",
+                "Friend"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "～じ\n時",
+            "correctHiragana": "O’clock",
+            "alternatives": [
+                "...years old",
+                "...language"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "～じん\n人",
+            "correctHiragana": "...people",
+            "alternatives": [
+                "...years old",
+                "...yen"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "せんこう\n専攻",
+            "correctHiragana": "Major",
+            "alternatives": [
+                "Minor",
+                "Subject"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "せんせい\n先生",
+            "correctHiragana": "Teacher; professor",
+            "alternatives": [
+                "Mr./Ms....",
+                "Judge"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "そうです",
+            "correctHiragana": "That’s right.",
+            "alternatives": [
+                "That's incorrect",
+                "I don't think so"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "だいがく\n大学",
+            "correctHiragana": "College; university",
+            "alternatives": [
+                "Study abroad",
+                "High school"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "でんわ\n電話",
+            "correctHiragana": "Telephone",
+            "alternatives": [
+                "Number",
+                "Letter"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "ともだち\n友達",
+            "correctHiragana": "Friend",
+            "alternatives": [
+                "Student",
+                "Classmate"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "なまえ\n名前",
+            "correctHiragana": "Name",
+            "alternatives": [
+                "Number",
+                "Writing"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "なん/なに\n何",
+            "correctHiragana": "What",
+            "alternatives": [
+                "Who",
+                "When"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "にほん\n日本",
+            "correctHiragana": "Japan",
+            "alternatives": [
+                "Japanese language",
+                "Japanese people"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "～ねんせい\n年生",
+            "correctHiragana": "…year student",
+            "alternatives": [
+                "...years old",
+                "...o'clock"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "はい",
+            "correctHiragana": "Yes",
+            "alternatives": [
+                "No",
+                "Maybe"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "はん\n半",
+            "correctHiragana": "Half",
+            "alternatives": [
+                "Book",
+                "Store"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "ばんごう\n番号",
+            "correctHiragana": "Number",
+            "alternatives": [
+                "Name",
+                "Telephone"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "りゅうがくせい\n留学生",
+            "correctHiragana": "International student",
+            "alternatives": [
+                "Student",
+                "Teacher"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "たし\n私",
+            "correctHiragana": "I",
+            "alternatives": [
+                "You",
+                "He/She"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "アメリカ",
+            "correctHiragana": "U.S.A.",
+            "alternatives": [
+                "Britain",
+                "Australia"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "イギリス",
+            "correctHiragana": "Britain",
+            "alternatives": [
+                "U.S.A.",
+                "Sweden"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "オーストラリア",
+            "correctHiragana": "Australia",
+            "alternatives": [
+                "Sweden",
+                "Britain"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "かんこく\n韓国",
+            "correctHiragana": "Korea",
+            "alternatives": [
+                "China",
+                "Vietnam"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "スウェーデン",
+            "correctHiragana": "Sweden",
+            "alternatives": [
+                "Denmark",
+                "Australia"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "ちゅうごく\n中国",
+            "correctHiragana": "China",
+            "alternatives": [
+                "Korea",
+                "Japan"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "かがく\n科学",
+            "correctHiragana": "Science",
+            "alternatives": [
+                "History",
+                "Literature"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "アジアけんきゅう\nアジア研究",
+            "correctHiragana": "Asian studies",
+            "alternatives": [
+                "English studies",
+                "History"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "けいざい\n経済",
+            "correctHiragana": "Economics",
+            "alternatives": [
+                "Business",
+                "International business"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "こくさいかんけい\n国際関係",
+            "correctHiragana": "International relations",
+            "alternatives": [
+                "Economics",
+                "Study abroad"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "コンピューター",
+            "correctHiragana": "Computer",
+            "alternatives": [
+                "Business",
+                "Telephone"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "じんるいがく\n人類学",
+            "correctHiragana": "Anthropology",
+            "alternatives": [
+                "Literature",
+                "Architecture"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "せいじ\n政治",
+            "correctHiragana": "Politics",
+            "alternatives": [
+                "Economics",
+                "Business"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "ビジネス",
+            "correctHiragana": "Business",
+            "alternatives": [
+                "Computer",
+                "Accounting"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "ぶんがく\n文学",
+            "correctHiragana": "Literature",
+            "alternatives": [
+                "History",
+                "Economics"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "れきし\n歴史",
+            "correctHiragana": "History",
+            "alternatives": [
+                "Philosophy",
+                "Literature"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "しごと\n仕事",
+            "correctHiragana": "Job; work; occupation",
+            "alternatives": [
+                "Hobby",
+                "Doctor"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "いしゃ\n医者",
+            "correctHiragana": "Doctor",
+            "alternatives": [
+                "Lawyer",
+                "Office worker"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "かいしゃいん\n会社員",
+            "correctHiragana": "Office worker",
+            "alternatives": [
+                "President",
+                "Doctor"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "こうこうせい\n高校生",
+            "correctHiragana": "High school student",
+            "alternatives": [
+                "College student",
+                "Grade school student"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "しゅふ\n主婦",
+            "correctHiragana": "Housewife",
+            "alternatives": [
+                "Lawyer",
+                "Office worker"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "だいがくいんせい\n大学院生",
+            "correctHiragana": "Graduate student",
+            "alternatives": [
+                "College student",
+                "High school student"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "だいがくせい\n大学生",
+            "correctHiragana": "College student",
+            "alternatives": [
+                "Graduate student",
+                "High school student"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "べんごし\n弁護士",
+            "correctHiragana": "Lawyer",
+            "alternatives": [
+                "Doctor",
+                "Office worker"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "おかあさん\nお母さん",
+            "correctHiragana": "Mother",
+            "alternatives": [
+                "Father",
+                "Older sister"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "おとうさん\nお父さん",
+            "correctHiragana": "Father",
+            "alternatives": [
+                "Mother",
+                "Older brother"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "おねえさん\nお姉さん",
+            "correctHiragana": "Older sister",
+            "alternatives": [
+                "Young sister",
+                "Older brother"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "おにいさん\nお兄さん",
+            "correctHiragana": "Older brother",
+            "alternatives": [
+                "Younger brother",
+                "Older sister"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "いもうと\n妹",
+            "correctHiragana": "Younger sister",
+            "alternatives": [
+                "Older sister",
+                "Younger brother"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "おとうと\n弟",
+            "correctHiragana": "Younger brother",
+            "alternatives": [
+                "Younger sister",
+                "Older brother"
+            ]
+        }
+    ]
+}

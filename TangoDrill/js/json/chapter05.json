@@ -1,0 +1,504 @@
+{
+    "genkiBook": 1,
+    "chapter": 5,
+    "recommendedChapters": [
+        "04", "06", "07"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "うみ\n海",
+            "correctHiragana": "Sea",
+            "alternatives": [
+                "Weather",
+                "Bus"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "きって\n切手",
+            "correctHiragana": "Postal stamps",
+            "alternatives": [
+                "Ticket",
+                "Postcard"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "きっぷ\n切符",
+            "correctHiragana": "Ticket",
+            "alternatives": [
+                "Post stamps",
+                "Airplane"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "サーフィン",
+            "correctHiragana": "Surfing",
+            "alternatives": [
+                "Travel",
+                "Homework"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "しゅくだい\n宿題",
+            "correctHiragana": "Homework",
+            "alternatives": [
+                "Birthday",
+                "Holiday; day off; absence"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "たべもの\n食べ物",
+            "correctHiragana": "Food",
+            "alternatives": [
+                "Drink",
+                "Surfing"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "たんじょうび\n誕生日",
+            "correctHiragana": "Birthday",
+            "alternatives": [
+                "Friday",
+                "Airplane"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "テスト",
+            "correctHiragana": "Test",
+            "alternatives": [
+                "Weather",
+                "Tennis"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "てんき\n天気",
+            "correctHiragana": "Weather",
+            "alternatives": [
+                "Postcard",
+                "Ticket"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "のみもの\n飲み物",
+            "correctHiragana": "Drink",
+            "alternatives": [
+                "Food",
+                "Postal stamps"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "はがき\n葉書",
+            "correctHiragana": "Postcard",
+            "alternatives": [
+                "Letter",
+                "Weather"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "バス",
+            "correctHiragana": "Bus",
+            "alternatives": [
+                "Sea",
+                "Test"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "ひこうき\n飛行機",
+            "correctHiragana": "Airplane",
+            "alternatives": [
+                "Postcard",
+                "Weather"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "へや\n部屋",
+            "correctHiragana": "Room",
+            "alternatives": [
+                "I (used by men)",
+                "Sea"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "ぼく\n僕",
+            "correctHiragana": "I (used by men)",
+            "alternatives": [
+                "Room",
+                "Sea"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "やすみ\n休み",
+            "correctHiragana": "Holiday; day off; absence",
+            "alternatives": [
+                "Travel",
+                "Sea"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "りょこう\n旅行",
+            "correctHiragana": "Travel",
+            "alternatives": [
+                "Postcard",
+                "Homework"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "あたらしい\n新しい",
+            "correctHiragana": "New",
+            "alternatives": [
+                "Busy (people/days)",
+                "Interesting"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "あつい\n暑い",
+            "correctHiragana": "Hot (weather)",
+            "alternatives": [
+                "Large",
+                "Cold (weather – not used for objects)"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "あつい\n熱い",
+            "correctHiragana": "Hot (objects)",
+            "alternatives": [
+                "Cold (weather – not used for objects)",
+                "Frightening"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "いそがしい\n忙しい",
+            "correctHiragana": "Busy (people/days)",
+            "alternatives": [
+                "Interesting",
+                "Difficult"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "おおきい\n大きい",
+            "correctHiragana": "Large",
+            "alternatives": [
+                "Interesting",
+                "Easy (problem); kind (person)"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "おもしろい\n面白い",
+            "correctHiragana": "Interesting",
+            "alternatives": [
+                "New",
+                "Busy (people/days)"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "かっこいい",
+            "correctHiragana": "Good-looking",
+            "alternatives": [
+                "Busy (people/days)",
+                "New"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "こわい\n怖い",
+            "correctHiragana": "Frightening",
+            "alternatives": [
+                "Old (thing – not used for people)",
+                "Cold (weather – not used for objects)"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "さむい\n寒い",
+            "correctHiragana": "Cold (weather – not used for objects)",
+            "alternatives": [
+                "Inexpensive; cheap (thing)",
+                "Fun"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "たのしい\n楽しい",
+            "correctHiragana": "Fun",
+            "alternatives": [
+                "Small",
+                "Boring"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "ちいさい\n小さい",
+            "correctHiragana": "Small",
+            "alternatives": [
+                "Fun",
+                "Easy (problem); kind (person)"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "つまらない",
+            "correctHiragana": "Boring",
+            "alternatives": [
+                "Interesting",
+                "New"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "ふるい\n古い",
+            "correctHiragana": "Old (thing – not used for people)",
+            "alternatives": [
+                "Frightening",
+                "Hot (weather)"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "むずかしい\n難しい",
+            "correctHiragana": "Difficult",
+            "alternatives": [
+                "Fun",
+                "Cold (weather – not used for objects)"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "やさしい",
+            "correctHiragana": "Easy (problem); kind (person)",
+            "alternatives": [
+                "Inexpensive; cheap (thing)",
+                "Difficult"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "やすい\n安い",
+            "correctHiragana": "Inexpensive; cheap (thing)",
+            "alternatives": [
+                "Large",
+                "Easy (problem); kind (person)"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "きらい\n嫌い",
+            "correctHiragana": "Disgusted with; to dislike",
+            "alternatives": [
+                "Beautiful; clean",
+                "Quiet"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "きれい",
+            "correctHiragana": "Beautiful; clean",
+            "alternatives": [
+                "Disgusted with; to dislike",
+                "Healthy; energetic"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "げんき\n元気",
+            "correctHiragana": "Healthy; energetic",
+            "alternatives": [
+                "Fond of; to like",
+                "Quiet"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "しずか\n静か",
+            "correctHiragana": "Quiet",
+            "alternatives": [
+                "Fond of; to like",
+                "Not busy; to have lots of free time"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "すき\n好き",
+            "correctHiragana": "Fond of; to like",
+            "alternatives": [
+                "Quiet",
+                "Lively"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "だいきらい\n大嫌い",
+            "correctHiragana": "To hate",
+            "alternatives": [
+                "Very fond of; to love",
+                "Lively"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "だいすき\n大好き",
+            "correctHiragana": "Very fond of; to love",
+            "alternatives": [
+                "To hate",
+                "Lively"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "にぎやか",
+            "correctHiragana": "Lively",
+            "alternatives": [
+                "Healthy; energetic",
+                "Quiet"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "ひま\n暇",
+            "correctHiragana": "Not busy; to have lots of free time",
+            "alternatives": [
+                "Beautiful; clean",
+                "Fond of; to like"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "およぐ\n泳ぐ",
+            "correctHiragana": "To swim",
+            "alternatives": [
+                "To ask",
+                "To go out"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "きく\n聞く",
+            "correctHiragana": "To ask",
+            "alternatives": [
+                "To swim",
+                "To do; to perform"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "のる\n乗る",
+            "correctHiragana": "To ride; to board",
+            "alternatives": [
+                "To do; to perform",
+                "To go out"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "やる",
+            "correctHiragana": "To do; to perform",
+            "alternatives": [
+                "To ride; to board",
+                "To ask"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "でかける\n出かける",
+            "correctHiragana": "To go out",
+            "alternatives": [
+                "To swim",
+                "To ask"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "いっしょに\n一緒に",
+            "correctHiragana": "Together",
+            "alternatives": [
+                "It's okay.; Not to worry.; Everything is under control",
+                "And then"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "すごく",
+            "correctHiragana": "Extremely",
+            "alternatives": [
+                "Very",
+                "What kind of..."
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "それから",
+            "correctHiragana": "And then",
+            "alternatives": [
+                "What kind of...",
+                "It's okay.; Not to worry.; Everything is under control"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "だいじょうぶ\n大丈夫",
+            "correctHiragana": "It's okay.; Not to worry.; Everything is under control",
+            "alternatives": [
+                "Together",
+                "And then"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "とても",
+            "correctHiragana": "Very",
+            "alternatives": [
+                "Together",
+                "What kind of..."
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "どんな",
+            "correctHiragana": "What kind of...",
+            "alternatives": [
+                "Very",
+                "And then"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "〜まい\n〜枚",
+            "correctHiragana": "[counter for flat objects]",
+            "alternatives": [
+                "To (a place); as far as (a place); till (a time)",
+                "What kind of..."
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "〜まで",
+            "correctHiragana": "To (a place); as far as (a place); till (a time)",
+            "alternatives": [
+                "[counter for flat objects]",
+                "And then"
+            ]
+        }
+    ]
+}

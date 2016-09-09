@@ -1,0 +1,468 @@
+{
+    "genkiBook": 1,
+    "chapter": 8,
+    "recommendedChapters": [
+        "07", "09", "10"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "あさって",
+            "correctHiragana": "The day after tomorrow",
+            "alternatives": [
+                "The day before yesterday",
+                "This morning"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "あめ\n雨",
+            "correctHiragana": "Rain",
+            "alternatives": [
+                "Snow",
+                "Candy"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "かいしゃいん\n会社員",
+            "correctHiragana": "Office worker",
+            "alternatives": [
+                "Blackboard",
+                "Chopsticks"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "カメラ",
+            "correctHiragana": "Camera",
+            "alternatives": [
+                "Karaoke",
+                "Radio"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "カラオケ",
+            "correctHiragana": "Karaoke",
+            "alternatives": [
+                "Camera",
+                "Computer"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "くうき\n空気",
+            "correctHiragana": "Air",
+            "alternatives": [
+                "Airport",
+                "Harbor"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "けさ\n今朝",
+            "correctHiragana": "This morning",
+            "alternatives": [
+                "Now",
+                "Every morning"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "こくばん\n黒板",
+            "correctHiragana": "Blackboard",
+            "alternatives": [
+                "Office worker",
+                "Tonight"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "こんげつ\n今月",
+            "correctHiragana": "This month",
+            "alternatives": [
+                "Next month",
+                "Tonight"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "しごと\n仕事",
+            "correctHiragana": "Job; work; occupation",
+            "alternatives": [
+                "Company",
+                "Blackboard"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "だいがくせい\n大学生",
+            "correctHiragana": "College student",
+            "alternatives": [
+                "Graduate student",
+                "Professor"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "てんきよほう\n天気予報",
+            "correctHiragana": "Weather forecast",
+            "alternatives": [
+                "Office worker",
+                "College student"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "ところ\n所",
+            "correctHiragana": "Place",
+            "alternatives": [
+                "Something",
+                "This morning"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "トマト",
+            "correctHiragana": "Tomato",
+            "alternatives": [
+                "Door",
+                "Department store"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "なつ\n夏",
+            "correctHiragana": "Summer",
+            "alternatives": [
+                "Winter",
+                "Autumn"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "なにか\n何か",
+            "correctHiragana": "Something",
+            "alternatives": [
+                "Place",
+                "What"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "パーティー",
+            "correctHiragana": "Party",
+            "alternatives": [
+                "Barbecue",
+                "Homestay; living with a local family"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "バーベキュー",
+            "correctHiragana": "Barbecue",
+            "alternatives": [
+                "Party",
+                "Homestay; living with a local family"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "はし",
+            "correctHiragana": "Chopsticks",
+            "alternatives": [
+                "Foot",
+                "Window"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "ふゆ\n冬",
+            "correctHiragana": "Winter",
+            "alternatives": [
+                "Spring",
+                "Summer"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "ホームステイ",
+            "correctHiragana": "Homestay; living with a local family",
+            "alternatives": [
+                "Party",
+                "Barbecue"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "まいしゅう\n毎週",
+            "correctHiragana": "Every week",
+            "alternatives": [
+                "Every month",
+                "Everyday"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "らいげつ\n来月",
+            "correctHiragana": "Next month",
+            "alternatives": [
+                "This month",
+                "Next year"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "じょうず\n上手",
+            "correctHiragana": "Skillful; good at",
+            "alternatives": [
+                "Clumsy; poor at",
+                "Famous"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "へた\n下手",
+            "correctHiragana": "Clumsy; poor at",
+            "alternatives": [
+                "Skillful; good at",
+                "Kind"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "ゆうめい\n有名",
+            "correctHiragana": "Famous",
+            "alternatives": [
+                "Convenient",
+                "Lively"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "あめがふる\n雨が降る",
+            "correctHiragana": "It rains",
+            "alternatives": [
+                "It snows",
+                "To fall"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "あらう\n洗う",
+            "correctHiragana": "To wash",
+            "alternatives": [
+                "To open",
+                "It rains"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "いう\n言う",
+            "correctHiragana": "To say",
+            "alternatives": [
+                "To need",
+                "To go"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "いる",
+            "correctHiragana": "To need",
+            "alternatives": [
+                "To say",
+                "To go"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "おそくなる\n遅くなる",
+            "correctHiragana": "To be late",
+            "alternatives": [
+                "To think",
+                "To swim"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "おもう\n思う",
+            "correctHiragana": "To think",
+            "alternatives": [
+                "To teach; to instruct",
+                "To get off"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "きる\n切る",
+            "correctHiragana": "To cut",
+            "alternatives": [
+                "To put on (clothes above your waist)",
+                "To borrow"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "つくる\n作る",
+            "correctHiragana": "To make",
+            "alternatives": [
+                "To use",
+                "To turn on"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "もっていく\n持っていく",
+            "correctHiragana": "To take (a thing)",
+            "alternatives": [
+                "To bring (a person)",
+                "To return (a thing)"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "じろじろみる\nじろじろ見る",
+            "correctHiragana": "To stare (at…)",
+            "alternatives": [
+                "To think",
+                "To be late"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "すてる\n捨てる",
+            "correctHiragana": "To throw away",
+            "alternatives": [
+                "To close (something)",
+                "To make"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "はじめる\n始める",
+            "correctHiragana": "To begin",
+            "alternatives": [
+                "To wash",
+                "To forget; to leave behind"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "うんてんする\n運転する",
+            "correctHiragana": "To drive",
+            "alternatives": [
+                "To get married",
+                "To do physical exercise"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "せんたくする\n洗濯する",
+            "correctHiragana": "To do laundry",
+            "alternatives": [
+                "To clean",
+                "To cook"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "そうじする\n掃除する",
+            "correctHiragana": "To clean",
+            "alternatives": [
+                "To do laundry",
+                "To cook"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "でんわする\n電話する",
+            "correctHiragana": "To call",
+            "alternatives": [
+                "To cook",
+                "To do laundry"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "りょうりする\n料理する",
+            "correctHiragana": "To cook",
+            "alternatives": [
+                "To call",
+                "To study abroad"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "いつも",
+            "correctHiragana": "Always",
+            "alternatives": [
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "ううん",
+            "correctHiragana": "Uh-uh; no",
+            "alternatives": [
+                "Uh-huh; yes",
+                "Really?"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "うん",
+            "correctHiragana": "Uh-huh; yes",
+            "alternatives": [
+                "Uh-uh; no",
+                "Not…yet"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "かんぱい\n乾杯",
+            "correctHiragana": "Cheers! (a toast)",
+            "alternatives": [
+                "Always",
+                "All (of the people) together"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "ざんねん\n残念",
+            "correctHiragana": "That’s too bad.",
+            "alternatives": [
+                "Of course",
+                "If you like"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "～について",
+            "correctHiragana": "About…;concerning…",
+            "alternatives": [
+                "Nothing in particular",
+                "Not anything"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "まだ",
+            "correctHiragana": "Not yet",
+            "alternatives": [
+                "Till (a time)",
+                "Because…"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "みんなで",
+            "correctHiragana": "All (of the people) together",
+            "alternatives": [
+                "That’s too bad.",
+                "About...;concerning"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,513 @@
+{
+    "genkiBook": 1,
+    "chapter": 7,
+    "recommendedChapters": [
+        "06", "08", "09"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "東京",
+            "correctHiragana": "とうきょう",
+            "alternatives": [
+                "とおきょ",
+                "ときょ"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "京子",
+            "correctHiragana": "きょうこ",
+            "alternatives": [
+                "きょこ",
+                "きょっこ"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "京都",
+            "correctHiragana": "きょうと",
+            "alternatives": [
+                "きょっと",
+                "きよと"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "上京する",
+            "correctHiragana": "じょうきょうする",
+            "alternatives": [
+                "うえきょうする",
+                "じょうきようする"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "子ども",
+            "correctHiragana": "こども",
+            "alternatives": [
+                "ことも",
+                "ごども"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "京子",
+            "correctHiragana": "きょうこ",
+            "alternatives": [
+                "きょこ",
+                "きようこ"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "女の子",
+            "correctHiragana": "おんなのこ",
+            "alternatives": [
+                "じょのこ",
+                "おなのご"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "男の子",
+            "correctHiragana": "おとこのこ",
+            "alternatives": [
+                "だいのこ",
+                "どこのこ"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "電子辞書",
+            "correctHiragana": "でんしじしょ",
+            "alternatives": [
+                "てんこじしゅ",
+                "げんしじっしょ"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "小さい",
+            "correctHiragana": "ちいさい",
+            "alternatives": [
+                "おおきい",
+                "じさい"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "小学校",
+            "correctHiragana": "しょうがっこう",
+            "alternatives": [
+                "ちいがっこう",
+                "ちゅうがこう"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "小学生",
+            "correctHiragana": "しょうがくせい",
+            "alternatives": [
+                "ちいがっくせい",
+                "ちゅうかくせい"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "会う",
+            "correctHiragana": "あう",
+            "alternatives": [
+                "かう",
+                "まう"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "会社",
+            "correctHiragana": "かいしゃ",
+            "alternatives": [
+                "あいじゃ",
+                "がいっしゃ"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "会社員",
+            "correctHiragana": "かいしゃいん",
+            "alternatives": [
+                "あいしゃおん",
+                "かいっしゃみ"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "会議",
+            "correctHiragana": "かいぎ",
+            "alternatives": [
+                "あいき",
+                "がいき"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "教会",
+            "correctHiragana": "きょうかい",
+            "alternatives": [
+                "きゅうあい",
+                "きよかい"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "神社",
+            "correctHiragana": "じんじゃ",
+            "alternatives": [
+                "じんしゃ",
+                "しんじゃ"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "社会",
+            "correctHiragana": "しゃかい",
+            "alternatives": [
+                "じゃがい",
+                "しゃあい"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "入社",
+            "correctHiragana": "にゅうしゃ",
+            "alternatives": [
+                "はいしゃ",
+                "いじゃ"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "父",
+            "correctHiragana": "ちち",
+            "alternatives": [
+                "はは",
+                "おとう"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "お父さん",
+            "correctHiragana": "おとうさん",
+            "alternatives": [
+                "おとおさん",
+                "おとさん"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "父母",
+            "correctHiragana": "ふぼ",
+            "alternatives": [
+                "ぶほ",
+                "ふっぽ"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "祖父",
+            "correctHiragana": "そふ",
+            "alternatives": [
+                "ぞっふ",
+                "そぶ"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "母",
+            "correctHiragana": "はは",
+            "alternatives": [
+                "ちち",
+                "おか"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "お母さん",
+            "correctHiragana": "おかあさん",
+            "alternatives": [
+                "おかさん",
+                "おがあさん"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "母語",
+            "correctHiragana": "ぼご",
+            "alternatives": [
+                "ははご",
+                "おかあご"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "祖母",
+            "correctHiragana": "そぼ",
+            "alternatives": [
+                "ぞはは",
+                "そふ"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "高い",
+            "correctHiragana": "たかい",
+            "alternatives": [
+                "またい",
+                "かたい"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "高校",
+            "correctHiragana": "こうこう",
+            "alternatives": [
+                "だいこう",
+                "こごう"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "高校生",
+            "correctHiragana": "こうこうせい",
+            "alternatives": [
+                "だいこうせん",
+                "こごうせい"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "最高",
+            "correctHiragana": "さいこう",
+            "alternatives": [
+                "せんだい",
+                "さいたか"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "学校",
+            "correctHiragana": "がっこう",
+            "alternatives": [
+                "がこう",
+                "があこう"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "高校",
+            "correctHiragana": "こうこう",
+            "alternatives": [
+                "だいこう",
+                "こごう"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "高校生",
+            "correctHiragana": "こうこうせい",
+            "alternatives": [
+                "だいこうせん",
+                "こごうせい"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "中学校",
+            "correctHiragana": "ちゅうがっこう",
+            "alternatives": [
+                "なかがっこう",
+                "ちゅがこう"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "毎日",
+            "correctHiragana": "まいにち",
+            "alternatives": [
+                "うみひ",
+                "まいひ"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "毎週",
+            "correctHiragana": "まいしゅう",
+            "alternatives": [
+                "まいしゅ",
+                "まいしょう"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "毎晩",
+            "correctHiragana": "まいばん",
+            "alternatives": [
+                "まいよる",
+                "まいあさ"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "毎年",
+            "correctHiragana": "まいねん／まいとし",
+            "alternatives": [
+                "せいとし",
+                "まいと"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "日本語",
+            "correctHiragana": "にほんご",
+            "alternatives": [
+                "にぽんご",
+                "にほんこう"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "英語",
+            "correctHiragana": "えいご",
+            "alternatives": [
+                "けいご",
+                "まんご"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "敬語",
+            "correctHiragana": "けいご",
+            "alternatives": [
+                "えいご",
+                "げんこ"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "文学",
+            "correctHiragana": "ぶんがく",
+            "alternatives": [
+                "ぷんかっく",
+                "ぶんがっく"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "作文",
+            "correctHiragana": "さくぶん",
+            "alternatives": [
+                "さっくふん",
+                "さぐぽん"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "文字",
+            "correctHiragana": "もじ",
+            "alternatives": [
+                "ぶがく",
+                "ふじ"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "文化",
+            "correctHiragana": "ぶんか",
+            "alternatives": [
+                "もんか",
+                "ぶんけ"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "文法",
+            "correctHiragana": "ぶんぽう",
+            "alternatives": [
+                "ふんほう",
+                "ぷんぼう"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "帰る",
+            "correctHiragana": "かえる",
+            "alternatives": [
+                "ねる",
+                "くる"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "帰国",
+            "correctHiragana": "きこく",
+            "alternatives": [
+                "かえくに",
+                "きぐに"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "帰宅",
+            "correctHiragana": "きたく",
+            "alternatives": [
+                "かえすい",
+                "きだく"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "帰り",
+            "correctHiragana": "かえり",
+            "alternatives": [
+                "きり",
+                "かり"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "入る",
+            "correctHiragana": "はいる",
+            "alternatives": [
+                "いる",
+                "はる"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "入り口／入口",
+            "correctHiragana": "いりぐち",
+            "alternatives": [
+                "かりくち",
+                "はいりくち"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "入れる",
+            "correctHiragana": "いれる",
+            "alternatives": [
+                "はれる",
+                "はいられる"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "輸入",
+            "correctHiragana": "ゆにゅう",
+            "alternatives": [
+                "ねゆう",
+                "すよう"
+            ]
+        }
+    ]
+}

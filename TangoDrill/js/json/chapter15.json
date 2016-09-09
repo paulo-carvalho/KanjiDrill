@@ -1,0 +1,452 @@
+{
+    "genkiBook": 2,
+    "chapter": 15,
+    "recommendedChapters": [
+        "14",
+        "16",
+        "17"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "インターネット",
+            "correctHiragana": "Internet",
+            "alternatives": [
+                "Intern",
+                "Intermediate"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "え\n絵",
+            "correctHiragana": "Painting; picture; drawing",
+            "alternatives": [
+                "Literature",
+                "Traditional dress"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "えいがかん\n映画館",
+            "correctHiragana": "Movie theater",
+            "alternatives": [
+                "Foreigner",
+                "Movie time"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "がいこくじん\n外国人",
+            "correctHiragana": "Foreigner",
+            "alternatives": [
+                "Chinese",
+                "Korean"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "かぐ\n家具",
+            "correctHiragana": "Furniture",
+            "alternatives": [
+                "Store",
+                "Chair"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "クラブ",
+            "correctHiragana": "Night club",
+            "alternatives": [
+                "Gloves",
+                "Glass"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "けいけん\n経験",
+            "correctHiragana": "Experience",
+            "alternatives": [
+                "Internship",
+                "Deadline"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "けっこんしき\n結婚式",
+            "correctHiragana": "Wedding",
+            "alternatives": [
+                "Graduation ceremony",
+                "Coming of age party"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "じしん\n地震",
+            "correctHiragana": "Earthquake",
+            "alternatives": [
+                "Deadline",
+                "Experience"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "しめきり\n締め切り",
+            "correctHiragana": "Deadline",
+            "alternatives": [
+                "Experience",
+                "Custom"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "ジャケット",
+            "correctHiragana": "Jacket",
+            "alternatives": [
+                "Internet",
+                "Jacob"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "しゅうかん\n習慣",
+            "correctHiragana": "Custom",
+            "alternatives": [
+                "Earthquake",
+                "Kitchen"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "ぜいきん\n税金",
+            "correctHiragana": "Tax",
+            "alternatives": [
+                "Rent",
+                "Custom"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "そつぎょうしき\n卒業式",
+            "correctHiragana": "Graduation ceremony",
+            "alternatives": [
+                "Wedding",
+                "Engagement party"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "そば",
+            "correctHiragana": "Soba; Japanese buckwheat noodle",
+            "alternatives": [
+                "Map",
+                "Garden"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "ちず\n地図",
+            "correctHiragana": "Map",
+            "alternatives": [
+                "Battery",
+                "Garden"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "でんち\n電池",
+            "correctHiragana": "Battery",
+            "alternatives": [
+                "Garden",
+                "Tax"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "にわ\n庭",
+            "correctHiragana": "Garden",
+            "alternatives": [
+                "Map",
+                "Deadline"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "はっぴょう\n発表",
+            "correctHiragana": "Presentation",
+            "alternatives": [
+                "Broadcast program",
+                "Experience"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "ばんぐみ\n番組",
+            "correctHiragana": "Broadcast program",
+            "alternatives": [
+                "Presentation",
+                "Insurance"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "プール",
+            "correctHiragana": "Swimming pool",
+            "alternatives": [
+                "Billiards",
+                "Car pool"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "ペット",
+            "correctHiragana": "Pet",
+            "alternatives": [
+                "Hat",
+                "Bed"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "ほけん\n保険",
+            "correctHiragana": "Insurance",
+            "alternatives": [
+                "Schedule; plan",
+                "Presentation"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "よてい\n予定",
+            "correctHiragana": "Schedule; plan",
+            "alternatives": [
+                "Presentation",
+                "Japanese inn"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "りょかん\n旅館",
+            "correctHiragana": "Japanese inn",
+            "alternatives": [
+                "Discount Coupon",
+                "Broadcast program"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "わりびきけん\n割引券",
+            "correctHiragana": "Discount Coupon",
+            "alternatives": [
+                "Japanese inn",
+                "Presentation"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "ひろい\n広い",
+            "correctHiragana": "Spacious; wide",
+            "alternatives": [
+                "Cold",
+                "No good"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "うる\n売る",
+            "correctHiragana": "To sell",
+            "alternatives": [
+                "To buy",
+                "To chat"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "おろす\n下ろす",
+            "correctHiragana": "To withdraw (money)",
+            "alternatives": [
+                "To do one’s best; to try hard",
+                "To look for"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "かく\n描く",
+            "correctHiragana": "To draw; to paint",
+            "alternatives": [
+                "To sell",
+                "To send"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "さがす\n探す",
+            "correctHiragana": "To look for",
+            "alternatives": [
+                "To invite",
+                "To look into (a matter)"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "さそう\n誘う",
+            "correctHiragana": "To invite",
+            "alternatives": [
+                "To look for",
+                "To be visible"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "しゃべる",
+            "correctHiragana": "To chat",
+            "alternatives": [
+                "To buy insurance",
+                "To be cautious/careful"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "つきあう\n付き合う",
+            "correctHiragana": "1.To date (someone) 2.To keep company",
+            "alternatives": [
+                "To arrive",
+                "To come into existence; to be made"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "つく\n着く",
+            "correctHiragana": "To arrive",
+            "alternatives": [
+                "1.To date (someone) 2.To keep company",
+                "To draw; to paint"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "ほけんにはいる\n保険に入る",
+            "correctHiragana": "To buy insurance",
+            "alternatives": [
+                "To chat",
+                "To withdraw (money)"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "きをつける\n気をつける",
+            "correctHiragana": "To be cautious/careful",
+            "alternatives": [
+                "To do sightseeing",
+                "To reserve"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "しらべる\n調べる",
+            "correctHiragana": "To look into (a matter)",
+            "alternatives": [
+                "To be born",
+                "To get crowded"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "みえる\n見える",
+            "correctHiragana": "To be visible",
+            "alternatives": [
+                "To show",
+                "To choose; to select"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "かんこうする\n観光する",
+            "correctHiragana": "To do sightseeing",
+            "alternatives": [
+                "To lock",
+                "To explain"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "する",
+            "correctHiragana": "To decide on (an item)",
+            "alternatives": [
+                "To arrive",
+                "To be visible"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "そつぎょうする\n卒業する",
+            "correctHiragana": "To graduate (from…)",
+            "alternatives": [
+                "To reserve",
+                "To oversleep"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "よやくする\n予約する",
+            "correctHiragana": "To reserve",
+            "alternatives": [
+                "To graduate (from…)",
+                "To do sightseeing"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "いちにちじゅう\n一日中",
+            "correctHiragana": "All day long",
+            "alternatives": [
+                "The other day",
+                "What should one do"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "～けど",
+            "correctHiragana": "…, but; …, so",
+            "alternatives": [
+                "Well…; let me see…",
+                "Until"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "さいきん\n最近",
+            "correctHiragana": "Recently",
+            "alternatives": [
+                "From now on",
+                "Number…"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "～ばん\n～番",
+            "correctHiragana": "Number…",
+            "alternatives": [
+                "…times",
+                "As a matter in fact, …"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "～め\n～目",
+            "correctHiragana": "-th",
+            "alternatives": [
+                "…kilometers; …kilograms",
+                "Other"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "もういちど\nもう一度",
+            "correctHiragana": "One more time",
+            "alternatives": [
+                "About this much",
+                "Same"
+            ]
+        }
+    ]
+}

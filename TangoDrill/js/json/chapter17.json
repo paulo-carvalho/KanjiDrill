@@ -1,0 +1,531 @@
+{
+    "genkiBook": 2,
+    "chapter": 17,
+    "recommendedChapters": [
+        "16", "18", "19"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "じぶん\n自分",
+            "correctHiragana": "Oneself",
+            "alternatives": [
+                "Alone",
+                "Divided"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "ずいぶん",
+            "correctHiragana": "Very",
+            "alternatives": [
+                "Water pipe",
+                "Division"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "それに",
+            "correctHiragana": "Moreover",
+            "alternatives": [
+                "On the contrary",
+                "Therefore"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "にくらべて\n〜に比べて",
+            "correctHiragana": "Compared to...",
+            "alternatives": [
+                "On the contrary",
+                "In addition to"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "によると",
+            "correctHiragana": "According to...",
+            "alternatives": [
+                "Depending on",
+                "In addition to"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "うらやましい",
+            "correctHiragana": "Jealous, envious",
+            "alternatives": [
+                "Nostalgic",
+                "Annoying"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "すくない\n少ない",
+            "correctHiragana": "Little; few",
+            "alternatives": [
+                "Slender",
+                "Different"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "つよい\n強い",
+            "correctHiragana": "Strong",
+            "alternatives": [
+                "Rude",
+                "A lot of"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "ご主人",
+            "correctHiragana": "ごしゅじん",
+            "alternatives": [
+                "ごしゅうじん",
+                "ごしゅにん"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "おきゃくさん\nお客さん",
+            "correctHiragana": "Guest, visitor, client, customer",
+            "alternatives": [
+                "Master",
+                "Professor"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "おとこ\n男",
+            "correctHiragana": "Man",
+            "alternatives": [
+                "Cousin",
+                "Woman"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "おゆ\nお湯",
+            "correctHiragana": "Hot water",
+            "alternatives": [
+                "Hot tea",
+                "Teapot"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "かぎ",
+            "correctHiragana": "Keys",
+            "alternatives": [
+                "Umbrella",
+                "Purse"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "かみ\n紙",
+            "correctHiragana": "Paper",
+            "alternatives": [
+                "Hair",
+                "Keys"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "きゅうりょう\n給料",
+            "correctHiragana": "Salary",
+            "alternatives": [
+                "Tuition",
+                "Fare"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "コンタクト",
+            "correctHiragana": "Contact lenses",
+            "alternatives": [
+                "Telephone contact",
+                "Business contact"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "サラリーマン",
+            "correctHiragana": "Salaryman",
+            "alternatives": [
+                "Sorority member",
+                "Customer"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "ざんぎょう\n残業",
+            "correctHiragana": "Overtime work",
+            "alternatives": [
+                "Graduate school",
+                "Major"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "かじ\n火事",
+            "correctHiragana": "Fire",
+            "alternatives": [
+                "Key",
+                "Tuesday"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "たからくじ\n宝くじ",
+            "correctHiragana": "Lottery",
+            "alternatives": [
+                "Buildling",
+                "Customer"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "ちがい\n違い",
+            "correctHiragana": "Difference",
+            "alternatives": [
+                "Strong",
+                "Keys"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "ニュース",
+            "correctHiragana": "News",
+            "alternatives": [
+                "Nuisance",
+                "Newcomer"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "ひげ",
+            "correctHiragana": "Beard, facial hair",
+            "alternatives": [
+                "Goat",
+                "Eyebrow"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "ひみつ\n秘密",
+            "correctHiragana": "Secret",
+            "alternatives": [
+                "Need",
+                "Empty can"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "りょう\n寮",
+            "correctHiragana": "Dormitory",
+            "alternatives": [
+                "Quantity",
+                "Bill"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "りょこうがいしゃ\n旅行会社",
+            "correctHiragana": "Travel agency",
+            "alternatives": [
+                "Company worker",
+                "Airport"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "さいてい\n最低",
+            "correctHiragana": "The lowest; the worst ",
+            "alternatives": [
+                "The best",
+                "The last"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "おめでとうございます",
+            "correctHiragana": "Congratulations!",
+            "alternatives": [
+                "I'm sorry!",
+                "That's amazing!"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "そうか",
+            "correctHiragana": "I see.",
+            "alternatives": [
+                "Is that so?",
+                "Alright"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "たとえば\n例えば",
+            "correctHiragana": "For example",
+            "alternatives": [
+                "In comparison",
+                "After all"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "やっぱり",
+            "correctHiragana": "After all",
+            "alternatives": [
+                "For example",
+                "In addition to"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "まえ\n前",
+            "correctHiragana": "Before",
+            "alternatives": [
+                "Hour",
+                "Every"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "えらぶ\n選ぶ",
+            "correctHiragana": "To decide",
+            "alternatives": [
+                "To research",
+                "To compare"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "かみをとかす\nかみをとかす",
+            "correctHiragana": "To comb one's hair",
+            "alternatives": [
+                "To cut paper",
+                "To braid hair"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "おゆをわかす\nお湯をわかす",
+            "correctHiragana": "To boil water",
+            "alternatives": [
+                "To make a pot of tea",
+                "To empty a glass"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "こむ\n込む",
+            "correctHiragana": "To get crowded",
+            "alternatives": [
+                "To arrive",
+                "To be sufficient"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "たからくじにあたる\n宝くじに当たる",
+            "correctHiragana": "To win a lottery",
+            "alternatives": [
+                "To enter a building",
+                "To greet a customer"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "ぬぐ\n脱ぐ",
+            "correctHiragana": "To take off clothes",
+            "alternatives": [
+                "To research",
+                "To decide"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "ひげをそる",
+            "correctHiragana": "To shave beard",
+            "alternatives": [
+                "To pet a goat",
+                "To boil water"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "いれる",
+            "correctHiragana": "To make tea, coffee, etc",
+            "alternatives": [
+                "To get used to",
+                "To be sufficient"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "たりる\n足りる",
+            "correctHiragana": "To be sufficient",
+            "alternatives": [
+                "To compare",
+                "To decide"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "なれる\n慣れる",
+            "correctHiragana": "To get used to",
+            "alternatives": [
+                "To get crowded",
+                "To learn"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "けしょうする\n化粧する",
+            "correctHiragana": "To put on makeup",
+            "alternatives": [
+                "To wear small items",
+                "To work full time (at)"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "しゅうしょくする\n就職する",
+            "correctHiragana": "To work full time (at)",
+            "alternatives": [
+                "To divorce",
+                "To cook a meal"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "する",
+            "correctHiragana": "To wear (small items)",
+            "alternatives": [
+                "To give",
+                "To shave beard"
+            ]
+        },
+        {
+        	"id": 46,
+        	"kanji": "しゅしょう\n首相",
+        	"correctHiragana": "Prime Minister",
+        	"alternatives": [
+        		"Master",
+        		"Salary"
+        	]
+        },
+        {
+        	"id": 47,
+        	"kanji": "ショッピングモール",
+        	"correctHiragana": "Shopping Mall",
+        	"alternatives": [
+        		"Shopping bag",
+        		"Shopping spree"
+        	]
+        },
+        {
+        	"id": 48,
+        	"kanji": "スプーン",
+        	"correctHiragana": "Spoon",
+        	"alternatives": [
+        		"Siphon",
+        		"Shopping"
+        	]
+        },
+        {
+        	"id": 49,
+        	"kanji": "どうぶつえん\n動物園",
+        	"correctHiragana": "Zoo",
+        	"alternatives": [
+        		"Gymnasium",
+        		"Travel Agency"
+        	]
+        },
+        {
+        	"id": 50,
+        	"kanji": "パンダ",
+        	"correctHiragana": "Panda",
+        	"alternatives": [
+        		"Pander",
+        		"Ponder"
+        	]
+        },
+        {
+        	"id": 51,
+        	"kanji": "ヒーター",
+        	"correctHiragana": "Heater",
+        	"alternatives": [
+        		"Stove",
+        		"Hitter"
+        	]
+        },
+        {
+        	"id": 52,
+        	"kanji": "ブーツ",
+        	"correctHiragana": "Boots",
+        	"alternatives": [
+        		"Boost",
+        		"Boom"
+        	]
+        },
+        {
+        	"id": 53,
+        	"kanji": "あぶない\n危ない",
+        	"correctHiragana": "Dangerous",
+        	"alternatives": [
+        		"Safe",
+        		"Jealous"
+        	]
+        },
+        {
+        	"id": 54,
+        	"kanji": "うまれる\n生まれる",
+        	"correctHiragana": "To be born",
+        	"alternatives": [
+        		"To live",
+        		"To have a birthday party"
+        	]
+        },
+        {
+        	"id": 55,
+        	"kanji": "かぎをかける",
+        	"correctHiragana": "To lock",
+        	"alternatives": [
+        		"To lose keys",
+        		"To cut paper"
+        	]
+        },
+        {
+        	"id": 56,
+        	"kanji": "おいのりする\nお祈りする",
+        	"correctHiragana": "To pray",
+        	"alternatives": [
+        		"To look for a job",
+        		"To compare"
+        	]
+        },
+        {
+        	"id": 57,
+        	"kanji": "〜かなあ",
+        	"correctHiragana": "I wonder…",
+        	"alternatives": [
+        		"I see.",
+        		"Congratulations!"
+        	]
+        },
+        {
+            "id": 58,
+            "kanji": "りこんする\n離婚する",
+            "correctHiragana": "To divorce",
+            "alternatives": [
+                "To get crowded",
+                "To get used to"
+            ]
+        }
+	]
+}

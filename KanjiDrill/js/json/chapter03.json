@@ -1,0 +1,630 @@
+{
+    "genkiBook": 1,
+    "chapter": 3,
+    "recommendedChapters": [
+        "04", "05", "06"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "一",
+            "correctHiragana": "いち",
+            "alternatives": [
+                "いつ",
+                "ひとつ"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "一時",
+            "correctHiragana": "いちじ",
+            "alternatives": [
+                "いちとき",
+                "いっぷん"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "一年生",
+            "correctHiragana": "いちねんせい",
+            "alternatives": [
+                "いっとしせい",
+                "いっねんせい"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "一分",
+            "correctHiragana": "いっぷん",
+            "alternatives": [
+                "いちぶん",
+                "いっふん"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "一つ",
+            "correctHiragana": "ひとつ",
+            "alternatives": [
+                "いつ",
+                "ひとっつ"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "二",
+            "correctHiragana": "に",
+            "alternatives": [
+                "ふつ",
+                "ふたつ"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "二時",
+            "correctHiragana": "にじ",
+            "alternatives": [
+                "にとき",
+                "にっじ"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "二年生",
+            "correctHiragana": "にねんせい",
+            "alternatives": [
+                "ふとしせい",
+                "ふねんせい"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "二つ",
+            "correctHiragana": "ふたつ",
+            "alternatives": [
+                "にっつ",
+                "ふたっつ"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "二日間",
+            "correctHiragana": "ふつかかん",
+            "alternatives": [
+                "ににちあいだ",
+                "ふかかん"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "三",
+            "correctHiragana": "さん",
+            "alternatives": [
+                "さあん",
+                "みつ"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "三時",
+            "correctHiragana": "さんじ",
+            "alternatives": [
+                "みっじ",
+                "さんとき"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "三年生",
+            "correctHiragana": "さんねんせい",
+            "alternatives": [
+                "みとしせい",
+                "さんとしせい"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "三月",
+            "correctHiragana": "さんがつ",
+            "alternatives": [
+                "さんげつ",
+                "みっげつ"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "三つ",
+            "correctHiragana": "みっつ",
+            "alternatives": [
+                "さっつ",
+                "みつ"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "四",
+            "correctHiragana": "よん",
+            "alternatives": [
+                "し",
+                "ご"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "四時",
+            "correctHiragana": "よじ",
+            "alternatives": [
+                "よっじ",
+                "しとき"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "四年生",
+            "correctHiragana": "よねんせい",
+            "alternatives": [
+                "よんとしせい",
+                "しとしせい"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "四月",
+            "correctHiragana": "しがつ",
+            "alternatives": [
+                "よんがつ",
+                "しげつ"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "四つ",
+            "correctHiragana": "よっつ",
+            "alternatives": [
+                "しつ",
+                "よつ"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "五",
+            "correctHiragana": "ご",
+            "alternatives": [
+                "こ",
+                "いつ"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "五時",
+            "correctHiragana": "ごじ",
+            "alternatives": [
+                "ことき",
+                "こじ"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "五月",
+            "correctHiragana": "ごがつ",
+            "alternatives": [
+                "ごげつ",
+                "こげつ"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "五歳",
+            "correctHiragana": "ごさい",
+            "alternatives": [
+                "ごだい",
+                "ごけい"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "五つ",
+            "correctHiragana": "いつつ",
+            "alternatives": [
+                "ごつつ",
+                "いっつ"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "六",
+            "correctHiragana": "ろく",
+            "alternatives": [
+                "はち",
+                "しち"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "六時",
+            "correctHiragana": "ろくじ",
+            "alternatives": [
+                "ろくとき",
+                "るくじ"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "六百",
+            "correctHiragana": "ろっぴゃく",
+            "alternatives": [
+                "ろっびゃく",
+                "ろくひゃく"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "六分",
+            "correctHiragana": "ろっぷん",
+            "alternatives": [
+                "ろくぶん",
+                "ろくふん"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "六つ",
+            "correctHiragana": "むっつ",
+            "alternatives": [
+                "むつ",
+                "ろくつ"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "七",
+            "correctHiragana": "しち/なな",
+            "alternatives": [
+                "はち",
+                "し／く"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "七時",
+            "correctHiragana": "しちじ",
+            "alternatives": [
+                "ななじ",
+                "しちとき"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "七月",
+            "correctHiragana": "しちがつ",
+            "alternatives": [
+                "しちげつ",
+                "ななげつ"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "七つ",
+            "correctHiragana": "ななつ",
+            "alternatives": [
+                "はたつ",
+                "しちつ"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "七人",
+            "correctHiragana": "ななにん/しちにん",
+            "alternatives": [
+                "ななひと／しちひと",
+                "なっにん／しっにん"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "八",
+            "correctHiragana": "はち",
+            "alternatives": [
+                "ろく",
+                "しち"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "八時",
+            "correctHiragana": "はちじ",
+            "alternatives": [
+                "ろくじ",
+                "はじ"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "八百",
+            "correctHiragana": "はっぴゃく",
+            "alternatives": [
+                "はっびゃく",
+                "はちひゃく"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "八歳",
+            "correctHiragana": "はっさい",
+            "alternatives": [
+                "はちさい",
+                "はっざい"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "八つ",
+            "correctHiragana": "やっつ",
+            "alternatives": [
+                "はっつ",
+                "やつ"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "九",
+            "correctHiragana": "きゅう",
+            "alternatives": [
+                "きゆう",
+                "きゅ"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "九時",
+            "correctHiragana": "くじ",
+            "alternatives": [
+                "きゆじ",
+                "くっじ"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "九月",
+            "correctHiragana": "くがつ",
+            "alternatives": [
+                "くげつ",
+                "きゅうがつ"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "九歳",
+            "correctHiragana": "きゅうさい",
+            "alternatives": [
+                "くさい",
+                "きゅさい"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "九つ",
+            "correctHiragana": "ここのつ",
+            "alternatives": [
+                "くっつ",
+                "きゆつ"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "十",
+            "correctHiragana": "じゅう",
+            "alternatives": [
+                "じゆう",
+                "じゅ"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "十時",
+            "correctHiragana": "じゅうじ",
+            "alternatives": [
+                "じゆじ",
+                "とおじ"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "十月",
+            "correctHiragana": "じゅうがつ",
+            "alternatives": [
+                "じゅがつ",
+                "じゆげつ"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "十歳",
+            "correctHiragana": "じゅっさい／じっさい",
+            "alternatives": [
+                "じさい",
+                "じゅうさい"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "十",
+            "correctHiragana": "とお",
+            "alternatives": [
+                "とう",
+                "とおう"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "百",
+            "correctHiragana": "ひゃく",
+            "alternatives": [
+                "びゃく",
+                "ひやく"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "三百",
+            "correctHiragana": "さんびゃく",
+            "alternatives": [
+                "ざんびゃく",
+                "さんぴゃく"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "六百",
+            "correctHiragana": "ろっぴゃく",
+            "alternatives": [
+                "ろくひゃく",
+                "ろっびゃく"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "八百",
+            "correctHiragana": "はっぴゃく",
+            "alternatives": [
+                "はちひゃく",
+                "はっびゃく"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "千",
+            "correctHiragana": "せん",
+            "alternatives": [
+                "うし",
+                "まん"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "三千",
+            "correctHiragana": "さんぜん",
+            "alternatives": [
+                "さんせん",
+                "さんまん"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "八千",
+            "correctHiragana": "はっせん",
+            "alternatives": [
+                "はっぜん",
+                "はちせん"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "千円",
+            "correctHiragana": "せんえん",
+            "alternatives": [
+                "ぜんえん",
+                "せんまん"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "一万",
+            "correctHiragana": "いちまん",
+            "alternatives": [
+                "いっせん",
+                "いっまん"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "十万",
+            "correctHiragana": "じゅうまん",
+            "alternatives": [
+                "じゅうせん",
+                "じゅまん"
+            ]
+        },
+        {
+            "id": 61,
+            "kanji": "百万",
+            "correctHiragana": "ひゃくまん",
+            "alternatives": [
+                "ぴゃくまん",
+                "びゃくまん"
+            ]
+        },
+        {
+            "id": 62,
+            "kanji": "百円",
+            "correctHiragana": "ひゃくえん",
+            "alternatives": [
+                "びゃくえん",
+                "ひゃくっえん"
+            ]
+        },
+        {
+            "id": 63,
+            "kanji": "円",
+            "correctHiragana": "えん",
+            "alternatives": [
+                "よん",
+                "まるい"
+            ]
+        },
+        {
+            "id": 64,
+            "kanji": "円高",
+            "correctHiragana": "えんだか",
+            "alternatives": [
+                "えんたかい",
+                "まるたか"
+            ]
+        },
+        {
+            "id": 65,
+            "kanji": "円い",
+            "correctHiragana": "まるい",
+            "alternatives": [
+                "えんい",
+                "まろい"
+            ]
+        },
+        {
+            "id": 66,
+            "kanji": "一時",
+            "correctHiragana": "いちじ",
+            "alternatives": [
+                "いっとき",
+                "ひとつとき"
+            ]
+        },
+        {
+            "id": 67,
+            "kanji": "子どもの時",
+            "correctHiragana": "こどものとき",
+            "alternatives": [
+                "めどものじ",
+                "こどものじ"
+            ]
+        },
+        {
+            "id": 68,
+            "kanji": "時々",
+            "correctHiragana": "ときどき",
+            "alternatives": [
+                "じじ",
+                "ときとき"
+            ]
+        },
+        {
+            "id": 69,
+            "kanji": "時計",
+            "correctHiragana": "とけい",
+            "alternatives": [
+                "じけい",
+                "どけい"
+            ]
+        }
+    ]
+}

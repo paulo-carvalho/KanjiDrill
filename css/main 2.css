@@ -1,0 +1,66 @@
+/* CSS3 pseudo-element */
+::selection {
+	background: #ffbad2;
+}
+
+/* CSS score (0, 0, 1, 1) */
+body.lobby {
+	background-image: url('../img/wallpaper.jpg');
+	background-size: cover;
+}
+
+/* CSS score (0, 0, 2, 0) */
+.large-3 .overlay {
+	position: absolute;
+	opacity: 0;
+	top: 0px;
+	height: 100%;
+	width: 100%;
+	z-index: 2;
+}
+
+/* CSS score (0, 0, 1, 1) */
+form.chapter-form {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+/* CSS score (0, 0, 1, 1) */
+div.gueisha {
+    background-color: #e18097;
+	background-image: url('../img/gueisha_bg.png'), url('../img/sakura_bg.png');
+	background-repeat: no-repeat, repeat-x;
+	background-position: right bottom, center bottom;
+	background-size: contain, contain;
+}
+
+/* CSS Score (0, 0, 1, 0) */
+.progress {
+	height: 36px;
+}
+
+/* CSS Score (0, 0, 2, 0) */
+.progress .meter {
+	background-image: url('../img/ninja.png');
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: contain;
+}
+
+/* CSS score (0, 0, 1, 1) */
+i.music-volume {
+	cursor: pointer;
+}
+
+/* CSS score (0, 0, 0, 2) */
+form button {
+    border-width: 1px;
+}
+
+/* CSS score (0, 0, 1, 1) */
+.japanese-words {
+    display: inline-block;
+	word-break: keep-all;
+    word-wrap: normal;
+}

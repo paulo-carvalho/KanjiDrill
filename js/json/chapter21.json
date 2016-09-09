@@ -7,515 +7,546 @@
     "data": [
         {
             "id": 1,
-            "kanji": "信じる",
-            "correctHiragana": "しんじる",
+            "kanji": "あかちゃん",
+            "kanji": "赤ちゃん",
+            "correctHiragana": "Baby",
             "alternatives": [
-                "せんじる",
-                "めんじる"
+                "Red color",
+                "Little girl"
             ]
         },
         {
             "id": 2,
-            "kanji": "自信",
-            "correctHiragana": "じしん",
+            "kanji": "か",
+            "kanji": "蚊",
+            "correctHiragana": "Mosquito",
             "alternatives": [
-                "しんじ",
-                "しじん"
+                "Painting",
+                "Insect"
             ]
         },
         {
             "id": 3,
-            "kanji": "信号",
-            "correctHiragana": "しんごう",
+            "kanji": "かいぎ",
+            "kanji": "会議",
+            "correctHiragana": "Meeting",
             "alternatives": [
-                "じんこう",
-                "しんこう"
+                "Company",
+                "Company's employee"
             ]
         },
         {
             "id": 4,
-            "kanji": "迷信",
-            "correctHiragana": "めいしん",
+            "kanji": "ガソリン",
+            "correctHiragana": "Gasoline",
             "alternatives": [
-                "めいじん",
-                "ていしん"
+                "Gelatin",
+                "Oil"
             ]
         },
         {
             "id": 5,
-            "kanji": "経験",
-            "correctHiragana": "けいけん",
+            "kanji": "かんきょう",
+            "kanji": "環境",
+            "correctHiragana": "Environment",
             "alternatives": [
-                "けいげん",
-                "きょうけん"
+                "Relationship",
+                "Bridge"
             ]
         },
         {
             "id": 6,
-            "kanji": "経済",
-            "correctHiragana": "けいざい",
+            "kanji": "けいさつ",
+            "kanji": "警察",
+            "correctHiragana": "Police",
             "alternatives": [
-                "けいさい",
-                "きょうざい"
+                "Fireman",
+                "Military"
             ]
         },
         {
             "id": 7,
-            "kanji": "神経質",
-            "correctHiragana": "しんけいしつ",
+            "kanji": "こうじょう",
+            "kanji": "工場",
+            "correctHiragana": "Factory",
             "alternatives": [
-                "しんきょうしつ",
-                "じんけいしつ"
+                "Construction",
+                "Retailer"
             ]
         },
         {
             "id": 8,
-            "kanji": "経営学",
-            "correctHiragana": "けいえいがく",
+            "kanji": "こと",
+            "kanji": "事",
+            "correctHiragana": "Things; matters",
             "alternatives": [
-                "きょうえいがく",
-                "けいようがく"
+                "Meal; food",
+                "Five Degrees"
             ]
         },
         {
             "id": 9,
-            "kanji": "パリ経由",
-            "correctHiragana": "パリけいゆ",
+            "kanji": "しゅうでん",
+            "kanji": "終電",
+            "correctHiragana": "Last train",
             "alternatives": [
-                "パリきょうゆ",
-                "パリけいゆう"
+                "First train",
+                "Express train"
             ]
         },
         {
             "id": 10,
-            "kanji": "台風",
-            "correctHiragana": "たいふう",
+            "kanji": "じゅんび",
+            "kanji": "準備",
+            "correctHiragana": "Preparation",
             "alternatives": [
-                "だいふう",
-                "たいぶう"
+                "Presentation",
+                "Exposition"
             ]
         },
         {
             "id": 11,
-            "kanji": "二大",
-            "correctHiragana": "にだい",
+            "kanji": "スピーチ",
+            "correctHiragana": "Speech",
             "alternatives": [
-                "ふただい",
-                "まいたい"
+                "Screech",
+                "Reach"
             ]
         },
         {
             "id": 12,
-            "kanji": "台所",
-            "correctHiragana": "だいどころ",
+            "kanji": "せいふ",
+            "kanji": "政府",
+            "correctHiragana": "Government",
             "alternatives": [
-                "たいどころ",
-                "たいところ"
+                "Empire",
+                "Wallet"
             ]
         },
         {
             "id": 13,
-            "kanji": "お風呂",
-            "correctHiragana": "おふろ",
+            "kanji": "ちかん",
+            "correctHiragana": "Sexual Offender",
             "alternatives": [
-                "おぶろ",
-                "おふろう"
+                "Criminal",
+                "Thief"
             ]
         },
         {
             "id": 14,
-            "kanji": "和風",
-            "correctHiragana": "わふう",
+            "kanji": "どうりょう",
+            "kanji": "同僚",
+            "correctHiragana": "Colleague",
             "alternatives": [
-                "わぶう",
-                "わぷう"
+                "Manager",
+                "Employee"
             ]
         },
         {
             "id": 15,
-            "kanji": "風",
-            "correctHiragana": "かぜ",
+            "kanji": "どろぼう",
+            "kanji": "泥棒",
+            "correctHiragana": "Thief",
             "alternatives": [
-                "かせ",
-                "がぜ"
+                "Guard",
+                "Accomplice"
             ]
         },
         {
             "id": 16,
-            "kanji": "風邪をひく",
-            "correctHiragana": "かぜをひく",
+            "kanji": "バイト",
+            "correctHiragana": "Part time job",
             "alternatives": [
-                "ふうぜをひく",
-                "かせをひく"
+                "Bait",
+                "Bat"
             ]
         },
         {
             "id": 17,
-            "kanji": "犬",
-            "correctHiragana": "いぬ",
+            "kanji": "はんにん",
+            "kanji": "犯人",
+            "correctHiragana": "Criminal",
             "alternatives": [
-                "けん",
-                "げん"
+                "Thief",
+                "Sexual offender"
             ]
         },
         {
             "id": 18,
-            "kanji": "子犬",
-            "correctHiragana": "こいぬ",
+            "kanji": "ポスター",
+            "correctHiragana": "Poster",
             "alternatives": [
-                "こけん",
-                "しょういぬ"
+                "Roster",
+                "Mailbox"
             ]
         },
         {
             "id": 19,
-            "kanji": "番犬",
-            "correctHiragana": "ばんけん",
+            "kanji": "むかし",
+            "kanji": "昔",
+            "correctHiragana": "Old days; past",
             "alternatives": [
-                "ばんいぬ",
-                "べんけん"
+                "Presente days",
+                "Future days"
             ]
         },
         {
             "id": 20,
-            "kanji": "盲導犬",
-            "correctHiragana": "もうどうけん",
+            "kanji": "もんく",
+            "kanji": "文句",
+            "correctHiragana": "Complaint",
             "alternatives": [
-                "もうとうけん",
-                "もくどうけん"
+                "Sentence",
+                "Composition"
             ]
         },
         {
             "id": 21,
-            "kanji": "重い",
-            "correctHiragana": "おもい",
+            "kanji": "るす",
+            "kanji": "留守",
+            "correctHiragana": "Absence",
             "alternatives": [
-                "かさい",
-                "じゅうい"
+                "Attendance",
+                "Independence"
             ]
         },
         {
             "id": 22,
-            "kanji": "重ねる",
-            "correctHiragana": "かさねる",
+            "kanji": "とおい",
+            "kanji": "遠い",
+            "correctHiragana": "Far",
             "alternatives": [
-                "おもねる",
-                "じゅうねる"
+                "Close",
+                "Heavy"
             ]
         },
         {
             "id": 23,
-            "kanji": "体重",
-            "correctHiragana": "たいじゅう",
+            "kanji": "ひどい",
+            "correctHiragana": "Awful",
             "alternatives": [
-                "たいちゅう",
-                "だいじゅう"
+                "Nice",
+                "Spicy"
             ]
         },
         {
             "id": 24,
-            "kanji": "貴重品",
-            "correctHiragana": "きちょうひん",
+            "kanji": "あんぜん",
+            "kanji": "安全",
+            "correctHiragana": "Safe",
             "alternatives": [
-                "きじゅうひん",
-                "きちょうびん"
+                "Dangerous",
+                "Relief"
             ]
         },
         {
             "id": 25,
-            "kanji": "初めは",
-            "correctHiragana": "はじめは",
+            "kanji": "たいせつ",
+            "kanji": "大切",
+            "correctHiragana": "Precious",
             "alternatives": [
-                "はしめは",
-                "しょめは"
+                "Great",
+                "Gentle"
             ]
         },
         {
             "id": 26,
-            "kanji": "初めて",
-            "correctHiragana": "はじめて",
+            "kanji": "めちゃくちゃ",
+            "correctHiragana": "Messy",
             "alternatives": [
-                "はしめて",
-                "しょめて"
+                "Organized",
+                "Classy"
             ]
         },
         {
             "id": 27,
-            "kanji": "最初",
-            "correctHiragana": "さいしょ",
+            "kanji": "おく",
+            "kanji": "置く",
+            "correctHiragana": "To put; to lay; to place",
             "alternatives": [
-                "さいじょ",
-                "さいはつ"
+                "To cut",
+                "To bite"
             ]
         },
         {
             "id": 28,
-            "kanji": "初雪",
-            "correctHiragana": "はつゆき",
+            "kanji": "きがつく",
+            "kanji": "気が付く",
+            "correctHiragana": "To notice",
             "alternatives": [
-                "はじゆき",
-                "はつせつ"
+                "To correct",
+                "To embrace"
             ]
         },
         {
             "id": 29,
-            "kanji": "初恋",
-            "correctHiragana": "はつこい",
+            "kanji": "ける",
+            "correctHiragana": "To kick",
             "alternatives": [
-                "はつごい",
-                "はじこい"
+                "To strike; to hit",
+                "To block"
             ]
         },
         {
             "id": 30,
-            "kanji": "若い",
-            "correctHiragana": "わかい",
+            "kanji": "さす",
+            "kanji": "刺す",
+            "correctHiragana": "To bite",
             "alternatives": [
-                "ばかい",
-                "にゃくい"
+                "To step on",
+                "To lick"
             ]
         },
         {
             "id": 31,
-            "kanji": "若者",
-            "correctHiragana": "わかもの",
+            "kanji": "さわる",
+            "kanji": "触る",
+            "correctHiragana": "To touch",
             "alternatives": [
-                "ばかもの",
-                "じゃくしゃ"
+                "To force",
+                "To post; to stick"
             ]
         },
         {
             "id": 32,
-            "kanji": "若々しい",
-            "correctHiragana": "わかわかしい",
+            "kanji": "つかまる",
+            "kanji": "捕まる",
+            "correctHiragana": "To be arrested",
             "alternatives": [
-                "ばかばかしい",
-                "じゃくじゃくしい"
+                "To be noticed",
+                "To notice"
             ]
         },
         {
             "id": 33,
-            "kanji": "送る",
-            "correctHiragana": "おくる",
+            "kanji": "つつむ",
+            "kanji": "包む",
+            "correctHiragana": "To wrap; to cover",
             "alternatives": [
-                "そうる",
-                "おくれる"
+                "To unwrap; to unfold",
+                "To hide"
             ]
         },
         {
             "id": 34,
-            "kanji": "送金",
-            "correctHiragana": "そうきん",
+            "kanji": "なぐる",
+            "kanji": "殴る",
+            "correctHiragana": "To strike; to hit",
             "alternatives": [
-                "ぞうきん",
-                "そうぎん"
+                "To touch",
+                "To break"
             ]
         },
         {
             "id": 35,
-            "kanji": "送料",
-            "correctHiragana": "そうりょう",
+            "kanji": "ぬすむ",
+            "kanji": "盗む",
+            "correctHiragana": "To steal; to rob",
             "alternatives": [
-                "ぞうりょう",
-                "そうり"
+                "To give back; to return",
+                "To put back"
             ]
         },
         {
             "id": 36,
-            "kanji": "放送",
-            "correctHiragana": "ほうそう",
+            "kanji": "はる",
+            "kanji": "貼る",
+            "correctHiragana": "To post; to stick",
             "alternatives": [
-                "ぼうそう",
-                "ほうぞう"
+                "To step on",
+                "To separate"
             ]
         },
         {
             "id": 37,
-            "kanji": "回送電車",
-            "correctHiragana": "かいそうでんしゃ",
+            "kanji": "ふむ",
+            "kanji": "踏む",
+            "correctHiragana": "To step on",
             "alternatives": [
-                "かいぞうでんしゃ",
-                "かいりょうでんしゃ"
+                "To lay down; to rest",
+                "To be careful"
             ]
         },
         {
             "id": 38,
-            "kanji": "幸せな",
-            "correctHiragana": "しあわせな",
+            "kanji": "ふる",
+            "correctHiragana": "To turn down (someone); to reject",
             "alternatives": [
-                "こうせな",
-                "しあせな"
+                "To accept (someone)",
+                "To confess (someone)"
             ]
         },
         {
             "id": 39,
-            "kanji": "幸福な",
-            "correctHiragana": "こうふくな",
+            "kanji": "もんくをいう",
+            "kanji": "文句を言う",
+            "correctHiragana": "To complain",
             "alternatives": [
-                "こううんな",
-                "こうこうな"
+                "To notice",
+                "To be arrested"
             ]
         },
         {
             "id": 40,
-            "kanji": "幸運",
-            "correctHiragana": "こううん",
+            "kanji": "やく",
+            "kanji": "焼く",
+            "correctHiragana": "To bake; to burn; to grill",
             "alternatives": [
-                "こいふく",
-                "こうふく"
+                "To put; to lay; to place",
+                "To bite"
             ]
         },
         {
             "id": 41,
-            "kanji": "不幸",
-            "correctHiragana": "ふこう",
+            "kanji": "やる",
+            "correctHiragana": "To give (to pets, plants, younger siblings, etc.)",
             "alternatives": [
-                "ぶこう",
-                "ぶこう"
+                "To steal (to pets, plants, younger siblings, etc.)",
+                "To bring (to pets, plants, younger siblings, etc.)"
             ]
         },
         {
             "id": 42,
-            "kanji": "幸い",
-            "correctHiragana": "さいわい",
+            "kanji": "いじめる",
+            "correctHiragana": "To bully",
             "alternatives": [
-                "ざいわい",
-                "こうい"
+                "To begin",
+                "To complement"
             ]
         },
         {
             "id": 43,
-            "kanji": "時計",
-            "correctHiragana": "とけい",
+            "kanji": "きがえる",
+            "kanji": "着替える",
+            "correctHiragana": "To change clothes",
             "alternatives": [
-                "じけい",
-                "ときけい"
+                "To change one’s attitude",
+                "To change shoes"
             ]
         },
         {
             "id": 44,
-            "kanji": "計画",
-            "correctHiragana": "けいかく",
+            "kanji": "だめる",
+            "correctHiragana": "To save money",
             "alternatives": [
-                "けいが",
-                "けいがく"
+                "To spend money",
+                "To invest money"
             ]
         },
         {
             "id": 45,
-            "kanji": "合計",
-            "correctHiragana": "ごうけい",
+            "kanji": "つづける",
+            "kanji": "続ける",
+            "correctHiragana": "To continue",
             "alternatives": [
-                "こうけい",
-                "ごうかく"
+                "To end",
+                "To restart "
             ]
         },
         {
             "id": 46,
-            "kanji": "計る",
-            "correctHiragana": "はかる",
+            "kanji": "ほめる",
+            "correctHiragana": "To praise",
             "alternatives": [
-                "けいる",
-                "わかる"
+                "To insult",
+                "To bully"
             ]
         },
         {
             "id": 47,
-            "kanji": "遅れる",
-            "correctHiragana": "おくれる",
+            "kanji": "まちがえる",
+            "kanji": "間違える",
+            "correctHiragana": "To make a mistake",
             "alternatives": [
-                "おくられる",
-                "おそれる"
+                "To order something",
+                "To make a correction"
             ]
         },
         {
             "id": 48,
-            "kanji": "乗り遅れる",
-            "correctHiragana": "のりおくれる",
+            "kanji": "みつける",
+            "kanji": "見つける",
+            "correctHiragana": "To find",
             "alternatives": [
-                "のりおれる",
-                "のりおくられる"
+                "To encounter",
+                "To investigate"
             ]
         },
         {
             "id": 49,
-            "kanji": "遅い",
-            "correctHiragana": "おそい",
+            "kanji": "ばかにする",
+            "correctHiragana": "To insult",
             "alternatives": [
-                "おそくい",
-                "おくい"
+                "To complement",
+                "To complain"
             ]
         },
         {
             "id": 50,
-            "kanji": "遅刻する",
-            "correctHiragana": "ちこくする",
+            "kanji": "びっくりする",
+            "correctHiragana": "To be surprised",
             "alternatives": [
-                "おそこくする",
-                "ちそくする"
+                "To be embarrassed",
+                "To be tired"
             ]
         },
         {
             "id": 51,
-            "kanji": "心配な",
-            "correctHiragana": "しんぱいな",
+            "kanji": "ひるねをする",
+            "kanji": "昼寝をする",
+            "correctHiragana": "To take a nap",
             "alternatives": [
-                "しんはいな",
-                "じんぱいな"
+                "To take a walk",
+                "To take a rest"
             ]
         },
         {
             "id": 52,
-            "kanji": "配る",
-            "correctHiragana": "くばる",
+            "kanji": "れんらくする",
+            "kanji": "連絡する",
+            "correctHiragana": "To contact",
             "alternatives": [
-                "はいる",
-                "くれる"
+                "To connect",
+                "To compare"
             ]
         },
         {
             "id": 53,
-            "kanji": "配達",
-            "correctHiragana": "はいたつ",
+            "kanji": "―あいだに",
+            "kanji": "―間に",
+            "correctHiragana": "While",
             "alternatives": [
-                "ぱいたつ",
-                "はいだつ"
+                "Before",
+                "After"
             ]
         },
         {
             "id": 54,
-            "kanji": "宅配便",
-            "correctHiragana": "たくはいびん",
+            "kanji": "ころ",
+            "correctHiragana": "Time of; when",
             "alternatives": [
-                "たくぱいびん",
-                "たくはいぴん"
+                "Things; matter",
+                "About"
             ]
         },
         {
             "id": 55,
-            "kanji": "弟",
-            "correctHiragana": "おとうと",
+            "kanji": "すこし",
+            "kanji": "少し",
+            "correctHiragana": "A little",
             "alternatives": [
-                "おとおと",
-                "おとと"
+                "A lot",
+                "An instant"
             ]
         },
         {
             "id": 56,
-            "kanji": "姉妹",
-            "correctHiragana": "しまい",
+            "kanji": "とにかく",
+            "correctHiragana": "Anyway; anyhow",
             "alternatives": [
-                "じまい",
-                "まいし"
-            ]
-        },
-        {
-            "id": 57,
-            "kanji": "姉妹校",
-            "correctHiragana": "しまいこう",
-            "alternatives": [
-                "じまいこう",
-                "まいしこう"
+                "Everyone; all the people",
+                "Every place"
+            
             ]
         }
     ]

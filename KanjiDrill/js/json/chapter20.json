@@ -1,0 +1,567 @@
+{
+    "genkiBook": 2,
+    "chapter": 20,
+    "recommendedChapters": [
+        "19", "21", "22"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "皿",
+            "correctHiragana": "さら",
+            "alternatives": [
+                "さる",
+                "めざら"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "紙皿",
+            "correctHiragana": "かみざら",
+            "alternatives": [
+                "かみさら",
+                "がみざら"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "灰皿",
+            "correctHiragana": "はいざら",
+            "alternatives": [
+                "らいさら",
+                "はいさら"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "声",
+            "correctHiragana": "こえ",
+            "alternatives": [
+                "おと",
+                "ごめ"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "音声学",
+            "correctHiragana": "おんせいがく",
+            "alternatives": [
+                "おとこえかく",
+                "おんごえがく"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "擬声語",
+            "correctHiragana": "ぎせいご",
+            "alternatives": [
+                "ぎせいわ",
+                "ぎこえご"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "声優",
+            "correctHiragana": "せいゆう",
+            "alternatives": [
+                "せいじゅう",
+                "こえゆう"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "お茶",
+            "correctHiragana": "おちゃ",
+            "alternatives": [
+                "おきゃ",
+                "おしゃ"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "茶店",
+            "correctHiragana": "ちゃみせ",
+            "alternatives": [
+                "しゃみせ",
+                "ちゃてん"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "紅茶",
+            "correctHiragana": "こうちゃ",
+            "alternatives": [
+                "とうちゃ",
+                "もんちゃ"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "茶色",
+            "correctHiragana": "ちゃいろ",
+            "alternatives": [
+                "しゃいろ",
+                "きんいろ"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "喫茶店",
+            "correctHiragana": "きっさてん",
+            "alternatives": [
+                "おちゃみせ",
+                "こうちゃてん"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "止まる",
+            "correctHiragana": "とまる",
+            "alternatives": [
+                "しまる",
+                "せいまる"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "中止する",
+            "correctHiragana": "ちゅうしする",
+            "alternatives": [
+                "なかとする",
+                "ちゅうとする"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "禁止する",
+            "correctHiragana": "きんしする",
+            "alternatives": [
+                "きんとする",
+                "だんしする"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "一枚",
+            "correctHiragana": "いちまい",
+            "alternatives": [
+                "いっせい",
+                "いちだい"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "枚数",
+            "correctHiragana": "まいすう",
+            "alternatives": [
+                "まいずう",
+                "たいすう"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "三両",
+            "correctHiragana": "さんりょう",
+            "alternatives": [
+                "みつりょう",
+                "さんりゅう"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "両親",
+            "correctHiragana": "りょうしん",
+            "alternatives": [
+                "りゅうしん",
+                "りょしん"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "両手",
+            "correctHiragana": "りょうて",
+            "alternatives": [
+                "りょで",
+                "りゅうて"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "両替",
+            "correctHiragana": "りょうがえ",
+            "alternatives": [
+                "りょうざ",
+                "りょうげん"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "両方",
+            "correctHiragana": "りようほう",
+            "alternatives": [
+                "りょうせん",
+                "りょうが"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "無理な",
+            "correctHiragana": "むりな",
+            "alternatives": [
+                "ないりな",
+                "のりな"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "無駄な",
+            "correctHiragana": "むだな",
+            "alternatives": [
+                "むりな",
+                "むりょうな"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "無料",
+            "correctHiragana": "むりょう",
+            "alternatives": [
+                "むり",
+                "むれい"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "無礼な",
+            "correctHiragana": "ぶれいな",
+            "alternatives": [
+                "むりょうな",
+                "むりな"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "無い",
+            "correctHiragana": "ない",
+            "alternatives": [
+                "むい",
+                "まい"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "払う",
+            "correctHiragana": "はらう",
+            "alternatives": [
+                "わらう",
+                "かう"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "支払",
+            "correctHiragana": "しはらい",
+            "alternatives": [
+                "しばらい",
+                "そはらい"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "払い戻し",
+            "correctHiragana": "はらいもどし",
+            "alternatives": [
+                "はらいめし",
+                "はらいどし"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "心",
+            "correctHiragana": "こころ",
+            "alternatives": [
+                "ところ",
+                "ごころ"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "心配する",
+            "correctHiragana": "しんぱいする",
+            "alternatives": [
+                "かんぱいする",
+                "しんはいする"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "熱心な",
+            "correctHiragana": "ねっしんな",
+            "alternatives": [
+                "あんしんな",
+                "ふあんな"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "安心な",
+            "correctHiragana": "あんしんな",
+            "alternatives": [
+                "ねっしんな",
+                "ふあんな"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "好奇心",
+            "correctHiragana": "こうきしん",
+            "alternatives": [
+                "ききしん",
+                "だいきしん"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "笑う",
+            "correctHiragana": "わらう",
+            "alternatives": [
+                "はらう",
+                "かう"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "笑顔",
+            "correctHiragana": "えがお",
+            "alternatives": [
+                "わらかお",
+                "えかお"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "微笑む",
+            "correctHiragana": "ほほえむ",
+            "alternatives": [
+                "ほわらむ",
+                "ははえむ"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "爆笑する",
+            "correctHiragana": "ばくしょうする",
+            "alternatives": [
+                "ばくしゅうする",
+                "ぼくわらいする"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "絶対に",
+            "correctHiragana": "ぜったいに",
+            "alternatives": [
+                "さっかいに",
+                "せったいに"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "絶える",
+            "correctHiragana": "たえる",
+            "alternatives": [
+                "こたえる",
+                "かんがえる"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "絶滅",
+            "correctHiragana": "ぜつめつ",
+            "alternatives": [
+                "たいせつ",
+                "ぜつめい"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "気絶する",
+            "correctHiragana": "きぜつする",
+            "alternatives": [
+                "けぜつする",
+                "ぜつめつする"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "絶望",
+            "correctHiragana": "ぜつぼう",
+            "alternatives": [
+                "ぜつめつ",
+                "せつほう"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "反対する",
+            "correctHiragana": "はんたいする",
+            "alternatives": [
+                "かんぱいする",
+                "はんついする"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "日本対中国",
+            "correctHiragana": "にほんたいちゅうごく",
+            "alternatives": [
+                "にほんかいちゅうごく",
+                "にほんだいちゅうこく"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "一対",
+            "correctHiragana": "いっつい",
+            "alternatives": [
+                "いっだい",
+                "いちたい"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "痛い",
+            "correctHiragana": "いたい",
+            "alternatives": [
+                "いがい",
+                "いまい"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "痛み止め",
+            "correctHiragana": "いたみどめ",
+            "alternatives": [
+                "かいみとめ",
+                "いだみとめ"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "頭痛",
+            "correctHiragana": "ずつう",
+            "alternatives": [
+                "ずとう",
+                "ずいた"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "腹痛",
+            "correctHiragana": "ふくつう",
+            "alternatives": [
+                "ようつう",
+                "ふぐいた"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "腰痛",
+            "correctHiragana": "ようつう",
+            "alternatives": [
+                "ふくつう",
+                "よいた"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "最悪",
+            "correctHiragana": "さいあく",
+            "alternatives": [
+                "さいしん",
+                "さいきん"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "最近",
+            "correctHiragana": "さいきん",
+            "alternatives": [
+                "さいこう",
+                "さいしん"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "最高",
+            "correctHiragana": "さいこう",
+            "alternatives": [
+                "さいとう",
+                "さいきん"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "最新",
+            "correctHiragana": "さいしん",
+            "alternatives": [
+                "さいきん",
+                "さいあく"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "最後に",
+            "correctHiragana": "さいごに",
+            "alternatives": [
+                "さいこうに",
+                "さいきんに"
+            ]
+        },
+        {
+            "id": 58,
+            "kanji": "最も",
+            "correctHiragana": "もっとも",
+            "alternatives": [
+                "もとも",
+                "もうとも"
+            ]
+        },
+        {
+            "id": 59,
+            "kanji": "続ける",
+            "correctHiragana": "つづける",
+            "alternatives": [
+                "あずける",
+                "つつける"
+            ]
+        },
+        {
+            "id": 60,
+            "kanji": "手続き",
+            "correctHiragana": "てつづき",
+            "alternatives": [
+                "てづき",
+                "てっづき"
+            ]
+        },
+        {
+            "id": 61,
+            "kanji": "相続する",
+            "correctHiragana": "そうぞくする",
+            "alternatives": [
+                "そうつづけする",
+                "そっそくする"
+            ]
+        },
+        {
+            "id": 62,
+            "kanji": "連続ドラマ",
+            "correctHiragana": "れんぞくドラマ",
+            "alternatives": [
+                "こんそくドラマ",
+                "どんぞくドラマ"
+            ]
+        }
+    ]
+}

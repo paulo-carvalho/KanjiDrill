@@ -1,0 +1,504 @@
+{
+    "genkiBook": 2,
+    "chapter": 22,
+    "recommendedChapters": [
+        "20", "21", "23"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "あいて\n相手",
+            "correctHiragana": "Partner",
+            "alternatives": [
+                "Rival",
+                "Helper"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "うけつけ\n受付",
+            "correctHiragana": "Reception desk",
+            "alternatives": [
+                "Main office",
+                "Security station"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "えいかいわ\n英会話",
+            "correctHiragana": "English conversation",
+            "alternatives": [
+                "English composition",
+                "English lecture"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "おじょうさん\nお嬢さん",
+            "correctHiragana": "Someone’s daughter (polite)",
+            "alternatives": [
+                "Someone’s niece  (polite)",
+                "Someone’s wife (polite)"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "かじ\n家事",
+            "correctHiragana": "Household matters",
+            "alternatives": [
+                "Key",
+                "Fire"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "かぜ\n風",
+            "correctHiragana": "Wind",
+            "alternatives": [
+                "Blizzard",
+                "Key"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "かみさま\n神様",
+            "correctHiragana": "God",
+            "alternatives": [
+                "Goddess",
+                "Emperor"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "き\n木",
+            "correctHiragana": "Tree",
+            "alternatives": [
+                "Book",
+                "Spirit"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "こうはい\n後輩",
+            "correctHiragana": "Junior member",
+            "alternatives": [
+                "Senior member",
+                "Elder person"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "さる\n猿",
+            "correctHiragana": "Monkey",
+            "alternatives": [
+                "Fox",
+                "Deer"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "じゆう\n自由",
+            "correctHiragana": "Freedom",
+            "alternatives": [
+                "Reason",
+                "Season"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "じゅく\n塾",
+            "correctHiragana": "Cram school",
+            "alternatives": [
+                "Freedom",
+                "Document"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "しょるい\n書類",
+            "correctHiragana": "Document",
+            "alternatives": [
+                "Essay",
+                "Resume"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "せんぱい\n先輩",
+            "correctHiragana": "Senior member",
+            "alternatives": [
+                "Junior member",
+                "Coordinator"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "ひとりぐらし\n一人暮らし",
+            "correctHiragana": "Living alone",
+            "alternatives": [
+                "Single",
+                "Living in the city"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "ぶか\n部下",
+            "correctHiragana": "Subordinate",
+            "alternatives": [
+                "Colleague",
+                "Senior member"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "ふくしゅう\n復習",
+            "correctHiragana": "Review of a lesson",
+            "alternatives": [
+                "Preparation of lessons",
+                "Review of resume"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "プロジェクト",
+            "correctHiragana": "Project",
+            "alternatives": [
+                "Protection",
+                "Preservation"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "ボール",
+            "correctHiragana": "Ball",
+            "alternatives": [
+                "Goal",
+                "Mall"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "むだづかい\n無駄遣い",
+            "correctHiragana": "Waste (Money)",
+            "alternatives": [
+                "Save (Money)",
+                "Invest (Money)"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "めんきょ",
+            "correctHiragana": "License",
+            "alternatives": [
+                "Contract",
+                "Agreement"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "ヨーロッパ",
+            "correctHiragana": "Europe",
+            "alternatives": [
+                "Euphoria",
+                "Project"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "よしゅう\n予習",
+            "correctHiragana": "Preparation of lessons",
+            "alternatives": [
+                "Preparation of documents",
+                "Review of a lesson"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "うるさい",
+            "correctHiragana": "Noisy; annoying",
+            "alternatives": [
+                "Lively",
+                "Crowded"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "しんぱい\n心配",
+            "correctHiragana": "Worried about",
+            "alternatives": [
+                "Interested about",
+                "Poor"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "びんぼう\n貧乏",
+            "correctHiragana": "Poor",
+            "alternatives": [
+                "Tall",
+                "Worried about"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "ぺらぺら",
+            "correctHiragana": "Fluent",
+            "alternatives": [
+                "Worried about",
+                "Flexible"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "へん\n変",
+            "correctHiragana": "Strange",
+            "alternatives": [
+                "Usual; common",
+                "Complex"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "らく\n楽",
+            "correctHiragana": "Easy; comfortable",
+            "alternatives": [
+                "Harsh; uncomfortable",
+                "Noisy"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "かぜがふく\n風が吹く",
+            "correctHiragana": "The wind blows",
+            "alternatives": [
+                "To make a photocopy",
+                "To make a plan"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "かつ\n勝つ",
+            "correctHiragana": "To win",
+            "alternatives": [
+                "To run",
+                "To fail"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "コピーをとる\nコピーを取る",
+            "correctHiragana": "To make a photocopy",
+            "alternatives": [
+                "To pick up (something)",
+                "To oppose; to object"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "はこぶ\n運ぶ",
+            "correctHiragana": "To carry",
+            "alternatives": [
+                "To run",
+                "To translate"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "はしる\n走る",
+            "correctHiragana": "To run",
+            "alternatives": [
+                "To win",
+                "To agree"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "ひろう\n拾う",
+            "correctHiragana": "To pick up (something)",
+            "alternatives": [
+                "To oppose; to object",
+                "To make a photocopy"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "ほ（う）っておく\n放っておく",
+            "correctHiragana": "To leave (someone / something) alone",
+            "alternatives": [
+                "The wind blows",
+                "To carry"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "まにあう\n間に合う",
+            "correctHiragana": "To be in time",
+            "alternatives": [
+                "To make a plan",
+                "To stay up all night"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "けいかくをたてる\n計画を立てる",
+            "correctHiragana": "To make a plan",
+            "alternatives": [
+                "To carry",
+                "To raise; bring up"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "そだてる\n育てる",
+            "correctHiragana": "To raise; bring up",
+            "alternatives": [
+                "To be in time",
+                "To make a photocopy"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "たすける\n助ける",
+            "correctHiragana": "To help; To rescue",
+            "alternatives": [
+                "To pray for help",
+                "To oppose; to object"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "まける\n負ける",
+            "correctHiragana": "To lose (a match)",
+            "alternatives": [
+                "To oppose; to object",
+                "To run"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "おねがいする\nお願いする",
+            "correctHiragana": "To pray for help",
+            "alternatives": [
+                "To raise; bring up",
+                "To stay up all night"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "さんせいする\n賛成する",
+            "correctHiragana": "To agree",
+            "alternatives": [
+                "To carry",
+                "To oppose; to object"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "しっぱいする\n失敗する",
+            "correctHiragana": "To fail",
+            "alternatives": [
+                "To help; To rescue",
+                "To lose (a match)"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "てつやする\n徹夜する",
+            "correctHiragana": "To stay up all night",
+            "alternatives": [
+                "To carry",
+                "To oppose; to object"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "はんたいする\n反対する",
+            "correctHiragana": "To oppose; to object",
+            "alternatives": [
+                "To win",
+                "To raise; bring up"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "ほんやくする\n翻訳する",
+            "correctHiragana": "To translate",
+            "alternatives": [
+                "To be in time",
+                "To fail"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "こんなふう",
+            "correctHiragana": "Like this",
+            "alternatives": [
+                "Like that",
+                "Unlike this"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "じゆうに\n自由に",
+            "correctHiragana": "Freely",
+            "alternatives": [
+                "Conspicuously",
+                "Friendly"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "ずっと",
+            "correctHiragana": "For a long time; all the time",
+            "alternatives": [
+                "For a short period",
+                "For many days"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "ぜったいに\n絶対に",
+            "correctHiragana": "Definitely",
+            "alternatives": [
+                "Freely",
+                "Possibly"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "そんなこと（は）ない",
+            "correctHiragana": "I don’t think so",
+            "alternatives": [
+                "I agree with",
+                "I am not sure"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "〜とか",
+            "correctHiragana": "...for example",
+            "alternatives": [
+                "Like this",
+                "...as result"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "なんども\n何度も",
+            "correctHiragana": "Many times",
+            "alternatives": [
+                "A few days",
+                "Many events"
+            ]
+        },    
+        {
+            "id": 55,
+            "kanji": "もうすこし\nもう少し",
+            "correctHiragana": "A little more",
+            "alternatives": [
+                "For a long time; all the time",
+                "Like this"
+            ]
+        }
+    ]
+}

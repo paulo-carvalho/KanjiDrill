@@ -1,0 +1,468 @@
+{
+    "genkiBook": 1,
+    "chapter": 6,
+    "recommendedChapters": [
+        "05", "07", "08"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "おかね\nお金",
+            "correctHiragana": "Money",
+            "alternatives": [
+                "Bath",
+                "Baggage"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "おふろ\nお風呂",
+            "correctHiragana": "Bath",
+            "alternatives": [
+                "Night",
+                "This week"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "かんじ\n漢字",
+            "correctHiragana": "Kanji; Chinese character",
+            "alternatives": [
+                "Money",
+                "Electricity"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "きょうかしょ\n教科書",
+            "correctHiragana": "Textbook",
+            "alternatives": [
+                "Municipal Hospital",
+                "Next week"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "こんしゅう\n今週",
+            "correctHiragana": "This week",
+            "alternatives": [
+                "Next week",
+                "Next year"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "シーディー",
+            "correctHiragana": "CD",
+            "alternatives": [
+                "Personal computer",
+                "Window"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "しみんびょういん\n市民病院",
+            "correctHiragana": "Municipal Hospital",
+            "alternatives": [
+                "Textbook",
+                "Train"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "シャワー",
+            "correctHiragana": "Shower",
+            "alternatives": [
+                "CD",
+                "Page"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "つぎ\n次",
+            "correctHiragana": "Next",
+            "alternatives": [
+                "Night",
+                "Electricity"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "でんき\n電気",
+            "correctHiragana": "Electricity",
+            "alternatives": [
+                "Train",
+                "Kanji"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "でんしゃ\n電車",
+            "correctHiragana": "Train",
+            "alternatives": [
+                "Electricity",
+                "Municipal Hospital"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "にもつ\n荷物",
+            "correctHiragana": "Baggage",
+            "alternatives": [
+                "Bath",
+                "Next"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "パソコン",
+            "correctHiragana": "Personal computer",
+            "alternatives": [
+                "Shower",
+                "CD"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "ページ",
+            "correctHiragana": "Page",
+            "alternatives": [
+                "Shower",
+                "Personal computer"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "まど\n窓",
+            "correctHiragana": "Window",
+            "alternatives": [
+                "Night",
+                "Next"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "よる\n夜",
+            "correctHiragana": "Night",
+            "alternatives": [
+                "Window",
+                "Bath"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "らいしゅう\n来週",
+            "correctHiragana": "Next week",
+            "alternatives": [
+                "Next year",
+                "This week"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "らいねん\n来年",
+            "correctHiragana": "Next year",
+            "alternatives": [
+                "Next week",
+                "This week"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "たいへん\n大変",
+            "correctHiragana": "Tough (situation)",
+            "alternatives": [
+                "Right away",
+                "Later on"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "あそぶ\n遊ぶ",
+            "correctHiragana": "To play; to spend time pleasantly",
+            "alternatives": [
+                "To hurry",
+                "To sit down"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "いそぐ\n急ぐ",
+            "correctHiragana": "To hurry",
+            "alternatives": [
+                "To return (things)",
+                "To die"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "おふろにはいる\nお風呂に入る",
+            "correctHiragana": "To take a bath",
+            "alternatives": [
+                "To smoke",
+                "To enter"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "かえす\n返す",
+            "correctHiragana": "To return (things)",
+            "alternatives": [
+                "To be absent (from...); to rest",
+                "To turn off; to erase"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "けす\n消す",
+            "correctHiragana": "To turn off; to erase",
+            "alternatives": [
+                "To die",
+                "To stand up"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "しぬ\n死ぬ",
+            "correctHiragana": "To die",
+            "alternatives": [
+                "To turn off; to erase",
+                "To carry; to hold"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "すわる\n座る",
+            "correctHiragana": "To sit down",
+            "alternatives": [
+                "To enter",
+                "To return (things)"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "たつ\n立つ",
+            "correctHiragana": "To stand up",
+            "alternatives": [
+                "To carry; to hold",
+                "To use"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "たばこをすう\nたばこを吸う",
+            "correctHiragana": "To smoke",
+            "alternatives": [
+                "To take a bath",
+                "To enter"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "つかう\n使う",
+            "correctHiragana": "To use",
+            "alternatives": [
+                "To help",
+                "To carry; to hold"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "てつだう\n手伝う",
+            "correctHiragana": "To help",
+            "alternatives": [
+                "To smoke",
+                "To take a bath"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "はいる\n入る",
+            "correctHiragana": "To enter",
+            "alternatives": [
+                "To sit down",
+                "To play; to spend time pleasantly"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "もつ\n持つ",
+            "correctHiragana": "To carry; to hold",
+            "alternatives": [
+                "To use",
+                "To die"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "やすむ\n休む",
+            "correctHiragana": "To be absent (from...); to rest",
+            "alternatives": [
+                "To turn off; to erase",
+                "To sit down"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "あける\n開ける",
+            "correctHiragana": "To open (something)",
+            "alternatives": [
+                "To close (something)",
+                "To get off"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "おしえる\n教える",
+            "correctHiragana": "To teach; to instruct",
+            "alternatives": [
+                "To get off",
+                "To borrow"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "おりる\n降りる",
+            "correctHiragana": "To get off",
+            "alternatives": [
+                "To teach; to instruct",
+                "To open (something)"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "かりる\n借りる",
+            "correctHiragana": "To borrow",
+            "alternatives": [
+                "To get off",
+                "To turn on"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "しめる\n閉める",
+            "correctHiragana": "To close (something)",
+            "alternatives": [
+                "To teach; to instruct",
+                "To get off"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "シャワーをあびる",
+            "correctHiragana": "To take a shower",
+            "alternatives": [
+                "To make a phone call",
+                "To forget; to leave behind"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "つける",
+            "correctHiragana": "To turn on",
+            "alternatives": [
+                "To open (something)",
+                "To get off"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "でんわをかける\n電話をかける",
+            "correctHiragana": "To make a phone call",
+            "alternatives": [
+                "To take a shower",
+                "To forget; to leave behind"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "わすれる\n忘れる",
+            "correctHiragana": "To forget; to leave behind",
+            "alternatives": [
+                "To make a phone call",
+                "To take a shower"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "つれてくる\n連れてくる",
+            "correctHiragana": "To bring (a person)",
+            "alternatives": [
+                "To bring (a thing)",
+                "To forget; to leave behind"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "もってくる\n持ってくる",
+            "correctHiragana": "To bring (a thing)",
+            "alternatives": [
+                "To bring (a person)",
+                "To make a phone call"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "あとで\n後で",
+            "correctHiragana": "Later on",
+            "alternatives": [
+                "(do something) late",
+                "Right away"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "おそく\n遅く",
+            "correctHiragana": "(do something) late",
+            "alternatives": [
+                "Slowly; leisurely; unhurriedly",
+                "Right away"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "〜から",
+            "correctHiragana": "Because...",
+            "alternatives": [
+                "Really?",
+                "(do something) late"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "けっこうです\n結構です",
+            "correctHiragana": "That would be fine.; That wouldn't be necessary.",
+            "alternatives": [
+                "Really?",
+                "Later on"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "すぐ",
+            "correctHiragana": "Right away",
+            "alternatives": [
+                "Because...",
+                "Slowly; leisurely; unhurriedly"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "ほんとうですか\n本当ですか",
+            "correctHiragana": "Really?",
+            "alternatives": [
+                "That would be fine.; That wouldn't be necessary.",
+                "Because..."
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "ゆっくり",
+            "correctHiragana": "Slowly; leisurely; unhurriedly",
+            "alternatives": [
+                "(Do something) late",
+                "Right away"
+            ]
+        }
+    ]
+}

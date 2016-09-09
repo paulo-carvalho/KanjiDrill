@@ -1,0 +1,522 @@
+{
+    "genkiBook": 2,
+    "chapter": 13,
+    "recommendedChapters": [
+        "12", "15", "16"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "ウェイター",
+            "correctHiragana": "Waiter",
+            "alternatives": [
+                "Water",
+                "Wait"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "おたく\nお宅",
+            "correctHiragana": "(someone’s) house/home",
+            "alternatives": [
+                "Anime Fan",
+                "Nerd"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "おとな\n大人",
+            "correctHiragana": "Adult",
+            "alternatives": [
+                "Elderly",
+                "Child"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "がいこくご\n外国語",
+            "correctHiragana": "Foreign language",
+            "alternatives": [
+                "Korean",
+                "Chinese"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "がっき\n楽器",
+            "correctHiragana": "Musical instrument",
+            "alternatives": [
+                "Guitar",
+                "(Consumer) prices"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "からて\n空手",
+            "correctHiragana": "Karate",
+            "alternatives": [
+                "Martial Arts",
+                "Ninja"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "カレー",
+            "correctHiragana": "Curry",
+            "alternatives": [
+                "Carry",
+                "Boyfriend"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "きもの\n着物",
+            "correctHiragana": "Kimono; Japanese traditional dress",
+            "alternatives": [
+                "Party dress",
+                "Clothes"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "こうこく\n広告",
+            "correctHiragana": "Advertisement",
+            "alternatives": [
+                "High School",
+                "Black tea"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "こうちゃ\n紅茶",
+            "correctHiragana": "Tea (black tea)",
+            "alternatives": [
+                "Toy",
+                "Advertisement"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "ことば\n言葉",
+            "correctHiragana": "Language",
+            "alternatives": [
+                "Example",
+                "Lesson"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "ゴルフ",
+            "correctHiragana": "Golf",
+            "alternatives": [
+                "Gulf",
+                "Goal"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "セーター",
+            "correctHiragana": "Sweater",
+            "alternatives": [
+                "Sweat",
+                "Seater"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "ぞう\n象",
+            "correctHiragana": "Elephant",
+            "alternatives": [
+                "Fox",
+                "Shop"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "バイオリン",
+            "correctHiragana": "Violin",
+            "alternatives": [
+                "Violate",
+                "Violet"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "バイク",
+            "correctHiragana": "Motorcycle",
+            "alternatives": [
+                "Bicycle",
+                "Scooter"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "ぶっか\n物価",
+            "correctHiragana": "(Consumer) prices",
+            "alternatives": [
+                "Fan",
+                "Musical Instrument"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "ぶんぽう\n文法",
+            "correctHiragana": "Grammar",
+            "alternatives": [
+                "Chapter",
+                "Vocabulary"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "べんごし\n弁護士",
+            "correctHiragana": "Lawyer",
+            "alternatives": [
+                "Office Worker",
+                "Doctor"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "ぼしゅう\n募集",
+            "correctHiragana": "Recruitment",
+            "alternatives": [
+                "(Consumer) prices",
+                "Retirement"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "みせ\n店",
+            "correctHiragana": "Shop; store",
+            "alternatives": [
+                "Lake",
+                "Manager"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "やくざ",
+            "correctHiragana": "Yakuza; gangster",
+            "alternatives": [
+                "Promise",
+                "Shop owner"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "やくそく\n約束",
+            "correctHiragana": "Promise; appointment",
+            "alternatives": [
+                "(Consumer) prices",
+                "Gangster"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "レポート",
+            "correctHiragana": "(Term) paper",
+            "alternatives": [
+                "Report Card",
+                "Resort"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "わたくし\n私",
+            "correctHiragana": "I (formal)",
+            "alternatives": [
+                "I (casual)",
+                "My family"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "うれしい",
+            "correctHiragana": "Glad",
+            "alternatives": [
+                "Sad",
+                "Strict"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "かなしい\n悲しい",
+            "correctHiragana": "Sad",
+            "alternatives": [
+                "Strict",
+                "Glad"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "からい\n辛い",
+            "correctHiragana": "Hot and spicy; salty",
+            "alternatives": [
+                "Close; near",
+                "Bright"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "きびしい\n厳しい",
+            "correctHiragana": "Strict",
+            "alternatives": [
+                "Sad",
+                "Glad"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "すごい",
+            "correctHiragana": "Incredible; awesome",
+            "alternatives": [
+                "Cool",
+                "Close; near"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "ちかい\n近い",
+            "correctHiragana": "Close; near",
+            "alternatives": [
+                "Hot and spicy; salty",
+                "Strict"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "いろいろ",
+            "correctHiragana": "Various; different kinds of",
+            "alternatives": [
+                "Colorfull",
+                "Curious"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "しあわせ\n幸せ",
+            "correctHiragana": "Happy (lasting happiness)",
+            "alternatives": [
+                "Upset",
+                "Angry"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "だめ",
+            "correctHiragana": "No good",
+            "alternatives": [
+                "Stop",
+                "Important"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "あむ\n編む",
+            "correctHiragana": "To knit",
+            "alternatives": [
+                "To cry",
+                "To give (to others)"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "かす\n貸す",
+            "correctHiragana": "To lend; to rent",
+            "alternatives": [
+                "To knit",
+                "To come into existence; to be made"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "がんばる\n頑張る",
+            "correctHiragana": "To do one’s best; to try hard",
+            "alternatives": [
+                "To be moved/touched",
+                "To consult"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "なく\n泣く",
+            "correctHiragana": "To cry",
+            "alternatives": [
+                "To lend; to rent",
+                "To knit"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "みがく\n磨く",
+            "correctHiragana": "To brush (teeth); to polish",
+            "alternatives": [
+                "To send",
+                "To give (to others)"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "やくそくをまもる\n約束を守る",
+            "correctHiragana": "To keep a promise",
+            "alternatives": [
+                "To do one’s best; to try hard",
+                "To look good"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "かんどうする\n感動する",
+            "correctHiragana": "To be moved/touched (by…)",
+            "alternatives": [
+                "To propose marriage",
+                "To do one’s best; to try hard"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "いらっしゃいます",
+            "correctHiragana": "(someone honorable) is present/home",
+            "alternatives": [
+                "To welcome someone when they come into a store",
+                "Have a nice day"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "～かい\n～回",
+            "correctHiragana": "…times",
+            "alternatives": [
+                "…shoes",
+                "…cups"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "～キロ",
+            "correctHiragana": "…kilometers; …kilograms",
+            "alternatives": [
+                "…floor",
+                "…months"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "じつは\n実は",
+            "correctHiragana": "As a matter of fact…",
+            "alternatives": [
+                "For example…",
+                "Listen here…"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "ぜんぶ\n全部",
+            "correctHiragana": "All",
+            "alternatives": [
+                "Never",
+                "Really"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "～ともうします\n～と申します",
+            "correctHiragana": "My name is…",
+            "alternatives": [
+                "Welcome to…",
+                "My number is…"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "いちにち\n一日",
+            "correctHiragana": "One day",
+            "alternatives": [
+                "First week",
+                "First month"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "ふつか\n二日",
+            "correctHiragana": "Two days",
+            "alternatives": [
+                "Second week",
+                "Two months"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "みっか\n三日",
+            "correctHiragana": "Three days",
+            "alternatives": [
+                "Third week",
+                "Three months"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "よっか\n四日",
+            "correctHiragana": "Four days",
+            "alternatives": [
+                "Fourth week",
+                "Four months"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "いつか\n五日",
+            "correctHiragana": "Five days",
+            "alternatives": [
+                "Fifth week",
+                "Five months"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "むいか\n六日",
+            "correctHiragana": "Six days",
+            "alternatives": [
+                "Sixth week",
+                "Six months"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "なのか\n七日",
+            "correctHiragana": "Seven days",
+            "alternatives": [
+                "Seventh week",
+                "Seven months"
+            ]
+        },
+        {
+            "id": 55,
+            "kanji": "ようか\n八日",
+            "correctHiragana": "Eight days",
+            "alternatives": [
+                "Eighth week",
+                "Eight months"
+            ]
+        },
+        {
+            "id": 56,
+            "kanji": "ここのか\n九日",
+            "correctHiragana": "Nine days",
+            "alternatives": [
+                "Ninth week",
+                "Nine months"
+            ]
+        },
+        {
+            "id": 57,
+            "kanji": "とおか\n十日",
+            "correctHiragana": "Ten days",
+            "alternatives": [
+                "Tenth week",
+                "Ten months"
+            ]
+        }
+    ]
+}

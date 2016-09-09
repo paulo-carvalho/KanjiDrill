@@ -1,0 +1,954 @@
+{
+    "genkiBook": 2,
+    "chapter": 4,
+    "recommendedChapters": [
+        "3 - 7", "8 - 12", "13 - 18"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "いらっしゃる\nHonorific expression for 行く、来る and いる",
+            "correctHiragana": "いらっしゃって",
+            "alternatives": [
+                "いらっしゃるて",
+                "いらっしゃりて"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "おくる\n送る\nTo walk/drive (someone) (person wo place made)",
+            "correctHiragana": "送って",
+            "alternatives": [
+                "送るて",
+                "送りて"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "おこる\n怒る\nTo get angry",
+            "correctHiragana": "怒って",
+            "alternatives": [
+                "怒りて",
+                "怒て"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "おっしゃる\nHonorific expression for 言う",
+            "correctHiragana": "おっしゃって",
+            "alternatives": [
+                "おっしゃるて",
+                "おっしゃりて"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "おやすみになる\nお休みになる\nHonorific expression for ねる",
+            "correctHiragana": "お休みになって",
+            "alternatives": [
+                "お休みになるて",
+                "お休みになて"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "きまる\n決まる\nTo be decided",
+            "correctHiragana": "決まって",
+            "alternatives": [
+                "決まるて",
+                "決まて"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "くださる\n下さる\nHonorific expression for くれる",
+            "correctHiragana": "下さって",
+            "alternatives": [
+                "下さりて",
+                "下さて"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "ごらんになる\nご覧になる\nHonorific expression for 見る",
+            "correctHiragana": "ご覧になって",
+            "alternatives": [
+                "ご覧になるて",
+                "ご覧になて"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "しりあう\n知り合う\nTo get acquainted with",
+            "correctHiragana": "知り合って",
+            "alternatives": [
+                "知り合うて",
+                "知り合て"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "～ていらっしゃる\nHonorific expression for ~ている",
+            "correctHiragana": "～ていらっしゃって",
+            "alternatives": [
+                "～ていらっしゃるて",
+                "～ていらっしゃて"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "なさる\nHonorific expression for する",
+            "correctHiragana": "なさって",
+            "alternatives": [
+                "なさるて",
+                "なさて"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "ひっこす\n引っ越す\nTo move (to another place to live)",
+            "correctHiragana": "引っ越して",
+            "alternatives": [
+                "引っ越って",
+                "引っ越すて"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "めしあがる\n召し上がる\nHonorific expression for 食べる and 飲む",
+            "correctHiragana": "召し上がって",
+            "alternatives": [
+                "召し上がるて",
+                "召し上がて"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "よぶ\n呼ぶ\nTo call (one’s name); to invite (person wo invite ni)",
+            "correctHiragana": "呼んで",
+            "alternatives": [
+                "呼ぶて",
+                "呼て"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "よる\n寄る\nTo stop by",
+            "correctHiragana": "寄って",
+            "alternatives": [
+                "寄りて",
+                "寄て"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "おくれる\n遅れる\nTo become late",
+            "correctHiragana": "遅れて",
+            "alternatives": [
+                "遅れって",
+                "遅れるて"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "かける\nTo sit down",
+            "correctHiragana": "かけて",
+            "alternatives": [
+                "かけって",
+                "かけりて"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "はれる\n晴れる\nTo become sunny",
+            "correctHiragana": "晴れて",
+            "alternatives": [
+                "晴れって",
+                "晴れるて"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "もてる\nTo be popular (in terms of romantic interest)",
+            "correctHiragana": "もてて",
+            "alternatives": [
+                "もてって",
+                "もてるて"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "えんりょする\n遠慮する\nTo hold back for the time being; to refrain from",
+            "correctHiragana": "遠慮して",
+            "alternatives": [
+                "遠慮すて",
+                "遠慮しって"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "ごちそうする\nTo treat/invite (someone) to a meal",
+            "correctHiragana": "ごちそうして",
+            "alternatives": [
+                "ごちそうすて",
+                "ごちそうしって"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "しょうたいする\n招待する\nTo invite someone (to an event/a place)",
+            "correctHiragana": "招待して",
+            "alternatives": [
+                "招待すて",
+                "招待しって"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "ちゅういする\n注意する\nTo watch out; to give a warning",
+            "correctHiragana": "注意して",
+            "alternatives": [
+                "注意すて",
+                "注意しって"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "はなしをする\n話をする\nTo have a talk",
+            "correctHiragana": "話をして",
+            "alternatives": [
+                "話をしりて",
+                "話をしって"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "いたす\n致す\nExtra-modest expression for する",
+            "correctHiragana": "致して",
+            "alternatives": [
+                "致すて",
+                "致って"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "いただく\n頂く\nExtra-modest expression for 食べる and 飲む",
+            "correctHiragana": "頂いて",
+            "alternatives": [
+                "頂きて",
+                "頂って"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "いただく\n頂く\nHumble expression for もらう",
+            "correctHiragana": "頂いて",
+            "alternatives": [
+                "頂て",
+                "頂って"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "うかがう\n伺う\nTo humbly visit; to humbly ask",
+            "correctHiragana": "伺って",
+            "alternatives": [
+                "伺うて",
+                "伺いて"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "おる\nExtra-modest expression for いる",
+            "correctHiragana": "おって",
+            "alternatives": [
+                "おるて",
+                "おて"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "ござる\nExtra-modest expression for ある",
+            "correctHiragana": "ござって",
+            "alternatives": [
+                "ござるて",
+                "ござて"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "〜ておる\nExtra-modest expression for ~ている",
+            "correctHiragana": "〜ておって",
+            "alternatives": [
+                "〜ておるて",
+                "〜ておて"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "〜でござる\nExtra-modest expression for です",
+            "correctHiragana": "〜でござって",
+            "alternatives": [
+                "〜でござるて",
+                "〜でござりて"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "まいる\n参る\nExtra-modest expression for 行く and 来る",
+            "correctHiragana": "参って",
+            "alternatives": [
+                "参るて",
+                "参て"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "まがる\n曲がる\nTo turn (right/left)",
+            "correctHiragana": "曲がって",
+            "alternatives": [
+                "曲がりて",
+                "曲がて"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "もうす\n申す\nExtra-modest expression for 言う",
+            "correctHiragana": "申して",
+            "alternatives": [
+                "申すて",
+                "申って"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "もどる\n戻る\nTo return; to come back",
+            "correctHiragana": "戻って",
+            "alternatives": [
+                "戻るて",
+                "戻て"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "きこえる\n聞こえる\nTo be audible",
+            "correctHiragana": "聞こえて",
+            "alternatives": [
+                "聞こえるて",
+                "聞こえって"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "さしあげる\n差し上げる\nHumble expression for あげる",
+            "correctHiragana": "差し上げて",
+            "alternatives": [
+                "差し上げるて",
+                "差し上げって"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "つたえる\n伝える\nTo convey (message)",
+            "correctHiragana": "伝えて",
+            "alternatives": [
+                "待たせるて",
+                "待たせって"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "こうかんする\n交換する\nTo exchange (X to Y wo)",
+            "correctHiragana": "交換して",
+            "alternatives": [
+                "交換すて",
+                "交換すって"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "せいかつする\n生活する\nTo lead a life",
+            "correctHiragana": "生活して",
+            "alternatives": [
+                "生活するて",
+                "生活しって"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "へんぴんする\n返品する\nTo return (merchandise)",
+            "correctHiragana": "返品して",
+            "alternatives": [
+                "返品すて",
+                "返品すって"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "きがつく\n気が付く\nTo notice",
+            "correctHiragana": "気が付いて",
+            "alternatives": [
+                "気が付けて",
+                "気が付って"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "ける\nTo kick",
+            "correctHiragana": "けって",
+            "alternatives": [
+                "けるて",
+                "けりて"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "さす\n刺す\nTo bite",
+            "correctHiragana": "刺して",
+            "alternatives": [
+                "刺て",
+                "刺って"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "さわる\n触る\nTo touch",
+            "correctHiragana": "触って",
+            "alternatives": [
+                "触るて",
+                "触て"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "つかまる\n捕まる\nTo be arrested",
+            "correctHiragana": "捕まって",
+            "alternatives": [
+                "捕まるて",
+                "捕まて"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "なぐる\n殴る\nTo strike; to hit",
+            "correctHiragana": "殴って",
+            "alternatives": [
+                "殴るて",
+                "殴りて"
+            ]
+        },
+        {
+            "id": 49,
+            "kanji": "つつむ\n包む\nTo wrap; to cover",
+            "correctHiragana": "包んで",
+            "alternatives": [
+                "包みて",
+                "包って"
+            ]
+        },
+        {
+            "id": 50,
+            "kanji": "ぬすむ\n盗む\nTo steal; to rob",
+            "correctHiragana": "盗んで",
+            "alternatives": [
+                "盗て",
+                "盗って"
+            ]
+        },
+        {
+            "id": 51,
+            "kanji": "はる\n貼る\nTo post; to stick",
+            "correctHiragana": "貼って",
+            "alternatives": [
+                "貼るて",
+                "貼りて"
+            ]
+        },
+        {
+            "id": 52,
+            "kanji": "ふむ\n踏む\nTo step on",
+            "correctHiragana": "踏んで",
+            "alternatives": [
+                "踏て",
+                "踏って"
+            ]
+        },
+        {
+            "id": 53,
+            "kanji": "ふる\nTo turn down (someone); to reject",
+            "correctHiragana": "ふって",
+            "alternatives": [
+                "ふるて",
+                "ふて"
+            ]
+        },
+        {
+            "id": 54,
+            "kanji": "もんくをいう\n文句を言う\nTo complain",
+            "correctHiragana": "文句を言って",
+            "alternatives": [
+                "文句を言て",
+                "文句を言いて"
+            ]
+        }, 
+        {
+            "id": 55,
+            "kanji": "やく\n焼く\nTo bake; to burn; to grill",
+            "correctHiragana": "焼いて",
+            "alternatives": [
+                "焼て",
+                "焼って"
+            ]
+        },   
+        {
+            "id": 56,
+            "kanji": "やる\nTo give (to pets, plants, younger siblings, etc.)",
+            "correctHiragana": "やって",
+            "alternatives": [
+                "やるて",
+                "やて"
+            ]
+        },   
+        {
+            "id": 57,
+            "kanji": "いじめる\nTo bully",
+            "correctHiragana": "いじめて",
+            "alternatives": [
+                "いじめるて",
+                "いじめって"
+            ]
+        }, 
+        {
+            "id": 58,
+            "kanji": "きがえる\n着替える\nTo change clothes",
+            "correctHiragana": "着替えて",
+            "alternatives": [
+                "着替えるて",
+                "着替えって"
+            ]
+        }, 
+        {
+            "id": 59,
+            "kanji": "ためる\nTo save money",
+            "correctHiragana": "ためて",
+            "alternatives": [
+                "ためりて",
+                "ためって"
+            ]
+        }, 
+        {
+            "id": 60,
+            "kanji": "つづける\n続ける\nTo continue",
+            "correctHiragana": "続けて",
+            "alternatives": [
+                "続けるて",
+                "続けって"
+            ]
+        }, 
+        {
+            "id": 61,
+            "kanji": "ほめる\nTo praise",
+            "correctHiragana": "ほめて",
+            "alternatives": [
+                "ほめりて",
+                "ほめって"
+            ]
+        }, 
+        {
+            "id": 62,
+            "kanji": "まちがえる\n間違える\nTo make a mistake",
+            "correctHiragana": "間違えて",
+            "alternatives": [
+                "間違えりて",
+                "間違えって"
+            ]
+        }, 
+        {
+            "id": 63,
+            "kanji": "みつける\n見つける\nTo find",
+            "correctHiragana": "見つけて",
+            "alternatives": [
+                "見つけるて",
+                "見つけって"
+            ]
+        }, 
+        {
+            "id": 64,
+            "kanji": "ばかにする\nTo insult",
+            "correctHiragana": "ばかにして",
+            "alternatives": [
+                "ばかにすて",
+                "ばかにしって"
+            ]
+        }, 
+        {
+            "id": 65,
+            "kanji": "びっくりする\nTo be surprised",
+            "correctHiragana": "びっくりして",
+            "alternatives": [
+                "びっくりするて",
+                "びっくりしって"
+            ]
+        }, 
+        {
+            "id": 66,
+            "kanji": "ひるねをする\n昼寝をする\nTo take a nap",
+            "correctHiragana": "昼寝をして",
+            "alternatives": [
+                "昼寝をすて",
+                "昼寝をしって"
+            ]
+        },  
+        {
+            "id": 67,
+            "kanji": "れんらくする\n連絡する\nTo contact",
+            "correctHiragana": "連絡して",
+            "alternatives": [
+                "連絡するて",
+                "連絡しって"
+            ]
+        },  
+        {
+            "id": 68,
+            "kanji": "かぜがふく\n風が吹く\nThe wind blows",
+            "correctHiragana": "風が吹いて",
+            "alternatives": [
+                "風が吹て",
+                "風が吹って"
+            ]
+        },      
+        {
+            "id": 69,
+            "kanji": "かつ\n勝つ\nTo win",
+            "correctHiragana": "勝って",
+            "alternatives": [
+                "勝て",
+                "勝ちて"
+            ]
+        },      
+        {
+            "id": 70,
+            "kanji": "コピーをとる\nコピーを取る\nTo make a photocopy",
+            "correctHiragana": "コピーを取って",
+            "alternatives": [
+                "コピーを取るて",
+                "コピーを取て"
+            ]
+        },      
+        {
+            "id": 71,
+            "kanji": "はこぶ\n運ぶ\nTo carry",
+            "correctHiragana": "運んで",
+            "alternatives": [
+                "運びて",
+                "運っで"
+            ]
+        },      
+        {
+            "id": 72,
+            "kanji": "はしる\n走る\nTo run",
+            "correctHiragana": "走って",
+            "alternatives": [
+                "走るて",
+                "走て"
+            ]
+        },      
+        {
+            "id": 73,
+            "kanji": "ひろう\n拾う\nTo pick up (something)",
+            "correctHiragana": "拾って",
+            "alternatives": [
+                "拾て",
+                "拾いて"
+            ]
+        },      
+        {
+            "id": 74,
+            "kanji": "ほ（う）っておく\n放っておく\nTo leave (someone / something) alone",
+            "correctHiragana": "放っておいて",
+            "alternatives": [
+                "放っておて",
+                "放っておって"
+            ]
+        },      
+        {
+            "id": 75,
+            "kanji": "まにあう\n間に合う\nTo be in time",
+            "correctHiragana": "間に合って",
+            "alternatives": [
+                "間に合て",
+                "間に合いて"
+            ]
+        },      
+        {
+            "id": 76,
+            "kanji": "けいかくをたてる\n計画を立てる\nTo make a plan",
+            "correctHiragana": "計画を立てて",
+            "alternatives": [
+                "計画を立てるて",
+                "計画を立てって"
+            ]
+        },      
+        {
+            "id": 77,
+            "kanji": "そだてる\n育てる\nTo raise; bring up",
+            "correctHiragana": "育てて",
+            "alternatives": [
+                "育てるて",
+                "育てって"
+            ]
+        },      
+        {
+            "id": 78,
+            "kanji": "たすける\n助ける\nTo help; To rescue",
+            "correctHiragana": "助けて",
+            "alternatives": [
+                "助けりて",
+                "助けって"
+            ]
+        },      
+        {
+            "id": 79,
+            "kanji": "まける\n負ける\nTo loose (a match)",
+            "correctHiragana": "負けて",
+            "alternatives": [
+                "負けるて",
+                "負けって"
+            ]
+        },      
+        {
+            "id": 80,
+            "kanji": "おねがいする\nお願いする\nTo pray for help",
+            "correctHiragana": "お願いして",
+            "alternatives": [
+                "お願いすて",
+                "お願いしって"
+            ]
+        },      
+        {
+            "id": 81,
+            "kanji": "さんせいする\n賛成する\nTo agree",
+            "correctHiragana": "賛成して",
+            "alternatives": [
+                "賛成しりて",
+                "賛成しって"
+            ]
+        },      
+        {
+            "id": 82,
+            "kanji": "しっぱいする\n失敗する\nTo fail",
+            "correctHiragana": "失敗して",
+            "alternatives": [
+                "失敗するて",
+                "失敗しって"
+            ]
+        },      
+        {
+            "id": 83,
+            "kanji": "てつやする\n徹夜する\nTo stay up all night",
+            "correctHiragana": "徹夜して",
+            "alternatives": [
+                "徹夜すて",
+                "徹夜しって"
+            ]
+        },      
+        {
+            "id": 84,
+            "kanji": "はんたいする\n反対する\nTo oppose; to object",
+            "correctHiragana": "反対して",
+            "alternatives": [
+                "反対するて",
+                "反対しって"
+            ]
+        },      
+        {
+            "id": 85,
+            "kanji": "ほんやくする\n翻訳する\nTo translate",
+            "correctHiragana": "翻訳して",
+            "alternatives": [
+                "翻訳しりて",
+                "翻訳しって"
+            ]
+        },  
+        {
+            "id": 86,
+            "kanji": "あめがやむ\n雨がやむ\nThe rain stops",
+            "correctHiragana": "雨がやんで",
+            "alternatives": [
+                "雨がやんて",
+                "雨がやみて"
+            ]
+        },        
+        {
+            "id": 87,
+            "kanji": "いなくなる\n(Someone) is gone; to disappear",
+            "correctHiragana": "いなくなって",
+            "alternatives": [
+                "いなくなるて",
+                "いなくなて"
+            ]
+        },        
+        {
+            "id": 88,
+            "kanji": "おせわになる\nお世話になる\nTo be in someone’s care",
+            "correctHiragana": "お世話になって",
+            "alternatives": [
+                "お世話になりて",
+                "お世話になて"
+            ]
+        },        
+        {
+            "id": 89,
+            "kanji": "おなかをこわす\nTo have stomachache",
+            "correctHiragana": "おなかをこわして",
+            "alternatives": [
+                "おなかをこわて",
+                "おなかをこわしって"
+            ]
+        },        
+        {
+            "id": 90,
+            "kanji": "きにいる\n気に入る\nTo find something agreeable",
+            "correctHiragana": "気に入って",
+            "alternatives": [
+                "気に入るて",
+                "気に入て"
+            ]
+        },        
+        {
+            "id": 91,
+            "kanji": "ちがう\n違う\nTo be different; wrong",
+            "correctHiragana": "違って",
+            "alternatives": [
+                "違て",
+                "違いて"
+            ]
+        },        
+        {
+            "id": 92,
+            "kanji": "なくなる\nTo be lost; to disappear",
+            "correctHiragana": "なくなって",
+            "alternatives": [
+                "なくなるて",
+                "なくなて"
+            ]
+        },        
+        {
+            "id": 93,
+            "kanji": "わるぐちをいう\n悪口を言う\nTo talk behind someone’s back",
+            "correctHiragana": "悪口を言って",
+            "alternatives": [
+                "悪口を言て",
+                "悪口を言いて"
+            ]
+        },        
+        {
+            "id": 94,
+            "kanji": "うける\n受ける\nTo take (an examination, interview, etc.)",
+            "correctHiragana": "受けて",
+            "alternatives": [
+                "受けるて",
+                "受けって"
+            ]
+        },        
+        {
+            "id": 95,
+            "kanji": "かえる\n換える\nTo change",
+            "correctHiragana": "換えて",
+            "alternatives": [
+                "換えりて",
+                "換えって"
+            ]
+        },        
+        {
+            "id": 96,
+            "kanji": "こたえる\n答える\nTo answer",
+            "correctHiragana": "答えて",
+            "alternatives": [
+                "答えるて",
+                "答えって"
+            ]
+        },        
+        {
+            "id": 97,
+            "kanji": "はなれる\n離れる\n(Something/someone) separates; parts from",
+            "correctHiragana": "離れて",
+            "alternatives": [
+                "離れりて",
+                "離れって"
+            ]
+        },        
+        {
+            "id": 98,
+            "kanji": "～かおをする\n～顔をする\nTo look … (facial expression)",
+            "correctHiragana": "～顔をして",
+            "alternatives": [
+                "～顔をすて",
+                "～顔をしって"
+            ]
+        },        
+        {
+            "id": 99,
+            "kanji": "がっかりする\nTo be disappointed",
+            "correctHiragana": "がっかりして",
+            "alternatives": [
+                "がっかりすりて",
+                "がっかりしって"
+            ]
+        },        
+        {
+            "id": 100,
+            "kanji": "がまんする\n我慢する\nTo be tolerant/patient",
+            "correctHiragana": "我慢して",
+            "alternatives": [
+                "我慢すて",
+                "我慢しって"
+            ]
+        },        
+        {
+            "id": 101,
+            "kanji": "せわをする\n世話をする\nTo take care of…",
+            "correctHiragana": "世話をして",
+            "alternatives": [
+                "世話をすりて",
+                "世話をしって"
+            ]
+        },        
+        {
+            "id": 102,
+            "kanji": "どうじょうする\n同情する\nTo sympathize",
+            "correctHiragana": "同情して",
+            "alternatives": [
+                "同情するて",
+                "同情しって"
+            ]
+        },        
+        {
+            "id": 103,
+            "kanji": "パンクする\n(Tire) goes flat",
+            "correctHiragana": "パンクして",
+            "alternatives": [
+                "パンクすて",
+                "パンクしって"
+            ]
+        },        
+        {
+            "id": 104,
+            "kanji": "もどってくる\n戻ってくる\n(Something/someone) comes back",
+            "correctHiragana": "戻ってきて",
+            "alternatives": [
+                "戻ってくるて",
+                "戻ってきって"
+            ]
+        },                
+        {
+            "id": 105,
+            "kanji": "ゆうしょうする\n優勝する\nTo win a championship",
+            "correctHiragana": "優勝して",
+            "alternatives": [
+                "優勝するて",
+                "優勝しって"
+            ]
+        }
+    ]
+}

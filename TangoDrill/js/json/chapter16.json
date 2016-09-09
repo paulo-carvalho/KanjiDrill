@@ -1,0 +1,442 @@
+{
+    "genkiBook": 2,
+    "chapter": 16,
+    "recommendedChapters": [
+        "15", "17", "18"
+    ],
+    "data": [
+        {
+            "id": 1,
+            "kanji": "えきいん（さん)\n駅員",
+            "correctHiragana": "Station attendant",
+            "alternatives": [
+                "Parent",
+                "Landlord"
+            ]
+        },
+        {
+            "id": 2,
+            "kanji": "おおきさ\n大きさ",
+            "correctHiragana": "Size",
+            "alternatives": [
+                "Alarm clock",
+                "Big"
+            ]
+        },
+        {
+            "id": 3,
+            "kanji": "おや\n親",
+            "correctHiragana": "Parent",
+            "alternatives": [
+                "Station attendant",
+                "Relatives"
+            ]
+        },
+        {
+            "id": 4,
+            "kanji": "きまつしけん\n期末試験",
+            "correctHiragana": "Final examination",
+            "alternatives": [
+                "Scholarship",
+                "Salary"
+            ]
+        },
+        {
+            "id": 5,
+            "kanji": "けんきゅう\n研究",
+            "correctHiragana": "Research",
+            "alternatives": [
+                "Letter of recommendation",
+                "Graduate school"
+            ]
+        },
+        {
+            "id": 6,
+            "kanji": "ごみ",
+            "correctHiragana": "Garbage",
+            "alternatives": [
+                "Sugar",
+                "Day"
+            ]
+        },
+        {
+            "id": 7,
+            "kanji": "さとう\n砂糖",
+            "correctHiragana": "Sugar",
+            "alternatives": [
+                "Garbage",
+                "Plate; dish"
+            ]
+        },
+        {
+            "id": 8,
+            "kanji": "しょうがくきん\n奨学金",
+            "correctHiragana": "Scholarship",
+            "alternatives": [
+                "Final examination",
+                "Prime minister"
+            ]
+        },
+        {
+            "id": 9,
+            "kanji": "しんせき\n親せき",
+            "correctHiragana": "Relatives",
+            "alternatives": [
+                "Parent",
+                "Custom"
+            ]
+        },
+        {
+            "id": 10,
+            "kanji": "すいせんじょう\n推薦状",
+            "correctHiragana": "Letter of recommendation",
+            "alternatives": [
+                "Scholarship",
+                "Research"
+            ]
+        },
+        {
+            "id": 11,
+            "kanji": "だいがくいん\n大学院",
+            "correctHiragana": "Graduate school",
+            "alternatives": [
+                "Research",
+                "College"
+            ]
+        },
+        {
+            "id": 12,
+            "kanji": "たいふう\n台風",
+            "correctHiragana": "Typhoon",
+            "alternatives": [
+                "Day",
+                "Japanese confection"
+            ]
+        },
+        {
+            "id": 13,
+            "kanji": "ひ\n日",
+            "correctHiragana": "Day",
+            "alternatives": [
+                "Garbage",
+                "Way; road; directions"
+            ]
+        },
+        {
+            "id": 14,
+            "kanji": "ファイル",
+            "correctHiragana": "File; portfolio",
+            "alternatives": [
+                "Pill",
+                "Pile"
+            ]
+        },
+        {
+            "id": 15,
+            "kanji": "みち\n道",
+            "correctHiragana": "Way; road; directions",
+            "alternatives": [
+                "Day",
+                "Shop; store"
+            ]
+        },
+        {
+            "id": 16,
+            "kanji": "めざましどけい\n目覚まし時計",
+            "correctHiragana": "Alarm clock",
+            "alternatives": [
+                "Size",
+                "Letter of recommendation"
+            ]
+        },
+        {
+            "id": 17,
+            "kanji": "きたない\n汚い",
+            "correctHiragana": "Dirty",
+            "alternatives": [
+                "Spacious; wide",
+                "Dangerous"
+            ]
+        },
+        {
+            "id": 18,
+            "kanji": "おこす\n起こす",
+            "correctHiragana": "To wake (someone) up",
+            "alternatives": [
+                "To treat (someone) to a meal",
+                "To over sleep"
+            ]
+        },
+        {
+            "id": 19,
+            "kanji": "おごる",
+            "correctHiragana": "To treat (someone) to a meal",
+            "alternatives": [
+                "To wake up",
+                "To wake (someone) up"
+            ]
+        },
+        {
+            "id": 20,
+            "kanji": "おちこむ\n落ち込む",
+            "correctHiragana": "To get depressed",
+            "alternatives": [
+                "To have difficulty",
+                "To pray"
+            ]
+        },
+        {
+            "id": 21,
+            "kanji": "こまる\n困る",
+            "correctHiragana": "To have difficulty",
+            "alternatives": [
+                "To get depressed",
+                "To get crowded"
+            ]
+        },
+        {
+            "id": 22,
+            "kanji": "だす\n出す",
+            "correctHiragana": "To take (something) out; to hand in (something)",
+            "alternatives": [
+                "To be sufficient; to be enough",
+                "To wear small items (necktie, watch, etc.)"
+            ]
+        },
+        {
+            "id": 23,
+            "kanji": "つれていく\n連れていく",
+            "correctHiragana": "To take (someone) to (a place)",
+            "alternatives": [
+                "To show (someone) around",
+                "To shave one’s beard"
+            ]
+        },
+        {
+            "id": 24,
+            "kanji": "なおす\n直す",
+            "correctHiragana": "To correct; to fix",
+            "alternatives": [
+                "To translate",
+                "To explain"
+            ]
+        },
+        {
+            "id": 25,
+            "kanji": "みちにまよう\n道に迷う",
+            "correctHiragana": "To become lost; to lose one’s way",
+            "alternatives": [
+                "To be found",
+                "To go pick up"
+            ]
+        },
+        {
+            "id": 26,
+            "kanji": "みつかる\n見つかる",
+            "correctHiragana": "To be found",
+            "alternatives": [
+                "To become lost; to lose one’s way",
+                "To show (someone) around"
+            ]
+        },
+        {
+            "id": 27,
+            "kanji": "むかえにいく\n迎えに行く",
+            "correctHiragana": "To go pick up",
+            "alternatives": [
+                "To take (someone) to (a place)",
+                "To collect"
+            ]
+        },
+        {
+            "id": 28,
+            "kanji": "やくす\n訳す",
+            "correctHiragana": "To translate",
+            "alternatives": [
+                "To correct; to fix",
+                "To explain"
+            ]
+        },
+        {
+            "id": 29,
+            "kanji": "わらう\n笑う",
+            "correctHiragana": "To laugh",
+            "alternatives": [
+                "To show",
+                "To iron (clothes)"
+            ]
+        },
+        {
+            "id": 30,
+            "kanji": "アイロンをかける",
+            "correctHiragana": "To iron (clothes)",
+            "alternatives": [
+                "To put (something) in",
+                "To buy insurance"
+            ]
+        },
+        {
+            "id": 31,
+            "kanji": "あつめる\n集める",
+            "correctHiragana": "To collect",
+            "alternatives": [
+                "To go pick up",
+                "To become lost; to lose one’s way"
+            ]
+        },
+        {
+            "id": 32,
+            "kanji": "いれる\n入れる",
+            "correctHiragana": "To put (something) in",
+            "alternatives": [
+                "To be born",
+                "To show"
+            ]
+        },
+        {
+            "id": 33,
+            "kanji": "のりおくれる\n乗り遅れる",
+            "correctHiragana": "To miss (a train, bus, etc.)",
+            "alternatives": [
+                "To over sleep",
+                "To buy insurance"
+            ]
+        },
+        {
+            "id": 34,
+            "kanji": "みせる\n見せる",
+            "correctHiragana": "To show",
+            "alternatives": [
+                "To laugh",
+                "To come into existence; to be made"
+            ]
+        },
+        {
+            "id": 35,
+            "kanji": "あさねぼうする\n朝寝坊する",
+            "correctHiragana": "To over sleep",
+            "alternatives": [
+                "To miss (a train, bus, etc.)",
+                "To wake (someone) up"
+            ]
+        },
+        {
+            "id": 36,
+            "kanji": "あんないする\n案内する",
+            "correctHiragana": "To show (someone) around",
+            "alternatives": [
+                "To take (someone) to (a place)",
+                "To boil water"
+            ]
+        },
+        {
+            "id": 37,
+            "kanji": "せつめいする\n説明する",
+            "correctHiragana": "To explain",
+            "alternatives": [
+                "To translate",
+                "To correct; to fix"
+            ]
+        },
+        {
+            "id": 38,
+            "kanji": "むかえにくる\n迎えに来る",
+            "correctHiragana": "To come to pick up",
+            "alternatives": [
+                "To go pick up",
+                "To collect"
+            ]
+        },
+        {
+            "id": 39,
+            "kanji": "ええと",
+            "correctHiragana": "Well…; let me see…",
+            "alternatives": [
+                "Other",
+                "For example"
+            ]
+        },
+        {
+            "id": 40,
+            "kanji": "きょうじゅうに\n今日中に",
+            "correctHiragana": "By the end of today",
+            "alternatives": [
+                "The other day",
+                "After all"
+            ]
+        },
+        {
+            "id": 41,
+            "kanji": "このあいだ\nこの間",
+            "correctHiragana": "The other day",
+            "alternatives": [
+                "By the end of today",
+                "Today"
+            ]
+        },
+        {
+            "id": 42,
+            "kanji": "このぐらい",
+            "correctHiragana": "About this much",
+            "alternatives": [
+                "One more time",
+                "Recently"
+            ]
+        },
+        {
+            "id": 43,
+            "kanji": "ごめん",
+            "correctHiragana": "I am sorry (casual)",
+            "alternatives": [
+                "I see (casual)",
+                "I wonder (casual)"
+            ]
+        },
+        {
+            "id": 44,
+            "kanji": "これから",
+            "correctHiragana": "From now on",
+            "alternatives": [
+                "Because…",
+                "You see…"
+            ]
+        },
+        {
+            "id": 45,
+            "kanji": "しつれいします\n失礼します",
+            "correctHiragana": "Excuse me.; Sorry to interrupt you.",
+            "alternatives": [
+                "Welcome",
+                "Could I be excused?"
+            ]
+        },
+        {
+            "id": 46,
+            "kanji": "じぶんで\n自分で",
+            "correctHiragana": "(Do something) by oneself",
+            "alternatives": [
+                "One person",
+                "Very"
+            ]
+        },
+        {
+            "id": 47,
+            "kanji": "じゅぎょうちゅうに\n授業中に",
+            "correctHiragana": "In class, during the class",
+            "alternatives": [
+                "After school",
+                "(someone honorable) is present/home"
+            ]
+        },
+        {
+            "id": 48,
+            "kanji": "ほかの",
+            "correctHiragana": "Other",
+            "alternatives": [
+                "Well…; let me see…",
+                "I want…"
+
+            ]
+        }
+    ]
+}
