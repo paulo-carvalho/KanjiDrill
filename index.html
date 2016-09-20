@@ -60,20 +60,27 @@
 
     <div class="row">
         <div class="large-12 medium-12 columns">
-            
-          <center><h3>Choose a game to get started:</h3>
+            <h3>Choose a game to get started:</h3>
 
-             <div class="row">
-
-                 <ul><input name="" type="button" onClick="window.open('kanjidrill/index.html')" value="Kanji Drill"></ul>
-    
-                 <ul><input name="" type="button" onClick="window.open('tangodrill/index.html')" value="Tango Drill"></ul>
-    
-                 <ul><input name="" type="button" onClick="window.open('te-form/index.html')" value="TE - form"></ul>
-                </div>
-            </center> 
-        </div>
-
+            <div class="row">
+                <div class="large-6 medium-6 medium-uncollapse small-6 columns">
+                     <form class="chapter-form large-6 medium-6 small-12 columns" action="kanjidrill/index.html" method="post">
+                     <button type="submit" class="large secondary">
+                            Kanji Drill
+                     </button>
+                    </form>
+                    <form class="chapter-form large-6 medium-6 small-12 columns" action="tangodrill/index.html" method="post">
+                        <button type="submit" class="large secondary">
+                            Tango Drill
+                        </button>
+                    </form>
+                    <form class="chapter-form large-6 medium-6 small-12 columns" action="te-form/index.html" method="post">
+                        <button type="submit" class="large secondary">
+                            TE-form
+                        </button>
+                    </form>
+                 </div>   
+            </div>
         </div>
     </div>
 
