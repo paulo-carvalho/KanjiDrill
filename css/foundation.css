@@ -170,7 +170,7 @@ select {
 .columns:last-child,
 .columns +
 .columns:last-child {
-  float: right; }
+  float: left; }
 .column + .column.end,
 .columns + .column.end, .column +
 .columns.end,
@@ -565,7 +565,7 @@ select {
     width: 41.66667%; }
 
   .medium-6 {
-    width: 50%; }
+    width: 60%; }
 
   .medium-7 {
     width: 58.33333%; }
@@ -1173,11 +1173,12 @@ button, .button {
   button:hover, button:focus, .button:hover, .button:focus {
     color: #FFFFFF; }
   button.secondary, .button.secondary {
-    background-color: #FF9933;
-    border-color: #f57a00;
-    color: #FFFFFF; }
+    background-color: #3ab1d5;
+    border-color: #3ab1d5;
+    color: #FFFFFF; 
+    width: 250%;}
     button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-      background-color: #f57a00; }
+      background-color: #2ca9cf; }
     button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
       color: #FFFFFF; }
   button.success, .button.success {
